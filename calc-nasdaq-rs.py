@@ -19,6 +19,9 @@ nasdaq_list = fdr.StockListing(TARGET)
 nasdaq_list.to_csv(LIST_FILENAME)
 
 print(nasdaq_list.shape)
+print("Columns:", nasdaq_list.columns.tolist())
+print("First few rows:")
+print(nasdaq_list.head())
 
 now = dt.datetime.now()
 date = now.strftime("%Y-%m-%d")
@@ -27,17 +30,17 @@ data_dir = os.path.join(DATA_DIR_ROOT, date)
 os.makedirs(data_dir, exist_ok=True)
 
 for i in nasdaq_list.itertuples():
-    print(f"Working({i.Index}): {i.Code} / {i.Name}")
-    filename = f"{i.Code}-{i.Name}.csv"
+    print(f"Working({i.Index}): {i.Symbol} / {i.Name}")
+    filename = f"{i.Symbol}-{i.Name}.csv"
     file_path = os.path.join(data_dir, filename)
 
     if os.path.exists(file_path):
         print(f"{file_path} already exists.\nSkipping.")
     else:
-        print(f"Fetching {i.Code}...")
-        data = fdr.DataReader(i.Code, "2022")
+        print(f"Fetching {i.Symbol}...")
+        data = fdr.DataReader(i.Symbol, "2022")
         data.to_csv(file_path)
-        print(f"Fetched {i.Code}. Waiting...")
+        print(f"Fetched {i.Symbol}. Waiting...")
         time.sleep(np.random.uniform(0.1, 0.9))
 
 print("All items fetched.")
@@ -49,7 +52,7 @@ quater = 21 * 3
 # https://www.investopedia.com/articles/06/historicalvolatility.asp
 
 rs_df = pd.DataFrame(columns=[
-    'Code',
+    'Symbol',
     'Name',
     'Score',
     'YesterdayScore',
@@ -92,8 +95,8 @@ def calc_score(data, day=-1):
 
 
 for i in nasdaq_list.itertuples():
-    print(f"Working({i.Index}): {i.Code} / {i.Name}")
-    filename = f"{i.Code}-{i.Name}.csv"
+    print(f"Working({i.Index}): {i.Symbol} / {i.Name}")
+    filename = f"{i.Symbol}-{i.Name}.csv"
     file_path = os.path.join(data_dir, filename)
     data = pd.read_csv(file_path)
     today_score = calc_score(data)
@@ -117,7 +120,7 @@ for i in nasdaq_list.itertuples():
         ma_50 = int(data_50_close.mean())
 
         rs_df = pd.concat([rs_df, pd.DataFrame([{
-            'Code': i.Code,
+            'Symbol': i.Symbol,
             'Name': i.Name,
             'Score': today_score,
             'YesterdayScore': yesterday_score,
@@ -169,20 +172,13 @@ with open(result_file_path, "w") as f:
 
     ## NASDAQ Relative Strength
 
-    |Symbol|Name|1Y Ago|Close|RS Rating|
-    |------|---|-----|--|------|
+    |Name|RS|
+    |---|--|
     '''
     f.write(textwrap.dedent(comment))
 
     for i in sorted.itertuples():
-        if i.RankChange == 0:
-            change = ""
-        elif i.RankChange > 0:
-            change = f"(+{i.RankChange})"
-        else:
-            change = f"({i.RankChange})"
-        f.write(
-            f"|{c(i.Code)}|{i.Name}|{i.Close1}|{i.Close2}|{i.RS} {change}|\n")
+        f.write(f"|{i.Name}|{i.RS}|\n")
 
 
 result_file_path = os.path.join(
@@ -226,14 +222,13 @@ with open(result_file_path, "w") as f:
 
     ## Minervini Trend Template
 
-    |Symbol|Name|Close|RS|High/Low 52W|MA50,150,200|
-    |------|---|---|--|---------|------------|
+    |Name|RS|
+    |---|--|
     '''
     f.write(textwrap.dedent(comment))
 
     for i in minervini.itertuples():
-        f.write(
-            f"|{c(i.Code)}|{i.Name}|{i.Close2}|{i.RS}|{i.Max52W}, {i.Min52W}|{i.MA50}, {i.MA150}, {i.MA200}|\n")
+        f.write(f"|{i.Name}|{i.RS}|\n")
 
     f.write("\n")
     footer = '''\
