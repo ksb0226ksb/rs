@@ -1,0 +1,32 @@
+name: Scrap NASDAQ stock data and calculate RS rating
+
+on:
+  schedule:
+    - cron: "15 21 * * 1-5"  # 9:15 PM UTC = 4:15 PM EST (after NASDAQ close)
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+      - name: Install dependencies
+        run: uv sync
+      - name: Run NASDAQ script
+        run: uv run ./calc-nasdaq-rs.py
+      - name: Commits
+        run: |
+          git config --local user.email "ksb0226ksb@gmail.com"
+          git config --local user.name "ksb0226ksb"
+          git add .
+          git commit -m "[AUTO] Daily NASDAQ RS rating"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          branch: "main"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
