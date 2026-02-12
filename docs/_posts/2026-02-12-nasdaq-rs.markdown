@@ -1,0 +1,34 @@
+---
+layout: single
+title: "NASDAQ Relative Strength 2026-02-12"
+date: 2026-02-12 12:29:23 +0000
+categories: rs
+---
+Calculated Relative Strength for all NASDAQ stocks.
+
+Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.com/proprietary-ratings-and-rankings/).
+
+## NASDAQ Relative Strength Rankings
+
+|Symbol|Name|1 Year Ago|Close|RS|
+|------|---|----------|-----|--|
+|[MU](https://finance.yahoo.com/quote/MU)|Micron Technology Inc|95.62|410.34|99 |
+|[LRCX](https://finance.yahoo.com/quote/LRCX)|Lam Research Corp|82.97|235.12|94 |
+|[INTC](https://finance.yahoo.com/quote/INTC)|Intel Corp|19.77|48.29|89 |
+|[AMAT](https://finance.yahoo.com/quote/AMAT)|Applied Materials Inc|181.84|339.88|84 (+5)|
+|[ASML](https://finance.yahoo.com/quote/ASML)|ASML Holding NV ADR|736.07|1435.63|79 (-5)|
+|[AMD](https://finance.yahoo.com/quote/AMD)|Advanced Micro Devices Inc|110.48|213.58|74 (+5)|
+|[GOOGL](https://finance.yahoo.com/quote/GOOGL)|Alphabet Inc Class A|185.74|310.96|69 (-5)|
+|[GOOG](https://finance.yahoo.com/quote/GOOG)|Alphabet Inc Class C|187.47|311.33|64 |
+|[CSCO](https://finance.yahoo.com/quote/CSCO)|Cisco Systems Inc|61.32|85.54|59 |
+|[WMT](https://finance.yahoo.com/quote/WMT)|Walmart Inc|101.94|128.77|54 |
+|[AVGO](https://finance.yahoo.com/quote/AVGO)|Broadcom Inc|232.94|342.76|50 (+5)|
+|[NVDA](https://finance.yahoo.com/quote/NVDA)|NVIDIA Corp|133.53|190.05|45 (-5)|
+|[AAPL](https://finance.yahoo.com/quote/AAPL)|Apple Inc|226.66|275.50|40 |
+|[TSLA](https://finance.yahoo.com/quote/TSLA)|Tesla Inc|350.73|428.27|35 |
+|[META](https://finance.yahoo.com/quote/META)|Meta Platforms Inc|715.14|668.69|30 (+5)|
+|[PLTR](https://finance.yahoo.com/quote/PLTR)|Palantir Technologies Inc|116.65|135.68|25 (-5)|
+|[COST](https://finance.yahoo.com/quote/COST)|Costco Wholesale Corp|1056.13|978.14|20 |
+|[MSFT](https://finance.yahoo.com/quote/MSFT)|Microsoft Corp|409.20|404.37|15 |
+|[AMZN](https://finance.yahoo.com/quote/AMZN)|Amazon.com Inc|233.14|204.08|10 |
+|[NFLX](https://finance.yahoo.com/quote/NFLX)|Netflix Inc|102.76|79.62|5 |
