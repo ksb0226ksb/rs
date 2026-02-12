@@ -18,6 +18,8 @@ jobs:
       - name: Install dependencies
         run: uv sync
       - name: Run NYSE script
+        env:
+          TEST_MODE: "true"  # Set to "false" for full run (2700+ stocks, ~45 min)
         run: uv run ./calc-nyse-rs.py
       - name: Commit changes
         run: |

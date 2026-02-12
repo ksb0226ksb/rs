@@ -15,11 +15,19 @@ LIST_FILENAME = "nasdaq-list.csv"
 TARGET = 'NASDAQ'
 DATA_DIR_ROOT = "DATA"
 
+# Test mode: only process first 20 stocks (set TEST_MODE=true in environment)
+TEST_MODE = os.getenv('TEST_MODE', 'false').lower() == 'true'
+TEST_LIMIT = 20
+
 print("Fetching NASDAQ stock listings...")
 nasdaq_list = fdr.StockListing(TARGET)
 nasdaq_list.to_csv(LIST_FILENAME)
 
-print(f"Total stocks: {nasdaq_list.shape[0]}")
+if TEST_MODE:
+    print(f"🧪 TEST MODE: Limiting to {TEST_LIMIT} stocks")
+    nasdaq_list = nasdaq_list.head(TEST_LIMIT)
+
+print(f"Total stocks to process: {nasdaq_list.shape[0]}")
 
 now = dt.datetime.now()
 date = now.strftime("%Y-%m-%d")

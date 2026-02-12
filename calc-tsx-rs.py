@@ -14,6 +14,10 @@ LIST_FILENAME = "tsx-list.csv"
 TARGET = 'TSX'
 DATA_DIR_ROOT = "DATA"
 
+# Test mode: only process first 20 stocks (set TEST_MODE=true in environment)
+TEST_MODE = os.getenv('TEST_MODE', 'false').lower() == 'true'
+TEST_LIMIT = 20
+
 print("Loading TSX stock listings from tsx-list.csv...")
 if not os.path.exists(LIST_FILENAME):
     print(f"ERROR: {LIST_FILENAME} not found!")
@@ -22,7 +26,12 @@ if not os.path.exists(LIST_FILENAME):
     exit(1)
 
 tsx_list = pd.read_csv(LIST_FILENAME)
-print(f"Total stocks: {len(tsx_list)}")
+
+if TEST_MODE:
+    print(f"🧪 TEST MODE: Limiting to {TEST_LIMIT} stocks")
+    tsx_list = tsx_list.head(TEST_LIMIT)
+
+print(f"Total stocks to process: {len(tsx_list)}")
 
 # Ensure we have a Symbol column
 if 'Symbol' not in tsx_list.columns:
