@@ -1,0 +1,32 @@
+---
+layout: single
+title: "NYSE Relative Strength 2026-02-12"
+date: 2026-02-12 12:33:54 +0000
+categories: rs
+---
+Calculated Relative Strength for all NYSE stocks.
+
+Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.com/proprietary-ratings-and-rankings/).
+
+## NYSE Relative Strength Rankings
+
+|Symbol|Name|1 Year Ago|Close|RS|
+|------|---|----------|-----|--|
+|[CAT](https://finance.yahoo.com/quote/CAT)|Caterpillar Inc|358.29|775.00|99 |
+|[TSM](https://finance.yahoo.com/quote/TSM)|Taiwan Semiconductor Manufacturing Co Ltd ADR|205.19|374.09|93 |
+|[JNJ](https://finance.yahoo.com/quote/JNJ)|Johnson & Johnson|149.66|240.86|88 |
+|[XOM](https://finance.yahoo.com/quote/XOM)|Exxon Mobil Corp|107.04|155.56|82 |
+|[AZN](https://finance.yahoo.com/quote/AZN)|AstraZeneca PLC|145.97|204.76|77 (+6)|
+|[GE](https://finance.yahoo.com/quote/GE)|General Electric Co|204.06|313.73|71 (+5)|
+|[BABA](https://finance.yahoo.com/quote/BABA)|Alibaba Group Holding Ltd ADR|109.47|164.32|66 (-11)|
+|[CVX](https://finance.yahoo.com/quote/CVX)|Chevron Corp|148.87|185.82|60 |
+|[KO](https://finance.yahoo.com/quote/KO)|Coca-Cola Co|62.70|78.60|55 (+5)|
+|[LLY](https://finance.yahoo.com/quote/LLY)|Eli Lilly and Co|862.45|1015.21|50 (-5)|
+|[ABBV](https://finance.yahoo.com/quote/ABBV)|AbbVie Inc|184.16|220.89|44 (+5)|
+|[BAC](https://finance.yahoo.com/quote/BAC)|Bank of America Corp|45.61|53.85|39 (-5)|
+|[JPM](https://finance.yahoo.com/quote/JPM)|JPMorgan Chase & Co|265.59|310.82|33 |
+|[PG](https://finance.yahoo.com/quote/PG)|Procter & Gamble Co|163.06|160.00|28 |
+|[HD](https://finance.yahoo.com/quote/HD)|Home Depot Inc|403.92|390.68|22 |
+|[V](https://finance.yahoo.com/quote/V)|Visa Inc|348.04|329.24|17 (+6)|
+|[MA](https://finance.yahoo.com/quote/MA)|Mastercard Inc|562.24|537.46|11 (-6)|
+|[ORCL](https://finance.yahoo.com/quote/ORCL)|Oracle Corp|177.13|157.16|6 |
