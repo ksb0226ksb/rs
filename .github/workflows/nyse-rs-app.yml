@@ -1,8 +1,8 @@
-name: NASDAQ RS Rating Calculator
+name: NYSE RS Rating Calculator
 
 on:
   schedule:
-    - cron: "15 21 * * 1-5"  # 9:15 PM UTC = 4:15 PM EST (after NASDAQ close)
+    - cron: "30 21 * * 1-5"  # 9:30 PM UTC = 4:30 PM EST (after NYSE close, 15 min after NASDAQ)
   workflow_dispatch: {}
 
 jobs:
@@ -17,14 +17,14 @@ jobs:
         uses: astral-sh/setup-uv@v5
       - name: Install dependencies
         run: uv sync
-      - name: Run NASDAQ script
-        run: uv run ./calc-nasdaq-rs.py
+      - name: Run NYSE script
+        run: uv run ./calc-nyse-rs.py
       - name: Commit changes
         run: |
           git config --local user.email "ksb0226ksb@gmail.com"
           git config --local user.name "ksb0226ksb"
           git add .
-          git commit -m "[AUTO] Daily NASDAQ RS rating" || echo "No changes to commit"
+          git commit -m "[AUTO] Daily NYSE RS rating" || echo "No changes to commit"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

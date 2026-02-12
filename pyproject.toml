@@ -1,12 +1,13 @@
 [project]
 name = "rs"
 version = "0.1.0"
-description = "KOSPI/KOSDAQ Relative Strength Rating Calculator"
+description = "KOSPI/KOSDAQ/NASDAQ/NYSE/TSX Relative Strength Rating Calculator"
 requires-python = ">=3.10"
 dependencies = [
     "finance-datareader>=0.9.101",
     "numpy>=2.0,<3",
     "pandas>=2.0,<3",
+    "yfinance>=0.2.0",
 ]
 
 [dependency-groups]

@@ -11,15 +11,15 @@ import datetime as dt
 import textwrap
 
 
-LIST_FILENAME = "nasdaq-list.csv"
-TARGET = 'NASDAQ'
+LIST_FILENAME = "nyse-list.csv"
+TARGET = 'NYSE'
 DATA_DIR_ROOT = "DATA"
 
-print("Fetching NASDAQ stock listings...")
-nasdaq_list = fdr.StockListing(TARGET)
-nasdaq_list.to_csv(LIST_FILENAME)
+print("Fetching NYSE stock listings...")
+nyse_list = fdr.StockListing(TARGET)
+nyse_list.to_csv(LIST_FILENAME)
 
-print(f"Total stocks: {nasdaq_list.shape[0]}")
+print(f"Total stocks: {nyse_list.shape[0]}")
 
 now = dt.datetime.now()
 date = now.strftime("%Y-%m-%d")
@@ -28,7 +28,7 @@ data_dir = os.path.join(DATA_DIR_ROOT, date)
 os.makedirs(data_dir, exist_ok=True)
 
 # Download historical data using yfinance
-for i in nasdaq_list.itertuples():
+for i in nyse_list.itertuples():
     print(f"Processing ({i.Index}): {i.Symbol} / {i.Name}")
     filename = f"{i.Symbol}-{i.Name}.csv"
     # Clean filename (remove special characters)
@@ -46,7 +46,7 @@ for i in nasdaq_list.itertuples():
             if len(data) > 0:
                 data.to_csv(file_path)
                 print(f"  Downloaded {i.Symbol}. Waiting...")
-                time.sleep(np.random.uniform(0.05, 0.15))  # yfinance is faster
+                time.sleep(np.random.uniform(0.05, 0.15))
             else:
                 print(f"  No data for {i.Symbol}")
         except Exception as e:
@@ -101,7 +101,7 @@ def calc_score(data, day=-1):
 
 
 # Calculate RS scores
-for i in nasdaq_list.itertuples():
+for i in nyse_list.itertuples():
     print(f"Calculating RS ({i.Index}): {i.Symbol} / {i.Name}")
     filename = f"{i.Symbol}-{i.Name}.csv"
     filename = filename.replace('/', '-').replace('\\', '-')
@@ -163,7 +163,7 @@ sorted_df = rs_df.sort_values('Rank', ascending=False)
 
 posts_dir = os.path.join("docs", "_posts")
 os.makedirs(posts_dir, exist_ok=True)
-result_file_path = os.path.join(posts_dir, f"{date}-nasdaq-rs.markdown")
+result_file_path = os.path.join(posts_dir, f"{date}-nyse-rs.markdown")
 
 with open(result_file_path, "w") as f:
     header_start = '''\
@@ -171,7 +171,7 @@ with open(result_file_path, "w") as f:
     layout: single
     '''
     f.write(textwrap.dedent(header_start))
-    f.write(now.strftime('title: "NASDAQ Relative Strength %Y-%m-%d"\n'))
+    f.write(now.strftime('title: "NYSE Relative Strength %Y-%m-%d"\n'))
     f.write(now.strftime("date: %Y-%m-%d %H:%M:%S +0000\n"))
     header_end = '''\
     categories: rs
@@ -180,11 +180,11 @@ with open(result_file_path, "w") as f:
     f.write(textwrap.dedent(header_end))
 
     comment = '''\
-    Calculated Relative Strength for all NASDAQ stocks.
+    Calculated Relative Strength for all NYSE stocks.
 
     Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.com/proprietary-ratings-and-rankings/).
 
-    ## NASDAQ Relative Strength Rankings
+    ## NYSE Relative Strength Rankings
 
     |Symbol|Name|1 Year Ago|Close|RS|
     |------|---|----------|-----|--|
@@ -204,7 +204,7 @@ with open(result_file_path, "w") as f:
 
 # Minervini Trend Template
 result_file_path = os.path.join(
-    posts_dir, f"{date}-nasdaq-trend-template.markdown")
+    posts_dir, f"{date}-nyse-trend-template.markdown")
 
 minervini = sorted_df[sorted_df.RS >= 70]
 minervini = minervini[minervini.Close2 > minervini.MA50]
@@ -222,7 +222,7 @@ with open(result_file_path, "w") as f:
     layout: single
     '''
     f.write(textwrap.dedent(header_start))
-    f.write(now.strftime('title: "NASDAQ Minervini Trend Template %Y-%m-%d"\n'))
+    f.write(now.strftime('title: "NYSE Minervini Trend Template %Y-%m-%d"\n'))
     f.write(now.strftime("date: %Y-%m-%d %H:%M:%S +0000\n"))
     header_end = '''\
     categories: minervini
@@ -263,6 +263,6 @@ with open(result_file_path, "w") as f:
     '''
     f.write(textwrap.dedent(footer))
 
-print(f"\n✓ NASDAQ RS calculation complete!")
-print(f"  Generated: {posts_dir}/{date}-nasdaq-rs.markdown")
-print(f"  Generated: {posts_dir}/{date}-nasdaq-trend-template.markdown")
+print(f"\n✓ NYSE RS calculation complete!")
+print(f"  Generated: {posts_dir}/{date}-nyse-rs.markdown")
+print(f"  Generated: {posts_dir}/{date}-nyse-trend-template.markdown")

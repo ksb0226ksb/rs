@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import FinanceDataReader as fdr
 import yfinance as yf
 import os
 import os.path
@@ -11,15 +10,30 @@ import datetime as dt
 import textwrap
 
 
-LIST_FILENAME = "nasdaq-list.csv"
-TARGET = 'NASDAQ'
+LIST_FILENAME = "tsx-list.csv"
+TARGET = 'TSX'
 DATA_DIR_ROOT = "DATA"
 
-print("Fetching NASDAQ stock listings...")
-nasdaq_list = fdr.StockListing(TARGET)
-nasdaq_list.to_csv(LIST_FILENAME)
+print("Loading TSX stock listings from tsx-list.csv...")
+if not os.path.exists(LIST_FILENAME):
+    print(f"ERROR: {LIST_FILENAME} not found!")
+    print("Please run ./download-tsx-list.py first, or create tsx-list.csv manually.")
+    print("See TSX_SETUP.md for instructions.")
+    exit(1)
 
-print(f"Total stocks: {nasdaq_list.shape[0]}")
+tsx_list = pd.read_csv(LIST_FILENAME)
+print(f"Total stocks: {len(tsx_list)}")
+
+# Ensure we have a Symbol column
+if 'Symbol' not in tsx_list.columns:
+    print("ERROR: tsx-list.csv must have a 'Symbol' column")
+    exit(1)
+
+# Add .TO suffix if not present
+if 'YFinanceSymbol' not in tsx_list.columns:
+    tsx_list['YFinanceSymbol'] = tsx_list['Symbol'].apply(
+        lambda x: x if x.endswith('.TO') else f"{x}.TO"
+    )
 
 now = dt.datetime.now()
 date = now.strftime("%Y-%m-%d")
@@ -28,29 +42,31 @@ data_dir = os.path.join(DATA_DIR_ROOT, date)
 os.makedirs(data_dir, exist_ok=True)
 
 # Download historical data using yfinance
-for i in nasdaq_list.itertuples():
-    print(f"Processing ({i.Index}): {i.Symbol} / {i.Name}")
-    filename = f"{i.Symbol}-{i.Name}.csv"
+for i in tsx_list.itertuples():
+    symbol = i.YFinanceSymbol
+    name = i.Name if 'Name' in tsx_list.columns else i.Symbol
+    print(f"Processing ({i.Index}): {symbol} / {name}")
+    filename = f"{symbol}-{name}.csv"
     # Clean filename (remove special characters)
-    filename = filename.replace('/', '-').replace('\\', '-')
+    filename = filename.replace('/', '-').replace('\\', '-').replace('.TO', '-TO')
     file_path = os.path.join(data_dir, filename)
 
     if os.path.exists(file_path):
         print(f"  {file_path} already exists. Skipping download.")
     else:
         try:
-            print(f"  Downloading {i.Symbol}...")
-            ticker = yf.Ticker(i.Symbol)
+            print(f"  Downloading {symbol}...")
+            ticker = yf.Ticker(symbol)
             data = ticker.history(start="2022-01-01")
 
             if len(data) > 0:
                 data.to_csv(file_path)
-                print(f"  Downloaded {i.Symbol}. Waiting...")
-                time.sleep(np.random.uniform(0.05, 0.15))  # yfinance is faster
+                print(f"  Downloaded {symbol}. Waiting...")
+                time.sleep(np.random.uniform(0.05, 0.15))
             else:
-                print(f"  No data for {i.Symbol}")
+                print(f"  No data for {symbol}")
         except Exception as e:
-            print(f"  Error downloading {i.Symbol}: {e}")
+            print(f"  Error downloading {symbol}: {e}")
 
 print("All stocks downloaded.")
 
@@ -74,8 +90,10 @@ rs_df = pd.DataFrame(columns=[
 
 
 def c(symbol):
+    # Remove .TO for display, but link to Yahoo with .TO
+    display_symbol = symbol.replace('.TO', '')
     link = f"https://finance.yahoo.com/quote/{symbol}"
-    return f"[{symbol}]({link})"
+    return f"[{display_symbol}]({link})"
 
 
 def calc_score(data, day=-1):
@@ -101,10 +119,12 @@ def calc_score(data, day=-1):
 
 
 # Calculate RS scores
-for i in nasdaq_list.itertuples():
-    print(f"Calculating RS ({i.Index}): {i.Symbol} / {i.Name}")
-    filename = f"{i.Symbol}-{i.Name}.csv"
-    filename = filename.replace('/', '-').replace('\\', '-')
+for i in tsx_list.itertuples():
+    symbol = i.YFinanceSymbol
+    name = i.Name if 'Name' in tsx_list.columns else i.Symbol
+    print(f"Calculating RS ({i.Index}): {symbol} / {name}")
+    filename = f"{symbol}-{name}.csv"
+    filename = filename.replace('/', '-').replace('\\', '-').replace('.TO', '-TO')
     file_path = os.path.join(data_dir, filename)
 
     if not os.path.exists(file_path):
@@ -133,8 +153,8 @@ for i in nasdaq_list.itertuples():
         ma_50 = int(data_50_close.mean())
 
         rs_df = pd.concat([rs_df, pd.DataFrame([{
-            'Symbol': i.Symbol,
-            'Name': i.Name,
+            'Symbol': symbol,
+            'Name': name,
             'Score': today_score,
             'YesterdayScore': yesterday_score,
             'Close1': four_quarter_ago.Close,
@@ -163,7 +183,7 @@ sorted_df = rs_df.sort_values('Rank', ascending=False)
 
 posts_dir = os.path.join("docs", "_posts")
 os.makedirs(posts_dir, exist_ok=True)
-result_file_path = os.path.join(posts_dir, f"{date}-nasdaq-rs.markdown")
+result_file_path = os.path.join(posts_dir, f"{date}-tsx-rs.markdown")
 
 with open(result_file_path, "w") as f:
     header_start = '''\
@@ -171,7 +191,7 @@ with open(result_file_path, "w") as f:
     layout: single
     '''
     f.write(textwrap.dedent(header_start))
-    f.write(now.strftime('title: "NASDAQ Relative Strength %Y-%m-%d"\n'))
+    f.write(now.strftime('title: "TSX Relative Strength %Y-%m-%d"\n'))
     f.write(now.strftime("date: %Y-%m-%d %H:%M:%S +0000\n"))
     header_end = '''\
     categories: rs
@@ -180,11 +200,11 @@ with open(result_file_path, "w") as f:
     f.write(textwrap.dedent(header_end))
 
     comment = '''\
-    Calculated Relative Strength for all NASDAQ stocks.
+    Calculated Relative Strength for all TSX stocks.
 
     Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.com/proprietary-ratings-and-rankings/).
 
-    ## NASDAQ Relative Strength Rankings
+    ## TSX Relative Strength Rankings
 
     |Symbol|Name|1 Year Ago|Close|RS|
     |------|---|----------|-----|--|
@@ -204,7 +224,7 @@ with open(result_file_path, "w") as f:
 
 # Minervini Trend Template
 result_file_path = os.path.join(
-    posts_dir, f"{date}-nasdaq-trend-template.markdown")
+    posts_dir, f"{date}-tsx-trend-template.markdown")
 
 minervini = sorted_df[sorted_df.RS >= 70]
 minervini = minervini[minervini.Close2 > minervini.MA50]
@@ -222,7 +242,7 @@ with open(result_file_path, "w") as f:
     layout: single
     '''
     f.write(textwrap.dedent(header_start))
-    f.write(now.strftime('title: "NASDAQ Minervini Trend Template %Y-%m-%d"\n'))
+    f.write(now.strftime('title: "TSX Minervini Trend Template %Y-%m-%d"\n'))
     f.write(now.strftime("date: %Y-%m-%d %H:%M:%S +0000\n"))
     header_end = '''\
     categories: minervini
@@ -263,6 +283,6 @@ with open(result_file_path, "w") as f:
     '''
     f.write(textwrap.dedent(footer))
 
-print(f"\n✓ NASDAQ RS calculation complete!")
-print(f"  Generated: {posts_dir}/{date}-nasdaq-rs.markdown")
-print(f"  Generated: {posts_dir}/{date}-nasdaq-trend-template.markdown")
+print(f"\n✓ TSX RS calculation complete!")
+print(f"  Generated: {posts_dir}/{date}-tsx-rs.markdown")
+print(f"  Generated: {posts_dir}/{date}-tsx-trend-template.markdown")
