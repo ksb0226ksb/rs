@@ -25,15 +25,15 @@ jobs:
         run: uv sync
       - name: Run NASDAQ script
         env:
-          TEST_MODE: "true"  # Set to "false" for full run (3800+ stocks, ~60 min)
+          TEST_MODE: "false"  # Set to "true" for test run (20 stocks, ~2 min)
         run: uv run ./calc-nasdaq-rs.py
       - name: Run NYSE script
         env:
-          TEST_MODE: "true"  # Set to "false" for full run (2700+ stocks, ~45 min)
+          TEST_MODE: "false"  # Set to "true" for test run (20 stocks, ~2 min)
         run: uv run ./calc-nyse-rs.py
       - name: Run TSX script
         env:
-          TEST_MODE: "true"  # Set to "false" for full run (260+ stocks, ~5 min)
+          TEST_MODE: "false"  # Set to "true" for test run (20 stocks, ~2 min)
         run: uv run ./calc-tsx-rs.py
         continue-on-error: true  # Don't fail if TSX has issues
       - name: Commit and push changes
