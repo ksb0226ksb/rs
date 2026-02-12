@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          persist-credentials: true
           fetch-depth: 0
       - name: Set up uv
         uses: astral-sh/setup-uv@v5
@@ -19,17 +19,14 @@ jobs:
         run: uv sync
       - name: Run TSX script
         env:
-          TEST_MODE: "true"  # Set to "false" for full run (260+ stocks, ~5 min)
+          TEST_MODE: "false"  # Set to "true" for test run (20 stocks, ~2 min)
         run: uv run ./calc-tsx-rs.py
         continue-on-error: true  # Don't fail if TSX has issues
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "ksb0226ksb@gmail.com"
           git config --local user.name "ksb0226ksb"
           git add .
           git commit -m "[AUTO] Daily TSX RS rating" || echo "No changes to commit"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          branch: "main"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git pull --rebase origin main || echo "Already up to date"
+          git push origin main
