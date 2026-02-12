@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "NASDAQ Minervini Trend Template 2026-02-12"
-date: 2026-02-12 13:33:10 +0000
+date: 2026-02-12 22:07:12 +0000
 categories: minervini
 ---
 Stocks that meet Mark Minervini's Trend Template criteria.
