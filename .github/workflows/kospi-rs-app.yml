@@ -1,0 +1,29 @@
+name: KOSPI RS Rating Calculator
+
+on:
+  schedule:
+    - cron: "45 6 * * 1-5"  # 6:45 UTC = 3:45 PM KST (after KOSPI close)
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+      - name: Install dependencies
+        run: uv sync
+      - name: Run KOSPI script
+        run: uv run ./calc-kospi-rs.py
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "ksb0226ksb@gmail.com"
+          git config --local user.name "ksb0226ksb"
+          git add .
+          git commit -m "[AUTO] Daily KOSPI RS rating" || echo "No changes to commit"
+          git pull --rebase origin main || echo "Already up to date"
+          git push origin main

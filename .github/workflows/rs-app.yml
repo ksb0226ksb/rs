@@ -1,9 +1,15 @@
-name: Scrap KOSPI stock data and calculate RS rating all.
+name: Korean Markets RS Rating (All-in-One Fallback)
+
+# NOTE: This workflow is kept as a manual fallback in case individual workflows fail.
+# For normal operations, use the split workflows that run in parallel:
+#   - kospi-rs-app.yml   (KOSPI only)
+#   - kosdaq-rs-app.yml  (KOSDAQ only)
+#   - krx-rs-app.yml     (KRX only)
 
 on:
   schedule:
-    - cron: "45 6 * * 1-5"
-  workflow_dispatch: {}
+    # - cron: "45 6 * * 1-5"  # Commented out - use split workflows instead
+  workflow_dispatch: {}  # Manual trigger only
 
 jobs:
   build:
@@ -11,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          persist-credentials: true
           fetch-depth: 0
       - name: Set up uv
         uses: astral-sh/setup-uv@v5
@@ -23,14 +29,11 @@ jobs:
         run: uv run ./calc-kosdaq-rs.py
       - name: Run KRX script
         run: uv run ./calc-krx-rs.py
-      - name: Commits
+      - name: Commit and push changes
         run: |
           git config --local user.email "ksb0226ksb@gmail.com"
           git config --local user.name "ksb0226ksb"
           git add .
-          git commit -m "[AUTO] Daily KOSPI RS rating"
-      - name: Push
-        uses: ad-m/github-push-action@master
-        with:
-          branch: "main"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "[AUTO] Korean Markets RS rating (all-in-one fallback)" || echo "No changes to commit"
+          git pull --rebase origin main || echo "Already up to date"
+          git push origin main

@@ -1,0 +1,46 @@
+name: NA Markets RS Rating (All-in-One Fallback)
+
+# NOTE: This workflow is kept as a manual fallback in case individual workflows fail.
+# For normal operations, use the split workflows that run in parallel:
+#   - nasdaq-rs-app.yml  (NASDAQ only)
+#   - nyse-rs-app.yml    (NYSE only)
+#   - tsx-rs-app.yml     (TSX only)
+
+on:
+  schedule:
+    # - cron: "15 21 * * 1-5"  # Commented out - use split workflows instead
+  workflow_dispatch: {}  # Manual trigger only
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+      - name: Install dependencies
+        run: uv sync
+      - name: Run NASDAQ script
+        env:
+          TEST_MODE: "true"  # Set to "false" for full run (3800+ stocks, ~60 min)
+        run: uv run ./calc-nasdaq-rs.py
+      - name: Run NYSE script
+        env:
+          TEST_MODE: "true"  # Set to "false" for full run (2700+ stocks, ~45 min)
+        run: uv run ./calc-nyse-rs.py
+      - name: Run TSX script
+        env:
+          TEST_MODE: "true"  # Set to "false" for full run (260+ stocks, ~5 min)
+        run: uv run ./calc-tsx-rs.py
+        continue-on-error: true  # Don't fail if TSX has issues
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "ksb0226ksb@gmail.com"
+          git config --local user.name "ksb0226ksb"
+          git add .
+          git commit -m "[AUTO] NA Markets RS rating (all-in-one fallback)" || echo "No changes to commit"
+          git pull --rebase origin main || echo "Already up to date"
+          git push origin main
