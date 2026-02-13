@@ -1,0 +1,202 @@
+---
+layout: single
+title: "TSX Relative Strength 2026-02-13"
+date: 2026-02-13 23:06:32 +0000
+categories: rs
+---
+Calculated Relative Strength for all TSX stocks.
+
+Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.com/proprietary-ratings-and-rankings/).
+
+## TSX Relative Strength Rankings
+
+|Symbol|Name|1 Year Ago|Close|RS|
+|------|---|----------|-----|--|
+|[APS](https://finance.yahoo.com/quote/APS.TO)|Aptose Biosciences Inc.|0.31|2.26|99 |
+|[TI](https://finance.yahoo.com/quote/TI.TO)|Titan Mining Corporation|0.41|5.05|98 |
+|[TRX](https://finance.yahoo.com/quote/TRX.TO)|TRX Gold Corporation|0.46|2.32|97 |
+|[ASM](https://finance.yahoo.com/quote/ASM.TO)|Avino Silver & Gold Mines Ltd.|2.05|13.32|97 |
+|[AII](https://finance.yahoo.com/quote/AII.TO)|Almonty Industries Inc.|2.98|18.83|96 |
+|[USA](https://finance.yahoo.com/quote/USA.TO)|Americas Gold and Silver Corporation|1.95|10.17|96 |
+|[TKO](https://finance.yahoo.com/quote/TKO.TO)|Taseko Mines Limited|3.08|11.31|95 (+3)|
+|[AG](https://finance.yahoo.com/quote/AG.TO)|First Majestic Silver Corp.|8.25|31.28|95 (+1)|
+|[ARIS](https://finance.yahoo.com/quote/ARIS.TO)|Aris Mining Corporation|5.91|26.59|94 (-1)|
+|[ITH](https://finance.yahoo.com/quote/ITH.TO)|International Tower Hill Mines Ltd.|0.71|3.38|94 (+1)|
+|[IAU](https://finance.yahoo.com/quote/IAU.TO)|i-80 Gold Corp.|0.92|2.62|93 (-2)|
+|[RIO](https://finance.yahoo.com/quote/RIO.TO)|Rio2 Limited|0.79|3.32|93 (+3)|
+|[AAUC](https://finance.yahoo.com/quote/AAUC.TO)|Allied Gold Corporation|14.37|42.89|92 |
+|[EFR](https://finance.yahoo.com/quote/EFR.TO)|Energy Fuels Inc.|7.16|28.25|92 (-2)|
+|[SKE](https://finance.yahoo.com/quote/SKE.TO)|Skeena Resources Limited|15.71|45.08|91 (+3)|
+|[ELR](https://finance.yahoo.com/quote/ELR.TO)|Eastern Platinum Limited|0.18|0.44|91 |
+|[CGG](https://finance.yahoo.com/quote/CGG.TO)|China Gold International Resources Corp. Ltd.|8.45|33.35|90 (+1)|
+|[ORE](https://finance.yahoo.com/quote/ORE.TO)|Orezone Gold Corporation|0.89|2.55|90 (+1)|
+|[VGZ](https://finance.yahoo.com/quote/VGZ.TO)|Vista Gold Corp.|0.97|3.67|89 (-2)|
+|[DPM](https://finance.yahoo.com/quote/DPM.TO)|DPM Metals Inc.|15.73|51.95|89 (+3)|
+|[IMG](https://finance.yahoo.com/quote/IMG.TO)|IAMGold Corporation|9.42|29.52|88 (+3)|
+|[ELD](https://finance.yahoo.com/quote/ELD.TO)|Eldorado Gold Corporation|20.72|64.51|88 (+1)|
+|[NGD](https://finance.yahoo.com/quote/NGD.TO)|New Gold Inc.|4.28|15.11|87 (+4)|
+|[ATCU](https://finance.yahoo.com/quote/ATCU.TO)|Alta Copper Corp.|0.42|1.36|87 (-3)|
+|[MUX](https://finance.yahoo.com/quote/MUX.TO)|McEwen Inc.|11.27|35.06|86 (-1)|
+|[SVM](https://finance.yahoo.com/quote/SVM.TO)|Silvercorp Metals Inc.|4.95|14.97|85 (+1)|
+|[HBM](https://finance.yahoo.com/quote/HBM.TO)|HudBay Minerals Inc.|12.95|35.56|85 (+4)|
+|[ELVA](https://finance.yahoo.com/quote/ELVA.TO)|Electrovaya Inc.|3.43|10.51|84 (-9)|
+|[LAR](https://finance.yahoo.com/quote/LAR.TO)|Lithium Argentina AG|3.61|9.45|84 (-1)|
+|[CG](https://finance.yahoo.com/quote/CG.TO)|Centerra Gold Inc.|9.26|25.67|83 (+3)|
+|[WGX](https://finance.yahoo.com/quote/WGX.TO)|Westgold Resources Limited|2.19|6.98|83 |
+|[EDR](https://finance.yahoo.com/quote/EDR.TO)|Endeavour Silver Corp.|5.91|16.01|82 (+2)|
+|[TMQ](https://finance.yahoo.com/quote/TMQ.TO)|Trilogy Metals Inc.|1.77|5.70|82 (-6)|
+|[SXGC](https://finance.yahoo.com/quote/SXGC.TO)|Southern Cross Gold Consolidated Ltd.|3.40|10.52|81 (-1)|
+|[WRN](https://finance.yahoo.com/quote/WRN.TO)|Western Copper and Gold Corporation|1.56|4.32|81 (+2)|
+|[CNL](https://finance.yahoo.com/quote/CNL.TO)|Collective Mining Ltd.|8.56|22.79|80 (+1)|
+|[NUAG](https://finance.yahoo.com/quote/NUAG.TO)|New Pacific Metals Corp.|1.73|4.98|80 (-4)|
+|[HUT](https://finance.yahoo.com/quote/HUT.TO)|Hut 8 Corp.|29.03|73.25|79 (+3)|
+|[LUN](https://finance.yahoo.com/quote/LUN.TO)|Lundin Mining Corporation|12.11|34.80|79 (-2)|
+|[NDM](https://finance.yahoo.com/quote/NDM.TO)|Northern Dynasty Minerals Ltd.|1.01|2.95|78 (-4)|
+|[NG](https://finance.yahoo.com/quote/NG.TO)|Novagold Resources Inc.|4.68|14.63|78 |
+|[EDV](https://finance.yahoo.com/quote/EDV.TO)|Endeavour Mining plc|30.58|84.95|77 (-1)|
+|[ECOR](https://finance.yahoo.com/quote/ECOR.TO)|Ecora Resources plc|1.12|2.67|77 |
+|[SSRM](https://finance.yahoo.com/quote/SSRM.TO)|SSR Mining Inc.|13.17|38.31|76 (+2)|
+|[SEA](https://finance.yahoo.com/quote/SEA.TO)|Seabridge Gold Inc.|18.76|46.26|76 (+5)|
+|[PMET](https://finance.yahoo.com/quote/PMET.TO)|PMET Resources Inc.|2.76|5.52|75 (-1)|
+|[SII](https://finance.yahoo.com/quote/SII.TO)|Sprott Inc.|60.37|168.07|75 |
+|[RTG](https://finance.yahoo.com/quote/RTG.TO)|RTG Mining Inc.|0.02|0.05|74 (+1)|
+|[K](https://finance.yahoo.com/quote/K.TO)|Kinross Gold Corporation|17.26|46.87|73 (+1)|
+|[ABX](https://finance.yahoo.com/quote/ABX.TO)|Barrick Mining Corporation|25.43|65.32|73 |
+|[PAAS](https://finance.yahoo.com/quote/PAAS.TO)|Pan American Silver Corp.|35.45|79.00|72 |
+|[OLA](https://finance.yahoo.com/quote/OLA.TO)|Orla Mining Ltd.|9.76|23.74|72 (+3)|
+|[EPRX](https://finance.yahoo.com/quote/EPRX.TO)|Eupraxia Pharmaceuticals Inc.|4.52|11.48|71 (+2)|
+|[DML](https://finance.yahoo.com/quote/DML.TO)|Denison Mines Corp.|2.53|5.16|71 (-4)|
+|[SLS](https://finance.yahoo.com/quote/SLS.TO)|Solaris Resources Inc.|5.68|13.26|70 (-7)|
+|[ERO](https://finance.yahoo.com/quote/ERO.TO)|Ero Copper Corp.|18.82|41.80|70 |
+|[LUG](https://finance.yahoo.com/quote/LUG.TO)|Lundin Gold Inc.|36.45|109.59|69 (+2)|
+|[EFX](https://finance.yahoo.com/quote/EFX.TO)|Enerflex Ltd.|13.23|25.83|69 (+3)|
+|[PPTA](https://finance.yahoo.com/quote/PPTA.TO)|Perpetua Resources Corp.|17.20|39.38|68 (+2)|
+|[IE](https://finance.yahoo.com/quote/IE.TO)|Ivanhoe Electric Inc.|8.78|21.64|68 (-2)|
+|[AUMN](https://finance.yahoo.com/quote/AUMN.TO)|Golden Minerals Company|0.13|0.38|67 (-4)|
+|[PDN](https://finance.yahoo.com/quote/PDN.TO)|Paladin Energy Ltd.|7.56|11.42|67 |
+|[GAU](https://finance.yahoo.com/quote/GAU.TO)|Galiano Gold Inc.|1.82|4.10|66 (+3)|
+|[EQX](https://finance.yahoo.com/quote/EQX.TO)|Equinox Gold Corp.|9.99|21.53|66 (-2)|
+|[CCO](https://finance.yahoo.com/quote/CCO.TO)|Cameco Corporation|70.75|153.94|65 (-3)|
+|[WPM](https://finance.yahoo.com/quote/WPM.TO)|Wheaton Precious Metals Corp.|96.84|198.68|65 |
+|[PRU](https://finance.yahoo.com/quote/PRU.TO)|Perseus Mining Limited|2.46|5.60|64 |
+|[VOXR](https://finance.yahoo.com/quote/VOXR.TO)|Vox Royalty Corp.|3.52|7.28|64 (+5)|
+|[BTO](https://finance.yahoo.com/quote/BTO.TO)|B2Gold Corp.|3.58|7.35|63 (+4)|
+|[AEM](https://finance.yahoo.com/quote/AEM.TO)|Agnico Eagle Mines Limited|140.44|295.07|63 (+2)|
+|[SBI](https://finance.yahoo.com/quote/SBI.TO)|Serabi Gold plc|2.60|5.82|62 (+2)|
+|[CS](https://finance.yahoo.com/quote/CS.TO)|Capstone Copper Corp.|8.55|15.86|61 (-2)|
+|[OR](https://finance.yahoo.com/quote/OR.TO)|OR Royalties Inc.|28.96|58.17|61 (+1)|
+|[NXE](https://finance.yahoo.com/quote/NXE.TO)|NexGen Energy Ltd.|9.22|15.81|60 (-4)|
+|[FVI](https://finance.yahoo.com/quote/FVI.TO)|Fortuna Mining Corp.|7.66|15.06|60 (+3)|
+|[AGI](https://finance.yahoo.com/quote/AGI.TO)|Alamos Gold Inc.|32.53|61.61|59 (+1)|
+|[MARI](https://finance.yahoo.com/quote/MARI.TO)|Marimaca Copper Corp.|5.53|11.26|59 (-6)|
+|[PD](https://finance.yahoo.com/quote/PD.TO)|Precision Drilling Corporation|80.35|119.04|58 (+2)|
+|[MG](https://finance.yahoo.com/quote/MG.TO)|Magna International Inc.|53.19|93.52|58 (+10)|
+|[QIPT](https://finance.yahoo.com/quote/QIPT.TO)|Quipt Home Medical Corp.|4.11|4.85|57 (-1)|
+|[CLS](https://finance.yahoo.com/quote/CLS.TO)|Celestica Inc.|184.74|381.72|57 (-4)|
+|[FFM](https://finance.yahoo.com/quote/FFM.TO)|FireFly Metals Ltd.|0.92|1.78|56 (-6)|
+|[DOO](https://finance.yahoo.com/quote/DOO.TO)|BRP Inc.|58.39|107.05|56 (-1)|
+|[TFPM](https://finance.yahoo.com/quote/TFPM.TO)|Triple Flag Precious Metals Corp.|24.50|49.26|55 (-1)|
+|[URE](https://finance.yahoo.com/quote/URE.TO)|Ur-Energy Inc.|1.43|2.15|55 |
+|[FURY](https://finance.yahoo.com/quote/FURY.TO)|Fury Gold Mines Limited|0.58|0.97|54 |
+|[MER](https://finance.yahoo.com/quote/MER.TO)|Meren Energy Inc.|1.70|2.38|54 (+2)|
+|[LAM](https://finance.yahoo.com/quote/LAM.TO)|Laramide Resources Ltd.|0.57|0.79|53 (-1)|
+|[FNV](https://finance.yahoo.com/quote/FNV.TO)|Franco-Nevada Corporation|201.58|343.87|53 (+1)|
+|[GOLD](https://finance.yahoo.com/quote/GOLD.TO)|GoldMining Inc.|1.20|2.07|52 (-1)|
+|[IMO](https://finance.yahoo.com/quote/IMO.TO)|Imperial Oil Limited|98.06|163.25|52 (-1)|
+|[URC](https://finance.yahoo.com/quote/URC.TO)|Uranium Royalty Corp.|3.35|5.64|51 |
+|[PTM](https://finance.yahoo.com/quote/PTM.TO)|Platinum Group Metals Ltd.|1.98|3.10|51 (+1)|
+|[SU](https://finance.yahoo.com/quote/SU.TO)|Suncor Energy Inc.|54.24|76.25|50 |
+|[TD](https://finance.yahoo.com/quote/TD.TO)|Toronto-Dominion Bank (The)|82.12|129.93|50 (-1)|
+|[BITF](https://finance.yahoo.com/quote/BITF.TO)|Bitfarms Ltd.|1.94|2.93|49 (-6)|
+|[CVE](https://finance.yahoo.com/quote/CVE.TO)|Cenovus Energy Inc.|20.95|29.90|48 (+4)|
+|[GIL](https://finance.yahoo.com/quote/GIL.TO)|Gildan Activewear Inc.|70.86|98.83|48 |
+|[BTE](https://finance.yahoo.com/quote/BTE.TO)|Baytex Energy Corp.|3.43|4.75|47 (+2)|
+|[OBE](https://finance.yahoo.com/quote/OBE.TO)|Obsidian Energy Ltd.|7.58|10.45|47 (+6)|
+|[IPCO](https://finance.yahoo.com/quote/IPCO.TO)|International Petroleum Corporation|19.18|29.49|46 (-3)|
+|[VBNK](https://finance.yahoo.com/quote/VBNK.TO)|VersaBank|19.40|22.19|46 |
+|[CNQ](https://finance.yahoo.com/quote/CNQ.TO)|Canadian Natural Resources Limited|40.70|55.39|45 |
+|[BEPC](https://finance.yahoo.com/quote/BEPC.TO)|Brookfield Renewable Corporation|37.07|59.72|45 (-1)|
+|[CM](https://finance.yahoo.com/quote/CM.TO)|Canadian Imperial Bank Of Commerce|84.77|130.51|44 (-3)|
+|[NTR](https://finance.yahoo.com/quote/NTR.TO)|Nutrien Ltd.|68.63|96.47|44 (+2)|
+|[BNS](https://finance.yahoo.com/quote/BNS.TO)|Bank of Nova Scotia (The)|69.15|103.16|43 (-4)|
+|[LAC](https://finance.yahoo.com/quote/LAC.TO)|Lithium Americas Corp.|4.34|6.32|43 |
+|[RY](https://finance.yahoo.com/quote/RY.TO)|Royal Bank of Canada|163.78|230.98|42 (-2)|
+|[BMO](https://finance.yahoo.com/quote/BMO.TO)|Bank of Montreal|135.35|192.17|42 (+2)|
+|[VZLA](https://finance.yahoo.com/quote/VZLA.TO)|Vizsla Silver Corp.|3.15|5.20|41 (+2)|
+|[ISO](https://finance.yahoo.com/quote/ISO.TO)|ISO Energy|10.68|13.60|41 (+1)|
+|[AQN](https://finance.yahoo.com/quote/AQN.TO)|Algonquin Power & Utilities Corp.|6.42|9.28|40 (-1)|
+|[SOY](https://finance.yahoo.com/quote/SOY.TO)|SunOpta Inc.|10.53|8.75|40 (-3)|
+|[TRP](https://finance.yahoo.com/quote/TRP.TO)|TC Energy Corporation|63.76|86.52|39 (+1)|
+|[LGO](https://finance.yahoo.com/quote/LGO.TO)|Largo Inc.|2.66|2.04|39 (+12)|
+|[NVO](https://finance.yahoo.com/quote/NVO.TO)|Novo Resources Corp.|0.09|0.13|38 (-4)|
+|[TFII](https://finance.yahoo.com/quote/TFII.TO)|TFI International Inc.|181.80|163.62|38 (+8)|
+|[SOBO](https://finance.yahoo.com/quote/SOBO.TO)|South Bow Corporation|33.12|41.22|37 (+4)|
+|[PPL](https://finance.yahoo.com/quote/PPL.TO)|Pembina Pipeline Corporation|49.43|60.43|36 (+1)|
+|[MX](https://finance.yahoo.com/quote/MX.TO)|Methanex Corporation|65.57|66.46|36 (+4)|
+|[CGI](https://finance.yahoo.com/quote/CGI.TO)|Canadian General Investments Limited|38.89|49.14|35 (-1)|
+|[CAE](https://finance.yahoo.com/quote/CAE.TO)|CAE Inc.|33.63|41.20|35 (-2)|
+|[EMA](https://finance.yahoo.com/quote/EMA.TO)|Emera Incorporated|53.29|70.14|34 (-1)|
+|[FTS](https://finance.yahoo.com/quote/FTS.TO)|Fortis Inc.|60.44|77.42|34 (+1)|
+|[SLF](https://finance.yahoo.com/quote/SLF.TO)|Sun Life Financial Inc.|81.11|93.94|33 (-3)|
+|[BBUC](https://finance.yahoo.com/quote/BBUC.TO)|Brookfield Business Corporation|35.70|46.38|33 (-5)|
+|[BLDP](https://finance.yahoo.com/quote/BLDP.TO)|Ballard Power Systems Inc.|2.08|2.92|32 (-7)|
+|[SLR](https://finance.yahoo.com/quote/SLR.TO)|Solitario Resources Corp.|1.03|1.00|32 (+9)|
+|[ENB](https://finance.yahoo.com/quote/ENB.TO)|Enbridge Inc.|60.81|73.30|31 (+2)|
+|[OVV](https://finance.yahoo.com/quote/OVV.TO)|Ovintiv Inc.|59.29|63.88|31 (+3)|
+|[VET](https://finance.yahoo.com/quote/VET.TO)|Vermilion Energy Inc.|12.63|13.65|30 |
+|[MFC](https://finance.yahoo.com/quote/MFC.TO)|Manulife Financial Corporation|40.60|50.07|30 (+1)|
+|[CRON](https://finance.yahoo.com/quote/CRON.TO)|Cronos Group Inc.|2.82|3.55|29 (-2)|
+|[BIPC](https://finance.yahoo.com/quote/BIPC.TO)|Brookfield Infrastructure Corporation|56.18|67.45|29 (-5)|
+|[LUC](https://finance.yahoo.com/quote/LUC.TO)|Lucara Diamond Corp.|0.38|0.26|28 (-6)|
+|[BCE](https://finance.yahoo.com/quote/BCE.TO)|BCE Inc.|30.99|35.01|28 (-4)|
+|[TA](https://finance.yahoo.com/quote/TA.TO)|TransAlta Corporation|14.67|18.50|27 (+2)|
+|[BN](https://finance.yahoo.com/quote/BN.TO)|Brookfield Corporation|55.44|65.06|27 (+3)|
+|[GTE](https://finance.yahoo.com/quote/GTE.TO)|Gran Tierra Energy Inc.|8.03|7.54|26 (-1)|
+|[TSAT](https://finance.yahoo.com/quote/TSAT.TO)|Telesat Corporation|31.61|35.75|26 (-5)|
+|[CP](https://finance.yahoo.com/quote/CP.TO)|Canadian Pacific Kansas City Limited|110.25|114.10|25 (-1)|
+|[BLCO](https://finance.yahoo.com/quote/BLCO.TO)|Bausch + Lomb Corporation|23.53|23.24|24 (+3)|
+|[ATS](https://finance.yahoo.com/quote/ATS.TO)|ATS Corporation|41.73|42.50|24 |
+|[FRX](https://finance.yahoo.com/quote/FRX.TO)|Fennec Pharmaceuticals Inc.|9.46|10.50|23 (-3)|
+|[CIA](https://finance.yahoo.com/quote/CIA.TO)|Champion Iron Limited|5.03|5.15|23 (-5)|
+|[PRN](https://finance.yahoo.com/quote/PRN.TO)|Profound Medical Corp.|8.92|8.90|22 (+1)|
+|[CNR](https://finance.yahoo.com/quote/CNR.TO)|Canadian National Railway Company|142.90|146.42|22 (-1)|
+|[GOOS](https://finance.yahoo.com/quote/GOOS.TO)|Canada Goose Holdings Inc.|14.17|16.69|21 (-1)|
+|[WFG](https://finance.yahoo.com/quote/WFG.TO)|West Fraser Timber Co. Ltd.|117.56|100.15|21 (-1)|
+|[TC](https://finance.yahoo.com/quote/TC.TO)|Tucows Inc.|21.45|25.64|20 (+1)|
+|[NOA](https://finance.yahoo.com/quote/NOA.TO)|North American Construction Group Ltd.|26.29|22.14|20 (+4)|
+|[GFR](https://finance.yahoo.com/quote/GFR.TO)|Greenfire Resources Ltd.|9.39|7.83|19 (-1)|
+|[BYD](https://finance.yahoo.com/quote/BYD.TO)|Boyd Group Services inc.|236.11|230.32|19 (+1)|
+|[BHC](https://finance.yahoo.com/quote/BHC.TO)|Bausch Health Companies Inc.|9.07|8.17|18 (+3)|
+|[BAM](https://finance.yahoo.com/quote/BAM.TO)|Brookfield Asset Management Ltd.|76.31|71.70|18 (+3)|
+|[STN](https://finance.yahoo.com/quote/STN.TO)|Stantec Inc.|109.03|118.60|17 (+1)|
+|[GLXY](https://finance.yahoo.com/quote/GLXY.TO)|Galaxy Digital Inc.|26.87|29.49|17 (+3)|
+|[QSR](https://finance.yahoo.com/quote/QSR.TO)|Restaurant Brands International Inc.|90.51|90.09|16 (-1)|
+|[NOU](https://finance.yahoo.com/quote/NOU.TO)|Nouveau Monde Graphite Inc.|2.76|2.97|16 (-1)|
+|[ORIO](https://finance.yahoo.com/quote/ORIO.TO)|Orion Digital Corp.|1.72|1.58|15 (+3)|
+|[BNT](https://finance.yahoo.com/quote/BNT.TO)|Brookfield Wealth Solutions Ltd.|83.23|65.01|15 (+1)|
+|[GFL](https://finance.yahoo.com/quote/GFL.TO)|GFL Environmental Inc.|65.51|58.99|14 (+2)|
+|[T](https://finance.yahoo.com/quote/T.TO)|TELUS Corporation|19.30|18.35|14 (-4)|
+|[FSV](https://finance.yahoo.com/quote/FSV.TO)|FirstService Corporation|244.64|210.63|13 |
+|[QEC](https://finance.yahoo.com/quote/QEC.TO)|Questerre Energy Corporation|0.25|0.23|12 (-7)|
+|[ASTL](https://finance.yahoo.com/quote/ASTL.TO)|Algoma Steel Group Inc.|11.32|6.58|12 (+4)|
+|[OGI](https://finance.yahoo.com/quote/OGI.TO)|Organigram Global Inc.|1.92|1.74|11 |
+|[CRDL](https://finance.yahoo.com/quote/CRDL.TO)|Cardiol Therapeutics Inc.|1.86|1.40|11 (+1)|
+|[MOGO](https://finance.yahoo.com/quote/MOGO.TO)|Mogo Inc.|1.75|1.49|10 (-10)|
+|[SHOP](https://finance.yahoo.com/quote/SHOP.TO)|Shopify Inc.|172.08|153.88|10 (-1)|
+|[CSCI](https://finance.yahoo.com/quote/CSCI.TO)|COSCIENS Biopharma Inc.|3.89|2.74|9 |
+|[CIGI](https://finance.yahoo.com/quote/CIGI.TO)|Colliers International Group Inc.|185.85|155.13|9 (-1)|
+|[OTEX](https://finance.yahoo.com/quote/OTEX.TO)|Open Text Corporation|39.02|33.49|8 (-1)|
+|[TAL](https://finance.yahoo.com/quote/TAL.TO)|PetroTal Corp.|0.65|0.40|8 (+3)|
+|[WEED](https://finance.yahoo.com/quote/WEED.TO)|Canopy Growth Corporation|2.56|1.48|7 |
+|[TXP](https://finance.yahoo.com/quote/TXP.TO)|Touchstone Exploration Inc.|0.43|0.17|7 (+5)|
+|[STC](https://finance.yahoo.com/quote/STC.TO)|Sangoma Technologies Corporation|9.00|6.11|6 (-2)|
+|[WPRT](https://finance.yahoo.com/quote/WPRT.TO)|Westport Fuel Systems Inc.|6.13|2.66|6 |
+|[LSPD](https://finance.yahoo.com/quote/LSPD.TO)|Lightspeed Commerce Inc.|18.89|12.25|5 (-1)|
+|[BB](https://finance.yahoo.com/quote/BB.TO)|BlackBerry Limited|8.32|4.71|5 (-2)|
+|[ACB](https://finance.yahoo.com/quote/ACB.TO)|Aurora Cannabis Inc.|9.06|4.87|4 |
+|[DSG](https://finance.yahoo.com/quote/DSG.TO)|Descartes Systems Group Inc. (The)|162.71|89.57|4 |
+|[KEI](https://finance.yahoo.com/quote/KEI.TO)|Kolibri Global Energy Inc.|11.95|5.16|3 (-2)|
+|[DCBO](https://finance.yahoo.com/quote/DCBO.TO)|Docebo Inc.|59.32|25.79|3 |
+|[TRI](https://finance.yahoo.com/quote/TRI.TO)|Thomson Reuters Corporation|247.64|118.45|2 (-1)|
+|[BRAG](https://finance.yahoo.com/quote/BRAG.TO)|Bragg Gaming Group Inc.|7.77|2.60|2 |
+|[BCT](https://finance.yahoo.com/quote/BCT.TO)|BriaCell Therapeutics Corp.|54.10|5.50|1 |
