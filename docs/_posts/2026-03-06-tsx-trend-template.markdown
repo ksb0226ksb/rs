@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "TSX Minervini Trend Template 2026-03-06"
-date: 2026-03-06 00:06:42 +0000
+date: 2026-03-06 23:02:56 +0000
 categories: minervini
 ---
 Stocks that meet Mark Minervini's Trend Template criteria.
