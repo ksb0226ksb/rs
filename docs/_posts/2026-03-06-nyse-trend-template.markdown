@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "NYSE Minervini Trend Template 2026-03-06"
-date: 2026-03-06 00:03:46 +0000
+date: 2026-03-06 22:05:28 +0000
 categories: minervini
 ---
 Stocks that meet Mark Minervini's Trend Template criteria.
@@ -21,10 +21,10 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[ARIS](https://finance.yahoo.com/quote/ARIS)|Aris Mining Corp|19.61|98|22.68, 3.67|18, 13, 11|
 |[FET](https://finance.yahoo.com/quote/FET)|Forum Energy Technologies Inc|57.70|98|62.05, 13.57|46, 33, 30|
 |[CIEN](https://finance.yahoo.com/quote/CIEN)|Ciena Corp|299.30|98|353.73, 53.50|272, 194, 165|
-|[CDE](https://finance.yahoo.com/quote/CDE)|Coeur Mining Inc|22.63|98|27.15, 4.81|22, 17, 15|
 |[OIS](https://finance.yahoo.com/quote/OIS)|Oil States International Inc|12.46|98|14.39, 3.25|9, 7, 6|
 |[COHR](https://finance.yahoo.com/quote/COHR)|Coherent Corp|253.87|98|298.91, 50.58|215, 155, 138|
 |[FIGS](https://finance.yahoo.com/quote/FIGS)|Figs Inc|16.97|98|17.12, 3.62|11, 9, 8|
+|[CDE](https://finance.yahoo.com/quote/CDE)|Coeur Mining  Inc|22.64|97|27.15, 4.81|22, 17, 15|
 |[SKE](https://finance.yahoo.com/quote/SKE)|Skeena Resources Ltd|33.31|97|38.12, 8.61|30, 22, 20|
 |[FIX](https://finance.yahoo.com/quote/FIX)|Comfort Systems USA Inc|1348.22|97|1468.58, 295.83|1183, 952, 846|
 |[IAG](https://finance.yahoo.com/quote/IAG)|IAMGOLD Corp|21.63|97|24.57, 5.11|19, 14, 12|

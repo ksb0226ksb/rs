@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "NYSE Relative Strength 2026-03-06"
-date: 2026-03-06 00:03:46 +0000
+date: 2026-03-06 22:05:28 +0000
 categories: rs
 ---
 Calculated Relative Strength for all NYSE stocks.
@@ -31,11 +31,11 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CIEN](https://finance.yahoo.com/quote/CIEN)|Ciena Corp|74.31|299.30|98 |
 |[QBTS](https://finance.yahoo.com/quote/QBTS)|D-Wave Quantum Inc|5.32|18.83|98 |
 |[RHLD](https://finance.yahoo.com/quote/RHLD)|Resolute Holdings Management  Inc (Pre-Reincorporation)|43.86|171.29|98 |
-|[CDE](https://finance.yahoo.com/quote/CDE)|Coeur Mining Inc|5.17|22.63|98 |
 |[OIS](https://finance.yahoo.com/quote/OIS)|Oil States International Inc|4.99|12.46|98 |
 |[COHR](https://finance.yahoo.com/quote/COHR)|Coherent Corp|69.57|253.87|98 |
 |[FIGS](https://finance.yahoo.com/quote/FIGS)|Figs Inc|4.79|16.97|98 |
-|[SBDS](https://finance.yahoo.com/quote/SBDS)|Solo Brands Inc|29.12|7.00|97 (+1)|
+|[SBDS](https://finance.yahoo.com/quote/SBDS)|Solo Brands Inc|29.12|7.00|98 (+2)|
+|[CDE](https://finance.yahoo.com/quote/CDE)|Coeur Mining  Inc|5.61|22.64|97 (-1)|
 |[SKE](https://finance.yahoo.com/quote/SKE)|Skeena Resources Ltd|9.48|33.31|97 |
 |[FIX](https://finance.yahoo.com/quote/FIX)|Comfort Systems USA Inc|337.97|1348.22|97 (-1)|
 |[IAG](https://finance.yahoo.com/quote/IAG)|IAMGOLD Corp|5.55|21.63|97 (-1)|
@@ -1734,7 +1734,6 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[KBH](https://finance.yahoo.com/quote/KBH)|KB Home|59.71|58.48|22 (-3)|
 |[HYT](https://finance.yahoo.com/quote/HYT)|BlackRock Corporate High Yield Fund，Inc.|8.87|8.71|22 |
 |[PTY](https://finance.yahoo.com/quote/PTY)|PIMCO Corporate & Income Opportunity Fund|13.22|12.56|22 |
-|[IFN](https://finance.yahoo.com/quote/IFN)|Aberdeen India Closed End Fund|12.80|12.61|21 (-1)|
 |[NVR](https://finance.yahoo.com/quote/NVR)|NVR Inc|7201.71|7074.84|21 (-4)|
 |[SPOT](https://finance.yahoo.com/quote/SPOT)|Spotify Technology SA|584.14|552.12|21 (+4)|
 |[PDM](https://finance.yahoo.com/quote/PDM)|Piedmont Realty Trust Inc|7.23|7.51|21 (+1)|
@@ -1756,7 +1755,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ARDC](https://finance.yahoo.com/quote/ARDC)|Ares Dynamic Credit Allocation Fund Inc|12.80|12.40|21 |
 |[UDR](https://finance.yahoo.com/quote/UDR)|UDR Inc|43.40|37.67|21 (+1)|
 |[JILL](https://finance.yahoo.com/quote/JILL)|JJill Inc|21.33|17.04|21 (-2)|
-|[MTD](https://finance.yahoo.com/quote/MTD)|Mettler-Toledo International Inc|1240.97|1261.21|20 |
+|[MTD](https://finance.yahoo.com/quote/MTD)|Mettler-Toledo International Inc|1240.97|1261.21|21 (+1)|
 |[KVUE](https://finance.yahoo.com/quote/KVUE)|Kenvue Inc|22.45|18.25|20 (+2)|
 |[DOC](https://finance.yahoo.com/quote/DOC)|Healthpeak Properties Inc|19.00|17.41|20 |
 |[HLI](https://finance.yahoo.com/quote/HLI)|Houlihan Lokey Inc|159.07|157.30|20 |
@@ -1779,12 +1778,12 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ABM](https://finance.yahoo.com/quote/ABM)|ABM Industries Inc|51.27|44.24|20 (+2)|
 |[CSW](https://finance.yahoo.com/quote/CSW)|CSW Industrials Inc|300.93|271.95|20 (-2)|
 |[CNS](https://finance.yahoo.com/quote/CNS)|Cohen & Steers Inc|80.49|66.21|20 (+1)|
-|[BABA](https://finance.yahoo.com/quote/BABA)|Alibaba Group Holding Ltd ADR|127.69|130.35|19 (-1)|
+|[BABA](https://finance.yahoo.com/quote/BABA)|Alibaba Group Holding Ltd ADR|127.69|130.35|20 |
 |[RBRK](https://finance.yahoo.com/quote/RBRK)|Rubrik Inc|61.56|55.88|19 |
 |[AXTA](https://finance.yahoo.com/quote/AXTA)|Axalta Coating Systems Ltd|34.29|30.26|19 (-3)|
 |[ACI](https://finance.yahoo.com/quote/ACI)|Albertsons Companies Inc|19.16|17.30|19 (+3)|
 |[VIPS](https://finance.yahoo.com/quote/VIPS)|Vipshop Holdings Ltd ADR|15.39|15.97|19 (-1)|
-|[UBER](https://finance.yahoo.com/quote/UBER)|Uber Technologies Inc|75.26|75.44|19 (-2)|
+|[UBER](https://finance.yahoo.com/quote/UBER)|Uber Technologies Inc|75.26|75.44|19 (-3)|
 |[PRU](https://finance.yahoo.com/quote/PRU)|Prudential Financial Inc|104.04|99.14|19 (+2)|
 |[EVF](https://finance.yahoo.com/quote/EVF)|Eaton Vance Senior Income Closed Fund|5.54|5.08|19 (+1)|
 |[V](https://finance.yahoo.com/quote/V)|Visa Inc|349.61|319.80|19 (+1)|
@@ -1801,8 +1800,9 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ACR](https://finance.yahoo.com/quote/ACR)|Acres Commercial Realty Corp|20.50|19.19|19 (+1)|
 |[IQV](https://finance.yahoo.com/quote/IQV)|IQVIA Holdings Inc|183.57|178.50|19 (+1)|
 |[EAT](https://finance.yahoo.com/quote/EAT)|Brinker International Inc|152.52|140.38|19 (+3)|
-|[HIPO](https://finance.yahoo.com/quote/HIPO)|Hippo Holdings Inc|29.21|27.16|18 (-3)|
+|[HIPO](https://finance.yahoo.com/quote/HIPO)|Hippo Holdings Inc|29.21|27.16|19 (-2)|
 |[SMR](https://finance.yahoo.com/quote/SMR)|Nuscale Power Corp|17.23|12.18|18 (-22)|
+|[IFN](https://finance.yahoo.com/quote/IFN)|Aberdeen India Fund|13.21|12.44|18 (-3)|
 |[HTT](https://finance.yahoo.com/quote/HTT)|High Templar Tech Ltd ADR|2.67|2.76|18 |
 |[PATH](https://finance.yahoo.com/quote/PATH)|UiPath Inc|11.79|11.55|18 (+2)|
 |[ESS](https://finance.yahoo.com/quote/ESS)|Essex Property Trust Inc|296.40|258.24|18 (+1)|
