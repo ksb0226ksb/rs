@@ -1,0 +1,2192 @@
+---
+layout: single
+title: "NYSE Relative Strength 2026-05-06"
+date: 2026-05-06 22:34:17 +0000
+categories: rs
+---
+Calculated Relative Strength for all NYSE stocks.
+
+Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.com/proprietary-ratings-and-rankings/).
+
+## NYSE Relative Strength Rankings
+
+|Symbol|Name|1 Year Ago|Close|RS|
+|------|---|----------|-----|--|
+|[WBX](https://finance.yahoo.com/quote/WBX)|Wallbox NV|0.37|2.95|99 |
+|[ZEPP](https://finance.yahoo.com/quote/ZEPP)|Zepp Health Corp ADR|2.66|18.01|98 |
+|[BW](https://finance.yahoo.com/quote/BW)|Babcock & Wilcox Enterprises Inc|0.44|15.55|98 |
+|[BE](https://finance.yahoo.com/quote/BE)|Bloom Energy Corp|16.32|285.47|98 |
+|[AMPX](https://finance.yahoo.com/quote/AMPX)|Amprius Technologies Inc|2.28|22.19|98 |
+|[ANRO](https://finance.yahoo.com/quote/ANRO)|Alto Neuroscience Inc|2.35|24.49|98 |
+|[DOCN](https://finance.yahoo.com/quote/DOCN)|DigitalOcean Holdings Inc|32.76|160.99|98 |
+|[CIEN](https://finance.yahoo.com/quote/CIEN)|Ciena Corp|72.91|576.79|98 |
+|[PL](https://finance.yahoo.com/quote/PL)|Planet Labs PBC|3.47|39.69|98 |
+|[AP](https://finance.yahoo.com/quote/AP)|Ampco-Pittsburgh Corp|2.23|12.03|98 |
+|[EVC](https://finance.yahoo.com/quote/EVC)|Entravision Communications Corp|1.78|7.69|98 (+6)|
+|[TLYS](https://finance.yahoo.com/quote/TLYS)|Tillys Inc|1.36|4.24|98 |
+|[BKSY](https://finance.yahoo.com/quote/BKSY)|Blacksky Technology Inc|8.62|40.51|98 |
+|[AGX](https://finance.yahoo.com/quote/AGX)|Argan Inc|164.43|727.54|98 |
+|[RHLD](https://finance.yahoo.com/quote/RHLD)|Resolute Holdings Management  Inc|26.07|139.65|98 (+1)|
+|[LAR](https://finance.yahoo.com/quote/LAR)|Lithium Argentina AG|2.03|11.43|98 (+1)|
+|[NRGV](https://finance.yahoo.com/quote/NRGV)|Energy Vault Holdings Inc|0.70|4.21|98 |
+|[FIX](https://finance.yahoo.com/quote/FIX)|Comfort Systems USA Inc|434.06|2011.49|98 |
+|[ECG](https://finance.yahoo.com/quote/ECG)|Everus Construction Group Inc|45.40|169.16|98 |
+|[VRT](https://finance.yahoo.com/quote/VRT)|Vertiv Holdings Co|94.71|358.92|98 (+1)|
+|[CLS](https://finance.yahoo.com/quote/CLS)|Celestica Inc|92.36|413.87|98 |
+|[OKLO](https://finance.yahoo.com/quote/OKLO)|Oklo Inc|25.47|79.62|98 (+1)|
+|[SPHR](https://finance.yahoo.com/quote/SPHR)|Sphere Entertainment Co|27.94|143.95|98 (+1)|
+|[COHR](https://finance.yahoo.com/quote/COHR)|Coherent Corp|70.95|344.67|97 |
+|[LUMN](https://finance.yahoo.com/quote/LUMN)|Lumen Technologies Inc|4.23|9.81|97 (+1)|
+|[KORE](https://finance.yahoo.com/quote/KORE)|KORE Group Holdings Inc|2.52|9.16|97 (-1)|
+|[ASX](https://finance.yahoo.com/quote/ASX)|ASE Technology Holding Co Ltd ADR|8.76|34.16|97 |
+|[UI](https://finance.yahoo.com/quote/UI)|Ubiquiti Inc|341.65|1028.31|97 |
+|[SSL](https://finance.yahoo.com/quote/SSL)|Sasol Ltd ADR|3.48|13.24|97 (-1)|
+|[PARR](https://finance.yahoo.com/quote/PARR)|Par Pacific Holdings Inc|14.90|62.29|97 (-1)|
+|[NGL](https://finance.yahoo.com/quote/NGL)|NGL Energy Partners Units|3.05|15.91|97 (-1)|
+|[NOK](https://finance.yahoo.com/quote/NOK)|Nokia Oyj ADR|4.95|13.19|97 |
+|[GLW](https://finance.yahoo.com/quote/GLW)|Corning Inc|44.74|181.57|97 (+1)|
+|[TE](https://finance.yahoo.com/quote/TE)|T1 Energy Inc|1.28|5.27|97 (-1)|
+|[UAMY](https://finance.yahoo.com/quote/UAMY)|United States Antimony Corp|3.41|12.61|97 (+1)|
+|[DELL](https://finance.yahoo.com/quote/DELL)|Dell Technologies Inc|92.95|238.80|97 |
+|[QBTS](https://finance.yahoo.com/quote/QBTS)|D-Wave Quantum Inc|7.28|23.83|97 (+1)|
+|[WTI](https://finance.yahoo.com/quote/WTI)|W&T Offshore Inc|1.13|3.82|97 (-1)|
+|[EFXT](https://finance.yahoo.com/quote/EFXT)|Enerflex Ltd|6.56|27.05|97 |
+|[SEI](https://finance.yahoo.com/quote/SEI)|Solaris Energy Infrastructure Inc|22.14|77.45|97 (+1)|
+|[STM](https://finance.yahoo.com/quote/STM)|STMicroelectronics NV ADR|22.68|57.95|97 |
+|[MTZ](https://finance.yahoo.com/quote/MTZ)|MasTec Inc|143.57|433.28|97 |
+|[LEU](https://finance.yahoo.com/quote/LEU)|Centrus Energy Corp|71.66|231.32|97 (+1)|
+|[TPC](https://finance.yahoo.com/quote/TPC)|Tutor Perini Corp|22.72|96.98|97 |
+|[YOU](https://finance.yahoo.com/quote/YOU)|Clear Secure Inc|24.64|60.94|97 |
+|[BWNB](https://finance.yahoo.com/quote/BWNB)|Babcock And Wilcox Enterprises 6 50 Senior Notes due 2026|6.21|25.00|96 (+13)|
+|[VATE](https://finance.yahoo.com/quote/VATE)|Innovate Corp|6.56|12.41|96 (-1)|
+|[PACS](https://finance.yahoo.com/quote/PACS)|Pacs Group Inc|10.08|33.83|96 (-1)|
+|[DK](https://finance.yahoo.com/quote/DK)|Delek US Holdings Inc|13.19|45.00|96 (-1)|
+|[KODK](https://finance.yahoo.com/quote/KODK)|Eastman Kodak Co|6.55|14.51|96 (-1)|
+|[NBR](https://finance.yahoo.com/quote/NBR)|Nabors Industries Ltd|26.31|99.43|96 (-1)|
+|[DHX](https://finance.yahoo.com/quote/DHX)|DHI Group Inc|1.33|2.80|96 (+2)|
+|[TWN](https://finance.yahoo.com/quote/TWN)|Taiwan Fund Inc.|31.80|97.79|96 (-1)|
+|[MP](https://finance.yahoo.com/quote/MP)|MP Materials Corp|25.20|72.65|96 (+1)|
+|[FN](https://finance.yahoo.com/quote/FN)|Fabrinet|220.90|679.09|96 |
+|[NEXA](https://finance.yahoo.com/quote/NEXA)|Nexa Resources SA|5.24|16.72|96 |
+|[PUMP](https://finance.yahoo.com/quote/PUMP)|ProPetro Holding Corp|5.29|15.77|96 |
+|[FET](https://finance.yahoo.com/quote/FET)|Forum Energy Technologies Inc|13.82|56.05|96 |
+|[KF](https://finance.yahoo.com/quote/KF)|Korea Closed Fund|20.45|67.92|96 |
+|[BTE](https://finance.yahoo.com/quote/BTE)|Baytex Energy Corp|1.51|4.98|96 |
+|[VSH](https://finance.yahoo.com/quote/VSH)|Vishay Intertechnology Inc|13.32|33.56|96 (+2)|
+|[GEV](https://finance.yahoo.com/quote/GEV)|GE Vernova Inc|400.22|1118.96|96 (+1)|
+|[PWR](https://finance.yahoo.com/quote/PWR)|Quanta Services Inc|322.31|785.24|96 (+1)|
+|[KOS](https://finance.yahoo.com/quote/KOS)|Kosmos Energy Ltd|1.59|2.89|96 (-1)|
+|[KEYS](https://finance.yahoo.com/quote/KEYS)|Keysight Technologies Inc|147.29|366.68|96 (+2)|
+|[TEN](https://finance.yahoo.com/quote/TEN)|Tsakos Energy Navigation Ltd|17.10|43.17|96 |
+|[HL](https://finance.yahoo.com/quote/HL)|Hecla Mining Co|4.78|18.15|96 |
+|[AVNS](https://finance.yahoo.com/quote/AVNS)|Avanos Medical Inc|12.19|24.72|95 (-1)|
+|[RSI](https://finance.yahoo.com/quote/RSI)|Rush Street Interactive Inc|11.82|27.86|95 (-1)|
+|[NVT](https://finance.yahoo.com/quote/NVT)|nVent Electric PLC|60.58|172.49|95 |
+|[BORR](https://finance.yahoo.com/quote/BORR)|Borr Drilling Ltd|1.63|5.98|95 (-1)|
+|[RCUS](https://finance.yahoo.com/quote/RCUS)|Arcus Biosciences Inc|8.94|26.00|95 |
+|[HSHP](https://finance.yahoo.com/quote/HSHP)|Himalaya Shipping Ltd|5.29|14.95|95 (-1)|
+|[ONTO](https://finance.yahoo.com/quote/ONTO)|Onto Innovation Inc|124.39|294.05|95 |
+|[MOD](https://finance.yahoo.com/quote/MOD)|Modine Manufacturing Co|90.36|274.22|95 |
+|[JBL](https://finance.yahoo.com/quote/JBL)|Jabil Inc|149.99|372.34|95 (+2)|
+|[FIGS](https://finance.yahoo.com/quote/FIGS)|Figs Inc|4.51|14.50|95 |
+|[KGS](https://finance.yahoo.com/quote/KGS)|Kodiak Gas Services Inc|32.90|71.40|95 |
+|[CSTM](https://finance.yahoo.com/quote/CSTM)|Constellium SE|11.04|33.33|95 |
+|[TROX](https://finance.yahoo.com/quote/TROX)|Tronox Holdings PLC|5.05|10.12|95 (-1)|
+|[KEN](https://finance.yahoo.com/quote/KEN)|Kenon Holdings Ltd|28.36|91.99|95 |
+|[ALB](https://finance.yahoo.com/quote/ALB)|Albemarle Corp|56.94|192.61|95 |
+|[BHE](https://finance.yahoo.com/quote/BHE)|Benchmark Electronics Inc|34.15|86.60|95 (+1)|
+|[LBRT](https://finance.yahoo.com/quote/LBRT)|Liberty Energy Inc|11.26|32.47|95 (+1)|
+|[GNRC](https://finance.yahoo.com/quote/GNRC)|Generac Holdings Inc|116.60|267.42|95 |
+|[THR](https://finance.yahoo.com/quote/THR)|Thermon Group Holdings Inc|27.52|68.75|95 |
+|[VAL](https://finance.yahoo.com/quote/VAL)|Valaris Ltd|35.48|92.80|95 |
+|[AMRC](https://finance.yahoo.com/quote/AMRC)|Ameresco Inc|11.63|31.55|95 (+1)|
+|[SPIR](https://finance.yahoo.com/quote/SPIR)|Spire Global Inc|9.26|18.30|95 (+6)|
+|[PKE](https://finance.yahoo.com/quote/PKE)|Park Aerospace Corp|12.74|34.26|94 |
+|[TTI](https://finance.yahoo.com/quote/TTI)|Tetra Technologies Inc|2.72|9.86|94 |
+|[INSW](https://finance.yahoo.com/quote/INSW)|International Seaways Inc|33.63|85.77|94 (-1)|
+|[ARIS](https://finance.yahoo.com/quote/ARIS)|Aris Mining Corp|5.51|18.93|94 |
+|[GHM](https://finance.yahoo.com/quote/GHM)|Graham Corp|32.90|96.70|94 (-1)|
+|[CAT](https://finance.yahoo.com/quote/CAT)|Caterpillar Inc|319.65|926.93|94 |
+|[AG](https://finance.yahoo.com/quote/AG)|First Majestic Silver Corp|6.02|21.18|94 |
+|[JMIA](https://finance.yahoo.com/quote/JMIA)|Jumia Technologies AG ADR|2.48|7.46|94 |
+|[CTOS](https://finance.yahoo.com/quote/CTOS)|Custom Truck One Source Inc|4.20|9.97|94 |
+|[TWLO](https://finance.yahoo.com/quote/TWLO)|Twilio Inc|103.05|191.40|94 (-1)|
+|[SKLZ](https://finance.yahoo.com/quote/SKLZ)|Skillz Inc|5.16|6.35|94 (-1)|
+|[SII](https://finance.yahoo.com/quote/SII)|Sprott Inc|51.64|152.30|94 (+4)|
+|[RNG](https://finance.yahoo.com/quote/RNG)|RingCentral Inc|25.69|45.72|94 (-2)|
+|[CDE](https://finance.yahoo.com/quote/CDE)|Coeur Mining  Inc|5.45|18.75|94 |
+|[NET](https://finance.yahoo.com/quote/NET)|Cloudflare Inc|124.64|248.59|94 |
+|[BB](https://finance.yahoo.com/quote/BB)|BlackBerry Ltd|3.59|5.99|94 (+1)|
+|[JOBY](https://finance.yahoo.com/quote/JOBY)|Joby Aviation Inc|6.48|10.52|94 (+4)|
+|[CVE](https://finance.yahoo.com/quote/CVE)|Cenovus Energy Incorporation|11.47|29.02|94 (-1)|
+|[CTRI](https://finance.yahoo.com/quote/CTRI)|Centuri Holdings Inc|18.41|41.80|94 |
+|[BFLY](https://finance.yahoo.com/quote/BFLY)|Butterfly Network Inc|2.22|4.55|94 |
+|[CHGG](https://finance.yahoo.com/quote/CHGG)|Chegg Inc|0.73|1.16|94 (-2)|
+|[SQM](https://finance.yahoo.com/quote/SQM)|Sociedad Quimica y Minera de Chile SA ADR|33.86|93.46|94 (+1)|
+|[UMC](https://finance.yahoo.com/quote/UMC)|United Microelectronics Corp ADR|6.96|15.23|94 (+2)|
+|[HBM](https://finance.yahoo.com/quote/HBM)|Hudbay Minerals Inc|7.41|24.00|93 |
+|[ECO](https://finance.yahoo.com/quote/ECO)|Okeanis Eco Tankers Corp|23.81|54.80|93 (-1)|
+|[REX](https://finance.yahoo.com/quote/REX)|REX American Resources Corp|20.14|48.02|93 (-1)|
+|[IONQ](https://finance.yahoo.com/quote/IONQ)|IONQ Inc|29.82|52.57|93 (+6)|
+|[NAT](https://finance.yahoo.com/quote/NAT)|Nordic American Tankers Ltd|2.51|5.77|93 (-1)|
+|[FTI](https://finance.yahoo.com/quote/FTI)|TechnipFMC PLC|29.11|73.94|93 |
+|[ESI](https://finance.yahoo.com/quote/ESI)|Element Solutions Inc|20.64|44.24|93 |
+|[HAFN](https://finance.yahoo.com/quote/HAFN)|Hafnia Ltd|4.32|8.82|93 (-1)|
+|[AAMI](https://finance.yahoo.com/quote/AAMI)|Acadian Asset Management Inc|27.98|67.89|93 |
+|[MTRN](https://finance.yahoo.com/quote/MTRN)|Materion Corp|79.15|196.86|93 |
+|[WTTR](https://finance.yahoo.com/quote/WTTR)|Select Water Solutions Inc|8.08|17.45|93 (+1)|
+|[LXU](https://finance.yahoo.com/quote/LXU)|LSB Industries Inc|6.37|14.06|93 (-2)|
+|[DCO](https://finance.yahoo.com/quote/DCO)|Ducommun Inc|58.55|146.89|93 (+1)|
+|[OGC](https://finance.yahoo.com/quote/OGC)|OceanaGold Corp|10.27|31.59|93 (+1)|
+|[ADCT](https://finance.yahoo.com/quote/ADCT)|ADC Therapeutics SA|1.42|3.86|93 |
+|[DY](https://finance.yahoo.com/quote/DY)|Dycom Industries Inc|182.96|457.78|93 (+1)|
+|[SBSW](https://finance.yahoo.com/quote/SBSW)|Sibanye Stillwater Ltd ADR|4.59|13.44|93 (+3)|
+|[ATI](https://finance.yahoo.com/quote/ATI)|ATI Inc|67.38|165.08|93 (+2)|
+|[LITB](https://finance.yahoo.com/quote/LITB)|LightInTheBox Holding Co Ltd ADR|1.22|2.39|93 (-1)|
+|[MUX](https://finance.yahoo.com/quote/MUX)|McEwen Inc|7.54|22.82|93 (+1)|
+|[RIG](https://finance.yahoo.com/quote/RIG)|Transocean Ltd|2.30|6.23|93 |
+|[CGAU](https://finance.yahoo.com/quote/CGAU)|Centerra Gold Inc|6.41|18.01|93 (+2)|
+|[ELAN](https://finance.yahoo.com/quote/ELAN)|Elanco Animal Health Inc|9.65|26.18|92 (+4)|
+|[RYAM](https://finance.yahoo.com/quote/RYAM)|Rayonier Advanced Materials Inc|4.26|9.82|92 (+1)|
+|[TSM](https://finance.yahoo.com/quote/TSM)|Taiwan Semiconductor Manufacturing Co Ltd ADR|174.24|419.50|92 (+3)|
+|[ENS](https://finance.yahoo.com/quote/ENS)|EnerSys|89.94|224.10|92 |
+|[ROG](https://finance.yahoo.com/quote/ROG)|Rogers Corp|62.32|140.59|92 |
+|[VPG](https://finance.yahoo.com/quote/VPG)|Vishay Precision Group Inc|25.00|63.57|92 |
+|[FRO](https://finance.yahoo.com/quote/FRO)|Frontline PLC|17.07|37.70|92 (-1)|
+|[LAC](https://finance.yahoo.com/quote/LAC)|Lithium Americas Corp|2.94|5.99|92 (+3)|
+|[ASC](https://finance.yahoo.com/quote/ASC)|Ardmore Shipping Corp|9.79|18.79|92 (-1)|
+|[CCJ](https://finance.yahoo.com/quote/CCJ)|Cameco Corp|46.32|123.76|92 (+4)|
+|[DBI](https://finance.yahoo.com/quote/DBI)|Designer Brands Inc|2.77|7.07|92 (-1)|
+|[BGSF](https://finance.yahoo.com/quote/BGSF)|BGSF Inc|2.38|5.08|92 (+1)|
+|[PBT](https://finance.yahoo.com/quote/PBT)|Permian Basin Royalty Units|9.29|22.42|92 (-1)|
+|[ECVT](https://finance.yahoo.com/quote/ECVT)|Ecovyst Inc|6.63|14.68|92 |
+|[NE](https://finance.yahoo.com/quote/NE)|Noble Corporation PLC|20.83|49.08|92 (-1)|
+|[SNX](https://finance.yahoo.com/quote/SNX)|TD Synnex Corp|113.41|233.93|92 (-1)|
+|[SKE](https://finance.yahoo.com/quote/SKE)|Skeena Resources Ltd|11.99|31.12|92 |
+|[OGN](https://finance.yahoo.com/quote/OGN)|Organon & Co|8.64|13.41|92 |
+|[ESE](https://finance.yahoo.com/quote/ESE)|ESCO Technologies Inc|164.36|335.59|92 |
+|[NVRI](https://finance.yahoo.com/quote/NVRI)|Enviri Corp|6.90|19.24|92 |
+|[AGRO](https://finance.yahoo.com/quote/AGRO)|Adecoagro SA|8.43|13.82|92 (-1)|
+|[CRS](https://finance.yahoo.com/quote/CRS)|Carpenter Technology Corp|211.35|458.16|92 (+2)|
+|[REZI](https://finance.yahoo.com/quote/REZI)|Resideo Technologies Inc|17.61|41.10|91 |
+|[DAN](https://finance.yahoo.com/quote/DAN)|Dana Inc|14.24|35.60|91 |
+|[VSCO](https://finance.yahoo.com/quote/VSCO)|Victoria's Secret & Co|19.26|51.52|91 (+1)|
+|[EME](https://finance.yahoo.com/quote/EME)|EMCOR Group Inc|435.16|943.75|91 (+1)|
+|[KN](https://finance.yahoo.com/quote/KN)|Knowles Corp|16.32|33.96|91 (+1)|
+|[LION](https://finance.yahoo.com/quote/LION)|Lionsgate Studios Corp|6.83|12.76|91 (+1)|
+|[IAG](https://finance.yahoo.com/quote/IAG)|IAMGOLD Corp|6.96|18.50|91 (+3)|
+|[TDW](https://finance.yahoo.com/quote/TDW)|Tidewater Inc|38.01|81.72|91 |
+|[GRC](https://finance.yahoo.com/quote/GRC)|Gorman- Rupp Co|35.89|77.74|91 (-1)|
+|[AAUC](https://finance.yahoo.com/quote/AAUC)|Allied Gold Corp|12.09|29.97|91 (-1)|
+|[HLF](https://finance.yahoo.com/quote/HLF)|Herbalife Ltd|7.28|16.44|91 |
+|[AA](https://finance.yahoo.com/quote/AA)|Alcoa Corp|24.79|63.26|91 (+1)|
+|[DINO](https://finance.yahoo.com/quote/DINO)|HF Sinclair Corp|31.31|71.08|91 (-2)|
+|[PKX](https://finance.yahoo.com/quote/PKX)|Posco Holdings Inc ADR|45.59|88.23|91 (+1)|
+|[PBF](https://finance.yahoo.com/quote/PBF)|PBF Energy Inc|17.73|41.59|91 (-3)|
+|[CMI](https://finance.yahoo.com/quote/CMI)|Cummins Inc|296.78|715.76|91 (+2)|
+|[PBR](https://finance.yahoo.com/quote/PBR)|Petroleo Brasileiro ADR Reptg 2|10.61|20.91|91 (-1)|
+|[KMT](https://finance.yahoo.com/quote/KMT)|Kennametal Inc|19.34|43.27|91 (+5)|
+|[RRX](https://finance.yahoo.com/quote/RRX)|Regal Rexnord Corp|109.27|231.37|91 (+1)|
+|[PRM](https://finance.yahoo.com/quote/PRM)|Perimeter Solutions Inc|10.64|27.41|91 (-2)|
+|[SOC](https://finance.yahoo.com/quote/SOC)|Sable Offshore Corp|19.78|13.41|91 (+1)|
+|[ZIM](https://finance.yahoo.com/quote/ZIM)|ZIM Integrated Shipping Services Ltd|13.91|27.84|91 |
+|[HLIO](https://finance.yahoo.com/quote/HLIO)|Helios Technologies Inc|27.53|69.81|90 (+2)|
+|[OOMA](https://finance.yahoo.com/quote/OOMA)|Ooma Inc|12.62|18.57|90 (-1)|
+|[CC](https://finance.yahoo.com/quote/CC)|Chemours Co|11.79|23.67|90 (-6)|
+|[ULS](https://finance.yahoo.com/quote/ULS)|UL Solutions Inc|59.54|104.89|90 (-1)|
+|[LPG](https://finance.yahoo.com/quote/LPG)|Dorian LPG Ltd|20.07|39.05|90 |
+|[HP](https://finance.yahoo.com/quote/HP)|Helmerich and Payne Inc|18.62|39.83|90 (-2)|
+|[OUT](https://finance.yahoo.com/quote/OUT)|OUTFRONT Media Inc|14.76|31.75|90 (+1)|
+|[NXE](https://finance.yahoo.com/quote/NXE)|Nexgen Energy Ltd|5.24|12.88|90 (+3)|
+|[CYD](https://finance.yahoo.com/quote/CYD)|China Yuchai International Ltd|16.14|43.28|90 (+2)|
+|[UNFI](https://finance.yahoo.com/quote/UNFI)|United Natural Foods Inc|26.32|51.81|90 (+1)|
+|[BWLP](https://finance.yahoo.com/quote/BWLP)|BW LPG Ltd|9.72|19.86|90 (-1)|
+|[ATEN](https://finance.yahoo.com/quote/ATEN)|A10 Networks Inc|16.35|26.72|90 (-2)|
+|[MG](https://finance.yahoo.com/quote/MG)|Mistras Group Inc|9.46|18.53|90 (-1)|
+|[W](https://finance.yahoo.com/quote/W)|Wayfair Inc|30.92|66.00|90 (+6)|
+|[ST](https://finance.yahoo.com/quote/ST)|Sensata Technologies Holding PLC|21.65|45.75|90 (+2)|
+|[WCC](https://finance.yahoo.com/quote/WCC)|Wesco International Inc|161.26|363.12|90 (+2)|
+|[SPRU](https://finance.yahoo.com/quote/SPRU)|Spruce Power Holding Corp|2.05|3.52|90 |
+|[STNG](https://finance.yahoo.com/quote/STNG)|Scorpio Tankers Inc|39.70|82.56|90 (-2)|
+|[DAR](https://finance.yahoo.com/quote/DAR)|Darling Ingredients Inc|32.46|63.11|90 (-1)|
+|[TDAY](https://finance.yahoo.com/quote/TDAY)|USA TODAY Co Inc|3.23|7.19|90 (-1)|
+|[EXK](https://finance.yahoo.com/quote/EXK)|Endeavour Silver Corp|3.45|9.31|90 (+2)|
+|[CVI](https://finance.yahoo.com/quote/CVI)|CVR Energy Inc|20.21|32.79|90 (-3)|
+|[PBI](https://finance.yahoo.com/quote/PBI)|Pitney Bowes Inc|8.73|15.03|90 (-2)|
+|[TK](https://finance.yahoo.com/quote/TK)|Teekay Corp Ltd|6.90|13.62|89 (-2)|
+|[OSCR](https://finance.yahoo.com/quote/OSCR)|Oscar Health Inc|13.00|19.84|89 (+8)|
+|[EQNR](https://finance.yahoo.com/quote/EQNR)|Equinor ASA ADR|21.75|38.03|89 (-4)|
+|[SDRL](https://finance.yahoo.com/quote/SDRL)|Seadrill Ltd|22.47|48.32|89 (-1)|
+|[STK](https://finance.yahoo.com/quote/STK)|Columbia Seligman Premium Technology Growth Fund|26.11|51.00|89 (+1)|
+|[TS](https://finance.yahoo.com/quote/TS)|Tenaris SA ADR|32.33|62.43|89 (-1)|
+|[SA](https://finance.yahoo.com/quote/SA)|Seabridge Gold Inc|12.33|30.36|89 (+2)|
+|[GNK](https://finance.yahoo.com/quote/GNK)|Genco Shipping & Trading Ltd|12.89|25.50|89 (+2)|
+|[TALO](https://finance.yahoo.com/quote/TALO)|Talos Energy Inc|7.07|15.05|89 (-2)|
+|[AU](https://finance.yahoo.com/quote/AU)|Anglogold Ashanti PLC|40.31|98.60|89 (+2)|
+|[TEVA](https://finance.yahoo.com/quote/TEVA)|Teva Pharmaceutical Industries Limited.. ADR|16.39|36.34|89 (+1)|
+|[PAAS](https://finance.yahoo.com/quote/PAAS)|Pan American Silver Corp|23.74|56.59|89 (+4)|
+|[GBTG](https://finance.yahoo.com/quote/GBTG)|Global Business Travel Group Inc|6.89|9.43|89 (+1)|
+|[WT](https://finance.yahoo.com/quote/WT)|WisdomTree Inc|9.11|19.06|89 (+2)|
+|[E](https://finance.yahoo.com/quote/E)|Eni SpA ADR|27.61|53.91|89 (-2)|
+|[DNA](https://finance.yahoo.com/quote/DNA)|Ginkgo Bioworks Holdings Inc|6.92|10.08|89 (+6)|
+|[SB](https://finance.yahoo.com/quote/SB)|Safe Bulkers Inc|3.39|6.92|89 |
+|[NIO](https://finance.yahoo.com/quote/NIO)|NIO Inc ADR|3.98|5.90|89 (+2)|
+|[CCO](https://finance.yahoo.com/quote/CCO)|Clear Channel Outdoor Holdings Inc|1.08|2.38|89 |
+|[NUVB](https://finance.yahoo.com/quote/NUVB)|Nuvation Bio Inc|2.38|5.04|89 (+2)|
+|[QVCC](https://finance.yahoo.com/quote/QVCC)|QVC 6.250 Senior Secured Notes due 2068|7.69|11.69|89 (+1)|
+|[ORN](https://finance.yahoo.com/quote/ORN)|Orion Group Holdings Inc|7.16|15.08|89 |
+|[HPE](https://finance.yahoo.com/quote/HPE)|Hewlett Packard Enterprise Co|16.26|30.37|88 (-2)|
+|[DHT](https://finance.yahoo.com/quote/DHT)|DHT Holdings Inc|10.82|18.94|88 (-1)|
+|[CX](https://finance.yahoo.com/quote/CX)|Cemex SAB de CV ADR|6.08|13.55|88 (+3)|
+|[LVWR](https://finance.yahoo.com/quote/LVWR)|LiveWire Group Inc|1.33|1.74|88 |
+|[CW](https://finance.yahoo.com/quote/CW)|Curtiss-Wright Corp|359.30|742.89|88 (+2)|
+|[BVN](https://finance.yahoo.com/quote/BVN)|Compania de Minas Buenaventura SAA ADR|14.44|34.05|88 (+2)|
+|[TPR](https://finance.yahoo.com/quote/TPR)|Tapestry Inc|72.24|148.83|88 (+2)|
+|[NMM](https://finance.yahoo.com/quote/NMM)|Navios Maritime Partners Units|36.28|73.36|88 (-2)|
+|[PDS](https://finance.yahoo.com/quote/PDS)|Precision Drilling Corp(Calgary)|41.24|91.56|88 (-1)|
+|[PR](https://finance.yahoo.com/quote/PR)|Permian Resources Corp|11.41|21.21|88 (-2)|
+|[NGS](https://finance.yahoo.com/quote/NGS)|Natural Gas Services Group Inc|19.02|40.32|88 (-1)|
+|[HAL](https://finance.yahoo.com/quote/HAL)|Halliburton Co|19.33|40.40|88 (-1)|
+|[MT](https://finance.yahoo.com/quote/MT)|ArcelorMittal SA ADR|29.79|63.09|88 (+4)|
+|[NPO](https://finance.yahoo.com/quote/NPO)|Enpro Inc|154.88|306.42|88 (+1)|
+|[MUR](https://finance.yahoo.com/quote/MUR)|Murphy Oil Corp|19.61|38.93|88 (-2)|
+|[VLO](https://finance.yahoo.com/quote/VLO)|Valero Energy Corp|115.93|236.69|88 (-3)|
+|[NUE](https://finance.yahoo.com/quote/NUE)|Nucor Corp|118.69|234.22|88 (+1)|
+|[QVCD](https://finance.yahoo.com/quote/QVCD)|QVC 6.375% Senior Secured Notes Exp 13 Sep 2067|7.86|11.68|88 |
+|[VET](https://finance.yahoo.com/quote/VET)|Vermilion Energy Inc|5.90|11.87|88 (-5)|
+|[CBL](https://finance.yahoo.com/quote/CBL)|CBL & Associates Properties Inc|22.77|44.14|88 (+2)|
+|[CTEV](https://finance.yahoo.com/quote/CTEV)|Claritev Corp|21.37|26.47|88 (+3)|
+|[PSTL](https://finance.yahoo.com/quote/PSTL)|Postal Realty Trust Inc|12.09|23.20|88 (+2)|
+|[UGP](https://finance.yahoo.com/quote/UGP)|Ultrapar Participacoes SA ADR|3.03|5.99|87 |
+|[NGVT](https://finance.yahoo.com/quote/NGVT)|Ingevity Corp|35.52|77.87|87 (-1)|
+|[AESI](https://finance.yahoo.com/quote/AESI)|Atlas Energy Solutions Inc|13.52|18.39|87 (-2)|
+|[ARW](https://finance.yahoo.com/quote/ARW)|Arrow Electronics Inc|116.57|191.85|87 |
+|[AMPY](https://finance.yahoo.com/quote/AMPY)|Amplify Energy Corp|2.60|5.54|87 (-4)|
+|[OII](https://finance.yahoo.com/quote/OII)|Oceaneering International Inc|18.35|37.07|87 |
+|[CALY](https://finance.yahoo.com/quote/CALY)|Callaway Golf Co|6.81|14.78|87 (+1)|
+|[BWA](https://finance.yahoo.com/quote/BWA)|Borgwarner Inc|29.03|59.41|87 |
+|[OVV](https://finance.yahoo.com/quote/OVV)|Ovintiv Inc|33.48|59.90|87 (-3)|
+|[MOV](https://finance.yahoo.com/quote/MOV)|Movado Group Inc|13.25|27.86|87 (+1)|
+|[BWXT](https://finance.yahoo.com/quote/BWXT)|BWX Technologies Inc|111.28|215.20|87 (+6)|
+|[FTK](https://finance.yahoo.com/quote/FTK)|Flotek Industries Inc|7.28|16.33|87 (-1)|
+|[GSL](https://finance.yahoo.com/quote/GSL)|Global Ship Lease Inc|20.50|41.61|87 (+1)|
+|[ASA](https://finance.yahoo.com/quote/ASA)|ASA Gold And Precious Metals Limited|29.47|66.64|87 (+1)|
+|[ORCL](https://finance.yahoo.com/quote/ORCL)|Oracle Corp|147.81|194.03|87 (+6)|
+|[VG](https://finance.yahoo.com/quote/VG)|Venture Global Inc|8.50|12.00|87 (-3)|
+|[SGHC](https://finance.yahoo.com/quote/SGHC)|SGHC Ltd|8.73|12.93|87 (-2)|
+|[SM](https://finance.yahoo.com/quote/SM)|SM Energy Co|20.26|28.55|87 (-4)|
+|[VIK](https://finance.yahoo.com/quote/VIK)|Viking Holdings Ltd(Pembroke)|42.80|86.05|87 (+2)|
+|[AXIA](https://finance.yahoo.com/quote/AXIA)|Axia Energia SA ADR|7.07|12.62|87 (+2)|
+|[IBTA](https://finance.yahoo.com/quote/IBTA)|Ibotta Inc|49.36|37.00|87 (+4)|
+|[KOP](https://finance.yahoo.com/quote/KOP)|Koppers Holdings Inc|25.19|41.61|87 |
+|[AAP](https://finance.yahoo.com/quote/AAP)|Advance Auto Parts Inc|31.19|58.07|86 (+2)|
+|[WDS](https://finance.yahoo.com/quote/WDS)|Woodside Energy Group Ltd ADR|12.50|22.42|86 (-3)|
+|[UAN](https://finance.yahoo.com/quote/UAN)|CVR Partners Units|71.40|130.40|86 (-3)|
+|[EGY](https://finance.yahoo.com/quote/EGY)|VAALCO Energy Inc|3.07|6.04|86 (-3)|
+|[SU](https://finance.yahoo.com/quote/SU)|Suncor Energy Inc (Canada)|34.23|64.32|86 (-3)|
+|[OPLN](https://finance.yahoo.com/quote/OPLN)|Openlane Inc|19.15|35.94|86 |
+|[NVGS](https://finance.yahoo.com/quote/NVGS)|Navigator Holdings Ltd|12.77|22.66|86 (+1)|
+|[AIR](https://finance.yahoo.com/quote/AIR)|AAR Corp|57.04|118.71|86 (+3)|
+|[IRM](https://finance.yahoo.com/quote/IRM)|Iron Mountain Inc|93.88|132.06|86 (-1)|
+|[PRLB](https://finance.yahoo.com/quote/PRLB)|Proto Labs Inc|39.04|68.89|86 |
+|[BSTZ](https://finance.yahoo.com/quote/BSTZ)|BlackRock Science and Technology Term Closed End Fund|16.23|28.09|86 (+2)|
+|[NPKI](https://finance.yahoo.com/quote/NPKI)|NPK International Inc|7.93|15.71|86 |
+|[MGA](https://finance.yahoo.com/quote/MGA)|Magna International Inc|32.23|62.70|86 (+1)|
+|[ALTG](https://finance.yahoo.com/quote/ALTG)|Alta Equipment Group Inc|4.80|8.30|86 |
+|[TBN](https://finance.yahoo.com/quote/TBN)|Tamboran Resources Corp|19.50|35.25|86 (+1)|
+|[ELPC](https://finance.yahoo.com/quote/ELPC)|Companhia Paranaense de Energia ADR|7.37|12.75|86 |
+|[EHAB](https://finance.yahoo.com/quote/EHAB)|Enhabit Inc|7.97|13.77|86 |
+|[AROC](https://finance.yahoo.com/quote/AROC)|Archrock Inc|23.15|39.10|86 (-1)|
+|[XPO](https://finance.yahoo.com/quote/XPO)|XPO Inc|109.29|211.58|86 |
+|[SKM](https://finance.yahoo.com/quote/SKM)|SK Telecom Co Ltd ADR|21.47|36.88|86 (-2)|
+|[MLI](https://finance.yahoo.com/quote/MLI)|Mueller Industries Inc|74.32|139.13|86 (+4)|
+|[NEM](https://finance.yahoo.com/quote/NEM)|Newmont Corporation|52.36|115.10|86 (+1)|
+|[GGB](https://finance.yahoo.com/quote/GGB)|Gerdau SA ADR|2.50|4.93|85 (+2)|
+|[B](https://finance.yahoo.com/quote/B)|Barrick Mining Corp|18.20|41.58|85 (+2)|
+|[CMP](https://finance.yahoo.com/quote/CMP)|Compass Minerals International Inc|13.60|26.46|85 |
+|[HXL](https://finance.yahoo.com/quote/HXL)|Hexcel Corp|49.66|96.48|85 (+1)|
+|[PLOW](https://finance.yahoo.com/quote/PLOW)|Douglas Dynamics Inc|23.55|45.42|85 (-6)|
+|[SCCO](https://finance.yahoo.com/quote/SCCO)|Southern Copper Corp|84.62|183.91|85 (+3)|
+|[ZGN](https://finance.yahoo.com/quote/ZGN)|Ermenegildo Zegna NV|7.99|12.94|85 (+1)|
+|[CRGY](https://finance.yahoo.com/quote/CRGY)|Crescent Energy Co|7.83|13.10|85 (-4)|
+|[CODI](https://finance.yahoo.com/quote/CODI)|Compass Diversified Holdings|17.50|11.62|85 (-3)|
+|[TNK](https://finance.yahoo.com/quote/TNK)|Teekay Tankers Ltd|44.54|79.38|85 (-3)|
+|[TKR](https://finance.yahoo.com/quote/TKR)|Timken Co|65.24|119.70|85 (+4)|
+|[BKD](https://finance.yahoo.com/quote/BKD)|Brookdale Senior Living Inc|6.63|14.18|85 |
+|[MPC](https://finance.yahoo.com/quote/MPC)|Marathon Petroleum Corp|140.32|245.78|85 (-5)|
+|[VAC](https://finance.yahoo.com/quote/VAC)|Marriott Vacations Worldwide Corp|55.77|78.26|85 (+2)|
+|[DSX](https://finance.yahoo.com/quote/DSX)|Diana Shipping Inc|1.46|2.69|85 (-1)|
+|[AMWL](https://finance.yahoo.com/quote/AMWL)|American Well Corp|7.31|7.15|85 (+14)|
+|[NXDT](https://finance.yahoo.com/quote/NXDT)|NexPoint Diversified Real Estate Trust|3.00|5.17|85 |
+|[MSGE](https://finance.yahoo.com/quote/MSGE)|Madison Square Garden Entertainment Corp|33.97|66.95|85 |
+|[HASI](https://finance.yahoo.com/quote/HASI)|HA Sustainable Infrastructure Capital Inc|24.12|43.31|85 (-1)|
+|[OIS](https://finance.yahoo.com/quote/OIS)|Oil States International Inc|4.17|8.91|85 (-3)|
+|[FEDU](https://finance.yahoo.com/quote/FEDU)|Four Seasons Education (Cayman) Inc ADR|7.65|10.50|85 (+3)|
+|[SBS](https://finance.yahoo.com/quote/SBS)|Companhia de Saneamento Basico do Estado de Sao Paulo - SABESP ADR|18.69|33.16|85 |
+|[PII](https://finance.yahoo.com/quote/PII)|Polaris Inc|32.25|67.04|85 (+1)|
+|[UVE](https://finance.yahoo.com/quote/UVE)|Universal Insurance Holdings Inc|24.97|40.32|84 (-1)|
+|[RBC](https://finance.yahoo.com/quote/RBC)|RBC Bearings Inc|342.80|623.19|84 (+1)|
+|[SFL](https://finance.yahoo.com/quote/SFL)|SFL Corporation Ltd|7.91|11.78|84 (-1)|
+|[DAC](https://finance.yahoo.com/quote/DAC)|Danaos Corp|80.53|130.78|84 (+2)|
+|[BKKT](https://finance.yahoo.com/quote/BKKT)|Bakkt Inc|9.38|9.14|84 |
+|[XYZ](https://finance.yahoo.com/quote/XYZ)|Block Inc|46.64|70.83|84 (-2)|
+|[RMAX](https://finance.yahoo.com/quote/RMAX)|Re/Max Holdings Inc|7.94|10.63|84 (+2)|
+|[P](https://finance.yahoo.com/quote/P)|Everpure Inc|47.58|74.43|84 |
+|[ODC](https://finance.yahoo.com/quote/ODC)|Oil-Dri Corporation of America|43.26|75.18|84 |
+|[SHG](https://finance.yahoo.com/quote/SHG)|Shinhan Financial Group Co Ltd ADR|36.50|68.51|84 |
+|[RIO](https://finance.yahoo.com/quote/RIO)|Rio Tinto PLC ADR|56.58|105.51|84 (+3)|
+|[PHIN](https://finance.yahoo.com/quote/PHIN)|Phinia Inc|41.09|78.36|84 (+1)|
+|[IVZ](https://finance.yahoo.com/quote/IVZ)|Invesco Ltd|13.77|27.35|84 (+1)|
+|[RES](https://finance.yahoo.com/quote/RES)|RPC Inc|4.69|7.38|84 (-4)|
+|[KGC](https://finance.yahoo.com/quote/KGC)|Kinross Gold Corp|14.44|30.78|84 (+2)|
+|[RMT](https://finance.yahoo.com/quote/RMT)|Royce Micro Cap Closed Fund|7.70|13.67|84 (+1)|
+|[ERO](https://finance.yahoo.com/quote/ERO)|Ero Copper Corp|12.71|27.07|84 (+2)|
+|[CM](https://finance.yahoo.com/quote/CM)|Canadian Imperial Bank of Commerce|62.62|112.22|84 (+1)|
+|[BHP](https://finance.yahoo.com/quote/BHP)|BHP Group Ltd ADR|47.68|84.33|84 (+5)|
+|[EMF](https://finance.yahoo.com/quote/EMF)|Templeton Emerging Markets Closed Fund|11.92|22.12|84 (+3)|
+|[BFH](https://finance.yahoo.com/quote/BFH)|Bread Financial Holdings Inc|48.20|88.30|84 (+2)|
+|[MATX](https://finance.yahoo.com/quote/MATX)|Matson Inc|108.73|183.73|84 |
+|[XPRO](https://finance.yahoo.com/quote/XPRO)|Expro Group Holdings NV|7.98|16.16|83 (-4)|
+|[GCO](https://finance.yahoo.com/quote/GCO)|Genesco Inc|20.23|34.64|83 |
+|[KSS](https://finance.yahoo.com/quote/KSS)|Kohls Corp|6.81|14.41|83 (+3)|
+|[AMX](https://finance.yahoo.com/quote/AMX)|America Movil SAB de CV ADR|16.72|27.10|83 |
+|[MSGS](https://finance.yahoo.com/quote/MSGS)|Madison Square Garden Sports Corp|188.87|334.92|83 (-2)|
+|[WSR](https://finance.yahoo.com/quote/WSR)|Whitestone REIT|12.16|18.95|83 (-1)|
+|[WST](https://finance.yahoo.com/quote/WST)|West Pharmaceutical Services Inc|210.29|312.55|83 (-1)|
+|[HWM](https://finance.yahoo.com/quote/HWM)|Howmet Aerospace Inc|153.96|256.43|83 (+4)|
+|[TPH](https://finance.yahoo.com/quote/TPH)|Tri Pointe Homes Inc (Delaware)|31.45|46.95|83 (-2)|
+|[CRC](https://finance.yahoo.com/quote/CRC)|California Resources Corp|33.84|61.46|83 (-6)|
+|[DRD](https://finance.yahoo.com/quote/DRD)|DRDGOLD Ltd ADR|14.36|29.17|83 (+3)|
+|[NRT](https://finance.yahoo.com/quote/NRT)|North European Oil Royalty Units|3.99|8.10|83 (-3)|
+|[TECK](https://finance.yahoo.com/quote/TECK)|Teck Resources Ltd|34.67|62.01|83 (+7)|
+|[BWMX](https://finance.yahoo.com/quote/BWMX)|Betterware de Mexico SAPI de CV|8.57|17.11|83 (-1)|
+|[MEC](https://finance.yahoo.com/quote/MEC)|Mayville Engineering Company Inc|13.21|23.35|83 (+1)|
+|[ENVA](https://finance.yahoo.com/quote/ENVA)|Enova International Inc|93.59|172.57|83 (+2)|
+|[PKST](https://finance.yahoo.com/quote/PKST)|Peakstone Realty Trust|11.15|20.99|83 |
+|[C](https://finance.yahoo.com/quote/C)|Citigroup Inc|68.68|127.60|83 |
+|[EC](https://finance.yahoo.com/quote/EC)|Ecopetrol SA ADR|7.51|13.36|83 (-3)|
+|[GOLD](https://finance.yahoo.com/quote/GOLD)|Gold.com Inc|23.59|43.10|83 |
+|[GFI](https://finance.yahoo.com/quote/GFI)|Gold Fields Ltd ADR|22.23|46.20|83 (+3)|
+|[TRGP](https://finance.yahoo.com/quote/TRGP)|Targa Resources Corp|154.71|249.50|83 (-2)|
+|[CMRE](https://finance.yahoo.com/quote/CMRE)|Costamare Inc|9.29|17.27|82 (+2)|
+|[NYT](https://finance.yahoo.com/quote/NYT)|New York Times Co|51.66|83.68|82 (+8)|
+|[DBD](https://finance.yahoo.com/quote/DBD)|Diebold Nixdorf Inc|45.32|79.53|82 (+3)|
+|[DVA](https://finance.yahoo.com/quote/DVA)|DaVita Inc|141.57|193.88|82 (+22)|
+|[KW](https://finance.yahoo.com/quote/KW)|Kennedy-Wilson Holdings Inc|6.19|10.95|82 (+1)|
+|[ROK](https://finance.yahoo.com/quote/ROK)|Rockwell Automation Inc|250.01|459.35|82 (+3)|
+|[DD](https://finance.yahoo.com/quote/DD)|Dupont De Nemours Inc|26.78|50.07|82 |
+|[TFII](https://finance.yahoo.com/quote/TFII)|TFI International Inc|81.08|139.27|82 (+1)|
+|[WF](https://finance.yahoo.com/quote/WF)|Woori Financial Group Inc ADR|37.42|68.75|82 (-2)|
+|[BBBY](https://finance.yahoo.com/quote/BBBY)|Bed Bath & Beyond Inc|3.84|5.28|82 (+15)|
+|[TTE](https://finance.yahoo.com/quote/TTE)|TotalEnergies SE|54.99|89.96|82 (-3)|
+|[KB](https://finance.yahoo.com/quote/KB)|KB Financial Group Inc ADR|65.20|110.89|82 (+1)|
+|[CNQ](https://finance.yahoo.com/quote/CNQ)|Canadian Natural Resources Ltd|27.40|45.63|82 (-3)|
+|[R](https://finance.yahoo.com/quote/R)|Ryder System Inc|140.33|241.56|82 (-1)|
+|[MD](https://finance.yahoo.com/quote/MD)|Pediatrix Medical Group Inc|12.95|22.21|82 (+6)|
+|[PEB](https://finance.yahoo.com/quote/PEB)|Pebblebrook Hotel Trust|9.05|14.59|82 |
+|[GVA](https://finance.yahoo.com/quote/GVA)|Granite Construction Inc|82.59|142.38|82 |
+|[VALE](https://finance.yahoo.com/quote/VALE)|Vale SA ADR|8.55|16.49|82 (+2)|
+|[BBAI](https://finance.yahoo.com/quote/BBAI)|BigBear.ai Holdings Inc|3.21|4.37|82 (+10)|
+|[ADM](https://finance.yahoo.com/quote/ADM)|Archer-Daniels-Midland Co|45.88|78.02|82 |
+|[CF](https://finance.yahoo.com/quote/CF)|CF Industries Holdings Inc|79.08|119.76|82 (-5)|
+|[STT](https://finance.yahoo.com/quote/STT)|State Street Corp|88.10|151.24|82 (+1)|
+|[TD](https://finance.yahoo.com/quote/TD)|Toronto-Dominion Bank|62.70|108.60|81 (+1)|
+|[LYB](https://finance.yahoo.com/quote/LYB)|LyondellBasell Industries NV|51.45|73.48|81 (-6)|
+|[VLN](https://finance.yahoo.com/quote/VLN)|Valens Semiconductor Ltd|2.74|2.50|81 (+6)|
+|[CMBT](https://finance.yahoo.com/quote/CMBT)|CMB.TECH NV|9.44|14.78|81 |
+|[VMI](https://finance.yahoo.com/quote/VMI)|Valmont Industries Inc|304.31|522.81|81 |
+|[PVH](https://finance.yahoo.com/quote/PVH)|PVH Corp|71.45|91.87|81 (-1)|
+|[MTDR](https://finance.yahoo.com/quote/MTDR)|Matador Resources Co|38.44|57.76|81 (-7)|
+|[CVLG](https://finance.yahoo.com/quote/CVLG)|Covenant Logistics Group Inc|20.33|32.72|81 |
+|[ANET](https://finance.yahoo.com/quote/ANET)|Arista Networks Inc|90.38|147.06|81 (-6)|
+|[FLNG](https://finance.yahoo.com/quote/FLNG)|FLEX LNG Ltd|20.63|31.94|81 (-2)|
+|[BTX](https://finance.yahoo.com/quote/BTX)|BlackRock Technology and Private Equity Term Trust|5.76|8.18|81 (+1)|
+|[GTN](https://finance.yahoo.com/quote/GTN)|Gray Media Inc|3.70|5.53|81 (-1)|
+|[AZZ](https://finance.yahoo.com/quote/AZZ)|AZZ Inc|88.95|146.44|81 (+1)|
+|[KNOP](https://finance.yahoo.com/quote/KNOP)|KNOT Offshore Partners Common Units|6.29|11.16|81 (-1)|
+|[APH](https://finance.yahoo.com/quote/APH)|Amphenol Corp|79.61|138.47|81 (+5)|
+|[VIST](https://finance.yahoo.com/quote/VIST)|Vista Energy SAB de CV ADR|42.77|68.59|81 (-3)|
+|[INVX](https://finance.yahoo.com/quote/INVX)|Innovex International Inc|15.29|27.13|81 (+2)|
+|[TX](https://finance.yahoo.com/quote/TX)|Ternium SA ADR|27.84|48.42|81 (+8)|
+|[MX](https://finance.yahoo.com/quote/MX)|Magnachip Semiconductor Corp|3.02|3.94|81 (-1)|
+|[ARLO](https://finance.yahoo.com/quote/ARLO)|Arlo Technologies Inc|10.25|14.57|81 |
+|[FDX](https://finance.yahoo.com/quote/FDX)|FedEx Corp|212.27|377.19|81 (+2)|
+|[CVEO](https://finance.yahoo.com/quote/CVEO)|Civeo Corp|19.30|31.01|81 (-3)|
+|[BEN](https://finance.yahoo.com/quote/BEN)|Franklin Resources Inc|18.93|31.16|81 (+1)|
+|[OSK](https://finance.yahoo.com/quote/OSK)|Oshkosh Corp|88.17|156.71|80 |
+|[CPAC](https://finance.yahoo.com/quote/CPAC)|Cementos Pacasmayo SAA ADR|5.50|10.49|80 (-2)|
+|[SXI](https://finance.yahoo.com/quote/SXI)|Standex International Corp|157.27|269.11|80 (+3)|
+|[TRN](https://finance.yahoo.com/quote/TRN)|Trinity Industries Inc|23.67|36.25|80 |
+|[LC](https://finance.yahoo.com/quote/LC)|LendingClub Corp|10.30|17.06|80 |
+|[FLR](https://finance.yahoo.com/quote/FLR)|Fluor Corp|34.42|54.20|80 (+4)|
+|[HCC](https://finance.yahoo.com/quote/HCC)|Warrior Met Coal Inc|47.10|87.54|80 (+1)|
+|[DLX](https://finance.yahoo.com/quote/DLX)|Deluxe Corp|14.26|26.22|80 (-9)|
+|[FF](https://finance.yahoo.com/quote/FF)|FutureFuel Corp|3.75|4.79|80 (-3)|
+|[LPL](https://finance.yahoo.com/quote/LPL)|LG Display Co Ltd ADR|3.05|4.54|80 (+1)|
+|[VIV](https://finance.yahoo.com/quote/VIV)|Telefonica Brasil SA ADR|9.44|15.93|80 (-1)|
+|[HG](https://finance.yahoo.com/quote/HG)|Hamilton Insurance Group Ltd|17.81|30.17|80 (-2)|
+|[BEP](https://finance.yahoo.com/quote/BEP)|Brookfield Renewable Partners Non Voting Units|21.70|34.49|80 (+4)|
+|[GKOS](https://finance.yahoo.com/quote/GKOS)|Glaukos Corp|86.86|135.27|80 (+2)|
+|[NOV](https://finance.yahoo.com/quote/NOV)|Nov Inc|11.44|20.18|80 |
+|[BKE](https://finance.yahoo.com/quote/BKE)|Buckle Inc|32.82|54.55|80 |
+|[UNF](https://finance.yahoo.com/quote/UNF)|UniFirst Corp|179.34|254.34|80 |
+|[SLB](https://finance.yahoo.com/quote/SLB)|SLB NV|32.76|55.16|80 (-1)|
+|[INGM](https://finance.yahoo.com/quote/INGM)|Ingram Micro Holding Corp|18.14|26.87|80 (-5)|
+|[BP](https://finance.yahoo.com/quote/BP)|BP PLC ADR|27.56|44.63|80 (-4)|
+|[RDDT](https://finance.yahoo.com/quote/RDDT)|Reddit Inc|116.33|166.56|80 |
+|[DOW](https://finance.yahoo.com/quote/DOW)|Dow Inc|27.11|38.50|80 (-5)|
+|[PSX](https://finance.yahoo.com/quote/PSX)|Phillips 66|103.11|171.72|79 (-5)|
+|[IX](https://finance.yahoo.com/quote/IX)|ORIX Corp ADR|20.21|34.10|79 (+1)|
+|[SNDA](https://finance.yahoo.com/quote/SNDA)|Sonida Senior Living Inc|23.70|37.15|79 (+1)|
+|[SRV](https://finance.yahoo.com/quote/SRV)|NXG Cushing Midstream Energy Closed End Fund|32.85|48.89|79 (-3)|
+|[QUAD](https://finance.yahoo.com/quote/QUAD)|Quad/Graphics Inc|5.21|7.45|79 |
+|[HLX](https://finance.yahoo.com/quote/HLX)|Helix Energy Solutions Group Inc|6.42|9.85|79 (-3)|
+|[MYE](https://finance.yahoo.com/quote/MYE)|Myers Industries Inc|11.25|20.72|79 |
+|[ADNT](https://finance.yahoo.com/quote/ADNT)|Adient PLC|12.87|22.32|79 |
+|[CNC](https://finance.yahoo.com/quote/CNC)|Centene Corp|59.78|55.33|79 (+7)|
+|[M](https://finance.yahoo.com/quote/M)|Macy's Inc|11.32|19.82|79 (+1)|
+|[VVX](https://finance.yahoo.com/quote/VVX)|V2X Inc|48.92|76.53|79 |
+|[BK](https://finance.yahoo.com/quote/BK)|Bank of New York Mellon Corp|80.66|133.64|79 |
+|[ETSY](https://finance.yahoo.com/quote/ETSY)|ETSY Inc|45.08|64.97|79 (+2)|
+|[NVST](https://finance.yahoo.com/quote/NVST)|Envista Holdings Corp|16.97|27.07|79 (+1)|
+|[NSA](https://finance.yahoo.com/quote/NSA)|National Storage Affiliates Trust|35.12|43.36|79 (+2)|
+|[ONL](https://finance.yahoo.com/quote/ONL)|Orion Properties Inc|1.92|2.90|79 |
+|[NLOP](https://finance.yahoo.com/quote/NLOP)|Net Lease Office Properties|9.76|12.94|79 (-2)|
+|[HUN](https://finance.yahoo.com/quote/HUN)|Huntsman Corp|10.94|15.10|79 (+1)|
+|[BG](https://finance.yahoo.com/quote/BG)|Bunge Global SA|75.49|126.05|79 (-2)|
+|[ANVS](https://finance.yahoo.com/quote/ANVS)|Annovis Bio Inc|1.55|2.40|79 (+9)|
+|[EBS](https://finance.yahoo.com/quote/EBS)|Emergent BioSolutions Inc|4.95|9.10|79 (-3)|
+|[CE](https://finance.yahoo.com/quote/CE)|Celanese Corp|44.67|62.12|79 (-8)|
+|[SMHI](https://finance.yahoo.com/quote/SMHI)|SEACOR Marine Holdings Inc|4.63|7.60|78 (+1)|
+|[HR](https://finance.yahoo.com/quote/HR)|Healthcare Realty Trust Inc|14.16|20.24|78 (+1)|
+|[OPY](https://finance.yahoo.com/quote/OPY)|Oppenheimer Holdings Inc|59.40|96.39|78 (-3)|
+|[MFG](https://finance.yahoo.com/quote/MFG)|Mizuho Financial Group Inc ADR|4.90|8.85|78 (+2)|
+|[DBRG](https://finance.yahoo.com/quote/DBRG)|DigitalBridge Group Inc|8.91|15.63|78 (+1)|
+|[HSBC](https://finance.yahoo.com/quote/HSBC)|HSBC Holdings PLC ADR|53.85|91.40|78 (+3)|
+|[PACK](https://finance.yahoo.com/quote/PACK)|Ranpak Holdings Corp|4.29|6.25|78 (+1)|
+|[BTU](https://finance.yahoo.com/quote/BTU)|Peabody Energy Corp|13.34|24.96|78 (-2)|
+|[ITT](https://finance.yahoo.com/quote/ITT)|ITT Inc|142.10|216.63|78 (+1)|
+|[MAC](https://finance.yahoo.com/quote/MAC)|Macerich Co|14.41|22.23|78 (+2)|
+|[AVAL](https://finance.yahoo.com/quote/AVAL)|Grupo Aval Acciones y Valores SA ADR|2.63|4.55|78 (+3)|
+|[SPB](https://finance.yahoo.com/quote/SPB)|Spectrum Brands Holdings Inc|62.93|85.03|78 (+1)|
+|[NPK](https://finance.yahoo.com/quote/NPK)|National Presto Industries Inc|81.27|139.15|78 (+1)|
+|[SAN](https://finance.yahoo.com/quote/SAN)|Banco Santander SA ADR|7.08|12.40|78 (+2)|
+|[GS](https://finance.yahoo.com/quote/GS)|Goldman Sachs Group Inc|548.20|937.35|78 (+3)|
+|[APG](https://finance.yahoo.com/quote/APG)|APi Group Corp|28.57|46.32|78 |
+|[CFG](https://finance.yahoo.com/quote/CFG)|Citizens Financial Group Inc|37.50|65.62|78 (+1)|
+|[HQL](https://finance.yahoo.com/quote/HQL)|abrdn Life Sciences Investors|11.45|18.22|78 (+1)|
+|[MS](https://finance.yahoo.com/quote/MS)|Morgan Stanley|116.78|193.35|78 (+3)|
+|[BMO](https://finance.yahoo.com/quote/BMO)|Bank of Montreal|96.01|155.02|78 (+2)|
+|[JCI](https://finance.yahoo.com/quote/JCI)|Johnson Controls International PLC|88.73|143.14|78 (-3)|
+|[NATL](https://finance.yahoo.com/quote/NATL)|NCR Atleos Corp|29.20|44.78|78 |
+|[SOBO](https://finance.yahoo.com/quote/SOBO)|South Bow Corp|24.26|34.70|77 (-2)|
+|[AMG](https://finance.yahoo.com/quote/AMG)|Affiliated Managers Group Inc|172.57|306.02|77 (-1)|
+|[ASIX](https://finance.yahoo.com/quote/ASIX)|AdvanSix Inc|21.82|25.16|77 (-7)|
+|[GRDN](https://finance.yahoo.com/quote/GRDN)|Guardian Pharmacy Services Inc|25.43|36.58|77 (-2)|
+|[VLRS](https://finance.yahoo.com/quote/VLRS)|Controladora Vuela Compania de Aviacion SAB de CV ADR|4.16|7.85|77 (-1)|
+|[SMR](https://finance.yahoo.com/quote/SMR)|Nuscale Power Corp|17.11|13.52|77 (+23)|
+|[MCY](https://finance.yahoo.com/quote/MCY)|Mercury General Corp|57.64|96.02|77 (-3)|
+|[VIRT](https://finance.yahoo.com/quote/VIRT)|Virtu Financial Inc|40.94|50.19|77 (-2)|
+|[UTI](https://finance.yahoo.com/quote/UTI)|Universal Technical Institute Inc|29.50|36.96|77 (-3)|
+|[BC](https://finance.yahoo.com/quote/BC)|Brunswick Corp|45.40|81.46|77 (+3)|
+|[IBP](https://finance.yahoo.com/quote/IBP)|Installed Building Products Inc|168.12|299.47|77 (+3)|
+|[TV](https://finance.yahoo.com/quote/TV)|Grupo Televisa SAB ADR|1.63|2.88|77 (+1)|
+|[NXG](https://finance.yahoo.com/quote/NXG)|NXG NextGen Infrastructure Income Fund|39.55|58.65|77 (-1)|
+|[SXT](https://finance.yahoo.com/quote/SXT)|Sensient Technologies Corp|92.06|119.12|77 (+2)|
+|[ODV](https://finance.yahoo.com/quote/ODV)|Osisko Development Corp|1.79|3.27|77 (-3)|
+|[CMDB](https://finance.yahoo.com/quote/CMDB)|Costamare Bulkers Holdings Ltd|11.70|18.61|77 (+5)|
+|[CTS](https://finance.yahoo.com/quote/CTS)|CTS Corp|38.88|60.00|77 (+3)|
+|[OXY](https://finance.yahoo.com/quote/OXY)|Occidental Petroleum Corp|37.99|55.12|77 (-6)|
+|[KNX](https://finance.yahoo.com/quote/KNX)|Knight-Swift Transportation Holdings Inc|40.65|64.27|77 (+4)|
+|[LZM](https://finance.yahoo.com/quote/LZM)|Lifezone Metals Ltd|3.51|5.57|77 (+5)|
+|[ACA](https://finance.yahoo.com/quote/ACA)|Arcosa Inc|83.85|131.39|77 (-1)|
+|[DDD](https://finance.yahoo.com/quote/DDD)|3D Systems Corp|2.00|2.52|77 (-2)|
+|[FCX](https://finance.yahoo.com/quote/FCX)|Freeport-McMoRan Inc|36.92|60.89|76 (+5)|
+|[BBD](https://finance.yahoo.com/quote/BBD)|Banco Bradesco ADR Reptg 1 Pref Shs|2.26|3.86|76 (+2)|
+|[MVO](https://finance.yahoo.com/quote/MVO)|MV Oil Trust Units|4.77|2.42|76 (-7)|
+|[AGI](https://finance.yahoo.com/quote/AGI)|Alamos Gold Inc|25.66|42.00|76 (+2)|
+|[URI](https://finance.yahoo.com/quote/URI)|United Rentals Inc|651.98|964.50|76 (-1)|
+|[ABX](https://finance.yahoo.com/quote/ABX)|Abacus Global Management Inc|8.01|9.44|76 (-2)|
+|[ABEV](https://finance.yahoo.com/quote/ABEV)|Ambev SA ADR|2.41|3.43|76 (+1)|
+|[RERE](https://finance.yahoo.com/quote/RERE)|ATRenew Inc ADR|2.39|4.40|76 (+1)|
+|[DVN](https://finance.yahoo.com/quote/DVN)|Devon Energy Corp|29.85|46.60|76 (-8)|
+|[CDLR](https://finance.yahoo.com/quote/CDLR)|Cadeler A/S ADR|22.20|28.95|76 |
+|[SAH](https://finance.yahoo.com/quote/SAH)|Sonic Automotive Inc|61.41|79.00|76 (-2)|
+|[TGT](https://finance.yahoo.com/quote/TGT)|Target Corp|89.90|130.19|76 (+2)|
+|[WELL](https://finance.yahoo.com/quote/WELL)|Welltower Inc|148.46|216.47|76 (+1)|
+|[MATV](https://finance.yahoo.com/quote/MATV)|Mativ Holdings Inc|5.01|9.29|76 |
+|[INN](https://finance.yahoo.com/quote/INN)|Summit Hotel Properties Inc|3.97|5.35|76 (+2)|
+|[FSS](https://finance.yahoo.com/quote/FSS)|Federal Signal Corp|86.89|124.62|76 (+1)|
+|[AHR](https://finance.yahoo.com/quote/AHR)|American Healthcare REIT Inc|31.66|50.02|76 (+2)|
+|[BKV](https://finance.yahoo.com/quote/BKV)|BKV Corp|17.99|29.85|76 (-5)|
+|[DAL](https://finance.yahoo.com/quote/DAL)|Delta Air Lines Inc|44.96|73.34|76 (+1)|
+|[TEX](https://finance.yahoo.com/quote/TEX)|Terex Corp|39.95|64.24|76 (+3)|
+|[MTX](https://finance.yahoo.com/quote/MTX)|Minerals Technologies Inc|52.58|79.29|76 (-1)|
+|[IHS](https://finance.yahoo.com/quote/IHS)|IHS Holding Ltd|4.96|8.20|76 (+1)|
+|[CIG](https://finance.yahoo.com/quote/CIG)|Companhia Energetica Minas Gerais ADR Repstg One Pref Shs|1.66|2.44|76 (+2)|
+|[YPF](https://finance.yahoo.com/quote/YPF)|YPF SA ADR|28.10|43.26|75 (-1)|
+|[TBI](https://finance.yahoo.com/quote/TBI)|TrueBlue Inc|4.29|6.05|75 |
+|[SRI](https://finance.yahoo.com/quote/SRI)|Stoneridge Inc|4.31|7.06|75 (-2)|
+|[GM](https://finance.yahoo.com/quote/GM)|General Motors Co|44.92|78.70|75 (+2)|
+|[BST](https://finance.yahoo.com/quote/BST)|BlackRock Science and Technology Trust|30.76|44.46|75 (+3)|
+|[IHD](https://finance.yahoo.com/quote/IHD)|Voya Emerging Markets High Dividend Equity Fund|4.74|7.30|75 |
+|[OLN](https://finance.yahoo.com/quote/OLN)|Olin Corp|19.92|28.80|75 (-3)|
+|[DTM](https://finance.yahoo.com/quote/DTM)|DT Midstream Inc|98.73|144.58|75 (-2)|
+|[LEVI](https://finance.yahoo.com/quote/LEVI)|Levi Strauss & Co|15.87|23.03|75 |
+|[PRSU](https://finance.yahoo.com/quote/PRSU)|Pursuit Attractions and Hospitality Inc|29.73|41.90|75 (-1)|
+|[LEA](https://finance.yahoo.com/quote/LEA)|Lear Corp|85.82|137.57|75 (-1)|
+|[TIMB](https://finance.yahoo.com/quote/TIMB)|Tim SA ADR|15.94|25.02|75 (-5)|
+|[DQ](https://finance.yahoo.com/quote/DQ)|Daqo New Energy Corp ADR|12.77|19.35|75 (-3)|
+|[RL](https://finance.yahoo.com/quote/RL)|Ralph Lauren Corp|235.06|372.15|75 (+1)|
+|[GPRK](https://finance.yahoo.com/quote/GPRK)|GeoPark Ltd|6.37|9.41|75 (-5)|
+|[MTW](https://finance.yahoo.com/quote/MTW)|Manitowoc Company Inc|8.45|13.28|75 (-3)|
+|[TAC](https://finance.yahoo.com/quote/TAC)|TransAlta Corp|9.02|12.79|75 (+4)|
+|[VSTS](https://finance.yahoo.com/quote/VSTS)|Vestis Corp|8.88|9.22|75 (-1)|
+|[ETN](https://finance.yahoo.com/quote/ETN)|Eaton Corporation PLC|295.97|421.39|75 (+1)|
+|[BAP](https://finance.yahoo.com/quote/BAP)|Credicorp Ltd|190.01|326.55|75 (+2)|
+|[BNS](https://finance.yahoo.com/quote/BNS)|Bank of Nova Scotia|49.54|78.45|75 (+2)|
+|[AXR](https://finance.yahoo.com/quote/AXR)|AMREP Corp|22.22|27.15|75 (-2)|
+|[AKA](https://finance.yahoo.com/quote/AKA)|AKA Brands Holding Corp|7.23|10.98|74 (-5)|
+|[MUSA](https://finance.yahoo.com/quote/MUSA)|Murphy USA Inc|504.16|576.37|74 (-7)|
+|[U](https://finance.yahoo.com/quote/U)|Unity Software Inc|21.47|27.28|74 (+1)|
+|[XHR](https://finance.yahoo.com/quote/XHR)|Xenia Hotels & Resorts Inc|11.08|16.74|74 (-3)|
+|[CAF](https://finance.yahoo.com/quote/CAF)|Morgan Stanley China A Share Closed Fund|12.62|19.40|74 (+1)|
+|[BBDO](https://finance.yahoo.com/quote/BBDO)|Banco Bradesco ADS Representing 1 Ord Shs|2.16|3.49|74 |
+|[WPM](https://finance.yahoo.com/quote/WPM)|Wheaton Precious Metals Corp|83.11|134.57|74 (+4)|
+|[NCZ](https://finance.yahoo.com/quote/NCZ)|Virtus Convertible and Income Fund II|10.54|15.67|74 (+2)|
+|[AEM](https://finance.yahoo.com/quote/AEM)|Agnico Eagle Mines Ltd|113.13|189.81|74 (+3)|
+|[SILA](https://finance.yahoo.com/quote/SILA)|Sila Realty Trust Inc|24.40|30.58|74 |
+|[CII](https://finance.yahoo.com/quote/CII)|BlackRock Enhanced Large Cap Core Closed End Fund|16.27|24.57|74 (+1)|
+|[NCV](https://finance.yahoo.com/quote/NCV)|Virtus Convertible And Income Fund|11.70|17.28|74 (+2)|
+|[RY](https://finance.yahoo.com/quote/RY)|Royal Bank of Canada|119.13|181.63|74 (+2)|
+|[JHG](https://finance.yahoo.com/quote/JHG)|Janus Henderson Group PLC|34.18|51.71|74 (+1)|
+|[CLDT](https://finance.yahoo.com/quote/CLDT)|Chatham Lodging Trust|6.66|8.85|74 (-3)|
+|[SBH](https://finance.yahoo.com/quote/SBH)|Sally Beauty Holdings Inc|8.02|13.98|74 (+2)|
+|[ETR](https://finance.yahoo.com/quote/ETR)|Entergy Corp|82.28|112.96|74 (-4)|
+|[ZTO](https://finance.yahoo.com/quote/ZTO)|ZTO Express (Cayman) Inc ADR|18.60|25.88|74 (+1)|
+|[ARMK](https://finance.yahoo.com/quote/ARMK)|Aramark|33.81|45.78|74 (-2)|
+|[TDOC](https://finance.yahoo.com/quote/TDOC)|Teladoc Health Inc|7.15|6.80|74 (+5)|
+|[LMND](https://finance.yahoo.com/quote/LMND)|Lemonade Inc|30.00|53.00|74 (-4)|
+|[FVR](https://finance.yahoo.com/quote/FVR)|FrontView REIT Inc|11.76|17.49|74 |
+|[BLX](https://finance.yahoo.com/quote/BLX)|Banco Latinoamericano de Comercio Exterior SA|38.25|54.94|73 (+3)|
+|[SMFG](https://finance.yahoo.com/quote/SMFG)|Sumitomo Mitsui Financial Group  Inc ADR|14.02|21.92|73 (+2)|
+|[OR](https://finance.yahoo.com/quote/OR)|OR Royalties Inc|23.54|38.74|73 (+5)|
+|[KEX](https://finance.yahoo.com/quote/KEX)|Kirby Corp|104.53|142.55|73 (-2)|
+|[GDOT](https://finance.yahoo.com/quote/GDOT)|Green Dot Corp|8.12|12.56|73 |
+|[BBU](https://finance.yahoo.com/quote/BBU)|Brookfield Business Partners Units|22.04|34.40|73 (+1)|
+|[EAF](https://finance.yahoo.com/quote/EAF)|GrafTech International Ltd|5.90|9.45|73 (+4)|
+|[AS](https://finance.yahoo.com/quote/AS)|Amer Sports Inc|25.72|37.19|73 (+6)|
+|[AIO](https://finance.yahoo.com/quote/AIO)|Virtus Artificial Intelligence and Technology Opportunities Fund|18.92|25.76|73 (+2)|
+|[WAB](https://finance.yahoo.com/quote/WAB)|Westinghouse Air Brake Technologies Corp|189.85|270.49|73 (+2)|
+|[KNTK](https://finance.yahoo.com/quote/KNTK)|Kinetik Holdings Inc|37.23|48.22|73 (-3)|
+|[WS](https://finance.yahoo.com/quote/WS)|Worthington Steel Inc|25.65|41.88|73 (+4)|
+|[CVS](https://finance.yahoo.com/quote/CVS)|CVS Health Corp|64.73|86.86|73 (+12)|
+|[MEI](https://finance.yahoo.com/quote/MEI)|Methode Electronics Inc|6.40|9.28|73 (+3)|
+|[MSM](https://finance.yahoo.com/quote/MSM)|MSC Industrial Direct Co Inc|74.29|105.01|73 (+1)|
+|[CEE](https://finance.yahoo.com/quote/CEE)|Central and Eastern Europe Fund Inc|14.58|21.12|73 (+3)|
+|[CAVA](https://finance.yahoo.com/quote/CAVA)|CAVA Group Inc|95.84|89.51|73 (-5)|
+|[DDS](https://finance.yahoo.com/quote/DDS)|Dillard's Inc|338.33|571.47|73 (+3)|
+|[VFC](https://finance.yahoo.com/quote/VFC)|VF Corp|12.28|19.41|73 (+8)|
+|[GNT](https://finance.yahoo.com/quote/GNT)|GAMCO Natural Resources Gold & Income Trust|5.51|8.36|73 (+1)|
+|[CIB](https://finance.yahoo.com/quote/CIB)|Grupo Cibest SA ADR|39.76|66.84|73 (+3)|
+|[KFRC](https://finance.yahoo.com/quote/KFRC)|Kforce Inc|35.79|42.09|73 (-4)|
+|[DAO](https://finance.yahoo.com/quote/DAO)|Youdao Inc ADR|8.76|11.60|72 (+5)|
+|[EVR](https://finance.yahoo.com/quote/EVR)|Evercore Inc|209.47|333.32|72 |
+|[MGY](https://finance.yahoo.com/quote/MGY)|Magnolia Oil & Gas Corp|19.98|28.65|72 (-7)|
+|[SN](https://finance.yahoo.com/quote/SN)|Sharkninja Inc|82.53|115.49|72 |
+|[NBXG](https://finance.yahoo.com/quote/NBXG)|Neuberger Next Gen Connectivity Fund Inc.|11.40|15.29|72 (+3)|
+|[NEE](https://finance.yahoo.com/quote/NEE)|Nextera Energy Inc|64.19|95.39|72 (-1)|
+|[GRMN](https://finance.yahoo.com/quote/GRMN)|Garmin Ltd|187.07|242.82|72 (+3)|
+|[WBS](https://finance.yahoo.com/quote/WBS)|Webster Financial Corp|48.14|73.34|72 (+1)|
+|[RXO](https://finance.yahoo.com/quote/RXO)|RXO Inc|14.36|19.62|72 (+6)|
+|[OBK](https://finance.yahoo.com/quote/OBK)|Origin Bancorp Inc|32.06|47.27|72 (-1)|
+|[COP](https://finance.yahoo.com/quote/COP)|ConocoPhillips|84.71|118.90|72 (-3)|
+|[DEC](https://finance.yahoo.com/quote/DEC)|Diversified Energy Co|11.91|15.35|72 (-7)|
+|[HBB](https://finance.yahoo.com/quote/HBB)|Hamilton Beach Brands Holding Co|14.13|20.28|72 (-1)|
+|[FSM](https://finance.yahoo.com/quote/FSM)|Fortuna Mining Corp|6.04|9.84|72 (+4)|
+|[UBS](https://finance.yahoo.com/quote/UBS)|UBS Group AG|30.00|45.21|72 (+6)|
+|[NPWR](https://finance.yahoo.com/quote/NPWR)|NET Power Inc|1.82|2.17|72 (+16)|
+|[ITUB](https://finance.yahoo.com/quote/ITUB)|Itau Unibanco Holding SA ADR|5.47|8.45|72 |
+|[LUXE](https://finance.yahoo.com/quote/LUXE)|LuxExperience BV ADR|7.42|9.10|72 |
+|[IAE](https://finance.yahoo.com/quote/IAE)|Voya Asia Pacific High Dividend Equity Income Fund|5.64|8.31|72 (+3)|
+|[RTO](https://finance.yahoo.com/quote/RTO)|Rentokil Initial PLC ADR|23.34|34.20|72 |
+|[BGR](https://finance.yahoo.com/quote/BGR)|BlackRock Energy and Resources Closed Fund|11.34|16.15|72 (-4)|
+|[UNH](https://finance.yahoo.com/quote/UNH)|UnitedHealth Group Inc|393.71|367.28|72 (+1)|
+|[TYG](https://finance.yahoo.com/quote/TYG)|Tortoise Energy Infrastructure Closed Fund|35.32|48.95|72 (-2)|
+|[BBVA](https://finance.yahoo.com/quote/BBVA)|Banco Bilbao Vizcaya Argentaria SA ADR|13.37|22.16|71 (+2)|
+|[DCOM](https://finance.yahoo.com/quote/DCOM)|Dime Community Bancshares Inc|25.62|37.19|71 (+2)|
+|[ALSN](https://finance.yahoo.com/quote/ALSN)|Allison Transmission Holdings Inc|97.48|127.70|71 (-2)|
+|[APLE](https://finance.yahoo.com/quote/APLE)|Apple Hospitality REIT Inc|10.61|14.01|71 (+3)|
+|[SD](https://finance.yahoo.com/quote/SD)|SandRidge Energy Inc|8.82|14.48|71 (-5)|
+|[AIT](https://finance.yahoo.com/quote/AIT)|Applied Industrial Technologies Inc|222.47|315.39|71 (+1)|
+|[TDC](https://finance.yahoo.com/quote/TDC)|Teradata Corp|22.10|30.28|71 (-2)|
+|[VTMX](https://finance.yahoo.com/quote/VTMX)|Vesta Real Estate Corporation SAB de CV ADR|27.00|36.38|71 (+2)|
+|[XIFR](https://finance.yahoo.com/quote/XIFR)|XPLR Infrastructure LP|8.11|11.21|71 (+5)|
+|[CUBI](https://finance.yahoo.com/quote/CUBI)|Customers Bancorp Inc|50.85|78.24|71 (+2)|
+|[SUN](https://finance.yahoo.com/quote/SUN)|Sunoco Common Units|51.03|66.91|71 (-3)|
+|[RLJ](https://finance.yahoo.com/quote/RLJ)|RLJ Lodging Trust|6.49|8.78|71 (-2)|
+|[BOOT](https://finance.yahoo.com/quote/BOOT)|Boot Barn Holdings Inc|112.31|171.90|71 (+3)|
+|[EGO](https://finance.yahoo.com/quote/EGO)|Eldorado Gold Corp|19.02|31.66|71 (+4)|
+|[AMR](https://finance.yahoo.com/quote/AMR)|Alpha Metallurgical Resources Inc|128.38|197.16|71 (+4)|
+|[SHEL](https://finance.yahoo.com/quote/SHEL)|Shell PLC ADR|62.61|87.20|71 (-3)|
+|[HQH](https://finance.yahoo.com/quote/HQH)|abrdn Healthcare Investors|14.37|20.30|71 (+1)|
+|[RVT](https://finance.yahoo.com/quote/RVT)|Royce Small-Cap Trust Inc|13.10|18.70|71 (+1)|
+|[TEL](https://finance.yahoo.com/quote/TEL)|TE Connectivity PLC|148.21|216.17|71 (+9)|
+|[ASGI](https://finance.yahoo.com/quote/ASGI)|abrdn Global Infrastructure Income Fund|16.80|24.24|71 (-1)|
+|[EOG](https://finance.yahoo.com/quote/EOG)|EOG Resources Inc|104.79|134.69|71 (-7)|
+|[CVNA](https://finance.yahoo.com/quote/CVNA)|Carvana Co|259.57|389.38|71 (+1)|
+|[HRTG](https://finance.yahoo.com/quote/HRTG)|Heritage Insurance Holdings Inc|20.00|28.72|70 (-4)|
+|[RAMP](https://finance.yahoo.com/quote/RAMP)|Liveramp Holdings Inc|26.86|29.44|70 (-6)|
+|[CTRE](https://finance.yahoo.com/quote/CTRE)|CareTrust REIT Inc|27.77|39.48|70 (-1)|
+|[VRE](https://finance.yahoo.com/quote/VRE)|Veris Residential Inc|15.58|18.95|70 (-1)|
+|[LXFR](https://finance.yahoo.com/quote/LXFR)|Luxfer Holdings PLC|10.63|15.82|70 (+2)|
+|[DKL](https://finance.yahoo.com/quote/DKL)|Delek Logistics Partners Common Units|34.07|51.24|70 (-3)|
+|[ORA](https://finance.yahoo.com/quote/ORA)|Ormat Technologies Inc|70.81|114.86|70 |
+|[ATS](https://finance.yahoo.com/quote/ATS)|ATS Corp|25.37|34.04|70 (-5)|
+|[XOM](https://finance.yahoo.com/quote/XOM)|Exxon Mobil Corp|99.84|148.69|70 (-5)|
+|[ACV](https://finance.yahoo.com/quote/ACV)|Virtus Diversified Income And Convertible Fund|18.42|27.63|70 (+2)|
+|[ING](https://finance.yahoo.com/quote/ING)|ING Groep NV ADR|19.89|29.96|70 (+8)|
+|[ABCB](https://finance.yahoo.com/quote/ABCB)|Ameris Bancorp|59.50|87.26|70 |
+|[PINE](https://finance.yahoo.com/quote/PINE)|Alpine Income Property Trust Inc|14.20|19.48|70 |
+|[NTB](https://finance.yahoo.com/quote/NTB)|Bank of NT Butterfield & Son Ltd|39.75|56.20|70 (+1)|
+|[KRP](https://finance.yahoo.com/quote/KRP)|Kimbell Royalty Partners LP Units|10.73|14.59|70 (-5)|
+|[MXF](https://finance.yahoo.com/quote/MXF)|Mexico Closed Fund|14.52|21.80|70 (+3)|
+|[KEY](https://finance.yahoo.com/quote/KEY)|KeyCorp|14.88|22.23|70 (+1)|
+|[NSC](https://finance.yahoo.com/quote/NSC)|Norfolk Southern Corp|219.17|317.25|70 |
+|[FLS](https://finance.yahoo.com/quote/FLS)|Flowserve Corp|46.55|73.38|70 (+6)|
+|[RCI](https://finance.yahoo.com/quote/RCI)|Rogers Communications Inc|24.57|36.44|70 |
+|[PEO](https://finance.yahoo.com/quote/PEO)|Adams Natural Resources Fund，Inc.|18.15|25.92|70 (-4)|
+|[CMC](https://finance.yahoo.com/quote/CMC)|Commercial Metals Co|45.07|72.15|70 (+5)|
+|[VOYA](https://finance.yahoo.com/quote/VOYA)|Voya Financial Inc|59.07|80.46|69 (-2)|
+|[GCV](https://finance.yahoo.com/quote/GCV)|Gabelli Convertible and Income Securities Mutual Fund|3.16|4.57|69 (+1)|
+|[ACR](https://finance.yahoo.com/quote/ACR)|Acres Commercial Realty Corp|18.79|22.84|69 (+3)|
+|[CRT](https://finance.yahoo.com/quote/CRT)|Cross Timbers Royalty Units|9.37|10.64|69 (-3)|
+|[BCX](https://finance.yahoo.com/quote/BCX)|BlackRock Resources And Commodities Strategy Trust|8.30|12.37|69 (-2)|
+|[PVL](https://finance.yahoo.com/quote/PVL)|Permianville Royalty Unit|1.34|1.89|69 (-2)|
+|[IIPR](https://finance.yahoo.com/quote/IIPR)|Innovative Industrial Properties Inc|47.29|57.70|69 (-7)|
+|[AD](https://finance.yahoo.com/quote/AD)|Array Digital Infrastructure Inc|33.76|49.75|69 (+6)|
+|[AME](https://finance.yahoo.com/quote/AME)|AMETEK Inc|169.17|241.38|69 (+4)|
+|[DLR](https://finance.yahoo.com/quote/DLR)|Digital Realty Trust Inc|161.92|199.68|69 (-1)|
+|[AOD](https://finance.yahoo.com/quote/AOD)|abrdn Total Dynamic Dividend Mutual Fund|7.38|10.40|69 (+2)|
+|[CUK](https://finance.yahoo.com/quote/CUK)|Carnival PLC ADR|17.73|27.47|69 (+7)|
+|[EOD](https://finance.yahoo.com/quote/EOD)|Allspring Global Dividend Opportunity Mutual Fund|4.67|6.47|69 (+1)|
+|[KRMN](https://finance.yahoo.com/quote/KRMN)|Karman Holdings Inc|39.08|63.19|69 (-2)|
+|[JOE](https://finance.yahoo.com/quote/JOE)|St Joe Co|43.42|65.70|69 |
+|[KEP](https://finance.yahoo.com/quote/KEP)|Korea Electric Power Corp ADR|9.42|15.65|69 (-2)|
+|[WLY](https://finance.yahoo.com/quote/WLY)|John Wiley & Sons Inc Class A|42.67|40.67|69 (-3)|
+|[SNDR](https://finance.yahoo.com/quote/SNDR)|Schneider National Inc|22.38|30.90|69 (+2)|
+|[IMAX](https://finance.yahoo.com/quote/IMAX)|Imax Corp|24.34|35.69|69 (+1)|
+|[AER](https://finance.yahoo.com/quote/AER)|AerCap Holdings NV|106.83|151.05|69 (+6)|
+|[STEL](https://finance.yahoo.com/quote/STEL)|Stellar Bancorp Inc|25.34|37.78|69 |
+|[PLD](https://finance.yahoo.com/quote/PLD)|Prologis Inc|101.79|142.90|69 (+1)|
+|[NRG](https://finance.yahoo.com/quote/NRG)|NRG Energy Inc|114.92|150.64|68 (-3)|
+|[GE](https://finance.yahoo.com/quote/GE)|General Electric Co|207.84|305.83|68 (+7)|
+|[PUK](https://finance.yahoo.com/quote/PUK)|Prudential PLC ADR|21.37|32.36|68 (+8)|
+|[PRG](https://finance.yahoo.com/quote/PRG)|PROG Holdings Inc|26.58|36.34|68 |
+|[ZWS](https://finance.yahoo.com/quote/ZWS)|Zurn Elkay Water Solutions Corp|34.45|51.15|68 (-5)|
+|[SPXC](https://finance.yahoo.com/quote/SPXC)|SPX Technologies Inc|147.58|212.74|68 (+1)|
+|[VTR](https://finance.yahoo.com/quote/VTR)|Ventas Inc|64.84|86.62|68 (-1)|
+|[HUBB](https://finance.yahoo.com/quote/HUBB)|Hubbell Inc|349.18|502.34|68 |
+|[OHI](https://finance.yahoo.com/quote/OHI)|Omega Healthcare Investors  Inc|34.00|46.07|68 (-1)|
+|[SKT](https://finance.yahoo.com/quote/SKT)|Tanger Inc|28.25|36.85|68 (+1)|
+|[MUFG](https://finance.yahoo.com/quote/MUFG)|Mitsubishi UFJ Financial Group Inc ADR|12.36|18.39|68 (+4)|
+|[ADX](https://finance.yahoo.com/quote/ADX)|Adams Diversified Equity Fund，Inc.|17.83|24.49|68 (+3)|
+|[LTM](https://finance.yahoo.com/quote/LTM)|LATAM Airlines Group SA ADR|32.30|51.85|68 (+12)|
+|[HUYA](https://finance.yahoo.com/quote/HUYA)|HUYA Inc ADR|2.22|3.28|68 |
+|[FMX](https://finance.yahoo.com/quote/FMX)|Fomento Economico Mexicano SAB de CV ADR|97.21|122.17|68 (+2)|
+|[NC](https://finance.yahoo.com/quote/NC)|NACCO Industries Inc|32.89|50.74|68 (+6)|
+|[CTVA](https://finance.yahoo.com/quote/CTVA)|Corteva Inc|61.80|81.77|68 (-4)|
+|[CEPU](https://finance.yahoo.com/quote/CEPU)|Central Puerto SA ADR|10.35|15.33|68 (+14)|
+|[DXYZ](https://finance.yahoo.com/quote/DXYZ)|Destiny Tech100 Inc|36.98|40.81|68 (+17)|
+|[GATX](https://finance.yahoo.com/quote/GATX)|GATX Corp|145.00|199.55|68 (+3)|
+|[CVX](https://finance.yahoo.com/quote/CVX)|Chevron Corp|129.66|185.16|68 (-5)|
+|[FERG](https://finance.yahoo.com/quote/FERG)|Ferguson Enterprises Inc|169.76|252.21|68 (-1)|
+|[NFJ](https://finance.yahoo.com/quote/NFJ)|Virtus Dividend  Interest & Prem Str Fd|10.72|14.50|67 |
+|[CWEN](https://finance.yahoo.com/quote/CWEN)|Clearway Energy Inc|27.14|38.49|67 (-4)|
+|[KRO](https://finance.yahoo.com/quote/KRO)|Kronos Worldwide Inc|7.13|7.57|67 (-7)|
+|[ENIC](https://finance.yahoo.com/quote/ENIC)|Enel Chile SA ADR|3.51|4.70|67 (+3)|
+|[TRP](https://finance.yahoo.com/quote/TRP)|TC Energy Corp|49.77|65.49|67 (-3)|
+|[MXE](https://finance.yahoo.com/quote/MXE)|Mexico Equity and Income Closed Fund|9.25|13.55|67 (+4)|
+|[YETI](https://finance.yahoo.com/quote/YETI)|Yeti Holdings Inc|28.46|42.46|67 (+9)|
+|[TFPM](https://finance.yahoo.com/quote/TFPM)|Triple Flag Precious Metals Corp|21.54|32.69|67 (+3)|
+|[FRT](https://finance.yahoo.com/quote/FRT)|Federal Realty Investment Trust|90.48|116.77|67 |
+|[LYV](https://finance.yahoo.com/quote/LYV)|Live Nation Entertainment Inc|136.12|167.82|67 (+8)|
+|[SPNT](https://finance.yahoo.com/quote/SPNT)|Siriuspoint Ltd|18.18|23.28|67 (-2)|
+|[GAM](https://finance.yahoo.com/quote/GAM)|General American Investors Closed Fund|46.45|64.61|67 |
+|[WLK](https://finance.yahoo.com/quote/WLK)|Westlake Corp|76.16|99.92|67 (-7)|
+|[CLH](https://finance.yahoo.com/quote/CLH)|Clean Harbors Inc|222.79|287.98|67 (-10)|
+|[MANU](https://finance.yahoo.com/quote/MANU)|Manchester United PLC|14.11|18.84|67 (+1)|
+|[H](https://finance.yahoo.com/quote/H)|Hyatt Hotels Corp|121.71|169.37|67 (+5)|
+|[TG](https://finance.yahoo.com/quote/TG)|Tredegar Corp|8.06|10.09|67 (+5)|
+|[FHI](https://finance.yahoo.com/quote/FHI)|Federated Hermes Inc|40.39|55.58|67 (+1)|
+|[KTB](https://finance.yahoo.com/quote/KTB)|Kontoor Brands Inc|61.67|74.94|67 (-2)|
+|[CBNA](https://finance.yahoo.com/quote/CBNA)|Chain Bridge Bancorp Inc|25.46|37.20|67 (+1)|
+|[JNJ](https://finance.yahoo.com/quote/JNJ)|Johnson & Johnson|150.80|224.62|67 (-1)|
+|[JOF](https://finance.yahoo.com/quote/JOF)|Japan Smaller Capitalization Closed Fund|8.09|11.55|67 (+4)|
+|[LXP](https://finance.yahoo.com/quote/LXP)|LXP Industrial Trust|37.94|52.25|67 (+2)|
+|[BTI](https://finance.yahoo.com/quote/BTI)|British American Tobacco P.l.c ADR|41.29|59.56|66 (-2)|
+|[ET](https://finance.yahoo.com/quote/ET)|Energy Transfer Units|15.00|19.87|66 (-3)|
+|[CRL](https://finance.yahoo.com/quote/CRL)|Charles River Laboratories International Inc|119.44|181.73|66 (-5)|
+|[EIX](https://finance.yahoo.com/quote/EIX)|Edison International|51.85|68.80|66 (-4)|
+|[HZO](https://finance.yahoo.com/quote/HZO)|MarineMax Inc|21.95|31.24|66 (+10)|
+|[NTST](https://finance.yahoo.com/quote/NTST)|Netstreit Corp|15.34|20.57|66 (-1)|
+|[EMBJ](https://finance.yahoo.com/quote/EMBJ)|Embraer SA ADR|46.52|68.42|66 (+12)|
+|[JXN](https://finance.yahoo.com/quote/JXN)|Jackson Financial Inc|78.49|114.90|66 (+8)|
+|[GFF](https://finance.yahoo.com/quote/GFF)|Griffon Corp|70.35|92.58|66 |
+|[AMTB](https://finance.yahoo.com/quote/AMTB)|Amerant Bancorp Inc|17.14|23.37|66 |
+|[GRNT](https://finance.yahoo.com/quote/GRNT)|Granite Ridge Resources Inc|4.52|5.70|66 (-9)|
+|[MRK](https://finance.yahoo.com/quote/MRK)|Merck & Co Inc|79.94|113.56|66 |
+|[CTRA](https://finance.yahoo.com/quote/CTRA)|Coterra Energy Inc|24.43|32.56|66 (-13)|
+|[HE](https://finance.yahoo.com/quote/HE)|Hawaiian Electric Industries Inc|10.34|15.28|66 (-4)|
+|[RHP](https://finance.yahoo.com/quote/RHP)|Ryman Hospitality Properties Inc|90.17|110.95|66 (+1)|
+|[ONT](https://finance.yahoo.com/quote/ONT)|Onterris Inc|15.18|22.00|66 (-1)|
+|[BCAT](https://finance.yahoo.com/quote/BCAT)|BlackRock Capital Allocation Term Closed End Fund|11.87|15.54|66 (+1)|
+|[ACRE](https://finance.yahoo.com/quote/ACRE)|Ares Commercial Real Estate Corp|3.68|5.22|66 (-2)|
+|[EPD](https://finance.yahoo.com/quote/EPD)|Enterprise Products Partners Units|28.10|37.56|66 (-4)|
+|[AM](https://finance.yahoo.com/quote/AM)|Antero Midstream Corp|16.74|21.16|66 (-6)|
+|[SEG](https://finance.yahoo.com/quote/SEG)|Seaport Entertainment Group Inc|19.64|22.90|66 (+5)|
+|[HKD](https://finance.yahoo.com/quote/HKD)|AMTD Digital Inc ADR|2.03|1.75|66 (-11)|
+|[SYF](https://finance.yahoo.com/quote/SYF)|Synchrony Financial|53.31|75.15|65 (-1)|
+|[MDV](https://finance.yahoo.com/quote/MDV)|Modiv Industrial Inc|14.44|17.52|65 (-1)|
+|[IDE](https://finance.yahoo.com/quote/IDE)|Voya Infrastructure Industrials & Materials Fund|9.72|13.56|65 |
+|[VTOL](https://finance.yahoo.com/quote/VTOL)|Bristow Group Inc|29.47|43.16|65 (-13)|
+|[USFD](https://finance.yahoo.com/quote/USFD)|US Foods Holding Corp|68.44|92.05|65 (-2)|
+|[TRC](https://finance.yahoo.com/quote/TRC)|Tejon Ranch Co|17.02|19.72|65 (-1)|
+|[MCB](https://finance.yahoo.com/quote/MCB)|Metropolitan Bank Holding Corp|63.59|90.72|65 (-2)|
+|[VST](https://finance.yahoo.com/quote/VST)|Vistra Corp|139.29|158.29|65 (+3)|
+|[AORT](https://finance.yahoo.com/quote/AORT)|Artivion Inc|23.77|34.73|65 (-5)|
+|[CMCM](https://finance.yahoo.com/quote/CMCM)|Cheetah Mobile Inc ADR|3.75|5.36|65 (+3)|
+|[CIM](https://finance.yahoo.com/quote/CIM)|Chimera Investment Corp|10.80|13.63|65 (-1)|
+|[BKU](https://finance.yahoo.com/quote/BKU)|BankUnited Inc|32.64|47.93|65 (+1)|
+|[RS](https://finance.yahoo.com/quote/RS)|Reliance Inc|290.07|376.48|65 (-1)|
+|[CTO](https://finance.yahoo.com/quote/CTO)|CTO Realty Growth Inc|16.55|20.50|65 (-3)|
+|[NTR](https://finance.yahoo.com/quote/NTR)|Nutrien Ltd|55.27|73.81|65 (-7)|
+|[FR](https://finance.yahoo.com/quote/FR)|First Industrial Realty Trust Inc|47.21|62.52|65 (+1)|
+|[TR](https://finance.yahoo.com/quote/TR)|Tootsie Roll Industries Inc|32.71|41.84|65 (-4)|
+|[GMED](https://finance.yahoo.com/quote/GMED)|Globus Medical Inc|70.50|89.22|65 (-1)|
+|[DOC](https://finance.yahoo.com/quote/DOC)|Healthpeak Properties Inc|16.39|19.50|65 (+35)|
+|[SHO](https://finance.yahoo.com/quote/SHO)|Sunstone Hotel Investors Inc|8.25|10.25|65 (+2)|
+|[BLD](https://finance.yahoo.com/quote/BLD)|TopBuild Corp|292.00|438.93|65 (+5)|
+|[ASPN](https://finance.yahoo.com/quote/ASPN)|Aspen Aerogels Inc|5.49|4.12|65 (+8)|
+|[CWK](https://finance.yahoo.com/quote/CWK)|Cushman & Wakefield Ltd|10.01|14.46|64 (-1)|
+|[GGZ](https://finance.yahoo.com/quote/GGZ)|Gabelli Global Small and Mid Cap Value Closed Fund|11.57|16.01|64 (-1)|
+|[LNG](https://finance.yahoo.com/quote/LNG)|Cheniere Energy Inc|233.27|261.42|64 (-7)|
+|[BANC](https://finance.yahoo.com/quote/BANC)|Banc of California Inc|13.42|19.39|64 (+2)|
+|[RGT](https://finance.yahoo.com/quote/RGT)|Royce Global Trust Inc|10.66|14.61|64 (+3)|
+|[PH](https://finance.yahoo.com/quote/PH)|Parker-Hannifin Corp|610.92|902.66|64 (+4)|
+|[TDS](https://finance.yahoo.com/quote/TDS)|Telephone and Data Systems Inc|31.61|45.52|64 (+5)|
+|[ALLY](https://finance.yahoo.com/quote/ALLY)|Ally Financial Inc|32.06|44.30|64 (+1)|
+|[SPG](https://finance.yahoo.com/quote/SPG)|Simon Property Group Inc|153.23|205.51|64 (-1)|
+|[WMB](https://finance.yahoo.com/quote/WMB)|Williams Companies Inc|58.26|73.76|64 (-4)|
+|[RNGR](https://finance.yahoo.com/quote/RNGR)|Ranger Energy Services Inc|11.67|16.45|64 (-1)|
+|[BCS](https://finance.yahoo.com/quote/BCS)|Barclays PLC ADR|16.05|24.02|64 (+7)|
+|[WLYB](https://finance.yahoo.com/quote/WLYB)|John Wiley & Sons Inc Class B|42.40|41.86|64 (+1)|
+|[AGD](https://finance.yahoo.com/quote/AGD)|abrdn Global Dynamic Dividend Mutual Fund|9.10|12.46|64 (-1)|
+|[LVS](https://finance.yahoo.com/quote/LVS)|Las Vegas Sands Corp|37.31|53.22|64 (+1)|
+|[BUD](https://finance.yahoo.com/quote/BUD)|Anheuser-Busch Inbev SA ADR|64.85|82.09|64 (+1)|
+|[SWX](https://finance.yahoo.com/quote/SWX)|Southwest Gas Holdings Inc|70.76|90.82|64 (-4)|
+|[NIE](https://finance.yahoo.com/quote/NIE)|Virtus Equity And Convertible Income Fund|20.06|26.57|64 (+1)|
+|[ATMU](https://finance.yahoo.com/quote/ATMU)|Atmus Filtration Technologies Inc|36.15|54.25|64 |
+|[HUM](https://finance.yahoo.com/quote/HUM)|Humana Inc|252.70|246.33|64 (+6)|
+|[SIG](https://finance.yahoo.com/quote/SIG)|Signet Jewelers Ltd|60.46|87.53|64 (+7)|
+|[TTC](https://finance.yahoo.com/quote/TTC)|Toro Co|69.60|95.93|64 (+1)|
+|[KRG](https://finance.yahoo.com/quote/KRG)|Kite Realty Group Trust|20.99|26.65|63 (-2)|
+|[GPGI](https://finance.yahoo.com/quote/GPGI)|GPGI Inc|11.25|17.46|63 (+7)|
+|[BURL](https://finance.yahoo.com/quote/BURL)|Burlington Stores Inc|237.04|316.73|63 |
+|[LYG](https://finance.yahoo.com/quote/LYG)|Lloyds Banking Group PLC ADR|3.64|5.44|63 (+4)|
+|[SWK](https://finance.yahoo.com/quote/SWK)|Stanley Black & Decker Inc|57.33|81.03|63 (+6)|
+|[HLT](https://finance.yahoo.com/quote/HLT)|Hilton Worldwide Holdings Inc|238.44|321.51|63 (+2)|
+|[BNL](https://finance.yahoo.com/quote/BNL)|Broadstone Net Lease Inc|14.99|19.88|63 (-1)|
+|[EGP](https://finance.yahoo.com/quote/EGP)|Eastgroup Properties Inc|161.14|203.00|63 (-1)|
+|[AEO](https://finance.yahoo.com/quote/AEO)|American Eagle Outfitters Inc|10.76|16.91|63 (+2)|
+|[NMR](https://finance.yahoo.com/quote/NMR)|Nomura Holdings Inc ADR|5.56|8.16|63 (+2)|
+|[SLF](https://finance.yahoo.com/quote/SLF)|Sun Life Financial Inc|58.86|73.10|63 (-3)|
+|[FNV](https://finance.yahoo.com/quote/FNV)|Franco-Nevada Corp|167.32|234.50|63 (+3)|
+|[MDU](https://finance.yahoo.com/quote/MDU)|MDU Resources Group Inc|16.89|22.31|63 (-2)|
+|[CPF](https://finance.yahoo.com/quote/CPF)|Central Pacific Financial Corp|25.86|34.82|63 (+1)|
+|[MFC](https://finance.yahoo.com/quote/MFC)|Manulife Financial Corp|30.69|39.97|63 (+3)|
+|[SRE](https://finance.yahoo.com/quote/SRE)|Sempra|73.13|93.67|63 (-2)|
+|[EL](https://finance.yahoo.com/quote/EL)|Estee Lauder Companies Inc|56.80|86.67|63 (+8)|
+|[AES](https://finance.yahoo.com/quote/AES)|AES Corp|9.76|14.34|63 (-2)|
+|[PFS](https://finance.yahoo.com/quote/PFS)|Provident Financial Services Inc|16.18|22.62|63 (-1)|
+|[TDY](https://finance.yahoo.com/quote/TDY)|Teledyne Technologies Inc|478.70|644.13|63 (+4)|
+|[CIA](https://finance.yahoo.com/quote/CIA)|Citizens Inc|4.05|5.62|63 (+10)|
+|[RYZ](https://finance.yahoo.com/quote/RYZ)|Ryerson Holding Corp|20.12|28.23|63 (+4)|
+|[DPG](https://finance.yahoo.com/quote/DPG)|Duff & Phelps Utility and Infrastructure Fund Inc|11.47|14.69|63 (-3)|
+|[FIHL](https://finance.yahoo.com/quote/FIHL)|Fidelis Insurance Holdings Ltd|16.50|21.00|62 (-2)|
+|[PRIM](https://finance.yahoo.com/quote/PRIM)|Primoris Services Corp|66.88|101.23|62 (-33)|
+|[LCII](https://finance.yahoo.com/quote/LCII)|LCI Industries|75.39|116.95|62 (+4)|
+|[MNR](https://finance.yahoo.com/quote/MNR)|Mach Natural Resources Units|11.54|13.39|62 (-6)|
+|[AEG](https://finance.yahoo.com/quote/AEG)|Aegon Ltd ADR|6.44|8.39|62 (+2)|
+|[GOOS](https://finance.yahoo.com/quote/GOOS)|Canada Goose Holdings Inc|8.40|12.01|62 (+1)|
+|[LDI](https://finance.yahoo.com/quote/LDI)|loanDepot Inc|1.08|1.40|62 (-1)|
+|[SMBK](https://finance.yahoo.com/quote/SMBK)|SmartFinancial Inc|30.44|42.25|62 |
+|[NNI](https://finance.yahoo.com/quote/NNI)|Nelnet Inc|105.76|140.43|62 (-2)|
+|[BLCO](https://finance.yahoo.com/quote/BLCO)|Bausch + Lomb Corp|11.37|16.00|62 (-1)|
+|[MO](https://finance.yahoo.com/quote/MO)|Altria Group Inc|55.93|70.17|62 (-9)|
+|[LUV](https://finance.yahoo.com/quote/LUV)|Southwest Airlines Co|29.48|41.50|62 (+4)|
+|[DOV](https://finance.yahoo.com/quote/DOV)|Dover Corp|171.16|227.18|62 |
+|[WWW](https://finance.yahoo.com/quote/WWW)|Wolverine World Wide Inc|13.93|17.25|62 |
+|[GTY](https://finance.yahoo.com/quote/GTY)|Getty Realty Corp|26.26|33.08|62 (-3)|
+|[THW](https://finance.yahoo.com/quote/THW)|abrdn World Healthcare Fund|9.75|12.80|62 |
+|[USB](https://finance.yahoo.com/quote/USB)|US Bancorp|39.77|56.16|62 |
+|[MEGI](https://finance.yahoo.com/quote/MEGI)|NYLI CBRE Global Infrstrctr Megatrends Term Fd|12.16|15.31|62 (-2)|
+|[BRX](https://finance.yahoo.com/quote/BRX)|Brixmor Property Group Inc|24.20|30.29|62 (-2)|
+|[GL](https://finance.yahoo.com/quote/GL)|Globe Life Inc|120.46|154.39|62 (-1)|
+|[GTLS](https://finance.yahoo.com/quote/GTLS)|Chart Industries Inc|154.13|207.76|62 (+1)|
+|[SBR](https://finance.yahoo.com/quote/SBR)|Sabine Royalty Units|59.53|75.80|62 (-3)|
+|[QXO](https://finance.yahoo.com/quote/QXO)|QXO Inc|13.86|19.74|61 (+9)|
+|[SES](https://finance.yahoo.com/quote/SES)|SES AI Corp|0.81|0.98|61 (+9)|
+|[IDA](https://finance.yahoo.com/quote/IDA)|Idacorp Inc|113.48|144.08|61 (-3)|
+|[XPER](https://finance.yahoo.com/quote/XPER)|Xperi Inc|7.02|6.90|61 (-6)|
+|[JLL](https://finance.yahoo.com/quote/JLL)|Jones Lang LaSalle Inc|232.84|325.52|61 (+2)|
+|[CURB](https://finance.yahoo.com/quote/CURB)|Curbline Properties Corp.|22.71|27.66|61 (-2)|
+|[BEPC](https://finance.yahoo.com/quote/BEPC)|Brookfield Renewable Corp|26.25|37.40|61 (+6)|
+|[GUT](https://finance.yahoo.com/quote/GUT)|Gabelli Utility Trust|4.76|6.16|61 (-2)|
+|[UNP](https://finance.yahoo.com/quote/UNP)|Union Pacific Corp|211.54|268.23|61 (-1)|
+|[HTB](https://finance.yahoo.com/quote/HTB)|HomeTrust Bancshares Inc|34.77|45.95|61 |
+|[GTES](https://finance.yahoo.com/quote/GTES)|Gates Industrial Corporation PLC|20.00|26.24|61 (+3)|
+|[MCS](https://finance.yahoo.com/quote/MCS)|Marcus Corp|16.07|17.99|61 (-1)|
+|[GNW](https://finance.yahoo.com/quote/GNW)|Genworth Financial Inc|6.90|9.17|61 (+1)|
+|[NVS](https://finance.yahoo.com/quote/NVS)|Novartis AG ADR|109.74|148.36|61 (+2)|
+|[EE](https://finance.yahoo.com/quote/EE)|Excelerate Energy Inc|25.50|34.34|61 (-5)|
+|[AAT](https://finance.yahoo.com/quote/AAT)|American Assets Trust Inc|17.78|21.13|61 (-2)|
+|[TEO](https://finance.yahoo.com/quote/TEO)|Telecom Argentina SA ADR|9.29|12.29|61 (+12)|
+|[FNB](https://finance.yahoo.com/quote/FNB)|FNB Corp|13.24|18.19|61 (+1)|
+|[TNL](https://finance.yahoo.com/quote/TNL)|Travel + Leisure Co|45.23|64.98|61 (+4)|
+|[FHN](https://finance.yahoo.com/quote/FHN)|First Horizon Corp|18.32|25.07|61 (+1)|
+|[FLOC](https://finance.yahoo.com/quote/FLOC)|Flowco Holdings Inc|20.95|24.25|61 (-6)|
+|[PNC](https://finance.yahoo.com/quote/PNC)|PNC Financial Services Group Inc|160.31|222.42|61 (-1)|
+|[KYN](https://finance.yahoo.com/quote/KYN)|Kayne Anderson Energy Infrastructure Fund Inc|10.85|13.79|60 (-4)|
+|[GCTS](https://finance.yahoo.com/quote/GCTS)|GCT Semiconductor Holding Inc|1.41|1.52|60 (-8)|
+|[TXT](https://finance.yahoo.com/quote/TXT)|Textron Inc|70.42|93.09|60 |
+|[EMR](https://finance.yahoo.com/quote/EMR)|Emerson Electric Co|106.61|147.99|60 (+7)|
+|[UE](https://finance.yahoo.com/quote/UE)|Urban Edge Properties|17.66|22.05|60 (-1)|
+|[RF](https://finance.yahoo.com/quote/RF)|Regions Financial Corp|20.25|28.21|60 (-2)|
+|[THC](https://finance.yahoo.com/quote/THC)|Tenet Healthcare Corp|149.03|194.51|60 (+6)|
+|[TSN](https://finance.yahoo.com/quote/TSN)|Tyson Foods Inc|54.16|68.09|60 (+4)|
+|[CCL](https://finance.yahoo.com/quote/CCL)|Carnival Corp|19.47|27.52|60 (+8)|
+|[NLY](https://finance.yahoo.com/quote/NLY)|Annaly Capital Management Inc|16.83|22.54|60 (-1)|
+|[ETO](https://finance.yahoo.com/quote/ETO)|Eaton Vance Tax Advantaged Global Dividend Opportunities Closed Fund|23.19|30.42|60 (+3)|
+|[WPC](https://finance.yahoo.com/quote/WPC)|W.p. Carey Inc|58.18|73.85|60 |
+|[TT](https://finance.yahoo.com/quote/TT)|Trane Technologies PLC|400.14|488.18|60 (+1)|
+|[QSR](https://finance.yahoo.com/quote/QSR)|Restaurant Brands International Inc|64.33|77.20|60 (-13)|
+|[BGS](https://finance.yahoo.com/quote/BGS)|B&G Foods Inc|5.42|5.38|60 (-5)|
+|[KIM](https://finance.yahoo.com/quote/KIM)|Kimco Realty Corp|19.77|23.80|60 |
+|[NREF](https://finance.yahoo.com/quote/NREF)|Nexpoint Real Estate Finance Inc|12.41|15.51|60 (+4)|
+|[SEMR](https://finance.yahoo.com/quote/SEMR)|SEMrush Holdings Inc|10.21|12.00|60 (-5)|
+|[TNC](https://finance.yahoo.com/quote/TNC)|Tennant Co|70.45|87.22|60 (+6)|
+|[NI](https://finance.yahoo.com/quote/NI)|NiSource Inc|38.29|47.51|60 (-3)|
+|[IPI](https://finance.yahoo.com/quote/IPI)|Intrepid Potash Inc|32.57|37.67|60 (-8)|
+|[NMAI](https://finance.yahoo.com/quote/NMAI)|Nuveen Multi-Asset Income Fund|10.90|13.97|60 (+1)|
+|[RRC](https://finance.yahoo.com/quote/RRC)|Range Resources Corp|34.72|41.17|59 (-10)|
+|[CNO](https://finance.yahoo.com/quote/CNO)|CNO Financial Group Inc|36.71|45.71|59 (+1)|
+|[MTUS](https://finance.yahoo.com/quote/MTUS)|Metallus Inc|13.19|19.07|59 (-4)|
+|[SMP](https://finance.yahoo.com/quote/SMP)|Standard Motor Products Inc|27.16|38.88|59 (-4)|
+|[LOB](https://finance.yahoo.com/quote/LOB)|Live Oak Bancshares Inc|26.83|37.74|59 (-1)|
+|[GDV](https://finance.yahoo.com/quote/GDV)|Gabelli Dividend & Income Trust|22.46|29.27|59 |
+|[WHD](https://finance.yahoo.com/quote/WHD)|Cactus Inc|39.48|54.51|59 (-1)|
+|[WTS](https://finance.yahoo.com/quote/WTS)|Watts Water Technologies Inc|212.08|291.99|59 (-1)|
+|[ATKR](https://finance.yahoo.com/quote/ATKR)|Atkore Inc|65.53|76.23|59 |
+|[TEI](https://finance.yahoo.com/quote/TEI)|Templeton Emerging Markets Income Closed Fund|4.71|6.45|59 (+1)|
+|[IHG](https://finance.yahoo.com/quote/IHG)|InterContinental Hotels Group PLC ADR|112.48|145.56|59 |
+|[BUI](https://finance.yahoo.com/quote/BUI)|BlackRock Utilities Infrastructure & Power Oppty|21.41|27.88|59 (-1)|
+|[SST](https://finance.yahoo.com/quote/SST)|System1 Inc|4.12|4.46|59 (+36)|
+|[BSAC](https://finance.yahoo.com/quote/BSAC)|Banco Santander Chile ADR|22.80|31.52|59 (+7)|
+|[AUB](https://finance.yahoo.com/quote/AUB)|Atlantic Union Bankshares Corp|27.87|38.39|59 (+1)|
+|[CNI](https://finance.yahoo.com/quote/CNI)|Canadian National Railway Co|96.82|112.19|59 (+3)|
+|[AVK](https://finance.yahoo.com/quote/AVK)|Advent Convertible and Income Fund|10.08|12.83|59 (+3)|
+|[SMC](https://finance.yahoo.com/quote/SMC)|Summit Midstream Corp|27.35|31.22|59 (-2)|
+|[ALX](https://finance.yahoo.com/quote/ALX)|Alexander's Inc|196.37|253.98|59 (+2)|
+|[ENB](https://finance.yahoo.com/quote/ENB)|Enbridge Inc|44.64|54.20|59 (-4)|
+|[BY](https://finance.yahoo.com/quote/BY)|Byline Bancorp Inc|25.52|33.22|59 (+1)|
+|[GNL](https://finance.yahoo.com/quote/GNL)|Global Net Lease Inc|6.81|9.03|59 (-3)|
+|[DE](https://finance.yahoo.com/quote/DE)|Deere & Co|475.11|591.64|58 |
+|[DKS](https://finance.yahoo.com/quote/DKS)|DICK'S Sporting Goods Inc|185.27|226.50|58 (+7)|
+|[FBP](https://finance.yahoo.com/quote/FBP)|First BanCorp|19.65|24.28|58 |
+|[BOH](https://finance.yahoo.com/quote/BOH)|Bank of Hawaii Corp|65.56|80.69|58 (-1)|
+|[NX](https://finance.yahoo.com/quote/NX)|Quanex Building Products Corp|17.19|20.12|58 (+7)|
+|[ASB](https://finance.yahoo.com/quote/ASB)|Associated Banc-Corp|22.13|28.88|58 (+2)|
+|[HFRO](https://finance.yahoo.com/quote/HFRO)|Highland Opportunities and Income Fund|4.66|6.16|58 (+2)|
+|[JKS](https://finance.yahoo.com/quote/JKS)|JinkoSolar Holding Co Ltd ADR|16.47|23.70|58 (-9)|
+|[HGV](https://finance.yahoo.com/quote/HGV)|Hilton Grand Vacations Inc|38.42|48.61|58 (+6)|
+|[TOL](https://finance.yahoo.com/quote/TOL)|Toll Brothers Inc|103.17|141.60|58 (+3)|
+|[IFS](https://finance.yahoo.com/quote/IFS)|Intercorp Financial Services Inc|33.26|45.44|58 (+3)|
+|[BALY](https://finance.yahoo.com/quote/BALY)|Bally's Corp|12.25|13.17|58 (+1)|
+|[ARI](https://finance.yahoo.com/quote/ARI)|Apollo Commercial Real Estate Finance Inc|8.56|10.95|58 (-2)|
+|[FOR](https://finance.yahoo.com/quote/FOR)|Forestar Group Inc|19.85|27.12|58 (-1)|
+|[PIPR](https://finance.yahoo.com/quote/PIPR)|Piper Sandler Companies|60.08|80.57|58 |
+|[ARR](https://finance.yahoo.com/quote/ARR)|ARMOUR Residential REIT Inc|13.60|17.43|58 (-1)|
+|[VOC](https://finance.yahoo.com/quote/VOC)|VOC Energy Units|2.57|3.08|58 (-9)|
+|[LHX](https://finance.yahoo.com/quote/LHX)|L3harris Technologies  Inc|214.94|302.20|58 (+2)|
+|[NMT](https://finance.yahoo.com/quote/NMT)|Nuveen Massachusetts Quality Municipal Income Fund|11.03|12.97|58 |
+|[EXPD](https://finance.yahoo.com/quote/EXPD)|Expeditors International of Washington Inc|110.42|151.24|58 (-3)|
+|[ZTR](https://finance.yahoo.com/quote/ZTR)|Virtus Total Return Fund Inc.|5.55|6.84|58 (-2)|
+|[BNT](https://finance.yahoo.com/quote/BNT)|Brookfield Wealth Solutions Ltd|36.27|46.48|58 (+1)|
+|[MLR](https://finance.yahoo.com/quote/MLR)|Miller Industries Inc|41.64|48.87|58 (-6)|
+|[NPB](https://finance.yahoo.com/quote/NPB)|Northpointe Bancshares Inc|13.66|17.69|57 (+2)|
+|[BN](https://finance.yahoo.com/quote/BN)|Brookfield Corp|36.21|46.45|57 |
+|[HEQ](https://finance.yahoo.com/quote/HEQ)|John Hancock Diversified Income Fund|9.38|11.64|57 (+1)|
+|[EDF](https://finance.yahoo.com/quote/EDF)|Virtus Stone Harbor Emerging Markets Income Fund|4.25|5.20|57 (-4)|
+|[CATO](https://finance.yahoo.com/quote/CATO)|Cato Corp|2.31|2.88|57 (+6)|
+|[EVT](https://finance.yahoo.com/quote/EVT)|Eaton Vance Tax Advantaged Dividend Income Closed Fund|20.90|26.57|57 (-2)|
+|[RGR](https://finance.yahoo.com/quote/RGR)|Sturm Ruger & Company Inc|33.84|40.51|57 (-7)|
+|[MBI](https://finance.yahoo.com/quote/MBI)|MBIA Inc|4.69|6.10|57 (+12)|
+|[FFA](https://finance.yahoo.com/quote/FFA)|First Trust Enhanced Equity Income Closed Fund|17.78|22.43|57 (+1)|
+|[KWR](https://finance.yahoo.com/quote/KWR)|Quaker Chemical Corp|98.37|141.86|57 (+4)|
+|[BAC](https://finance.yahoo.com/quote/BAC)|Bank of America Corp|40.22|53.60|57 (-1)|
+|[EMO](https://finance.yahoo.com/quote/EMO)|ClearBridge Energy Midstream Opportunity Closed End Fund|40.42|49.54|57 (-4)|
+|[NMG](https://finance.yahoo.com/quote/NMG)|Nouveau Monde Graphite Inc|1.67|2.15|57 (+1)|
+|[GFR](https://finance.yahoo.com/quote/GFR)|Greenfire Resources Ltd|4.64|5.85|57 (-19)|
+|[ETW](https://finance.yahoo.com/quote/ETW)|Eaton Vance Tax Managed Global Buy Write Opportunities Closed Fund|7.53|9.51|57 (+2)|
+|[KMI](https://finance.yahoo.com/quote/KMI)|Kinder Morgan Inc|25.80|31.58|57 (-5)|
+|[TGS](https://finance.yahoo.com/quote/TGS)|Transportadora de Gas del Sur SA ADR|25.30|31.56|57 (+11)|
+|[GSBD](https://finance.yahoo.com/quote/GSBD)|Goldman Sachs BDC Inc|8.84|10.15|57 (-1)|
+|[AZN](https://finance.yahoo.com/quote/AZN)|AstraZeneca PLC|141.71|184.92|57 (+2)|
+|[RTX](https://finance.yahoo.com/quote/RTX)|RTX Corp|126.46|176.74|57 (+6)|
+|[TUYA](https://finance.yahoo.com/quote/TUYA)|Tuya Inc ADR|2.28|2.40|57 (+3)|
+|[ZIP](https://finance.yahoo.com/quote/ZIP)|Ziprecruiter Inc|5.46|3.12|57 (+6)|
+|[OFG](https://finance.yahoo.com/quote/OFG)|OFG Bancorp|40.31|45.96|56 (+2)|
+|[ETG](https://finance.yahoo.com/quote/ETG)|Eaton Vance Tax Advantaged Global Dividend Income Closed Fund|17.79|22.99|56 (+2)|
+|[USAC](https://finance.yahoo.com/quote/USAC)|USA Compression Partners Common Units|22.32|27.00|56 (-3)|
+|[CDP](https://finance.yahoo.com/quote/CDP)|COPT Defense Properties|25.12|31.73|56 (+5)|
+|[BRSP](https://finance.yahoo.com/quote/BRSP)|Brightspire Capital Inc|4.70|5.95|56 (-1)|
+|[WES](https://finance.yahoo.com/quote/WES)|Western Midstream Partners Common Units|32.77|41.25|56 (-8)|
+|[TFC](https://finance.yahoo.com/quote/TFC)|Truist Financial Corp|37.54|50.80|56 (+1)|
+|[EXG](https://finance.yahoo.com/quote/EXG)|Eaton Vance Tax-Managed Global Diversified Equity Income Closed Fund|7.57|9.60|56 (+3)|
+|[FOF](https://finance.yahoo.com/quote/FOF)|Cohen & Steers Closed End Opportunity Closed Fund|11.03|14.18|56 (+2)|
+|[HTD](https://finance.yahoo.com/quote/HTD)|John Hancock Tax Advantaged Dividend Income Closed Fund|21.14|25.78|56 (-1)|
+|[PSO](https://finance.yahoo.com/quote/PSO)|Pearson PLC ADR|15.72|15.22|56 (-1)|
+|[RQI](https://finance.yahoo.com/quote/RQI)|Cohen & Steers Quality Income Realty Fund Inc|11.39|13.42|56 (-1)|
+|[BAK](https://finance.yahoo.com/quote/BAK)|Braskem SA ADR|3.54|3.86|56 (+3)|
+|[DNP](https://finance.yahoo.com/quote/DNP)|DNP Select Income Fund Inc|8.88|10.68|56 (-2)|
+|[TWO](https://finance.yahoo.com/quote/TWO)|Two Harbors Investment Corp|10.38|12.25|56 (-2)|
+|[ACCO](https://finance.yahoo.com/quote/ACCO)|ACCO Brands Corp|3.17|4.03|56 (+3)|
+|[EFC](https://finance.yahoo.com/quote/EFC)|Ellington Financial Inc|11.45|13.57|56 (+5)|
+|[NOAH](https://finance.yahoo.com/quote/NOAH)|Noah Holdings Ltd ADR|8.56|10.94|56 (+6)|
+|[SON](https://finance.yahoo.com/quote/SON)|Sonoco Products Co|42.94|52.30|56 (+2)|
+|[GD](https://finance.yahoo.com/quote/GD)|General Dynamics Corp|267.23|347.27|56 (-1)|
+|[MITT](https://finance.yahoo.com/quote/MITT)|TPG Mortgage Investment Trust Inc|5.91|7.89|56 (-1)|
+|[TBBB](https://finance.yahoo.com/quote/TBBB)|Bbb Foods Inc|30.90|37.38|56 (-5)|
+|[CQP](https://finance.yahoo.com/quote/CQP)|Cheniere Energy Partners Units|56.16|64.00|55 (-9)|
+|[VPV](https://finance.yahoo.com/quote/VPV)|Invesco Pennsylvania Value Municipal Income Trust|9.19|11.18|55 (+1)|
+|[HOG](https://finance.yahoo.com/quote/HOG)|Harley-Davidson Inc|23.04|23.84|55 (-16)|
+|[SSD](https://finance.yahoo.com/quote/SSD)|Simpson Manufacturing Co Inc|153.58|194.28|55 |
+|[IEX](https://finance.yahoo.com/quote/IEX)|IDEX Corp|178.94|218.19|55 (-4)|
+|[BKH](https://finance.yahoo.com/quote/BKH)|Black Hills Corp|58.54|73.92|55 |
+|[PDM](https://finance.yahoo.com/quote/PDM)|Piedmont Realty Trust Inc|6.49|8.45|55 |
+|[NGG](https://finance.yahoo.com/quote/NGG)|National Grid PLC ADR|68.82|87.85|55 (-2)|
+|[SNA](https://finance.yahoo.com/quote/SNA)|Snap-On Inc|305.45|386.32|55 (+3)|
+|[AKR](https://finance.yahoo.com/quote/AKR)|Acadia Realty Trust|18.59|22.16|55 (-1)|
+|[ZETA](https://finance.yahoo.com/quote/ZETA)|Zeta Global Holdings Corp|13.44|17.23|55 (-4)|
+|[HTH](https://finance.yahoo.com/quote/HTH)|Hilltop Holdings Inc|29.34|38.12|55 (-1)|
+|[PDX](https://finance.yahoo.com/quote/PDX)|PIMCO Dynamic Income Strategy Fund|18.04|21.36|55 (-2)|
+|[GEF](https://finance.yahoo.com/quote/GEF)|Greif Inc Class A|51.91|68.22|55 |
+|[CSV](https://finance.yahoo.com/quote/CSV)|Carriage Services Inc|39.42|46.57|55 (-5)|
+|[BBUC](https://finance.yahoo.com/quote/BBUC)|Brookfield Business Holdings Corp|26.76|34.99|55 (+2)|
+|[BRCC](https://finance.yahoo.com/quote/BRCC)|BRC Inc|2.37|1.26|55 (-20)|
+|[ALV](https://finance.yahoo.com/quote/ALV)|Autoliv Inc|92.54|121.25|55 (+2)|
+|[BBDC](https://finance.yahoo.com/quote/BBDC)|Barings BDC Inc|7.58|9.20|55 (-1)|
+|[AGCO](https://finance.yahoo.com/quote/AGCO)|AGCO Corp|94.93|120.23|55 (+4)|
+|[RNST](https://finance.yahoo.com/quote/RNST)|Renasant Corp|32.51|40.63|55 (-1)|
+|[JCE](https://finance.yahoo.com/quote/JCE)|Nuveen Core Equity Alpha Closed Fund|13.28|16.28|55 (+1)|
+|[EMD](https://finance.yahoo.com/quote/EMD)|Western Asset Emerging Markets Debt Fund|8.41|10.74|54 (-1)|
+|[BIP](https://finance.yahoo.com/quote/BIP)|Brookfield Infrastructure Partners Units|29.68|37.13|54 (+3)|
+|[IVR](https://finance.yahoo.com/quote/IVR)|Invesco Mortgage Capital Inc|6.07|8.02|54 (-1)|
+|[SF](https://finance.yahoo.com/quote/SF)|Stifel Financial Corp|58.34|78.48|54 (-2)|
+|[IGD](https://finance.yahoo.com/quote/IGD)|Voya Global Equity Dividend & Premium Opportunity Closed Fund|5.03|6.03|54 (+1)|
+|[EAT](https://finance.yahoo.com/quote/EAT)|Brinker International Inc|128.68|147.11|54 (+7)|
+|[GSK](https://finance.yahoo.com/quote/GSK)|GSK plc ADR|37.36|50.53|54 (-4)|
+|[CAAP](https://finance.yahoo.com/quote/CAAP)|Corporacion America Airports SA|19.35|26.03|54 (+8)|
+|[EMA](https://finance.yahoo.com/quote/EMA)|Emera Inc|42.94|52.27|54 (-4)|
+|[WRBY](https://finance.yahoo.com/quote/WRBY)|Warby Parker Inc|16.96|22.03|54 |
+|[BCH](https://finance.yahoo.com/quote/BCH)|Banco de Chile ADR|27.93|37.68|54 (+4)|
+|[TDF](https://finance.yahoo.com/quote/TDF)|Templeton Dragon Closed Fund|9.05|11.48|54 (+4)|
+|[CP](https://finance.yahoo.com/quote/CP)|Canadian Pacific Kansas City Ltd|73.52|85.98|54 (+2)|
+|[JPM](https://finance.yahoo.com/quote/JPM)|JPMorgan Chase & Co|247.74|314.90|54 (+1)|
+|[PKG](https://finance.yahoo.com/quote/PKG)|Packaging Corp of America|176.87|226.82|54 (+3)|
+|[FC](https://finance.yahoo.com/quote/FC)|Franklin Covey Co|20.86|22.45|54 |
+|[EQS](https://finance.yahoo.com/quote/EQS)|Equus Total Return，Inc.|0.93|1.13|54 (+5)|
+|[SEM](https://finance.yahoo.com/quote/SEM)|Select Medical Holdings Corp|14.49|16.43|54 (-5)|
+|[ETB](https://finance.yahoo.com/quote/ETB)|Eaton Vance Tax Managed Buy Write Income Closed Fund|12.41|15.44|54 |
+|[PBA](https://finance.yahoo.com/quote/PBA)|Pembina Pipeline Corp|38.01|44.83|54 (-8)|
+|[ARCO](https://finance.yahoo.com/quote/ARCO)|Arcos Dorados Holdings Inc|7.54|9.04|54 (-1)|
+|[TTAM](https://finance.yahoo.com/quote/TTAM)|Titan America SA|12.77|17.01|54 (+8)|
+|[DX](https://finance.yahoo.com/quote/DX)|Dynex Capital Inc|10.39|13.35|54 (-1)|
+|[ATO](https://finance.yahoo.com/quote/ATO)|Atmos Energy Corp|157.89|184.76|53 (-6)|
+|[FAF](https://finance.yahoo.com/quote/FAF)|First American Financial Corp|59.43|69.96|53 (+2)|
+|[NBHC](https://finance.yahoo.com/quote/NBHC)|National Bank Holdings Corp|35.26|42.96|53 (-2)|
+|[KRC](https://finance.yahoo.com/quote/KRC)|Kilroy Realty Corp|29.97|35.09|53 (+8)|
+|[CBAN](https://finance.yahoo.com/quote/CBAN)|Colony Bankcorp Inc|15.29|19.72|53 (-3)|
+|[STVN](https://finance.yahoo.com/quote/STVN)|Stevanato Group SpA|22.07|19.00|53 (+1)|
+|[TPL](https://finance.yahoo.com/quote/TPL)|Texas Pacific Land Corp|437.84|419.75|53 (-10)|
+|[BHV](https://finance.yahoo.com/quote/BHV)|BlackRock Virginia Municipal Bond Closed Fund|9.81|11.39|53 (-1)|
+|[TAL](https://finance.yahoo.com/quote/TAL)|TAL Education Group ADR|9.05|11.44|53 (+8)|
+|[LGI](https://finance.yahoo.com/quote/LGI)|Lazard Global Total Return & Income Closed Fund|14.05|17.93|53 (+2)|
+|[FLG](https://finance.yahoo.com/quote/FLG)|Flagstar Bank NA|11.95|14.38|53 (+5)|
+|[GEO](https://finance.yahoo.com/quote/GEO)|Geo Group Inc|31.36|22.20|53 (+41)|
+|[LTC](https://finance.yahoo.com/quote/LTC)|LTC Properties Inc|32.47|38.47|53 (+1)|
+|[KNF](https://finance.yahoo.com/quote/KNF)|Knife River Corp|96.91|91.51|53 (+3)|
+|[NJR](https://finance.yahoo.com/quote/NJR)|New Jersey Resources Corp|47.20|54.86|53 (-4)|
+|[DIN](https://finance.yahoo.com/quote/DIN)|Dine Brands Global Inc|19.41|27.16|53 (-5)|
+|[NIC](https://finance.yahoo.com/quote/NIC)|Nicolet Bankshares  Inc|119.40|148.03|53 |
+|[OKE](https://finance.yahoo.com/quote/OKE)|ONEOK Inc|75.96|85.60|53 (-11)|
+|[JBTM](https://finance.yahoo.com/quote/JBTM)|JBT Marel Corp|102.29|136.52|53 (+13)|
+|[GGT](https://finance.yahoo.com/quote/GGT)|Gabelli Multimedia Trust Inc|3.51|4.20|53 (+3)|
+|[WLKP](https://finance.yahoo.com/quote/WLKP)|Westlake Chemical Partners Units|21.19|23.45|53 (+8)|
+|[RNR](https://finance.yahoo.com/quote/RNR)|Renaissancere Holdings Ltd|245.69|302.63|53 (-6)|
+|[IVT](https://finance.yahoo.com/quote/IVT)|Inventrust Properties Corp|26.98|31.96|52 (-3)|
+|[TFIN](https://finance.yahoo.com/quote/TFIN)|Triumph Financial Inc|54.30|67.22|52 (-5)|
+|[IFF](https://finance.yahoo.com/quote/IFF)|International Flavors & Fragrances Inc|77.27|82.93|52 (+30)|
+|[HESM](https://finance.yahoo.com/quote/HESM)|Hess Midstream LP|34.01|38.22|52 (-9)|
+|[BYD](https://finance.yahoo.com/quote/BYD)|Boyd Gaming Corp|69.44|85.15|52 |
+|[ETV](https://finance.yahoo.com/quote/ETV)|Eaton Vance Tax Managed Buy Write Opportunities Closed Fund|12.04|14.68|52 |
+|[MIR](https://finance.yahoo.com/quote/MIR)|Mirion Technologies Inc|15.95|20.39|52 (+6)|
+|[CSR](https://finance.yahoo.com/quote/CSR)|Centerspace|58.03|67.20|52 (+4)|
+|[TY](https://finance.yahoo.com/quote/TY)|Tri Continental Closed Fund|29.11|34.49|52 (+1)|
+|[TRNO](https://finance.yahoo.com/quote/TRNO)|Terreno Realty Corp|54.96|66.09|52 (+1)|
+|[MGM](https://finance.yahoo.com/quote/MGM)|MGM Resorts International|32.07|38.21|52 (-8)|
+|[PGP](https://finance.yahoo.com/quote/PGP)|PIMCO Global StocksPLUS & Income Fund|7.17|8.97|52 (-2)|
+|[BHR](https://finance.yahoo.com/quote/BHR)|Braemar Hotels & Resorts Inc|1.87|2.56|52 (+9)|
+|[TRTX](https://finance.yahoo.com/quote/TRTX)|TPG RE Finance Trust Inc|6.81|8.59|52 |
+|[MTB](https://finance.yahoo.com/quote/MTB)|M&T Bank Corp|170.29|217.42|52 |
+|[EPR](https://finance.yahoo.com/quote/EPR)|EPR Properties|46.78|56.33|52 (-1)|
+|[SBSI](https://finance.yahoo.com/quote/SBSI)|Southside Bancshares Inc|27.20|33.37|52 (-1)|
+|[KBDC](https://finance.yahoo.com/quote/KBDC)|Kayne Anderson BDC Inc|13.94|15.28|52 (+1)|
+|[ES](https://finance.yahoo.com/quote/ES)|Eversource Energy|56.66|68.52|52 (-2)|
+|[NRK](https://finance.yahoo.com/quote/NRK)|Nuveen New York AMT-Free Quality Municipal Inc Fd|9.26|10.69|52 (+2)|
+|[TJX](https://finance.yahoo.com/quote/TJX)|TJX Companies Inc|127.39|155.45|52 |
+|[WMS](https://finance.yahoo.com/quote/WMS)|Advanced Drainage Systems Inc|114.51|148.72|52 (+5)|
+|[UAA](https://finance.yahoo.com/quote/UAA)|Under Armour Inc Class A|5.90|6.46|51 (+3)|
+|[APD](https://finance.yahoo.com/quote/APD)|Air Products and Chemicals Inc|265.10|300.21|51 (-4)|
+|[AGL](https://finance.yahoo.com/quote/AGL)|agilon health inc|103.00|27.85|51 (+41)|
+|[AX](https://finance.yahoo.com/quote/AX)|Axos Financial Inc|67.67|88.03|51 (-1)|
+|[BA](https://finance.yahoo.com/quote/BA)|Boeing Co|186.46|229.93|51 (+2)|
+|[DIS](https://finance.yahoo.com/quote/DIS)|Walt Disney Co|91.10|108.06|51 (+11)|
+|[RLTY](https://finance.yahoo.com/quote/RLTY)|Cohen & Steers Real Estate Opps and Income Fund|13.96|15.91|51 (-1)|
+|[ASG](https://finance.yahoo.com/quote/ASG)|Liberty All Star Growth Closed Fund|4.62|5.34|51 (+4)|
+|[FTS](https://finance.yahoo.com/quote/FTS)|Fortis Inc|47.46|56.13|51 (-6)|
+|[O](https://finance.yahoo.com/quote/O)|Realty Income Corp|53.91|64.01|51 (-1)|
+|[SR](https://finance.yahoo.com/quote/SR)|Spire Inc|73.05|86.21|51 (-7)|
+|[ECAT](https://finance.yahoo.com/quote/ECAT)|BlackRock ESG Capital Allocation Term Closed End Fund|12.68|15.02|51 (+1)|
+|[KOF](https://finance.yahoo.com/quote/KOF)|Coca-Cola Femsa SAB de CV ADR|90.91|106.95|51 (+2)|
+|[UTF](https://finance.yahoo.com/quote/UTF)|Cohen & Steers Infrastructure Fund Inc|23.79|27.20|51 (-2)|
+|[FCF](https://finance.yahoo.com/quote/FCF)|First Commonwealth Financial Corp|15.31|18.59|51 (-2)|
+|[UA](https://finance.yahoo.com/quote/UA)|Under Armour Inc Class C|5.67|6.25|51 (+2)|
+|[GOLF](https://finance.yahoo.com/quote/GOLF)|Acushnet Holdings Corp|64.99|85.95|51 (-13)|
+|[DEA](https://finance.yahoo.com/quote/DEA)|Easterly Government Properties Inc|19.11|23.29|51 (+1)|
+|[CPA](https://finance.yahoo.com/quote/CPA)|Copa Holdings SA|89.85|122.55|51 (+12)|
+|[GXO](https://finance.yahoo.com/quote/GXO)|GXO Logistics Inc|37.33|49.91|51 |
+|[LTH](https://finance.yahoo.com/quote/LTH)|Life Time Group Holdings  Inc|32.83|33.59|51 (+29)|
+|[EBF](https://finance.yahoo.com/quote/EBF)|Ennis Inc|17.08|20.35|51 (-5)|
+|[PAM](https://finance.yahoo.com/quote/PAM)|Pampa Energia SA ADR|68.93|83.40|50 (+17)|
+|[TFX](https://finance.yahoo.com/quote/TFX)|Teleflex Inc|121.50|123.23|50 (+1)|
+|[GEL](https://finance.yahoo.com/quote/GEL)|Genesis Energy Units Class A|13.24|16.42|50 (-4)|
+|[CPS](https://finance.yahoo.com/quote/CPS)|Cooper-Standard Holdings Inc|23.23|30.69|50 (-8)|
+|[HII](https://finance.yahoo.com/quote/HII)|Huntington Ingalls Industries Inc|228.91|319.54|50 (-4)|
+|[OGS](https://finance.yahoo.com/quote/OGS)|ONE Gas Inc|75.63|86.00|50 (-3)|
+|[RM](https://finance.yahoo.com/quote/RM)|Regional Management Corp|26.51|34.97|50 (-3)|
+|[MAS](https://finance.yahoo.com/quote/MAS)|Masco Corp|60.61|71.95|50 |
+|[AIZ](https://finance.yahoo.com/quote/AIZ)|Assurant Inc|193.44|236.61|50 (-1)|
+|[RCL](https://finance.yahoo.com/quote/RCL)|Royal Caribbean Cruises Ltd|225.44|287.08|50 (+17)|
+|[NAC](https://finance.yahoo.com/quote/NAC)|Nuveen California Quality Municipal Income Fund|10.15|11.98|50 (+1)|
+|[JRS](https://finance.yahoo.com/quote/JRS)|Nuveen Real Estate Income Closed Fund|7.32|8.24|50 (+1)|
+|[BNED](https://finance.yahoo.com/quote/BNED)|Barnes & Noble Education Inc|10.30|10.45|50 (+8)|
+|[OGE](https://finance.yahoo.com/quote/OGE)|OGE Energy Corp|43.48|47.73|50 (-2)|
+|[NWN](https://finance.yahoo.com/quote/NWN)|Northwest Natural Holding Co|41.73|48.66|50 (-16)|
+|[MPLX](https://finance.yahoo.com/quote/MPLX)|MPLX Common Units|46.80|55.66|50 (+1)|
+|[PK](https://finance.yahoo.com/quote/PK)|Park Hotels & Resorts Inc|9.25|11.22|50 (-5)|
+|[BTO](https://finance.yahoo.com/quote/BTO)|John Hancock Financial Opportunities Fund|30.53|37.55|50 |
+|[FTV](https://finance.yahoo.com/quote/FTV)|Fortive Corp|50.70|60.40|50 (-11)|
+|[BOE](https://finance.yahoo.com/quote/BOE)|BlackRock Enhanced Global Dividend Closed End Fund|10.04|11.91|50 (+2)|
+|[NPCT](https://finance.yahoo.com/quote/NPCT)|Nuveen Core Plus Impact Fund|9.12|10.58|50 (+1)|
+|[BLK](https://finance.yahoo.com/quote/BLK)|BlackRock Inc|901.94|1073.57|50 (+4)|
+|[VZ](https://finance.yahoo.com/quote/VZ)|Verizon Communications Inc|40.79|47.44|50 |
+|[RMI](https://finance.yahoo.com/quote/RMI)|RiverNorth Opportunistic Municipal Income Fund Inc|13.45|15.47|49 (+2)|
+|[GBCI](https://finance.yahoo.com/quote/GBCI)|Glacier Bancorp Inc|40.50|49.75|49 (+2)|
+|[BMY](https://finance.yahoo.com/quote/BMY)|Bristol-Myers Squibb Co|47.68|56.59|49 (-3)|
+|[EDD](https://finance.yahoo.com/quote/EDD)|Morgan Stanley Emerging Mrkt Domestic Debt Fd Inc|4.46|5.56|49 (-1)|
+|[CAH](https://finance.yahoo.com/quote/CAH)|Cardinal Health Inc|150.29|191.49|49 (-4)|
+|[NAZ](https://finance.yahoo.com/quote/NAZ)|Nuveen Arizona Quality Municipal Income Fund|11.38|12.72|49 (-1)|
+|[THG](https://finance.yahoo.com/quote/THG)|Hanover Insurance Group Inc|164.89|186.37|49 (+1)|
+|[FT](https://finance.yahoo.com/quote/FT)|Franklin Universal Closed Fund|6.95|8.19|49 (-1)|
+|[GIC](https://finance.yahoo.com/quote/GIC)|Global Industrial Co|24.69|29.75|49 (-18)|
+|[LEG](https://finance.yahoo.com/quote/LEG)|Leggett & Platt Inc|9.11|11.37|49 (+10)|
+|[PAC](https://finance.yahoo.com/quote/PAC)|Grupo Aeroportuario del Pacifico SAB de CV ADR|198.48|249.29|49 (-1)|
+|[CRI](https://finance.yahoo.com/quote/CRI)|Carter's Inc|32.74|37.23|49 (+22)|
+|[NNN](https://finance.yahoo.com/quote/NNN)|NNN REIT Inc|39.93|44.71|49 (-1)|
+|[VGM](https://finance.yahoo.com/quote/VGM)|Invesco Trust For Inv Grade Munis|8.93|10.41|49 (+1)|
+|[UCB](https://finance.yahoo.com/quote/UCB)|United Community Banks Inc|27.54|33.94|49 |
+|[CVSA](https://finance.yahoo.com/quote/CVSA)|Covista Inc|113.97|115.31|49 (-6)|
+|[GIL](https://finance.yahoo.com/quote/GIL)|Gildan Activewear Inc|47.17|61.30|49 (+1)|
+|[MCN](https://finance.yahoo.com/quote/MCN)|XAI Madison Equity Premium Income Fund|5.09|5.97|49 (-2)|
+|[DG](https://finance.yahoo.com/quote/DG)|Dollar General Corp|90.37|116.37|49 (-4)|
+|[MFA](https://finance.yahoo.com/quote/MFA)|MFA Financial Inc|8.51|9.77|49 (+3)|
+|[CXH](https://finance.yahoo.com/quote/CXH)|MFS Investment Grade Municipal Trust|7.30|8.35|49 |
+|[WEX](https://finance.yahoo.com/quote/WEX)|WEX Inc|123.61|144.00|49 (-6)|
+|[NCDL](https://finance.yahoo.com/quote/NCDL)|Nuveen Churchill Direct Lending Corp|13.86|14.65|48 (-2)|
+|[AQN](https://finance.yahoo.com/quote/AQN)|Algonquin Power & Utilities Corp|5.26|6.33|48 (-1)|
+|[OWLT](https://finance.yahoo.com/quote/OWLT)|Owlet Inc|4.02|5.20|48 (-9)|
+|[PNW](https://finance.yahoo.com/quote/PNW)|Pinnacle West Capital Corp|90.33|100.17|48 (-4)|
+|[NMS](https://finance.yahoo.com/quote/NMS)|Nuveen Minnesota Quality Municipal Income Fund|10.78|12.34|48 (+1)|
+|[JRI](https://finance.yahoo.com/quote/JRI)|Nuveen Real Asset Income and Growth Fund|11.49|13.17|48 (+1)|
+|[D](https://finance.yahoo.com/quote/D)|Dominion Energy Inc|52.01|61.64|48 (-5)|
+|[RIV](https://finance.yahoo.com/quote/RIV)|RiverNorth Opportunities Fund Inc|9.99|11.75|48 (-1)|
+|[AEE](https://finance.yahoo.com/quote/AEE)|Ameren Corp|96.75|109.59|48 (-5)|
+|[CPRI](https://finance.yahoo.com/quote/CPRI)|Capri Holdings Ltd|15.41|19.29|48 (+4)|
+|[CHCT](https://finance.yahoo.com/quote/CHCT)|Community Healthcare Trust Inc|15.13|17.51|48 (-4)|
+|[ACH](https://finance.yahoo.com/quote/ACH)|Accendra Health Inc|8.18|3.69|48 (-19)|
+|[BHC](https://finance.yahoo.com/quote/BHC)|Bausch Health Companies Inc|4.93|5.65|48 (+12)|
+|[HMN](https://finance.yahoo.com/quote/HMN)|Horace Mann Educators Corp|40.90|45.65|48 (+2)|
+|[GUG](https://finance.yahoo.com/quote/GUG)|Guggenheim Active Allocation CEF|13.79|15.87|48 |
+|[EOS](https://finance.yahoo.com/quote/EOS)|Eaton Vance Enhanced Equity Income II Closed Fund|20.20|22.66|48 (+1)|
+|[MC](https://finance.yahoo.com/quote/MC)|Moelis & Co|51.89|63.80|48 (+1)|
+|[STAG](https://finance.yahoo.com/quote/STAG)|STAG Industrial Inc|32.43|38.55|48 (+1)|
+|[NOM](https://finance.yahoo.com/quote/NOM)|Nuveen Missouri Quality Municipal Income Fund|9.19|11.00|48 (-12)|
+|[CBT](https://finance.yahoo.com/quote/CBT)|Cabot Corp|75.62|82.41|48 |
+|[PFE](https://finance.yahoo.com/quote/PFE)|Pfizer Inc|22.25|26.53|48 (-2)|
+|[DCI](https://finance.yahoo.com/quote/DCI)|Donaldson Company Inc|65.69|87.66|48 (+1)|
+|[SPXX](https://finance.yahoo.com/quote/SPXX)|Nuveen S&P 500 Dynamic Overwrite Closed End Fund|15.35|17.81|47 (+1)|
+|[HPP](https://finance.yahoo.com/quote/HPP)|Hudson Pacific Properties Inc|15.61|10.63|47 (+25)|
+|[DCH](https://finance.yahoo.com/quote/DCH)|Dauch Corp|4.29|5.80|47 (+1)|
+|[POR](https://finance.yahoo.com/quote/POR)|Portland General Electric Co|40.46|48.82|47 (-3)|
+|[BDJ](https://finance.yahoo.com/quote/BDJ)|BlackRock Enhanced Equity Dividend Trust|7.61|9.21|47 |
+|[ETY](https://finance.yahoo.com/quote/ETY)|Eaton Vance Tax Managed Diversified Equity Income Closed Fund|13.04|14.96|47 (+1)|
+|[HLLY](https://finance.yahoo.com/quote/HLLY)|Holley Inc|2.18|2.87|47 (-19)|
+|[L](https://finance.yahoo.com/quote/L)|Loews Corp|86.34|105.29|47 (-2)|
+|[KMPB](https://finance.yahoo.com/quote/KMPB)|Kemper 5 875 Fixed Rate Reset Junior Subordinated Debentures due 2062|20.72|23.89|47 |
+|[ECCC](https://finance.yahoo.com/quote/ECCC)|Eagle Point Credit Company 6 50 Term Pref Shs Series C|20.92|24.30|47 (-1)|
+|[PEN](https://finance.yahoo.com/quote/PEN)|Penumbra Inc|293.13|324.19|47 (+2)|
+|[PFGC](https://finance.yahoo.com/quote/PFGC)|Performance Food Group Co|82.62|92.88|47 (+22)|
+|[RGA](https://finance.yahoo.com/quote/RGA)|Reinsurance Group of America Inc|192.61|214.59|47 (-1)|
+|[KO](https://finance.yahoo.com/quote/KO)|Coca-Cola Co|69.68|79.23|47 |
+|[CFR](https://finance.yahoo.com/quote/CFR)|Cullen/Frost Bankers Inc|119.95|140.74|47 (-1)|
+|[OMC](https://finance.yahoo.com/quote/OMC)|Omnicom Group Inc|74.14|76.91|47 (-5)|
+|[ALL](https://finance.yahoo.com/quote/ALL)|Allstate Corp|196.38|217.92|47 (-4)|
+|[WDH](https://finance.yahoo.com/quote/WDH)|Waterdrop Inc ADR|1.29|1.59|47 (+2)|
+|[AWP](https://finance.yahoo.com/quote/AWP)|abrdn Global Premier Properties Mutual Fund|10.52|11.96|47 (-1)|
+|[SMG](https://finance.yahoo.com/quote/SMG)|Scotts Miracle-Gro Co|53.74|62.85|47 (+2)|
+|[MTD](https://finance.yahoo.com/quote/MTD)|Mettler-toledo International Inc|1091.13|1327.04|47 (+2)|
+|[TRV](https://finance.yahoo.com/quote/TRV)|Travelers Companies Inc|263.36|301.59|47 (-3)|
+|[HPS](https://finance.yahoo.com/quote/HPS)|John Hancock Preferred Income III Closed Fund|13.17|14.86|46 (-1)|
+|[PAG](https://finance.yahoo.com/quote/PAG)|Penske Automotive Group Inc|151.25|169.73|46 (-3)|
+|[CNP](https://finance.yahoo.com/quote/CNP)|CenterPoint Energy Inc|38.00|42.33|46 (-7)|
+|[NZF](https://finance.yahoo.com/quote/NZF)|Nuveen Municipal Credit Income Fund|11.06|12.67|46 |
+|[AFB](https://finance.yahoo.com/quote/AFB)|AllianceBernstein National Municipal Income Fund|9.85|11.21|46 |
+|[MRP](https://finance.yahoo.com/quote/MRP)|Millrose Properties Inc|23.40|28.19|46 (-15)|
+|[SABA](https://finance.yahoo.com/quote/SABA)|Saba Capital Income & Opportunities Fund II|7.95|8.54|46 |
+|[MUJ](https://finance.yahoo.com/quote/MUJ)|BlackRock MuniHoldings New Jersey Quality Fd，Inc.|10.53|12.24|46 |
+|[TXNM](https://finance.yahoo.com/quote/TXNM)|TXNM Energy Inc|51.07|59.19|46 (+1)|
+|[GHC](https://finance.yahoo.com/quote/GHC)|Graham Holdings Co|934.81|1122.64|46 (-2)|
+|[BSBR](https://finance.yahoo.com/quote/BSBR)|Banco Santander Brasil SA ADR|4.84|5.98|46 (+9)|
+|[EVEX](https://finance.yahoo.com/quote/EVEX)|Eve Holding Inc|3.55|3.24|46 (+35)|
+|[ORC](https://finance.yahoo.com/quote/ORC)|Orchid Island Capital Inc|5.71|6.96|46 (+1)|
+|[CBU](https://finance.yahoo.com/quote/CBU)|Community Financial System Inc|54.59|63.89|46 (-1)|
+|[RDN](https://finance.yahoo.com/quote/RDN)|Radian Group Inc|32.90|35.73|46 (-3)|
+|[EQBK](https://finance.yahoo.com/quote/EQBK)|Equity Bancshares Inc|38.75|45.86|46 (-2)|
+|[SGU](https://finance.yahoo.com/quote/SGU)|Star Group Units|11.46|13.15|46 (+1)|
+|[NMCO](https://finance.yahoo.com/quote/NMCO)|Nuveen Municipal Credit Opportunities Fund|9.46|10.77|46 |
+|[IGR](https://finance.yahoo.com/quote/IGR)|CBRE Global Real Estate Income Fund|4.41|4.89|46 (+2)|
+|[PSA](https://finance.yahoo.com/quote/PSA)|Public Storage|288.14|308.98|46 (+3)|
+|[BFS](https://finance.yahoo.com/quote/BFS)|Saul Centers Inc|30.72|34.21|46 (-3)|
+|[WTM](https://finance.yahoo.com/quote/WTM)|White Mountains Insurance Group Ltd|1785.16|2080.00|46 (-8)|
+|[DHI](https://finance.yahoo.com/quote/DHI)|D.R. Horton Inc|124.60|149.17|45 (+2)|
+|[RCB](https://finance.yahoo.com/quote/RCB)|Ready Capital 6 20 Senior Notes due 2026|22.86|25.34|45 (-1)|
+|[BCSF](https://finance.yahoo.com/quote/BCSF)|Bain Capital Specialty Finance Inc|13.29|13.95|45 (-6)|
+|[RMM](https://finance.yahoo.com/quote/RMM)|RiverNorth Managed Duration Muni Income Fd Inc|12.82|14.54|45 (+2)|
+|[GBX](https://finance.yahoo.com/quote/GBX)|Greenbrier Companies Inc|42.61|50.36|45 (-2)|
+|[CNR](https://finance.yahoo.com/quote/CNR)|Core Natural Resources Inc|73.78|87.77|45 (-3)|
+|[DSM](https://finance.yahoo.com/quote/DSM)|BNY Mellon Strategic Municipal Bond Fund Inc|5.42|6.18|45 (+1)|
+|[VMO](https://finance.yahoo.com/quote/VMO)|Invesco Municipal Opportunity Trust|8.63|9.78|45 (+1)|
+|[PAGS](https://finance.yahoo.com/quote/PAGS)|PagSeguro Digital Ltd|9.07|10.41|45 (+15)|
+|[LEO](https://finance.yahoo.com/quote/LEO)|BNY Mellon Strategic Municipals Inc|5.58|6.44|45 |
+|[HPI](https://finance.yahoo.com/quote/HPI)|John Hancock Preferred Income Closed Fund|14.63|16.34|45 (-1)|
+|[F](https://finance.yahoo.com/quote/F)|Ford Motor Co|9.67|12.17|45 (+9)|
+|[EW](https://finance.yahoo.com/quote/EW)|Edwards Lifesciences Corp|75.11|83.20|45 (+4)|
+|[CCZ](https://finance.yahoo.com/quote/CCZ)|Comcast Holdings ZONES 2 Exchangeable Subor Debentures Exp 15 Nov 2029|61.13|65.85|45 (+11)|
+|[CWAN](https://finance.yahoo.com/quote/CWAN)|Clearwater Analytics Holdings Inc|22.72|24.27|45 (+3)|
+|[LOMA](https://finance.yahoo.com/quote/LOMA)|Loma Negra Compania Industrial Argentina SA ADR|11.02|11.70|45 (+14)|
+|[WDI](https://finance.yahoo.com/quote/WDI)|Western Asset Diversified Income Fund|12.48|13.95|45 (-1)|
+|[NPFD](https://finance.yahoo.com/quote/NPFD)|Nuveen Variable Rate Preferred Income Closed End Fund|16.95|19.33|45 (-1)|
+|[TCBX](https://finance.yahoo.com/quote/TCBX)|Third Coast Bancshares Inc|30.13|37.90|45 (+2)|
+|[AFG](https://finance.yahoo.com/quote/AFG)|American Financial Group Inc|122.59|132.25|45 (+5)|
+|[ANF](https://finance.yahoo.com/quote/ANF)|Abercrombie & Fitch Co|69.44|79.40|45 (+8)|
+|[MPT](https://finance.yahoo.com/quote/MPT)|Medical Properties Trust Inc|4.80|5.23|45 (+8)|
+|[RWTN](https://finance.yahoo.com/quote/RWTN)|Redwood Trust 9 125 Senior Notes Due 2029|22.65|25.45|45 (+1)|
+|[NEA](https://finance.yahoo.com/quote/NEA)|Nuveen AMT-Free Quality Municipal Income Fund|10.19|11.59|44 (+1)|
+|[DEI](https://finance.yahoo.com/quote/DEI)|Douglas Emmett Inc|13.28|12.17|44 (+22)|
+|[MHO](https://finance.yahoo.com/quote/MHO)|M/I Homes Inc|110.53|131.67|44 (+2)|
+|[NVG](https://finance.yahoo.com/quote/NVG)|Nuveen AMT-Free Municipal Credit Income Fund|11.05|12.68|44 (+1)|
+|[DMB](https://finance.yahoo.com/quote/DMB)|BNY Mellon Municipal Bond Infrastructure Fund In|9.65|11.04|44 (+2)|
+|[NRP](https://finance.yahoo.com/quote/NRP)|Natural Resource Partners Units|99.02|115.22|44 (-5)|
+|[VTN](https://finance.yahoo.com/quote/VTN)|Invesco Trust For Inv Grade NY Munis|9.58|11.20|44 (-1)|
+|[RSKD](https://finance.yahoo.com/quote/RSKD)|Riskified Ltd|4.66|4.75|44 (-5)|
+|[NAD](https://finance.yahoo.com/quote/NAD)|Nuveen Quality Municipal Income Fund|10.54|11.93|44 (+3)|
+|[HCI](https://finance.yahoo.com/quote/HCI)|Hci Group Inc|147.25|153.91|44 (-4)|
+|[MMI](https://finance.yahoo.com/quote/MMI)|Marcus & Millichap Inc|29.83|29.01|44 |
+|[NWG](https://finance.yahoo.com/quote/NWG)|NatWest Group PLC ADR|12.31|15.61|44 (+10)|
+|[TKC](https://finance.yahoo.com/quote/TKC)|Turkcell Iletisim Hizmetleri AS ADR|5.62|6.54|44 (+7)|
+|[LNC](https://finance.yahoo.com/quote/LNC)|Lincoln National Corp|31.39|37.62|44 |
+|[AYI](https://finance.yahoo.com/quote/AYI)|Acuity Inc|251.91|295.75|44 (+2)|
+|[WH](https://finance.yahoo.com/quote/WH)|Wyndham Hotels & Resorts Inc|82.39|83.31|44 (+7)|
+|[OXM](https://finance.yahoo.com/quote/OXM)|Oxford Industries Inc|49.40|45.57|44 |
+|[OMF](https://finance.yahoo.com/quote/OMF)|OneMain Holdings Inc|45.35|55.90|44 (+6)|
+|[AVNT](https://finance.yahoo.com/quote/AVNT)|Avient Corp|32.93|37.84|44 |
+|[BBT](https://finance.yahoo.com/quote/BBT)|Beacon Financial Corp|24.74|28.85|44 (-3)|
+|[TPVG](https://finance.yahoo.com/quote/TPVG)|Triplepoint Venture Growth BDC Corp|5.04|5.59|44 (+7)|
+|[KAI](https://finance.yahoo.com/quote/KAI)|Kadant Inc|291.92|327.52|44 (+25)|
+|[GF](https://finance.yahoo.com/quote/GF)|New Germany Fund Inc.|10.73|12.05|43 (+7)|
+|[IQI](https://finance.yahoo.com/quote/IQI)|Invesco Quality Municipal Income Closed Fund|8.76|9.90|43 (+1)|
+|[DTE](https://finance.yahoo.com/quote/DTE)|DTE Energy Co|132.26|142.44|43 (-4)|
+|[PDPA](https://finance.yahoo.com/quote/PDPA)|Pearl Diver Credit 8 00 PRF Series A|22.71|25.24|43 |
+|[OIA](https://finance.yahoo.com/quote/OIA)|Invesco Muni Income Opportunities Trust|5.53|6.20|43 (+2)|
+|[MSI](https://finance.yahoo.com/quote/MSI)|Motorola Solutions Inc|400.99|433.66|43 (-5)|
+|[VKQ](https://finance.yahoo.com/quote/VKQ)|Invesco Municipal Trust|8.65|9.75|43 (+1)|
+|[CNX](https://finance.yahoo.com/quote/CNX)|CNX Resources Corp|30.90|36.55|43 (-11)|
+|[MFM](https://finance.yahoo.com/quote/MFM)|MFS Municipal Income Trust|4.91|5.50|43 (+3)|
+|[BCE](https://finance.yahoo.com/quote/BCE)|BCE Inc|20.29|24.23|43 |
+|[JGH](https://finance.yahoo.com/quote/JGH)|Nuveen Global High Income Fund|11.30|12.74|43 (-2)|
+|[RLX](https://finance.yahoo.com/quote/RLX)|RLX Technology Inc ADR|1.86|2.21|43 (-1)|
+|[MAIN](https://finance.yahoo.com/quote/MAIN)|Main Street Capital Corp|49.41|57.33|43 (+2)|
+|[BRW](https://finance.yahoo.com/quote/BRW)|Saba Capital Income & Opportunities Fund|6.65|6.89|43 (-2)|
+|[JPC](https://finance.yahoo.com/quote/JPC)|Nuveen Preferred & Income Opportunities Fund|7.07|8.04|43 |
+|[SGI](https://finance.yahoo.com/quote/SGI)|Somnigroup International Inc|61.51|78.62|43 (+12)|
+|[LLY](https://finance.yahoo.com/quote/LLY)|Eli Lilly and Co|815.42|987.05|43 (-7)|
+|[FBK](https://finance.yahoo.com/quote/FBK)|FB Financial Corp|43.95|54.29|43 (-1)|
+|[RSF](https://finance.yahoo.com/quote/RSF)|RiverNorth Capital and Income Interval Fund|13.45|14.68|43 (+1)|
+|[BALL](https://finance.yahoo.com/quote/BALL)|Ball Corp|51.10|59.00|43 (+2)|
+|[JBGS](https://finance.yahoo.com/quote/JBGS)|JBG SMITH Properties|14.26|15.80|43 (+12)|
+|[MFAN](https://finance.yahoo.com/quote/MFAN)|MFA Financial 8 875 Senior Notes due 2029|22.66|25.08|43 |
+|[HCA](https://finance.yahoo.com/quote/HCA)|HCA Healthcare Inc|347.05|429.45|42 (-1)|
+|[SPE](https://finance.yahoo.com/quote/SPE)|Special Opportunities Fund，Inc.|12.90|14.54|42 |
+|[PDT](https://finance.yahoo.com/quote/PDT)|John Hancock Premium Dividend Fund|11.71|13.12|42 (-3)|
+|[HPF](https://finance.yahoo.com/quote/HPF)|John Hancock Preferred Income II Closed Fund|14.68|16.16|42 (-1)|
+|[CXE](https://finance.yahoo.com/quote/CXE)|MFS High Income Municipal Trust|3.34|3.76|42 (+3)|
+|[SOR](https://finance.yahoo.com/quote/SOR)|Source Capital Beneficial Interest|39.45|46.45|42 (-2)|
+|[RMMZ](https://finance.yahoo.com/quote/RMMZ)|RiverNorth Managed Duration Muni Income Fd II Inc.|13.36|14.95|42 (-3)|
+|[GJS](https://finance.yahoo.com/quote/GJS)|Strats Sm Trust For Goldman Sachs Group Securities Certificates Series 2006-2|21.22|23.62|42 (-2)|
+|[MFAO](https://finance.yahoo.com/quote/MFAO)|MFA Financial 9 00 Senior Notes due 2029|22.82|25.24|42 |
+|[NAN](https://finance.yahoo.com/quote/NAN)|Nuveen New York Quality Municipal Income Fund|10.38|11.48|42 (+1)|
+|[HIPO](https://finance.yahoo.com/quote/HIPO)|Hippo Holdings Inc|24.08|27.39|42 (-6)|
+|[FPF](https://finance.yahoo.com/quote/FPF)|First Trust Intermediate Duration Preferred & Inc|16.15|18.32|42 (-1)|
+|[CIMO](https://finance.yahoo.com/quote/CIMO)|Chimera Investment 9 250 Senior Notes due 2029|22.87|25.33|42 (-2)|
+|[CIMN](https://finance.yahoo.com/quote/CIMN)|Chimera Investment 9 00 Senior Notes due 2029|22.82|25.27|42 (-2)|
+|[JBK](https://finance.yahoo.com/quote/JBK)|Lehman 3.50% Adjustable Corporate Backed Trust Certificates Goldman Sachs|24.27|26.46|42 (-1)|
+|[HGLB](https://finance.yahoo.com/quote/HGLB)|Highland Global Allocation Fund|7.35|8.22|42 (+1)|
+|[VGI](https://finance.yahoo.com/quote/VGI)|Virtus Global Multi-Sector Income Fund|6.67|7.59|42 (+1)|
+|[ETX](https://finance.yahoo.com/quote/ETX)|Eaton Vance Municipal Income 2028 Term Trust|17.20|18.98|42 (+1)|
+|[DLNG](https://finance.yahoo.com/quote/DLNG)|Dynagas LNG Partners Common Units|3.46|3.85|42 (-6)|
+|[FMN](https://finance.yahoo.com/quote/FMN)|Federated Hermes Premier Municipal Income Closed End Fund|10.13|11.28|42 (+2)|
+|[NUV](https://finance.yahoo.com/quote/NUV)|Nuveen Municipal Value Fund Inc|8.26|9.20|42 |
+|[EIIA](https://finance.yahoo.com/quote/EIIA)|Eagle Point Institutional Income 8 125 Term Prf Shs Series A|22.76|25.23|42 |
+|[EQT](https://finance.yahoo.com/quote/EQT)|EQT Corp|52.89|57.36|41 (-9)|
+|[CRH](https://finance.yahoo.com/quote/CRH)|CRH PLC|97.52|114.91|41 (+3)|
+|[NCA](https://finance.yahoo.com/quote/NCA)|Nuveen California Municipal Value Fund|8.15|9.38|41 (+2)|
+|[PNI](https://finance.yahoo.com/quote/PNI)|PIMCO New York Municipal Income Fund II|6.38|7.07|41 (+1)|
+|[GAB](https://finance.yahoo.com/quote/GAB)|Gabelli Equity Trust Inc|4.97|5.75|41 (+3)|
+|[EOI](https://finance.yahoo.com/quote/EOI)|Eaton Vance Enhanced Equity Income Closed Fund|17.74|20.01|41 |
+|[MED](https://finance.yahoo.com/quote/MED)|Medifast Inc|13.10|12.69|41 (-9)|
+|[LDP](https://finance.yahoo.com/quote/LDP)|Cohen & Steers Ltd Dur Pref and Income Fund Inc|18.57|20.92|41 (-2)|
+|[TIC](https://finance.yahoo.com/quote/TIC)|TIC Solutions Inc|10.06|10.31|41 (+18)|
+|[NPV](https://finance.yahoo.com/quote/NPV)|Nuveen Virginia Quality Municipal Income Fund|10.49|11.50|41 (-1)|
+|[FDP](https://finance.yahoo.com/quote/FDP)|Fresh Del Monte Produce Inc|32.34|37.50|41 (-4)|
+|[MITN](https://finance.yahoo.com/quote/MITN)|TPG Mortgage Investment Trust 9 500 Senior Notes Due 2029|22.92|25.26|41 (-3)|
+|[KFS](https://finance.yahoo.com/quote/KFS)|Kingsway Financial Services Inc|8.93|10.62|41 |
+|[RFMZ](https://finance.yahoo.com/quote/RFMZ)|RiverNorth Flexible Municipal Income Fund II Inc.|11.88|13.14|41 (+1)|
+|[MHD](https://finance.yahoo.com/quote/MHD)|BlackRock MuniHoldings Fund，Inc.|10.65|11.86|41 (+1)|
+|[DFP](https://finance.yahoo.com/quote/DFP)|Flaherty & Crumrine Dynamic Pfd and Inc Fd|18.62|21.10|41 (-2)|
+|[SPMA](https://finance.yahoo.com/quote/SPMA)|Sound Point Meridian Capital 8 00 Pref Shs Series A|22.64|25.11|41 (-2)|
+|[PMM](https://finance.yahoo.com/quote/PMM)|Putnam Managed Municipal Income Closed Fund|5.63|6.27|41 (+2)|
+|[NMI](https://finance.yahoo.com/quote/NMI)|Nuveen Municipal Income Fund Inc|9.37|10.26|41 (+6)|
+|[RA](https://finance.yahoo.com/quote/RA)|Brookfield Real Assets Income Closed Fund|11.64|12.95|41 (-2)|
+|[AR](https://finance.yahoo.com/quote/AR)|Antero Resources Corp|35.49|36.84|41 (-15)|
+|[RCD](https://finance.yahoo.com/quote/RCD)|Ready Capital 9.00% Senior Notes due 2029|21.60|22.33|41 (-2)|
+|[EEA](https://finance.yahoo.com/quote/EEA)|The European Equity Fund Inc|9.58|10.82|41 (+3)|
+|[JLS](https://finance.yahoo.com/quote/JLS)|Nuveen Mortgage and Income Fund|16.46|18.30|40 (-5)|
+|[DMO](https://finance.yahoo.com/quote/DMO)|Western Asset Mortgage Opportunity Fund|10.19|11.07|40 |
+|[UHT](https://finance.yahoo.com/quote/UHT)|Universal Health Realty Income Trust|35.98|40.34|40 (-4)|
+|[GJT](https://finance.yahoo.com/quote/GJT)|STRATS SM Trust for Allstate Securities Certificates Series 2006-3|21.30|23.30|40 (-2)|
+|[FCT](https://finance.yahoo.com/quote/FCT)|First Trust Senior Floating Rate Income Fund II|8.79|9.76|40 (-2)|
+|[GWW](https://finance.yahoo.com/quote/GWW)|WW Grainger Inc|1056.12|1169.86|40 (+3)|
+|[CB](https://finance.yahoo.com/quote/CB)|Chubb Limited|286.02|321.90|40 (-8)|
+|[GDL](https://finance.yahoo.com/quote/GDL)|GDL Fund|7.60|8.48|40 (+1)|
+|[IIM](https://finance.yahoo.com/quote/IIM)|Invesco Value Municipal Income Closed Fund|11.03|12.23|40 (+1)|
+|[MYN](https://finance.yahoo.com/quote/MYN)|BlackRock MuniYield New York Quality Fund，Inc.|9.10|10.04|40 |
+|[AN](https://finance.yahoo.com/quote/AN)|AutoNation Inc|175.84|204.77|40 (-1)|
+|[HIX](https://finance.yahoo.com/quote/HIX)|Western Asset High Income Fund II Inc|3.56|4.00|40 (-1)|
+|[PGZ](https://finance.yahoo.com/quote/PGZ)|Principal Real Estate Income Fund|9.23|10.12|40 (-2)|
+|[RFI](https://finance.yahoo.com/quote/RFI)|Cohen Steers Total Return Realty Closed Fund|11.16|11.74|40 (-1)|
+|[RNP](https://finance.yahoo.com/quote/RNP)|Cohen & Steers REIT & Preferred & Income Fund Inc|19.97|21.25|40 (-1)|
+|[OPP](https://finance.yahoo.com/quote/OPP)|RiverNorth/DoubleLine Strategic Opportunity Fund|7.28|7.87|40 (-2)|
+|[IDT](https://finance.yahoo.com/quote/IDT)|IDT Corp|52.02|52.61|40 (-6)|
+|[BTT](https://finance.yahoo.com/quote/BTT)|BlackRock Municipal 2030 Target Term Trust|20.68|22.87|40 |
+|[ELV](https://finance.yahoo.com/quote/ELV)|Elevance Health Inc|407.60|374.71|40 |
+|[IPB](https://finance.yahoo.com/quote/IPB)|Merrill Lynch Depositor Certificates Series 2003 1 Exp 15 May 2033|23.96|26.14|40 (+4)|
+|[BXMT](https://finance.yahoo.com/quote/BXMT)|Blackstone Mortgage Trust Inc|17.14|19.29|40 (+1)|
+|[VEL](https://finance.yahoo.com/quote/VEL)|Velocity Financial Inc|16.94|19.57|40 (+2)|
+|[DUK](https://finance.yahoo.com/quote/DUK)|Duke Energy Corp|116.62|125.54|39 (-6)|
+|[HSY](https://finance.yahoo.com/quote/HSY)|Hershey Co|161.69|186.41|39 (-3)|
+|[KTF](https://finance.yahoo.com/quote/KTF)|DWS Municipal Income Trust|8.37|9.11|39 |
+|[NUS](https://finance.yahoo.com/quote/NUS)|NU Skin Enterprises Inc|5.77|7.34|39 (+7)|
+|[NBB](https://finance.yahoo.com/quote/NBB)|Nuveen Taxable Municipal Income Fund|14.48|15.83|39 (-2)|
+|[PTA](https://finance.yahoo.com/quote/PTA)|Cohen & Steers Tax-Adv Pref Secs and Inc Fund|18.17|19.82|39 |
+|[PPL](https://finance.yahoo.com/quote/PPL)|PPL Corp|35.16|36.88|39 (-5)|
+|[ACP](https://finance.yahoo.com/quote/ACP)|abrdn Income Credit Strategies Mutual Fund|4.82|5.38|39 (-4)|
+|[NNY](https://finance.yahoo.com/quote/NNY)|Nuveen New York Municipal Value Fund|7.86|8.53|39 (+1)|
+|[PFN](https://finance.yahoo.com/quote/PFN)|Pimco Income Strategy II Closed Fund|6.47|7.19|39 |
+|[ACEL](https://finance.yahoo.com/quote/ACEL)|Accel Entertainment Inc|10.75|11.37|39 (-22)|
+|[PMTU](https://finance.yahoo.com/quote/PMTU)|PennyMac Mortgage Investment 8 50 Senior Notes due 2028|23.46|25.50|39 (-2)|
+|[PSF](https://finance.yahoo.com/quote/PSF)|Cohen & Steers Select Preferred and Income Fd Inc|17.91|19.98|39 (-1)|
+|[RFM](https://finance.yahoo.com/quote/RFM)|RiverNorth Flexible Municipal Income Fund Inc.|13.19|14.47|39 (+1)|
+|[FTW](https://finance.yahoo.com/quote/FTW)|Presidio Production Co|10.10|10.84|39 (-1)|
+|[EVG](https://finance.yahoo.com/quote/EVG)|Eaton Vance Short Duration Diversified Income Closed Fund|10.09|10.99|39 (+6)|
+|[SO](https://finance.yahoo.com/quote/SO)|Southern Co|88.16|93.51|39 (-8)|
+|[EICA](https://finance.yahoo.com/quote/EICA)|Eagle Point Income Company 5 00 Term Pref Shs Series A|22.96|25.00|39 |
+|[UNM](https://finance.yahoo.com/quote/UNM)|Unum Group|76.81|80.29|39 (-3)|
+|[IGA](https://finance.yahoo.com/quote/IGA)|Voya Global Advantage & Premium Opportunity Fund|8.73|9.66|39 (-1)|
+|[AFL](https://finance.yahoo.com/quote/AFL)|Aflac Inc|103.51|113.40|39 (-6)|
+|[MPA](https://finance.yahoo.com/quote/MPA)|BlackRock MuniYield Pennsylvania Quality Closed Fund|10.36|11.35|39 (+1)|
+|[BGY](https://finance.yahoo.com/quote/BGY)|BlackRock Enhanced International Dividend Closed End Fund|5.20|5.83|38 (+3)|
+|[CLF](https://finance.yahoo.com/quote/CLF)|Cleveland-Cliffs Inc|8.67|11.15|38 (+10)|
+|[CMU](https://finance.yahoo.com/quote/CMU)|MFS High Yield Municipal Trust|3.21|3.52|38 (-5)|
+|[MIY](https://finance.yahoo.com/quote/MIY)|BlackRock MuniYield Michigan Quality Fund，Inc.|10.81|11.98|38 (-2)|
+|[WAL](https://finance.yahoo.com/quote/WAL)|Western Alliance Bancorp|70.65|83.33|38 (+4)|
+|[FFC](https://finance.yahoo.com/quote/FFC)|Flaherty Crumrine Preferred and Income Securities Mutual Fund  Incorporated|14.36|16.13|38 (-3)|
+|[NOG](https://finance.yahoo.com/quote/NOG)|Northern Oil and Gas Inc|22.72|24.73|38 (-16)|
+|[BME](https://finance.yahoo.com/quote/BME)|BlackRock Health Sciences Trust|34.44|39.25|38 (-2)|
+|[LB](https://finance.yahoo.com/quote/LB)|LandBridge Co LLC|76.21|66.00|38 (-6)|
+|[AGM](https://finance.yahoo.com/quote/AGM)|Federal Agricultural Mortgage Corp Class C|170.76|178.90|38 (+9)|
+|[BABA](https://finance.yahoo.com/quote/BABA)|Alibaba Group Holding Ltd ADR|124.47|141.44|38 (+13)|
+|[GJH](https://finance.yahoo.com/quote/GJH)|STRATS SM Untd States Cell 6.375 Structured Repackaged Aset Backed Securits|8.94|9.80|38 (-2)|
+|[WSM](https://finance.yahoo.com/quote/WSM)|Williams-Sonoma Inc|156.10|186.47|38 (+9)|
+|[MYI](https://finance.yahoo.com/quote/MYI)|BlackRock MuniYield Quality Fund III，Inc.|9.99|11.01|38 (+1)|
+|[BH](https://finance.yahoo.com/quote/BH)|Biglari Holdings Inc Class B|232.83|300.84|38 (+6)|
+|[RKT](https://finance.yahoo.com/quote/RKT)|Rocket Companies Inc|11.92|14.65|38 (+17)|
+|[PRI](https://finance.yahoo.com/quote/PRI)|Primerica Inc|259.28|276.80|38 (-4)|
+|[AXP](https://finance.yahoo.com/quote/AXP)|American Express Co|275.15|321.90|38 (+1)|
+|[MSA](https://finance.yahoo.com/quote/MSA)|MSA Safety Inc|153.79|173.97|38 (+7)|
+|[FLC](https://finance.yahoo.com/quote/FLC)|Flaherty Crumrine Total Return Mutual Fund  Incorporated|15.28|17.13|38 (-1)|
+|[SCD](https://finance.yahoo.com/quote/SCD)|LMP Capital & Income Fund|13.78|15.22|38 (-1)|
+|[NDMO](https://finance.yahoo.com/quote/NDMO)|Nuveen Dynamic Municipal Opportunities Fund|9.56|10.40|38 |
+|[RZB](https://finance.yahoo.com/quote/RZB)|Reinsurance Group of America 5.75 Fixed To Floating Rate Subordinated|23.44|25.22|37 (-2)|
+|[EMN](https://finance.yahoo.com/quote/EMN)|Eastman Chemical Co|72.65|75.74|37 (-8)|
+|[MUC](https://finance.yahoo.com/quote/MUC)|BlackRock MuniHoldings California Quality Fd，Inc.|9.95|10.84|37 |
+|[ATHS](https://finance.yahoo.com/quote/ATHS)|Athene Holding 7 250 Fixed Rate Reset Junior Subordinated Debentures Due 2064|23.13|25.12|37 (-2)|
+|[WEC](https://finance.yahoo.com/quote/WEC)|WEC Energy Group Inc|105.15|113.94|37 (-7)|
+|[RWT](https://finance.yahoo.com/quote/RWT)|Redwood Trust Inc|5.24|5.57|37 (-7)|
+|[DTW](https://finance.yahoo.com/quote/DTW)|Dte Energy Company 5 25 Junior Subordinated Debentures due 2077 Series E|20.02|21.82|37 (+1)|
+|[DB](https://finance.yahoo.com/quote/DB)|Deutsche Bank AG|26.26|32.02|37 (+10)|
+|[WIW](https://finance.yahoo.com/quote/WIW)|Western Asset Inflation Linked Opportunities Income Closed End Fund|7.89|8.54|37 (-1)|
+|[MSCI](https://finance.yahoo.com/quote/MSCI)|MSCI Inc|543.08|582.14|37 (+3)|
+|[AMBP](https://finance.yahoo.com/quote/AMBP)|Ardagh Metal Packaging SA|3.40|3.97|37 (+1)|
+|[MET](https://finance.yahoo.com/quote/MET)|MetLife Inc|75.17|80.16|37 (-3)|
+|[NXP](https://finance.yahoo.com/quote/NXP)|Nuveen Select Tax-Free Income Portfolio|13.48|14.38|37 (+2)|
+|[EG](https://finance.yahoo.com/quote/EG)|Everest Group Ltd|343.20|351.90|37 (-1)|
+|[MQY](https://finance.yahoo.com/quote/MQY)|BlackRock MuniYield Quality Fund，Inc.|10.52|11.52|37 (+1)|
+|[SBI](https://finance.yahoo.com/quote/SBI)|Western Asset Intermediate Muni Fund|7.06|7.75|37 |
+|[THQ](https://finance.yahoo.com/quote/THQ)|abrdn Healthcare Opportunities Fund|17.07|18.40|37 |
+|[PFD](https://finance.yahoo.com/quote/PFD)|Flaherty Crumrine Preferred and Income Mutual Fund  Incorporated|10.27|11.53|37 (-4)|
+|[NEU](https://finance.yahoo.com/quote/NEU)|NewMarket Corp|615.64|688.73|37 (-5)|
+|[AOMR](https://finance.yahoo.com/quote/AOMR)|Angel Oak Mortgage REIT Inc|8.51|8.87|37 (+3)|
+|[OLP](https://finance.yahoo.com/quote/OLP)|One Liberty Properties Inc|22.48|22.97|37 |
+|[ORI](https://finance.yahoo.com/quote/ORI)|Old Republic International Corp|34.95|39.20|37 (-4)|
+|[JHI](https://finance.yahoo.com/quote/JHI)|John Hancock Investors Closed Fund|12.13|13.37|36 (-2)|
+|[BBN](https://finance.yahoo.com/quote/BBN)|BlackRock Taxable Municipal Bond Trust|14.89|16.08|36 (-1)|
+|[TKO](https://finance.yahoo.com/quote/TKO)|TKO Group Holdings Inc|164.54|190.47|36 |
+|[STC](https://finance.yahoo.com/quote/STC)|Stewart Information Services Corp|63.71|68.99|36 |
+|[ADC](https://finance.yahoo.com/quote/ADC)|Agree Realty Corp|73.26|76.50|36 (-4)|
+|[FE](https://finance.yahoo.com/quote/FE)|FirstEnergy Corp|41.40|45.55|36 (-3)|
+|[VLT](https://finance.yahoo.com/quote/VLT)|Invesco High Income Trust II|9.42|10.53|36 (-1)|
+|[BCO](https://finance.yahoo.com/quote/BCO)|Brinks Co|90.23|109.01|36 (+6)|
+|[CNS](https://finance.yahoo.com/quote/CNS)|Cohen & Steers Inc|74.71|70.54|36 (-1)|
+|[PFO](https://finance.yahoo.com/quote/PFO)|Flaherty Crumrine Preferred and Income Opportunity Mutual Fund  Incorporated|8.25|9.24|36 (-2)|
+|[PMTV](https://finance.yahoo.com/quote/PMTV)|PennyMac Mortgage Investment Trust 9 00  Senior Notes due 2030|23.59|25.23|36 (-3)|
+|[RJF](https://finance.yahoo.com/quote/RJF)|Raymond James Financial Inc|140.26|159.37|36 (-5)|
+|[DGX](https://finance.yahoo.com/quote/DGX)|Quest Diagnostics Inc|174.42|189.13|36 (-8)|
+|[PHK](https://finance.yahoo.com/quote/PHK)|PIMCO High Income Fund|4.23|4.68|36 |
+|[CMS](https://finance.yahoo.com/quote/CMS)|CMS Energy Corp|70.89|74.05|36 (-5)|
+|[UIS](https://finance.yahoo.com/quote/UIS)|Unisys Corp|4.88|3.27|36 (+25)|
+|[DSU](https://finance.yahoo.com/quote/DSU)|BlackRock Debt Strategies Fund，Inc.|9.21|9.94|36 (+1)|
+|[BGH](https://finance.yahoo.com/quote/BGH)|Barings Global Short Duration High Yield Fund|12.90|14.30|36 (-4)|
+|[PMO](https://finance.yahoo.com/quote/PMO)|Putnam Municipal Opportunities Trust|9.41|10.39|36 (+2)|
+|[KIO](https://finance.yahoo.com/quote/KIO)|KKR Income Opportunities Fund|10.55|11.37|36 |
+|[MUA](https://finance.yahoo.com/quote/MUA)|BlackRock MuniAssets Fund，Inc.|9.70|10.74|36 (+2)|
+|[SSB](https://finance.yahoo.com/quote/SSB)|SouthState Bank Corp|87.04|98.65|36 |
+|[STWD](https://finance.yahoo.com/quote/STWD)|Starwood Property Trust Inc|17.29|18.33|36 (-2)|
+|[FUL](https://finance.yahoo.com/quote/FUL)|H.B. Fuller Company|52.82|60.95|35 (-1)|
+|[PYT](https://finance.yahoo.com/quote/PYT)|Merrill Lynch Depositor PPLUS Floating Rate TRUPS Series GSC-2|21.61|23.41|35 (-1)|
+|[CHMI](https://finance.yahoo.com/quote/CHMI)|Cherry Hill Mortgage Investment Corp|2.53|2.58|35 (+1)|
+|[PCM](https://finance.yahoo.com/quote/PCM)|PCM Fund Inc|5.64|5.98|35 (-1)|
+|[CON](https://finance.yahoo.com/quote/CON)|Concentra Group Holdings Parent Inc|21.35|22.82|35 (-1)|
+|[GDO](https://finance.yahoo.com/quote/GDO)|Western Asset Global Corporate Opportunity Fd Inc.|10.06|11.00|35 |
+|[CYH](https://finance.yahoo.com/quote/CYH)|Community Health Systems Inc|2.84|2.87|35 (+3)|
+|[SW](https://finance.yahoo.com/quote/SW)|Smurfit WestRock PLC|38.53|41.89|35 (+10)|
+|[NKX](https://finance.yahoo.com/quote/NKX)|Nuveen California AMT-Free Quality Municipal In Fd|11.30|12.40|35 (-3)|
+|[LAZ](https://finance.yahoo.com/quote/LAZ)|Lazard Inc|39.33|46.56|35 (+3)|
+|[WIA](https://finance.yahoo.com/quote/WIA)|Western Asset Inflation Linked Income Closed End Fund|7.63|8.19|35 (-1)|
+|[MMD](https://finance.yahoo.com/quote/MMD)|NYLI MacKay DefinedTerm Muni Opport Fd|13.97|15.21|35 (+3)|
+|[PDO](https://finance.yahoo.com/quote/PDO)|PIMCO Dynamic Income Opportunities Fund|12.05|13.31|35 |
+|[KT](https://finance.yahoo.com/quote/KT)|KT Corp ADR|19.89|21.18|35 (-7)|
+|[HIO](https://finance.yahoo.com/quote/HIO)|Western Asset High Income Opportunity Closed Fund|3.44|3.69|35 (+1)|
+|[DDT](https://finance.yahoo.com/quote/DDT)|Dillards Capital Trust I 7.50% Capital Securities Exp 01 Aug 2038|24.33|26.02|35 (-2)|
+|[PHM](https://finance.yahoo.com/quote/PHM)|Pultegroup Inc|102.85|120.10|35 (+2)|
+|[BWG](https://finance.yahoo.com/quote/BWG)|BrandywineGLOBAL Global Income Opptys Fd Inc|7.24|8.02|35 |
+|[ABXL](https://finance.yahoo.com/quote/ABXL)|Abacus Global Management 9 875 Fixed Rate Senior Notes due 2028|24.05|26.03|35 (-3)|
+|[PRA](https://finance.yahoo.com/quote/PRA)|Proassurance Corp|22.98|24.60|35 (-2)|
+|[MMU](https://finance.yahoo.com/quote/MMU)|Western Asset Managed Municipals Fund|9.34|10.23|35 (+1)|
+|[EOT](https://finance.yahoo.com/quote/EOT)|Eaton Vance National Municipal Opportunities Closed Fund|15.78|17.07|35 (+1)|
+|[TAK](https://finance.yahoo.com/quote/TAK)|Takeda Pharmaceutical Co Ltd ADR|15.38|16.72|34 (-1)|
+|[YUM](https://finance.yahoo.com/quote/YUM)|Yum! Brands Inc|143.81|156.02|34 (+3)|
+|[CXW](https://finance.yahoo.com/quote/CXW)|CoreCivic Inc|22.96|21.17|34 (+15)|
+|[EHI](https://finance.yahoo.com/quote/EHI)|Western Asset Global High Income Fund|5.62|6.14|34 |
+|[EARN](https://finance.yahoo.com/quote/EARN)|Ellington Credit Closed End Fund|4.43|4.85|34 (+4)|
+|[AFGE](https://finance.yahoo.com/quote/AFGE)|American Financial Group 4 500 Subordinated Debentures due 2060|15.64|16.88|34 (+1)|
+|[PDI](https://finance.yahoo.com/quote/PDI)|PIMCO Dynamic Income Fund|16.35|17.66|34 (-1)|
+|[AFGB](https://finance.yahoo.com/quote/AFGB)|American Financial Group 5 875 Subordinated Debentures Exp 2059|19.81|21.36|34 (-1)|
+|[GJO](https://finance.yahoo.com/quote/GJO)|STRATS SM Wal-Mart 4.65 Floating Rate STRATS Certificates Series 2005-4|23.65|24.97|34 (-2)|
+|[DTF](https://finance.yahoo.com/quote/DTF)|DTF Tax-Free Income 2028 Term Fund Inc.|10.78|11.48|34 (-1)|
+|[PFL](https://finance.yahoo.com/quote/PFL)|Pimco Income Strategy Closed Fund|7.37|8.04|34 (-1)|
+|[EVN](https://finance.yahoo.com/quote/EVN)|Eaton Vance Municipal Income Trust|9.70|10.54|34 (+2)|
+|[SAFE](https://finance.yahoo.com/quote/SAFE)|Safehold Inc|14.84|15.09|34 (+6)|
+|[RZC](https://finance.yahoo.com/quote/RZC)|Reinsurance Group of America 7 125 Fixed Rate Reset Subordinated Debentures due|24.07|25.39|34 (-2)|
+|[BMN](https://finance.yahoo.com/quote/BMN)|BlackRock 2037 Municipal Target Term Trust|23.46|25.55|34 (-3)|
+|[GNE](https://finance.yahoo.com/quote/GNE)|Genie Energy Ltd|14.99|14.28|34 (-3)|
+|[GJP](https://finance.yahoo.com/quote/GJP)|STRATS SM Trust for Dominion Resources Securities Certificate Series 2005-6|23.17|24.48|34 (-4)|
+|[RDW](https://finance.yahoo.com/quote/RDW)|Redwire Corp|11.45|9.64|34 (+22)|
+|[KFY](https://finance.yahoo.com/quote/KFY)|Korn Ferry|61.84|66.00|34 (-4)|
+|[ELC](https://finance.yahoo.com/quote/ELC)|Entergy Louisiana Collateral Mortgage Bonds 4.875 Series Exp 01 Sept 2066|19.23|20.52|34 (+1)|
+|[KTH](https://finance.yahoo.com/quote/KTH)|Structured Products 8% Corporate-Backed Trust Securities Certificates by PECO|26.55|28.15|34 |
+|[YUMC](https://finance.yahoo.com/quote/YUMC)|Yum China Holdings Inc|43.01|48.71|34 (-4)|
+|[COMP](https://finance.yahoo.com/quote/COMP)|Compass Inc|7.91|9.24|33 (+20)|
+|[BROS](https://finance.yahoo.com/quote/BROS)|Dutch Bros Inc|60.36|59.06|33 (+5)|
+|[BTZ](https://finance.yahoo.com/quote/BTZ)|BlackRock Credit Allocation Income Trust|9.61|10.34|33 (-1)|
+|[VCV](https://finance.yahoo.com/quote/VCV)|Invesco California Value Muni Inc Tr|9.76|10.64|33 |
+|[HRI](https://finance.yahoo.com/quote/HRI)|Herc Holdings Inc|111.58|136.01|33 (+2)|
+|[OPFI](https://finance.yahoo.com/quote/OPFI)|OppFi Inc|9.86|9.75|33 |
+|[ETJ](https://finance.yahoo.com/quote/ETJ)|Eaton Vance Risk Managed Diversified Equity Income Closed Fund|7.92|8.51|33 (-2)|
+|[AMN](https://finance.yahoo.com/quote/AMN)|AMN Healthcare Services Inc|19.88|20.97|33 (-2)|
+|[ABR](https://finance.yahoo.com/quote/ABR)|Arbor Realty Trust Inc|9.04|8.29|33 (+10)|
+|[PCQ](https://finance.yahoo.com/quote/PCQ)|PIMCO California Municipal Income Fund|8.28|8.84|33 (+1)|
+|[SDHY](https://finance.yahoo.com/quote/SDHY)|PGIM Short Duration High Yield Opportunities Fund|14.88|16.09|33 (-1)|
+|[MLM](https://finance.yahoo.com/quote/MLM)|Martin Marietta Materials Inc|539.30|615.48|33 (-1)|
+|[CNK](https://finance.yahoo.com/quote/CNK)|Cinemark Holdings Inc|29.44|27.73|33 (+4)|
+|[CCM](https://finance.yahoo.com/quote/CCM)|Concord Medical Services Holdings Ltd ADR|6.75|4.97|33 (+6)|
+|[CARR](https://finance.yahoo.com/quote/CARR)|Carrier Global Corp|69.78|67.90|33 (+9)|
+|[FINS](https://finance.yahoo.com/quote/FINS)|Angel Oak Financial Strategies Income Term Trust|12.07|12.88|33 (-2)|
+|[DDL](https://finance.yahoo.com/quote/DDL)|Dingdong (Cayman) Ltd ADR|2.65|2.60|33 (+5)|
+|[PERF](https://finance.yahoo.com/quote/PERF)|Perfect Corp|1.90|1.66|33 (-13)|
+|[MSD](https://finance.yahoo.com/quote/MSD)|Morgan Stanley Emerging Markets Debt Closed Fund|6.89|7.43|33 (+2)|
+|[IQV](https://finance.yahoo.com/quote/IQV)|IQVIA Holdings Inc|152.30|176.47|33 (+1)|
+|[CHT](https://finance.yahoo.com/quote/CHT)|Chunghwa Telecom Co Ltd ADR|42.55|43.34|33 (-6)|
+|[CUZ](https://finance.yahoo.com/quote/CUZ)|Cousins Properties Inc|26.47|26.79|33 (+5)|
+|[MMT](https://finance.yahoo.com/quote/MMT)|MFS Multimarket Income Trust|4.23|4.55|32 (-1)|
+|[HTGC](https://finance.yahoo.com/quote/HTGC)|Hercules Capital Inc|15.67|16.44|32 (+1)|
+|[CR](https://finance.yahoo.com/quote/CR)|Crane Co|166.47|181.61|32 (+6)|
+|[FMY](https://finance.yahoo.com/quote/FMY)|First Trust Mortgage Income Fund|11.29|11.95|32 (-3)|
+|[NU](https://finance.yahoo.com/quote/NU)|Nu Holdings Ltd.|12.47|14.48|32 (+5)|
+|[KTN](https://finance.yahoo.com/quote/KTN)|Structured Products 8.205% Credit-Enhanced Corporate-Backed Trust Securities|24.78|26.12|32 (-3)|
+|[SBXD](https://finance.yahoo.com/quote/SBXD)|SilverBox Corp IV|10.33|10.79|32 (-1)|
+|[PFLT](https://finance.yahoo.com/quote/PFLT)|PennantPark Floating Rate Capital Ltd|8.82|9.21|32 (-1)|
+|[PSFE](https://finance.yahoo.com/quote/PSFE)|Paysafe Ltd|15.27|9.26|32 |
+|[EDU](https://finance.yahoo.com/quote/EDU)|New Oriental Education & Technology Group Inc ADR|49.92|56.30|32 (+7)|
+|[AFGC](https://finance.yahoo.com/quote/AFGC)|American Financial Group 5 125 Subordinated Debentures due 2059|17.54|18.63|32 (-2)|
+|[CBRE](https://finance.yahoo.com/quote/CBRE)|CBRE Group Inc|125.96|145.16|32 (+2)|
+|[SKYH](https://finance.yahoo.com/quote/SKYH)|Sky Harbour Group Corp|11.26|10.18|32 (+3)|
+|[SHAK](https://finance.yahoo.com/quote/SHAK)|Shake Shack Inc|96.43|96.52|32 (-7)|
+|[LND](https://finance.yahoo.com/quote/LND)|BrasilAgro - Companhia Brasileira de Propriedades Agricolas ADR|3.63|3.84|32 |
+|[VMC](https://finance.yahoo.com/quote/VMC)|Vulcan Materials Co|268.14|295.72|32 |
+|[AFGD](https://finance.yahoo.com/quote/AFGD)|American Financial Group 5 625 Subordinated Debenture|19.17|20.44|32 (-1)|
+|[WEA](https://finance.yahoo.com/quote/WEA)|Western Asset Premier Bond Closed Fund|9.85|10.64|32 (+1)|
+|[DHF](https://finance.yahoo.com/quote/DHF)|BNY Mellon High Yield Strategies Fund|2.28|2.44|32 (-1)|
+|[FTHY](https://finance.yahoo.com/quote/FTHY)|First Trust High Yield Opportunities 2027 Term Closed End Fd|12.73|13.55|32 |
+|[STEM](https://finance.yahoo.com/quote/STEM)|Stem Inc|10.06|10.91|32 (+11)|
+|[OBDC](https://finance.yahoo.com/quote/OBDC)|Blue Owl Capital Corp|12.27|11.76|32 (-5)|
+|[PEG](https://finance.yahoo.com/quote/PEG)|Public Service Enterprise Group Inc|75.90|79.35|32 (+1)|
+|[BGB](https://finance.yahoo.com/quote/BGB)|Blackstone Strategic Credit 2027 Term Fund|10.96|11.45|31 |
+|[SFBS](https://finance.yahoo.com/quote/SFBS)|ServisFirst Bancshares Inc|72.83|79.67|31 (-3)|
+|[BRC](https://finance.yahoo.com/quote/BRC)|Brady Corp|70.71|80.74|31 (-5)|
+|[CUBE](https://finance.yahoo.com/quote/CUBE)|CubeSmart|40.54|40.28|31 (+2)|
+|[NUW](https://finance.yahoo.com/quote/NUW)|Nuveen AMT-Free Municipal Value Fund|13.05|14.01|31 |
+|[PML](https://finance.yahoo.com/quote/PML)|PIMCO Municipal Income Fund II|7.27|7.60|31 (+1)|
+|[STEW](https://finance.yahoo.com/quote/STEW)|SRH Total Return Fund，Inc|16.49|17.67|31 |
+|[DTG](https://finance.yahoo.com/quote/DTG)|DTE Energy 2021 4 375 Junior Subordinated Debentures Series E|16.34|17.22|31 (-1)|
+|[EPRT](https://finance.yahoo.com/quote/EPRT)|Essential Properties Realty Trust Inc|30.71|31.40|31 (-2)|
+|[TSQ](https://finance.yahoo.com/quote/TSQ)|Townsquare Media Inc|6.07|6.51|31 (+3)|
+|[AIN](https://finance.yahoo.com/quote/AIN)|Albany International Corp|62.62|60.81|31 (+5)|
+|[BMEZ](https://finance.yahoo.com/quote/BMEZ)|BlackRock Health Sciences Term Closed End Fund|13.08|14.21|31 (+1)|
+|[TVC](https://finance.yahoo.com/quote/TVC)|Tennessee Valley Authority Power Bonds 1998 Series D due 01 June 2028|23.06|24.22|31 (-2)|
+|[WKC](https://finance.yahoo.com/quote/WKC)|World Kinect Corp|25.24|26.81|31 (-14)|
+|[EQR](https://finance.yahoo.com/quote/EQR)|Equity Residential|67.79|66.16|31 (-4)|
+|[JACS](https://finance.yahoo.com/quote/JACS)|Jackson Acquisition Co II|10.20|10.59|31 (-1)|
+|[FGN](https://finance.yahoo.com/quote/FGN)|F&G Annuities And Life 7 950 Senior Notes due 2053|23.70|25.03|31 (-1)|
+|[HEI](https://finance.yahoo.com/quote/HEI)|HEICO Corp|264.28|296.38|31 (+9)|
+|[NMZ](https://finance.yahoo.com/quote/NMZ)|Nuveen Municipal High Income Opportunity Closed Fund|9.78|10.26|31 |
+|[AWF](https://finance.yahoo.com/quote/AWF)|AllianceBernstein Global High Income Closed Fund|9.90|10.41|31 (+1)|
+|[OPAD](https://finance.yahoo.com/quote/OPAD)|Offerpad Solutions Inc|1.03|0.70|31 (+18)|
+|[PJT](https://finance.yahoo.com/quote/PJT)|PJT Partners Inc|141.65|152.14|31 (-2)|
+|[CALX](https://finance.yahoo.com/quote/CALX)|Calix Inc|41.99|44.34|30 (-18)|
+|[VTEX](https://finance.yahoo.com/quote/VTEX)|VTEX|5.37|3.85|30 (+2)|
+|[UBER](https://finance.yahoo.com/quote/UBER)|Uber Technologies Inc|85.43|79.17|30 (+14)|
+|[TCI](https://finance.yahoo.com/quote/TCI)|Transcontinental Realty Investors Inc|29.40|36.32|30 |
+|[AMTM](https://finance.yahoo.com/quote/AMTM)|Amentum Holdings Inc|21.83|24.89|30 (+3)|
+|[AWR](https://finance.yahoo.com/quote/AWR)|American States Water Co|77.81|75.84|30 (-3)|
+|[DOUG](https://finance.yahoo.com/quote/DOUG)|Douglas Elliman Inc|1.82|2.13|30 (+11)|
+|[SAR](https://finance.yahoo.com/quote/SAR)|Saratoga Investment Corp|21.59|22.50|30 (-10)|
+|[EXR](https://finance.yahoo.com/quote/EXR)|Extra Space Storage Inc|142.72|143.85|30 (+2)|
+|[SPCE](https://finance.yahoo.com/quote/SPCE)|Virgin Galactic Holdings Inc|2.95|2.66|30 (+13)|
+|[ASH](https://finance.yahoo.com/quote/ASH)|Ashland Inc|48.22|54.59|30 (+4)|
+|[RAC](https://finance.yahoo.com/quote/RAC)|Rithm Acquisition Corp|10.01|10.43|30 (-1)|
+|[ESS](https://finance.yahoo.com/quote/ESS)|Essex Property Trust Inc|277.19|267.26|30 (-2)|
+|[MITP](https://finance.yahoo.com/quote/MITP)|TPG Mortgage Investment Trust 9 500 Senior Notes Due 2029|24.27|25.23|30 (-1)|
+|[HIG](https://finance.yahoo.com/quote/HIG)|Hartford Insurance Group Inc|123.64|133.49|30 (-4)|
+|[TPB](https://finance.yahoo.com/quote/TPB)|Turning Point Brands Inc|65.01|81.26|30 (-6)|
+|[TWI](https://finance.yahoo.com/quote/TWI)|Titan International Inc|6.89|8.11|30 (+7)|
+|[IGI](https://finance.yahoo.com/quote/IGI)|Western Asset Investment Grade Opps Trust Inc.|15.44|16.12|30 |
+|[DSL](https://finance.yahoo.com/quote/DSL)|DoubleLine Income Solutions Fd|10.78|11.17|30 (+1)|
+|[PIM](https://finance.yahoo.com/quote/PIM)|Putnam Master Intermediate Income Trust|3.05|3.20|30 (-2)|
+|[ITW](https://finance.yahoo.com/quote/ITW)|Illinois Tool Works Inc|234.93|260.52|30 (+2)|
+|[PPT](https://finance.yahoo.com/quote/PPT)|Putnam Premier Income Trust|3.34|3.49|30 (-1)|
+|[LADR](https://finance.yahoo.com/quote/LADR)|Ladder Capital Corp|9.53|10.29|29 (-1)|
+|[MCR](https://finance.yahoo.com/quote/MCR)|MFS Charter Income Trust|5.73|6.03|29 (-3)|
+|[MTG](https://finance.yahoo.com/quote/MTG)|MGIC Investment Corp|25.49|26.40|29 (-2)|
+|[BDX](https://finance.yahoo.com/quote/BDX)|Becton Dickinson and Co|128.27|144.76|29 |
+|[DTB](https://finance.yahoo.com/quote/DTB)|DTE Energy 4 375 Junior Subordinated Debentures Series G due 2080|16.39|17.09|29 (-1)|
+|[MPV](https://finance.yahoo.com/quote/MPV)|Barings Participation Investors|15.86|17.49|29 |
+|[BSL](https://finance.yahoo.com/quote/BSL)|Blackstone Senior Floating Rate 2027 Term Fund|13.06|13.26|29 (-1)|
+|[GRBK](https://finance.yahoo.com/quote/GRBK)|Green Brick Partners Inc|59.54|66.82|29 (+1)|
+|[GLP](https://finance.yahoo.com/quote/GLP)|Global Partners Units|47.63|47.84|29 (-4)|
+|[ABBV](https://finance.yahoo.com/quote/ABBV)|AbbVie Inc|189.88|205.03|29 (+2)|
+|[SMRT](https://finance.yahoo.com/quote/SMRT)|SmartRent Inc|0.96|1.17|29 (-32)|
+|[RVTY](https://finance.yahoo.com/quote/RVTY)|Revvity Inc|92.56|99.09|29 (+9)|
+|[PHG](https://finance.yahoo.com/quote/PHG)|Koninklijke Philips NV ADR|24.65|27.23|29 (+3)|
+|[HVT](https://finance.yahoo.com/quote/HVT)|Haverty Furniture Companies Inc|18.35|21.72|29 (+10)|
+|[XRN](https://finance.yahoo.com/quote/XRN)|Chiron Real Estate Inc|35.69|35.59|29 (+1)|
+|[PAXS](https://finance.yahoo.com/quote/PAXS)|PIMCO Access Income Fund|13.65|14.70|29 (+1)|
+|[TVE](https://finance.yahoo.com/quote/TVE)|Tennessee Valley Authority Power Bonds 1999 Series A due May 1 2029 (Putable|22.70|23.86|29 (-1)|
+|[JFR](https://finance.yahoo.com/quote/JFR)|Nuveen Floating Rate Income Closed Fund|7.27|7.53|29 |
+|[TISI](https://finance.yahoo.com/quote/TISI)|Team Inc|21.38|17.00|29 (-6)|
+|[MOGU](https://finance.yahoo.com/quote/MOGU)|Mogu Inc ADR|2.24|2.36|29 (-9)|
+|[HY](https://finance.yahoo.com/quote/HY)|Hyster-Yale Inc|38.20|36.89|29 (-22)|
+|[GJR](https://finance.yahoo.com/quote/GJR)|STRATS SM Floating Rate Structured Repackaged Asset Backed Gamble Securities|23.79|24.50|29 (-6)|
+|[SCHW](https://finance.yahoo.com/quote/SCHW)|Charles Schwab Corp|82.36|92.15|28 (-3)|
+|[MHF](https://finance.yahoo.com/quote/MHF)|Western Asset Municipal High Income Fund|6.92|6.97|28 (-2)|
+|[ESNT](https://finance.yahoo.com/quote/ESNT)|Essent Group Ltd|57.80|61.41|28 (+1)|
+|[EHC](https://finance.yahoo.com/quote/EHC)|Encompass Health Corp|115.54|105.01|28 (-4)|
+|[FPI](https://finance.yahoo.com/quote/FPI)|Farmland Partners Inc|9.96|10.68|28 (-1)|
+|[AEFC](https://finance.yahoo.com/quote/AEFC)|Aegon Funding Company 5 10 Subordinated Notes due 2049|18.84|19.53|28 (-1)|
+|[DUKB](https://finance.yahoo.com/quote/DUKB)|Duke Energy Corporation 5.625% Junior Subordinated Debentures Exp 15 Sep 2078|23.30|24.05|28 (-2)|
+|[SUI](https://finance.yahoo.com/quote/SUI)|Sun Communities Inc|122.04|125.92|28 (+1)|
+|[UPS](https://finance.yahoo.com/quote/UPS)|United Parcel Service Inc|89.45|99.89|28 |
+|[AMTD](https://finance.yahoo.com/quote/AMTD)|AMTD IDEA Group ADR|1.00|1.01|28 (-21)|
+|[NIM](https://finance.yahoo.com/quote/NIM)|Nuveen Select Maturities Municipal Fund|8.83|9.30|28 |
+|[GAP](https://finance.yahoo.com/quote/GAP)|Gap Inc|22.23|24.56|28 (+4)|
+|[CIF](https://finance.yahoo.com/quote/CIF)|MFS Intermediate High Income Fund|1.55|1.62|28 (-1)|
+|[AWI](https://finance.yahoo.com/quote/AWI)|Armstrong World Industries Inc|149.01|166.23|28 (-1)|
+|[LMT](https://finance.yahoo.com/quote/LMT)|Lockheed Martin Corp|459.02|514.26|28 (+2)|
+|[MAX](https://finance.yahoo.com/quote/MAX)|Mediaalpha Inc|9.80|8.97|28 (-3)|
+|[PRU](https://finance.yahoo.com/quote/PRU)|Prudential Financial Inc|97.47|100.16|28 (+4)|
+|[ENJ](https://finance.yahoo.com/quote/ENJ)|Entergy Orleans 5% Mortgage Bonds Series Exp 01 Dec 2052|19.46|20.30|28 (-1)|
+|[HYI](https://finance.yahoo.com/quote/HYI)|Western Asset High Yield Opportunity Fund Inc.|10.56|10.81|28 |
+|[YALA](https://finance.yahoo.com/quote/YALA)|Yalla Group Ltd ADR|7.03|6.83|28 (+3)|
+|[IRS](https://finance.yahoo.com/quote/IRS)|IRSA Inversiones y Representaciones SA ADR|13.74|15.03|28 (+7)|
+|[WSO](https://finance.yahoo.com/quote/WSO)|Watsco Inc|464.45|432.06|28 (-1)|
+|[A](https://finance.yahoo.com/quote/A)|Agilent Technologies Inc|107.49|117.69|27 (-3)|
+|[RWTP](https://finance.yahoo.com/quote/RWTP)|Redwood Trust 9 125 Senior Notes Due 2030|25.10|25.39|27 (-2)|
+|[WOR](https://finance.yahoo.com/quote/WOR)|Worthington Enterprises  Inc|54.47|55.90|27 (-6)|
+|[RWTO](https://finance.yahoo.com/quote/RWTO)|Redwood Trust 9 00 Senior Notes Due 2029|24.95|25.14|27 (-1)|
+|[JHS](https://finance.yahoo.com/quote/JHS)|John Hancock Income Securities Closed Fund|10.66|11.18|27 (-1)|
+|[HOV](https://finance.yahoo.com/quote/HOV)|Hovnanian Enterprises Inc|101.74|109.50|27 (+2)|
+|[BIT](https://finance.yahoo.com/quote/BIT)|BlackRock Multi-Sector Income Trust|12.69|12.84|27 |
+|[ENO](https://finance.yahoo.com/quote/ENO)|Entergy New Orleans First Mortgage Bonds 5 50 Series Pref Shs Exp 1 April 2066|21.64|22.04|27 (-1)|
+|[DV](https://finance.yahoo.com/quote/DV)|Doubleverify Holdings Inc|13.43|11.15|27 (-11)|
+|[INR](https://finance.yahoo.com/quote/INR)|Infinity Natural Resources Inc|15.91|15.67|27 (-20)|
+|[HYT](https://finance.yahoo.com/quote/HYT)|BlackRock Corporate High Yield Fund，Inc.|8.66|8.68|27 |
+|[GBAB](https://finance.yahoo.com/quote/GBAB)|Guggenheim Taxable Muni Bd & Inv Grade Dbt Trust|13.83|14.30|27 (+1)|
+|[VBF](https://finance.yahoo.com/quote/VBF)|Invesco Bond Fd|14.73|15.05|27 (-1)|
+|[FCPT](https://finance.yahoo.com/quote/FCPT)|Four Corners Property Trust Inc|26.13|25.41|27 |
+|[EEX](https://finance.yahoo.com/quote/EEX)|Emerald Holding Inc|4.45|4.60|27 (+3)|
+|[ISD](https://finance.yahoo.com/quote/ISD)|PGIM High Yield Bond Fund，Inc|12.65|13.50|27 |
+|[AB](https://finance.yahoo.com/quote/AB)|AllianceBernstein Holding Units|38.26|40.02|27 (-5)|
+|[ED](https://finance.yahoo.com/quote/ED)|Consolidated Edison Inc|105.98|106.87|27 (-7)|
+|[PCN](https://finance.yahoo.com/quote/PCN)|PIMCO Corporate & Income Strategy Fund|11.57|12.07|27 |
+|[HMY](https://finance.yahoo.com/quote/HMY)|Harmony Gold Mining Company Ltd ADR|15.63|17.53|27 (+9)|
+|[NOC](https://finance.yahoo.com/quote/NOC)|Northrop Grumman Corp|485.53|559.60|27 |
+|[PB](https://finance.yahoo.com/quote/PB)|Prosperity Bancshares  Inc|67.65|70.10|27 (-3)|
+|[YELP](https://finance.yahoo.com/quote/YELP)|Yelp Inc|35.03|28.31|27 (-3)|
+|[LII](https://finance.yahoo.com/quote/LII)|Lennox International Inc|557.12|541.37|26 |
+|[PAI](https://finance.yahoo.com/quote/PAI)|Western Asset Investment Grade Income Closed End Fund Inc|11.78|12.19|26 (-2)|
+|[PM](https://finance.yahoo.com/quote/PM)|Philip Morris International Inc|167.26|170.53|26 (-4)|
+|[REXR](https://finance.yahoo.com/quote/REXR)|Rexford Industrial Realty Inc|32.65|36.23|26 |
+|[BDC](https://finance.yahoo.com/quote/BDC)|Belden Inc|104.38|114.65|26 (+1)|
+|[LANV](https://finance.yahoo.com/quote/LANV)|Lanvin Group Holdings Ltd|2.07|1.71|26 (+5)|
+|[MWA](https://finance.yahoo.com/quote/MWA)|Mueller Water Products Inc|26.75|27.14|26 (-5)|
+|[JEF](https://finance.yahoo.com/quote/JEF)|Jefferies Financial Group Inc|47.36|51.75|26 (+4)|
+|[OEC](https://finance.yahoo.com/quote/OEC)|Orion SA|11.91|8.20|26 (-13)|
+|[JQC](https://finance.yahoo.com/quote/JQC)|Nuveen Credit Strategies Income Closed Fund|4.76|4.84|26 (-1)|
+|[RCS](https://finance.yahoo.com/quote/RCS)|PIMCO Strategic Income Fund Inc|5.42|5.45|26 |
+|[VIPS](https://finance.yahoo.com/quote/VIPS)|Vipshop Holdings Ltd ADR|13.68|14.73|26 (+6)|
+|[CLB](https://finance.yahoo.com/quote/CLB)|Core Laboratories Inc|12.02|13.67|26 (-7)|
+|[HPQ](https://finance.yahoo.com/quote/HPQ)|HP Inc|24.65|21.41|26 (-7)|
+|[ARDC](https://finance.yahoo.com/quote/ARDC)|Ares Dynamic Credit Allocation Fund Inc|12.48|12.76|26 (-1)|
+|[TLK](https://finance.yahoo.com/quote/TLK)|Telkom Indonesia (Persero) Tbk PT ADR|15.03|17.05|26 (+2)|
+|[SCI](https://finance.yahoo.com/quote/SCI)|Service Corporation International|73.94|78.44|26 (-6)|
+|[BGT](https://finance.yahoo.com/quote/BGT)|BlackRock Floating Rate Income Closed Fund|10.81|10.95|26 |
+|[JMM](https://finance.yahoo.com/quote/JMM)|Nuveen Multi-Market Income Fund|5.69|5.86|26 |
+|[MSIF](https://finance.yahoo.com/quote/MSIF)|MSC Income Fund Inc|13.77|13.00|26 (-6)|
+|[SOLV](https://finance.yahoo.com/quote/SOLV)|Solventum Corp|66.89|70.99|26 (+4)|
+|[NXDR](https://finance.yahoo.com/quote/NXDR)|Nextdoor Holdings Inc|1.50|1.63|26 (-1)|
+|[BV](https://finance.yahoo.com/quote/BV)|Brightview Holdings Inc|14.36|13.22|25 (+13)|
+|[BRT](https://finance.yahoo.com/quote/BRT)|BRT Apartments Corp|14.43|14.47|25 (+2)|
+|[DLY](https://finance.yahoo.com/quote/DLY)|DoubleLine Yield Opportunities Fund|14.03|14.25|25 (-2)|
+|[PINS](https://finance.yahoo.com/quote/PINS)|Pinterest Inc|27.48|21.16|25 (-11)|
+|[USA](https://finance.yahoo.com/quote/USA)|Liberty All Star Equity Closed Fund|5.79|5.83|25 (-2)|
+|[SNN](https://finance.yahoo.com/quote/SNN)|Smith & Nephew PLC ADR|27.72|30.26|25 (-11)|
+|[AVA](https://finance.yahoo.com/quote/AVA)|Avista Corp|39.92|40.58|25 (-4)|
+|[UGI](https://finance.yahoo.com/quote/UGI)|UGI Corp|32.16|35.07|25 (-4)|
+|[CHD](https://finance.yahoo.com/quote/CHD)|Church & Dwight Co Inc|91.59|94.96|25 |
+|[PCF](https://finance.yahoo.com/quote/PCF)|High Income Securities Fund|5.57|5.67|25 (-1)|
+|[CLVT](https://finance.yahoo.com/quote/CLVT)|Clarivate PLC|4.28|2.78|25 (-4)|
+|[WFC](https://finance.yahoo.com/quote/WFC)|Wells Fargo & Co|72.28|80.42|25 (-1)|
+|[DBL](https://finance.yahoo.com/quote/DBL)|DoubleLine Opportunistic Credit Fund|14.27|14.48|25 (-1)|
+|[DOLE](https://finance.yahoo.com/quote/DOLE)|Dole PLC|14.41|14.91|25 (+1)|
+|[TMO](https://finance.yahoo.com/quote/TMO)|Thermo Fisher Scientific Inc|420.72|472.95|25 (+1)|
+|[WU](https://finance.yahoo.com/quote/WU)|Western Union Co|8.74|8.99|25 (-10)|
+|[NFG](https://finance.yahoo.com/quote/NFG)|National Fuel Gas Co|80.43|81.51|25 (-4)|
+|[SPH](https://finance.yahoo.com/quote/SPH)|Suburban Propane Partners Common Units|18.68|19.00|25 (-4)|
+|[AOMN](https://finance.yahoo.com/quote/AOMN)|Angel Oak Mortgage REIT 9.500 Senior Notes due 2029|24.96|25.05|25 |
+|[HAYW](https://finance.yahoo.com/quote/HAYW)|Hayward Holdings Inc|14.05|14.92|25 (-1)|
+|[GHY](https://finance.yahoo.com/quote/GHY)|PGIM Global High Yield Fund，Inc|11.48|11.92|25 (-1)|
+|[LH](https://finance.yahoo.com/quote/LH)|Labcorp Holdings Inc|244.20|256.94|25 (-2)|
+|[BSM](https://finance.yahoo.com/quote/BSM)|Black Stone Minerals Units|12.97|13.57|24 (-3)|
+|[FRA](https://finance.yahoo.com/quote/FRA)|BlackRock Floating Rate Income Strategies Fd，Inc.|11.12|11.14|24 (-1)|
+|[AVB](https://finance.yahoo.com/quote/AVB)|AvalonBay Communities Inc|202.14|186.44|24 (-2)|
+|[RBA](https://finance.yahoo.com/quote/RBA)|RB Global Inc|101.20|105.88|24 (-2)|
+|[BKT](https://finance.yahoo.com/quote/BKT)|BlackRock Income Trust，Inc.|10.55|10.63|24 (-1)|
+|[ELS](https://finance.yahoo.com/quote/ELS)|Equity LifeStyle Properties Inc|62.81|63.32|24 (-1)|
+|[MGF](https://finance.yahoo.com/quote/MGF)|MFS Government Markets Income Closed Fund|2.88|2.89|24 |
+|[PPG](https://finance.yahoo.com/quote/PPG)|PPG Industries Inc|107.39|111.53|24 (+4)|
+|[SCL](https://finance.yahoo.com/quote/SCL)|Stepan Co|51.93|52.89|24 (+1)|
+|[HGTY](https://finance.yahoo.com/quote/HGTY)|Hagerty Inc|8.92|10.07|24 (-3)|
+|[AIG](https://finance.yahoo.com/quote/AIG)|American International Group Inc|81.22|77.69|24 (-6)|
+|[BLW](https://finance.yahoo.com/quote/BLW)|BlackRock Limited Duration Income Trust|12.59|12.83|24 |
+|[RFL](https://finance.yahoo.com/quote/RFL)|Rafael Holdings Inc|1.41|1.25|24 |
+|[APO](https://finance.yahoo.com/quote/APO)|Apollo Global Management Inc|131.96|129.53|24 (-5)|
+|[BEKE](https://finance.yahoo.com/quote/BEKE)|KE Holdings Inc ADR|20.45|18.79|24 (+3)|
+|[MIN](https://finance.yahoo.com/quote/MIN)|MFS Intermediate Income Trust|2.46|2.46|24 (-1)|
+|[MCK](https://finance.yahoo.com/quote/MCK)|McKesson Corp|704.22|743.67|24 (-13)|
+|[CL](https://finance.yahoo.com/quote/CL)|Colgate-Palmolive Co|88.50|88.16|24 (+2)|
+|[PNFP](https://finance.yahoo.com/quote/PNFP)|Pinnacle Financial Partners Inc|103.91|99.67|24 (-2)|
+|[UMH](https://finance.yahoo.com/quote/UMH)|UMH Properties Inc|16.35|15.73|24 |
+|[AHRT](https://finance.yahoo.com/quote/AHRT)|AH Realty Trust  Inc|6.32|6.47|24 (-1)|
+|[MSDL](https://finance.yahoo.com/quote/MSDL)|Morgan Stanley Direct Lending Fund|17.06|15.69|24 |
+|[PCG](https://finance.yahoo.com/quote/PCG)|PG&E Corp|16.76|16.20|23 (-10)|
+|[EFT](https://finance.yahoo.com/quote/EFT)|Eaton Vance Floating Rate Income Closed Fund|11.17|10.99|23 (-1)|
+|[FOA](https://finance.yahoo.com/quote/FOA)|Finance of America Companies Inc|20.21|21.01|23 (+5)|
+|[CPAY](https://finance.yahoo.com/quote/CPAY)|Corpay Inc|328.16|305.43|23 (-3)|
+|[GME](https://finance.yahoo.com/quote/GME)|GameStop Corp|26.60|25.17|23 (+4)|
+|[ECL](https://finance.yahoo.com/quote/ECL)|Ecolab Inc|252.48|263.42|23 (+1)|
+|[SYY](https://finance.yahoo.com/quote/SYY)|Sysco Corp|68.66|73.33|23 |
+|[CARS](https://finance.yahoo.com/quote/CARS)|Cars.com Inc|11.74|11.19|23 (-1)|
+|[MLP](https://finance.yahoo.com/quote/MLP)|Maui Land & Pineapple Company Inc|14.95|15.66|23 (+1)|
+|[VVV](https://finance.yahoo.com/quote/VVV)|Valvoline Inc|34.46|34.17|23 (+2)|
+|[CMTG](https://finance.yahoo.com/quote/CMTG)|Claros Mortgage Trust Inc|2.60|2.63|23 (-9)|
+|[PTY](https://finance.yahoo.com/quote/PTY)|PIMCO Corporate & Income Opportunity Fund|12.44|12.33|23 |
+|[HIW](https://finance.yahoo.com/quote/HIW)|Highwoods Properties Inc|27.14|25.82|23 (+2)|
+|[MMM](https://finance.yahoo.com/quote/MMM)|3M Co|138.25|146.54|23 |
+|[VICI](https://finance.yahoo.com/quote/VICI)|VICI Properties Inc|30.05|28.65|23 (-2)|
+|[WAT](https://finance.yahoo.com/quote/WAT)|Waters Corp|348.38|349.53|23 (+2)|
+|[ZKH](https://finance.yahoo.com/quote/ZKH)|ZKH Group Ltd ADR|2.76|3.00|23 (-1)|
+|[USPH](https://finance.yahoo.com/quote/USPH)|US Physical Therapy Inc|70.55|73.65|23 (+2)|
+|[SWZ](https://finance.yahoo.com/quote/SWZ)|Total Return Securities Fund|6.35|6.08|23 |
+|[CAE](https://finance.yahoo.com/quote/CAE)|CAE Inc|25.42|27.03|23 (+3)|
+|[TMHC](https://finance.yahoo.com/quote/TMHC)|Taylor Morrison Home Corp|58.94|60.35|23 |
+|[BXSL](https://finance.yahoo.com/quote/BXSL)|Blackstone Secured Lending Fund|26.23|24.55|23 (-5)|
+|[WTRG](https://finance.yahoo.com/quote/WTRG)|Essential Utilities Inc|39.49|37.54|23 |
+|[RYN](https://finance.yahoo.com/quote/RYN)|Rayonier Inc|20.86|21.19|22 (+2)|
+|[BGX](https://finance.yahoo.com/quote/BGX)|Blackstone Long Short Credit Income Fund|11.15|10.93|22 (-1)|
+|[ARDT](https://finance.yahoo.com/quote/ARDT)|Ardent Health Inc|13.17|9.37|22 (-25)|
+|[GRX](https://finance.yahoo.com/quote/GRX)|Gabelli Healthcare & WellnessRx Trust|9.14|9.10|22 |
+|[INVH](https://finance.yahoo.com/quote/INVH)|Invitation Homes Inc|33.55|28.74|22 (-1)|
+|[VNT](https://finance.yahoo.com/quote/VNT)|Vontier Corp|33.34|35.04|22 (-3)|
+|[CSL](https://finance.yahoo.com/quote/CSL)|Carlisle Companies Inc|380.63|373.96|22 |
+|[S](https://finance.yahoo.com/quote/S)|SentinelOne Inc|18.91|15.33|22 (-17)|
+|[VVR](https://finance.yahoo.com/quote/VVR)|Invesco Senior Income Trust|3.16|3.08|22 |
+|[LSPD](https://finance.yahoo.com/quote/LSPD)|Lightspeed Commerce Inc|9.66|9.42|22 (-3)|
+|[CAL](https://finance.yahoo.com/quote/CAL)|Caleres Inc|14.94|13.49|22 (-2)|
+|[YSG](https://finance.yahoo.com/quote/YSG)|Yatsen Holding Ltd ADR|4.11|2.88|22 (-9)|
+|[MCO](https://finance.yahoo.com/quote/MCO)|Moody's Corp|461.03|448.64|22 (-2)|
+|[AXS](https://finance.yahoo.com/quote/AXS)|AXIS Capital Holdings Ltd|98.73|99.37|22 (-1)|
+|[GROV](https://finance.yahoo.com/quote/GROV)|Grove Collaborative Holdings Inc|1.10|1.21|22 (+6)|
+|[CAPL](https://finance.yahoo.com/quote/CAPL)|CrossAmerica Partners Common Units|21.07|20.72|22 |
+|[TSI](https://finance.yahoo.com/quote/TSI)|TCW Strategic Income Closed Fund|4.53|4.54|22 (-1)|
+|[DT](https://finance.yahoo.com/quote/DT)|Dynatrace  Inc|47.59|38.21|22 (-3)|
+|[CCK](https://finance.yahoo.com/quote/CCK)|Crown Holdings Inc|96.15|101.09|22 |
+|[DRI](https://finance.yahoo.com/quote/DRI)|Darden Restaurants Inc|196.66|195.70|22 (-1)|
+|[BIO](https://finance.yahoo.com/quote/BIO)|Bio Rad Laboratories Inc Class A|240.19|259.02|22 (-3)|
+|[AIV](https://finance.yahoo.com/quote/AIV)|Apartment Investment and Management Co|4.33|4.24|22 |
+|[WM](https://finance.yahoo.com/quote/WM)|Waste Management Inc|231.29|220.52|21 (-5)|
+|[STN](https://finance.yahoo.com/quote/STN)|Stantec Inc|91.35|92.10|21 (-3)|
+|[VRTS](https://finance.yahoo.com/quote/VRTS)|Virtus Investment Partners Inc|150.57|143.32|21 (-1)|
+|[RBRK](https://finance.yahoo.com/quote/RBRK)|Rubrik Inc|74.67|57.78|21 (-2)|
+|[CCI](https://finance.yahoo.com/quote/CCI)|Crown Castle Inc|102.16|90.24|21 (-2)|
+|[APAM](https://finance.yahoo.com/quote/APAM)|Artisan Partners Asset Management Inc|36.65|37.84|21 |
+|[ONIT](https://finance.yahoo.com/quote/ONIT)|Onity Group Inc|37.45|38.68|21 (-3)|
+|[BHK](https://finance.yahoo.com/quote/BHK)|BlackRock Core Bond Closed Fund|9.55|9.16|21 (-1)|
+|[CPK](https://finance.yahoo.com/quote/CPK)|Chesapeake Utilities Corp|129.51|125.83|21 (-2)|
+|[NHI](https://finance.yahoo.com/quote/NHI)|National Health Investors Inc|72.50|73.90|21 |
+|[SMA](https://finance.yahoo.com/quote/SMA)|SmartStop Self Storage REIT Inc|33.77|32.09|21 (+2)|
+|[ARL](https://finance.yahoo.com/quote/ARL)|American Realty Investors Inc|12.13|13.61|21 (+1)|
+|[CACI](https://finance.yahoo.com/quote/CACI)|CACI International Inc|461.60|499.42|21 (+1)|
+|[BAM](https://finance.yahoo.com/quote/BAM)|BROOKFIELD ASSET MANAGEMENT LTD|52.13|48.63|21 (-3)|
+|[RDY](https://finance.yahoo.com/quote/RDY)|Dr Reddy's Laboratories Ltd ADR|13.78|13.46|21 (+1)|
+|[CSW](https://finance.yahoo.com/quote/CSW)|CSW Industrials Inc|316.66|281.13|21 |
+|[SLG](https://finance.yahoo.com/quote/SLG)|SL Green Realty Corp|52.07|44.71|21 (+2)|
+|[RPT](https://finance.yahoo.com/quote/RPT)|Rithm Property Trust Inc|15.52|14.76|21 (+1)|
+|[BIPC](https://finance.yahoo.com/quote/BIPC)|Brookfield Infrastructure Corp|36.29|39.51|21 (+3)|
+|[SSTK](https://finance.yahoo.com/quote/SSTK)|Shutterstock Inc|16.31|16.49|21 (-9)|
+|[MSC](https://finance.yahoo.com/quote/MSC)|Studio City International Holdings Ltd ADR|2.72|2.39|21 (+8)|
+|[PSBD](https://finance.yahoo.com/quote/PSBD)|Palmer Square Capital BDC Inc|11.14|10.75|21 (-4)|
+|[T](https://finance.yahoo.com/quote/T)|AT&T Inc|26.36|25.57|20 (-4)|
+|[LOW](https://finance.yahoo.com/quote/LOW)|Lowe's Companies Inc|220.85|233.37|20 (+2)|
+|[ASR](https://finance.yahoo.com/quote/ASR)|Grupo Aeroportuario del Sureste SAB de CV ADR|298.39|310.54|20 (-1)|
+|[NOA](https://finance.yahoo.com/quote/NOA)|North American Construction Group Ltd|15.14|14.59|20 (-3)|
+|[BX](https://finance.yahoo.com/quote/BX)|Blackstone Inc|131.34|124.69|20 (+1)|
+|[EFR](https://finance.yahoo.com/quote/EFR)|Eaton Vance Senior Floating Rate Closed Fund|10.96|10.54|20 (-1)|
+|[BXP](https://finance.yahoo.com/quote/BXP)|BXP Inc|61.74|59.84|20 (+1)|
+|[J](https://finance.yahoo.com/quote/J)|Jacobs Solutions Inc|124.17|126.62|20 (-26)|
+|[UVV](https://finance.yahoo.com/quote/UVV)|Universal Corp|55.25|53.90|20 (-2)|
+|[NCLH](https://finance.yahoo.com/quote/NCLH)|Norwegian Cruise Line Holdings Ltd|17.37|17.75|20 (+3)|
+|[COF](https://finance.yahoo.com/quote/COF)|Capital One Financial Corp|185.38|193.40|20 (+1)|
+|[KR](https://finance.yahoo.com/quote/KR)|Kroger Co|71.42|66.01|20 (-7)|
+|[AMH](https://finance.yahoo.com/quote/AMH)|American Homes 4 Rent|37.41|32.44|20 (-1)|
+|[EVF](https://finance.yahoo.com/quote/EVF)|Eaton Vance Senior Income Closed Fund|5.23|4.99|20 (-1)|
+|[CI](https://finance.yahoo.com/quote/CI)|Cigna Group|326.11|281.98|20 (+2)|
+|[GRND](https://finance.yahoo.com/quote/GRND)|Grindr Inc|22.84|13.49|20 (-2)|
+|[IOT](https://finance.yahoo.com/quote/IOT)|Samsara Inc|41.36|28.92|20 (-14)|
+|[ALG](https://finance.yahoo.com/quote/ALG)|Alamo Group Inc|172.87|170.85|20 (+1)|
+|[SUZ](https://finance.yahoo.com/quote/SUZ)|Suzano SA ADR|8.85|8.74|20 (+2)|
+|[FPH](https://finance.yahoo.com/quote/FPH)|Five Point Holdings LLC|5.28|4.96|20 |
+|[CNA](https://finance.yahoo.com/quote/CNA)|CNA Financial Corp|44.37|43.43|20 (-4)|
+|[AMP](https://finance.yahoo.com/quote/AMP)|Ameriprise Financial Inc|474.47|475.29|20 (-1)|
+|[UZE](https://finance.yahoo.com/quote/UZE)|Array Digital Infrtre 5 500 Senior Notes due 2070|20.44|18.23|19 (-1)|
+|[HTT](https://finance.yahoo.com/quote/HTT)|High Templar Tech Ltd ADR|2.81|2.41|19 (-7)|
+|[UDR](https://finance.yahoo.com/quote/UDR)|UDR Inc|41.06|37.04|19 (-1)|
+|[VNO](https://finance.yahoo.com/quote/VNO)|Vornado Realty Trust|36.20|31.56|19 (+3)|
+|[PG](https://finance.yahoo.com/quote/PG)|Procter & Gamble Co|154.39|147.90|19 (+1)|
+|[MTN](https://finance.yahoo.com/quote/MTN)|Vail Resorts Inc|131.78|126.32|19 (-1)|
+|[ELME](https://finance.yahoo.com/quote/ELME)|Elme Communities|2.39|2.17|19 |
+|[FG](https://finance.yahoo.com/quote/FG)|F&G Annuities & Life Inc|34.50|29.47|19 (-2)|
+|[POST](https://finance.yahoo.com/quote/POST)|Post Holdings Inc|113.60|103.74|19 (-2)|
+|[GOF](https://finance.yahoo.com/quote/GOF)|Guggenheim Strategic Opportunities Mutual Fund|12.33|11.50|19 |
+|[PMT](https://finance.yahoo.com/quote/PMT)|PennyMac Mortgage Investment Trust|11.28|11.03|19 (-22)|
+|[UZF](https://finance.yahoo.com/quote/UZF)|Array Digital Infrtre 5 500 Senior Notes Due 2070|20.46|18.17|19 |
+|[LAW](https://finance.yahoo.com/quote/LAW)|CS Disco Inc|3.65|3.72|19 (-30)|
+|[MPX](https://finance.yahoo.com/quote/MPX)|Marine Products Corp|7.79|8.12|19 (+1)|
+|[UZD](https://finance.yahoo.com/quote/UZD)|Array Digital Infrtre 6 250 Senior Notes due 2069|22.02|20.11|19 |
+|[WY](https://finance.yahoo.com/quote/WY)|Weyerhaeuser Co|24.96|24.04|19 (+2)|
+|[HOMB](https://finance.yahoo.com/quote/HOMB)|Home BancShares Inc|27.57|27.03|19 (+1)|
+|[EPC](https://finance.yahoo.com/quote/EPC)|Edgewell Personal Care Co|29.80|22.39|19 (-4)|
+|[WHG](https://finance.yahoo.com/quote/WHG)|Westwood Holdings Group Inc|15.92|15.96|19 (+2)|
+|[MSB](https://finance.yahoo.com/quote/MSB)|Mesabi Trust|26.88|28.57|19 (+1)|
+|[AZO](https://finance.yahoo.com/quote/AZO)|Autozone Inc|3775.55|3541.79|19 (-1)|
+|[RITM](https://finance.yahoo.com/quote/RITM)|Rithm Capital Corp|10.34|9.84|19 (+1)|
+|[CPT](https://finance.yahoo.com/quote/CPT)|Camden Property Trust|114.53|104.81|18 (-1)|
+|[DECK](https://finance.yahoo.com/quote/DECK)|Deckers Outdoor Corp|118.33|103.92|18 (+3)|
+|[FCN](https://finance.yahoo.com/quote/FCN)|FTI Consulting Inc|166.42|160.99|18 (-7)|
+|[IH](https://finance.yahoo.com/quote/IH)|iHuman Inc ADR|2.12|1.69|18 |
+|[GPOR](https://finance.yahoo.com/quote/GPOR)|Gulfport Energy Corp|181.49|180.44|18 (-17)|
+|[CNM](https://finance.yahoo.com/quote/CNM)|Core & Main Inc|53.34|50.67|18 (+2)|
+|[KKR](https://finance.yahoo.com/quote/KKR)|KKR & Co Inc|114.08|100.79|18 (-2)|
+|[V](https://finance.yahoo.com/quote/V)|Visa Inc|346.05|318.80|18 (-2)|
+|[GGG](https://finance.yahoo.com/quote/GGG)|Graco Inc|81.14|80.36|18 (+1)|
+|[EXP](https://finance.yahoo.com/quote/EXP)|Eagle Materials Inc|233.78|217.06|18 (+1)|
+|[IR](https://finance.yahoo.com/quote/IR)|Ingersoll Rand Inc|76.88|78.65|18 (+2)|
+|[AWK](https://finance.yahoo.com/quote/AWK)|American Water Works Co Inc|144.51|125.68|18 (-1)|
+|[IRT](https://finance.yahoo.com/quote/IRT)|Independence Realty Trust  Inc|18.71|16.42|18 (-2)|
+|[MHK](https://finance.yahoo.com/quote/MHK)|Mohawk Industries Inc|101.42|104.38|18 (+5)|
+|[CXT](https://finance.yahoo.com/quote/CXT)|Crane NXT Co|47.57|45.65|18 (+1)|
+|[RELX](https://finance.yahoo.com/quote/RELX)|Relx PLC ADR|54.18|35.75|18 |
+|[SITE](https://finance.yahoo.com/quote/SITE)|SiteOne Landscape Supply Inc|120.80|122.22|18 (+1)|
+|[VTS](https://finance.yahoo.com/quote/VTS)|Vitesse Energy Inc|19.43|18.50|18 (-2)|
+|[RVLV](https://finance.yahoo.com/quote/RVLV)|Revolve Group Inc|19.08|20.19|18 (-20)|
+|[AVY](https://finance.yahoo.com/quote/AVY)|Avery Dennison Corp|167.34|166.68|18 (+1)|
+|[WRB](https://finance.yahoo.com/quote/WRB)|W. R. Berkley Corp|70.60|66.12|18 (-2)|
+|[PFSI](https://finance.yahoo.com/quote/PFSI)|PennyMac Financial Services Inc|96.50|87.07|18 (-2)|
+|[BRSL](https://finance.yahoo.com/quote/BRSL)|Brightstar Lottery PLC|13.20|12.66|18 |
+|[HIMS](https://finance.yahoo.com/quote/HIMS)|Hims & Hers Health Inc|41.88|26.88|17 (-2)|
+|[WNC](https://finance.yahoo.com/quote/WNC)|Wabash National Corp|7.82|7.77|17 (+2)|
+|[ZBH](https://finance.yahoo.com/quote/ZBH)|Zimmer Biomet Holdings  Inc|89.54|82.83|17 (+3)|
+|[GPN](https://finance.yahoo.com/quote/GPN)|Global Payments Inc|78.27|69.63|17 (-5)|
+|[VLTO](https://finance.yahoo.com/quote/VLTO)|Veralto Corp|95.22|86.88|17 |
+|[ELF](https://finance.yahoo.com/quote/ELF)|elf Beauty Inc|67.79|61.43|17 |
+|[CRBG](https://finance.yahoo.com/quote/CRBG)|Corebridge Financial Inc|29.57|28.05|17 (-4)|
+|[PAY](https://finance.yahoo.com/quote/PAY)|Paymentus Holdings Inc|34.13|27.15|17 (+1)|
+|[TOST](https://finance.yahoo.com/quote/TOST)|Toast Inc|35.84|28.31|17 (-3)|
+|[ICL](https://finance.yahoo.com/quote/ICL)|ICL Group Ltd|6.71|5.62|17 (-1)|
+|[AGO](https://finance.yahoo.com/quote/AGO)|Assured Guaranty Ltd|88.90|82.01|17 (-1)|
+|[PSQH](https://finance.yahoo.com/quote/PSQH)|PSQ Holdings Inc|1.76|0.82|17 (+7)|
+|[EQH](https://finance.yahoo.com/quote/EQH)|Equitable Holdings Inc|49.15|43.72|17 (-2)|
+|[MTH](https://finance.yahoo.com/quote/MTH)|Meritage Homes Corp|66.52|64.86|17 |
+|[CDRE](https://finance.yahoo.com/quote/CDRE)|Cadre Holdings Inc|29.45|30.84|17 (+1)|
+|[ENOV](https://finance.yahoo.com/quote/ENOV)|Enovis Corp|34.16|24.85|17 (+1)|
+|[TDG](https://finance.yahoo.com/quote/TDG)|TransDigm Group Inc|1377.88|1233.37|17 (+2)|
+|[TRU](https://finance.yahoo.com/quote/TRU)|TransUnion|84.12|70.70|17 (+1)|
+|[TM](https://finance.yahoo.com/quote/TM)|Toyota Motor Corp ADR|192.48|195.05|17 |
+|[AMT](https://finance.yahoo.com/quote/AMT)|American Tower Corp|215.90|180.16|17 (-1)|
+|[CWT](https://finance.yahoo.com/quote/CWT)|California Water Service Group|47.70|43.03|17 (-1)|
+|[JHX](https://finance.yahoo.com/quote/JHX)|James Hardie Industries PLC|23.98|21.42|17 (+5)|
+|[DMA](https://finance.yahoo.com/quote/DMA)|Destra Multi-Alternative Fund|7.72|7.51|16 |
+|[LUCK](https://finance.yahoo.com/quote/LUCK)|Lucky Strike Entertainment Corp|9.43|7.66|16 (-4)|
+|[ICE](https://finance.yahoo.com/quote/ICE)|Intercontinental Exchange Inc|171.96|153.40|16 (-3)|
+|[XYL](https://finance.yahoo.com/quote/XYL)|Xylem Inc|120.85|118.59|16 |
+|[MOH](https://finance.yahoo.com/quote/MOH)|Molina Healthcare Inc|319.63|197.44|16 (+3)|
+|[SNOW](https://finance.yahoo.com/quote/SNOW)|Snowflake Inc|167.87|139.74|16 |
+|[PCOR](https://finance.yahoo.com/quote/PCOR)|Procore Technologies Inc|64.65|52.96|16 (-9)|
+|[CLPR](https://finance.yahoo.com/quote/CLPR)|Clipper Realty Inc|3.42|3.11|16 (-6)|
+|[PHI](https://finance.yahoo.com/quote/PHI)|PLDT Inc ADR|22.57|20.42|16 (+1)|
+|[CHH](https://finance.yahoo.com/quote/CHH)|Choice Hotels International Inc|125.57|105.17|16 (-1)|
+|[EDN](https://finance.yahoo.com/quote/EDN)|Empresa Distribuidora y Comercializadora Norte SA ADR|28.87|25.75|16 (+5)|
+|[RPM](https://finance.yahoo.com/quote/RPM)|RPM International Inc|107.87|102.41|16 |
+|[AUNA](https://finance.yahoo.com/quote/AUNA)|Auna SA|6.97|5.15|16 (+2)|
+|[TXO](https://finance.yahoo.com/quote/TXO)|TXO Partners Units|14.92|12.37|16 (-3)|
+|[SRG](https://finance.yahoo.com/quote/SRG)|Seritage Growth Properties|2.95|2.68|16 (+2)|
+|[CCS](https://finance.yahoo.com/quote/CCS)|Century Communities Inc|53.60|54.27|16 |
+|[TSLX](https://finance.yahoo.com/quote/TSLX)|Sixth Street Specialty Lending Inc|18.87|17.91|16 (-12)|
+|[BILL](https://finance.yahoo.com/quote/BILL)|BILL Holdings Inc|45.19|37.07|16 (-5)|
+|[EIG](https://finance.yahoo.com/quote/EIG)|Employers Holdings Inc|46.73|41.36|16 |
+|[LAD](https://finance.yahoo.com/quote/LAD)|Lithia Motors Inc|296.17|289.46|16 (-1)|
+|[PATH](https://finance.yahoo.com/quote/PATH)|UiPath Inc|11.77|10.50|16 (-2)|
+|[BBW](https://finance.yahoo.com/quote/BBW)|Build-A-Bear Workshop Inc|35.52|37.17|16 (+1)|
+|[SITC](https://finance.yahoo.com/quote/SITC)|Site Centers Corp|5.88|5.62|15 (-2)|
+|[CION](https://finance.yahoo.com/quote/CION)|Cion Investment Corp|8.35|7.80|15 (-2)|
+|[ITGR](https://finance.yahoo.com/quote/ITGR)|Integer Holdings Corp|116.55|86.29|15 (+1)|
+|[UTL](https://finance.yahoo.com/quote/UTL)|Unitil Corp|57.15|49.28|15 (-4)|
+|[NXRT](https://finance.yahoo.com/quote/NXRT)|NexPoint Residential Trust Inc|35.63|29.85|15 (-1)|
+|[UHS](https://finance.yahoo.com/quote/UHS)|Universal Health Services Inc|177.49|168.49|15 |
+|[LZB](https://finance.yahoo.com/quote/LZB)|La-Z-Boy Inc|40.21|35.37|15 |
+|[MKL](https://finance.yahoo.com/quote/MKL)|Markel Group Inc|1867.33|1785.58|15 |
+|[SARO](https://finance.yahoo.com/quote/SARO)|StandardAero  Inc.|27.66|26.26|15 (+2)|
+|[THO](https://finance.yahoo.com/quote/THO)|Thor Industries Inc|72.89|77.18|15 (+1)|
+|[IIF](https://finance.yahoo.com/quote/IIF)|Morgan Stanley India Investment Closed Fund|24.60|22.49|15 |
+|[ROL](https://finance.yahoo.com/quote/ROL)|Rollins Inc|56.31|54.19|15 (-2)|
+|[WGO](https://finance.yahoo.com/quote/WGO)|Winnebago Industries Inc|31.30|31.95|15 (+1)|
+|[BBY](https://finance.yahoo.com/quote/BBY)|Best Buy Co Inc|64.05|58.69|15 (-1)|
+|[SKY](https://finance.yahoo.com/quote/SKY)|Champion Homes Inc|88.16|75.92|15 |
+|[EVTC](https://finance.yahoo.com/quote/EVTC)|Evertec Inc|34.32|28.16|15 (-1)|
+|[WMK](https://finance.yahoo.com/quote/WMK)|Weis Markets Inc|86.85|71.64|15 (+1)|
+|[BMA](https://finance.yahoo.com/quote/BMA)|Banco Macro SA ADR|80.98|76.97|15 (+5)|
+|[CNH](https://finance.yahoo.com/quote/CNH)|CNH Industrial NV|12.19|10.82|15 (+1)|
+|[MTR](https://finance.yahoo.com/quote/MTR)|Mesa Royalty Trust|4.98|4.35|15 (-3)|
+|[BDN](https://finance.yahoo.com/quote/BDN)|Brandywine Realty Trust|3.62|3.02|15 (-8)|
+|[COUR](https://finance.yahoo.com/quote/COUR)|Coursera Inc|8.60|6.03|15 (-2)|
+|[MCD](https://finance.yahoo.com/quote/MCD)|McDonald's Corp|308.58|284.10|14 (-2)|
+|[HLI](https://finance.yahoo.com/quote/HLI)|Houlihan Lokey Inc|162.07|147.23|14 (-3)|
+|[STZ](https://finance.yahoo.com/quote/STZ)|Constellation Brands Inc|182.49|152.29|14 (-1)|
+|[OC](https://finance.yahoo.com/quote/OC)|Owens Corning|140.96|123.03|14 (-2)|
+|[LW](https://finance.yahoo.com/quote/LW)|Lamb Weston Holdings Inc|50.24|43.23|14 |
+|[TU](https://finance.yahoo.com/quote/TU)|Telus Corporation|14.46|12.82|14 (-1)|
+|[FBRT](https://finance.yahoo.com/quote/FBRT)|Franklin BSP Realty Trust Inc|10.03|9.15|14 (-1)|
+|[STE](https://finance.yahoo.com/quote/STE)|STERIS plc|222.63|214.46|14 |
+|[XPEV](https://finance.yahoo.com/quote/XPEV)|Xpeng Inc ADR|19.94|15.93|14 |
+|[MAA](https://finance.yahoo.com/quote/MAA)|Mid-America Apartment Communities Inc|158.08|130.30|14 (-1)|
+|[ADT](https://finance.yahoo.com/quote/ADT)|ADT Inc|7.90|6.98|14 (-1)|
+|[GPI](https://finance.yahoo.com/quote/GPI)|Group 1 Automotive Inc|409.68|343.97|14 (-1)|
+|[VHI](https://finance.yahoo.com/quote/VHI)|Valhi Inc|17.42|14.71|14 (-4)|
+|[ALLE](https://finance.yahoo.com/quote/ALLE)|Allegion PLC|139.84|135.33|14 |
+|[SHW](https://finance.yahoo.com/quote/SHW)|Sherwin-Williams Co|356.63|323.63|14 (+1)|
+|[KVUE](https://finance.yahoo.com/quote/KVUE)|Kenvue Inc|22.66|17.68|14 (-2)|
+|[HAE](https://finance.yahoo.com/quote/HAE)|Haemonetics Corp|62.49|52.67|14 (-4)|
+|[SONY](https://finance.yahoo.com/quote/SONY)|Sony Group Corp ADR|25.24|20.73|14 (+2)|
+|[SJM](https://finance.yahoo.com/quote/SJM)|J.M. Smucker Co|109.49|96.83|14 (-1)|
+|[FENG](https://finance.yahoo.com/quote/FENG)|Phoenix New Media Ltd ADR|2.15|1.73|14 (-1)|
+|[AMC](https://finance.yahoo.com/quote/AMC)|AMC Entertainment Holdings Inc|2.64|1.64|14 (-1)|
+|[PNNT](https://finance.yahoo.com/quote/PNNT)|Pennantpark Investment Corp|5.47|4.84|14 |
+|[ATR](https://finance.yahoo.com/quote/ATR)|Aptargroup Inc|149.92|122.63|14 |
+|[GWH](https://finance.yahoo.com/quote/GWH)|ESS Tech Inc|2.08|1.14|13 (-4)|
+|[MCI](https://finance.yahoo.com/quote/MCI)|Barings Corporate Investors|19.00|17.45|13 |
+|[FNF](https://finance.yahoo.com/quote/FNF)|Fidelity National Financial Inc|59.95|51.29|13 (-1)|
+|[BIRK](https://finance.yahoo.com/quote/BIRK)|Birkenstock Holding PLC|52.53|39.60|13 (+2)|
+|[HLN](https://finance.yahoo.com/quote/HLN)|Haleon PLC ADR|10.43|9.23|13 |
+|[AMCR](https://finance.yahoo.com/quote/AMCR)|Amcor PLC|45.31|40.21|13 (+2)|
+|[MA](https://finance.yahoo.com/quote/MA)|Mastercard Inc|557.83|491.89|13 (-2)|
+|[MDT](https://finance.yahoo.com/quote/MDT)|Medtronic PLC|80.88|77.60|13 |
+|[EIC](https://finance.yahoo.com/quote/EIC)|Eagle Point Income Company Closed End Fund|13.13|10.48|13 (-1)|
+|[HD](https://finance.yahoo.com/quote/HD)|Home Depot Inc|352.81|323.05|13 (+1)|
+|[FSCO](https://finance.yahoo.com/quote/FSCO)|FS Credit Opportunities Corp.|6.19|5.23|13 (-1)|
+|[LNN](https://finance.yahoo.com/quote/LNN)|Lindsay Corp|130.65|113.74|13 (+1)|
+|[SXC](https://finance.yahoo.com/quote/SXC)|SunCoke Energy Inc|8.45|7.25|13 (+1)|
+|[CPNG](https://finance.yahoo.com/quote/CPNG)|Coupang Inc|23.99|17.89|13 (-21)|
+|[ACM](https://finance.yahoo.com/quote/ACM)|AECOM|101.06|83.92|13 (-1)|
+|[NL](https://finance.yahoo.com/quote/NL)|NL Industries Inc|7.90|5.92|13 (+1)|
+|[SPGI](https://finance.yahoo.com/quote/SPGI)|S&P Global Inc|501.93|423.57|13 |
+|[FINV](https://finance.yahoo.com/quote/FINV)|FinVolution Group ADR|7.93|5.22|13 (+2)|
+|[BOX](https://finance.yahoo.com/quote/BOX)|Box Inc|31.17|24.24|13 (-4)|
+|[IBM](https://finance.yahoo.com/quote/IBM)|International Business Machines Corp|243.14|225.74|13 (-1)|
+|[KBH](https://finance.yahoo.com/quote/KBH)|KB Home|53.77|49.67|13 (+1)|
+|[APTV](https://finance.yahoo.com/quote/APTV)|APTIV PLC|58.78|56.80|13 (+1)|
+|[ZH](https://finance.yahoo.com/quote/ZH)|Zhihu Inc ADR|4.09|3.29|12 |
+|[AON](https://finance.yahoo.com/quote/AON)|Aon PLC|353.81|308.27|12 (-3)|
+|[SNAP](https://finance.yahoo.com/quote/SNAP)|Snap Inc|8.55|6.11|12 |
+|[MMS](https://finance.yahoo.com/quote/MMS)|Maximus Inc|65.21|63.95|12 (-1)|
+|[SRL](https://finance.yahoo.com/quote/SRL)|Scully Royalty Ltd|7.81|6.67|12 (-3)|
+|[CSAN](https://finance.yahoo.com/quote/CSAN)|Cosan SA ADR|5.39|4.25|12 (+1)|
+|[NTZ](https://finance.yahoo.com/quote/NTZ)|Natuzzi SpA ADR|3.85|2.91|12 (-1)|
+|[CNNE](https://finance.yahoo.com/quote/CNNE)|Cannae Holdings Inc|17.26|13.73|12 (-1)|
+|[HHH](https://finance.yahoo.com/quote/HHH)|Howard Hughes Holdings Inc|69.40|64.12|12 (-1)|
+|[SAM](https://finance.yahoo.com/quote/SAM)|Boston Beer Company Inc|242.33|206.36|12 (-2)|
+|[ABG](https://finance.yahoo.com/quote/ABG)|Asbury Automotive Group Inc|220.71|197.70|12 (-1)|
+|[PRKS](https://finance.yahoo.com/quote/PRKS)|United Parks & Resorts Inc|45.98|35.76|12 |
+|[AOS](https://finance.yahoo.com/quote/AOS)|A O Smith Corp|66.93|61.06|12 (+1)|
+|[YMM](https://finance.yahoo.com/quote/YMM)|Full Truck Alliance Co Ltd ADR|11.72|9.08|12 (+2)|
+|[SLVM](https://finance.yahoo.com/quote/SLVM)|Sylvamo Corp|57.13|44.83|12 (+1)|
+|[WFG](https://finance.yahoo.com/quote/WFG)|West Fraser Timber Co Ltd|73.55|62.73|12 (+2)|
+|[FMS](https://finance.yahoo.com/quote/FMS)|Fresenius Medical Care AG ADR|24.91|21.01|12 (+1)|
+|[ARES](https://finance.yahoo.com/quote/ARES)|Ares Management Corp|155.54|123.86|12 (-2)|
+|[AXTA](https://finance.yahoo.com/quote/AXTA)|Axalta Coating Systems Ltd|33.29|28.55|12 (+1)|
+|[UFI](https://finance.yahoo.com/quote/UFI)|Unifi Inc|4.68|3.88|12 (+4)|
+|[DFIN](https://finance.yahoo.com/quote/DFIN)|Donnelley Financial Solutions Inc|51.79|42.97|12 |
+|[ABM](https://finance.yahoo.com/quote/ABM)|ABM Industries Inc|48.40|40.64|12 |
+|[RMD](https://finance.yahoo.com/quote/RMD)|Resmed Inc|238.52|209.64|11 (-2)|
+|[UL](https://finance.yahoo.com/quote/UL)|Unilever PLC ADR|69.14|59.70|11 |
+|[RSG](https://finance.yahoo.com/quote/RSG)|Republic Services Inc|248.01|199.69|11 (-2)|
+|[LRN](https://finance.yahoo.com/quote/LRN)|Stride Inc|160.72|93.00|11 (-3)|
+|[EPAC](https://finance.yahoo.com/quote/EPAC)|Enerpac Tool Group Corp|42.01|35.77|11 |
+|[DHR](https://finance.yahoo.com/quote/DHR)|Danaher Corp|196.05|174.92|11 |
+|[PNR](https://finance.yahoo.com/quote/PNR)|Pentair PLC|92.10|79.91|11 |
+|[GPC](https://finance.yahoo.com/quote/GPC)|Genuine Parts Co|114.90|105.49|11 |
+|[ACHR](https://finance.yahoo.com/quote/ACHR)|Archer Aviation Inc|8.69|6.41|11 (+5)|
+|[SCM](https://finance.yahoo.com/quote/SCM)|Stellus Capital Investment Corp|11.27|9.70|11 |
+|[COLD](https://finance.yahoo.com/quote/COLD)|Americold Realty Trust Inc|17.46|12.70|11 (+2)|
+|[NVO](https://finance.yahoo.com/quote/NVO)|Novo Nordisk A/S ADR|65.93|45.76|11 (+2)|
+|[INGR](https://finance.yahoo.com/quote/INGR)|Ingredion Inc|130.02|106.37|11 (-1)|
+|[BJ](https://finance.yahoo.com/quote/BJ)|BJ's Wholesale Club Holdings Inc|119.44|92.45|11 (-3)|
+|[RACE](https://finance.yahoo.com/quote/RACE)|Ferrari NV|461.14|336.25|11 |
+|[LDOS](https://finance.yahoo.com/quote/LDOS)|Leidos Holdings Inc|146.53|134.90|11 (-1)|
+|[BCC](https://finance.yahoo.com/quote/BCC)|Boise Cascade Co|91.50|74.24|11 (+2)|
+|[UHAL](https://finance.yahoo.com/quote/UHAL)|U-Haul Holding Co|63.66|52.10|11 (+1)|
+|[CHE](https://finance.yahoo.com/quote/CHE)|Chemed Corp|573.26|424.56|11 (-2)|
+|[MAGN](https://finance.yahoo.com/quote/MAGN)|Magnera Corp|15.13|11.07|11 (+4)|
+|[BZH](https://finance.yahoo.com/quote/BZH)|Beazer Homes USA Inc|21.20|18.91|11 |
+|[IFN](https://finance.yahoo.com/quote/IFN)|Aberdeen India Fund|14.58|12.03|11 (+1)|
+|[XPOF](https://finance.yahoo.com/quote/XPOF)|Xponential Fitness Inc|8.52|6.63|10 |
+|[PGR](https://finance.yahoo.com/quote/PGR)|Progressive Corp|264.96|196.80|10 (-2)|
+|[XFLT](https://finance.yahoo.com/quote/XFLT)|XAI Octagon Floating Rate & Alternative Income Tr|24.13|19.00|10 |
+|[DNOW](https://finance.yahoo.com/quote/DNOW)|DNOW Inc|16.07|13.50|10 (-1)|
+|[BXC](https://finance.yahoo.com/quote/BXC)|Bluelinx Holdings Inc|66.70|58.70|10 (+6)|
+|[GPMT](https://finance.yahoo.com/quote/GPMT)|Granite Point Mortgage Trust Inc|1.74|1.49|10 (+1)|
+|[DLB](https://finance.yahoo.com/quote/DLB)|Dolby Laboratories Inc|73.26|57.98|10 (-3)|
+|[COR](https://finance.yahoo.com/quote/COR)|Cencora Inc|289.89|252.74|10 (-11)|
+|[ALK](https://finance.yahoo.com/quote/ALK)|Alaska Air Group Inc|48.65|40.51|10 |
+|[BBAR](https://finance.yahoo.com/quote/BBAR)|Banco BBVA Argentina SA ADR|18.96|15.62|10 (+3)|
+|[WCN](https://finance.yahoo.com/quote/WCN)|Waste Connections  Inc|196.86|153.48|10 (-3)|
+|[VYX](https://finance.yahoo.com/quote/VYX)|NCR Voyix Corp|8.80|7.03|10 (-2)|
+|[KREF](https://finance.yahoo.com/quote/KREF)|KKR Real Estate Finance Trust Inc|8.14|6.57|10 |
+|[NABL](https://finance.yahoo.com/quote/NABL)|N-Able Inc|7.17|5.31|10 (-3)|
+|[NVR](https://finance.yahoo.com/quote/NVR)|NVR Inc|7076.41|6099.80|10 |
+|[PSN](https://finance.yahoo.com/quote/PSN)|Parsons Corp|61.02|51.68|10 (+1)|
+|[MNSO](https://finance.yahoo.com/quote/MNSO)|MINISO Group Holding Ltd ADR|18.10|14.83|10 |
+|[SID](https://finance.yahoo.com/quote/SID)|Companhia Siderurgica Nacional SA ADR|1.66|1.40|10 (+3)|
+|[NYC](https://finance.yahoo.com/quote/NYC)|American Strategic Investment Co|11.00|8.22|10 (-2)|
+|[MOS](https://finance.yahoo.com/quote/MOS)|Mosaic Co|29.69|23.56|10 |
+|[CCU](https://finance.yahoo.com/quote/CCU)|Compania Cervecerias Unidas SA ADR|15.22|11.97|10 (+2)|
+|[ACI](https://finance.yahoo.com/quote/ACI)|Albertsons Companies Inc|20.97|16.03|10 |
+|[ESAB](https://finance.yahoo.com/quote/ESAB)|ESAB Corp|122.19|101.53|9 |
+|[LEN](https://finance.yahoo.com/quote/LEN)|Lennar Corp Class A|107.23|90.54|9 |
+|[OTIS](https://finance.yahoo.com/quote/OTIS)|Otis Worldwide Corp|95.64|76.71|9 (-1)|
+|[GWRE](https://finance.yahoo.com/quote/GWRE)|Guidewire Software Inc|210.39|131.09|9 (-7)|
+|[SVV](https://finance.yahoo.com/quote/SVV)|Savers Value Village Inc|10.75|8.56|9 (+1)|
+|[IBN](https://finance.yahoo.com/quote/IBN)|ICICI Bank Ltd ADR|33.87|26.75|9 |
+|[DEO](https://finance.yahoo.com/quote/DEO)|Diageo PLC ADR|109.13|84.61|9 |
+|[LPX](https://finance.yahoo.com/quote/LPX)|Louisiana-Pacific Corp|86.40|72.49|9 |
+|[TAP](https://finance.yahoo.com/quote/TAP)|Molson Coors Beverage Co Class B|55.23|42.76|9 (-1)|
+|[ESRT](https://finance.yahoo.com/quote/ESRT)|Empire State Realty Trust Inc|7.26|5.67|9 |
+|[VEEV](https://finance.yahoo.com/quote/VEEV)|Veeva Systems Inc|236.99|167.35|9 (-1)|
+|[SLGN](https://finance.yahoo.com/quote/SLGN)|Silgan Holdings Inc|53.56|40.50|9 (-1)|
+|[USNA](https://finance.yahoo.com/quote/USNA)|USANA Health Sciences Inc|28.93|20.01|9 (+1)|
+|[ATHM](https://finance.yahoo.com/quote/ATHM)|Autohome Inc ADR|26.86|19.37|9 (+2)|
+|[SPOT](https://finance.yahoo.com/quote/SPOT)|Spotify Technology SA|637.65|425.25|9 (+2)|
+|[ENR](https://finance.yahoo.com/quote/ENR)|Energizer Holdings Inc|24.54|18.97|9 (+2)|
+|[CHPT](https://finance.yahoo.com/quote/CHPT)|ChargePoint Holdings Inc|11.60|6.36|9 |
+|[JILL](https://finance.yahoo.com/quote/JILL)|JJill Inc|14.80|12.44|9 (+1)|
+|[BOC](https://finance.yahoo.com/quote/BOC)|Boston Omaha Corp|15.25|11.40|9 (-2)|
+|[WD](https://finance.yahoo.com/quote/WD)|Walker & Dunlop Inc|69.52|53.17|9 (+1)|
+|[ETD](https://finance.yahoo.com/quote/ETD)|Ethan Allen Interiors Inc|27.20|20.50|9 |
+|[IP](https://finance.yahoo.com/quote/IP)|International Paper Co|42.47|33.52|9 (+2)|
+|[HRL](https://finance.yahoo.com/quote/HRL)|Hormel Foods Corp|27.82|20.70|9 |
+|[PDCC](https://finance.yahoo.com/quote/PDCC)|Pearl Diver Credit Company Inc|15.03|11.20|8 (+1)|
+|[UWMC](https://finance.yahoo.com/quote/UWMC)|UWM Holdings Corp|4.36|3.49|8 |
+|[MAN](https://finance.yahoo.com/quote/MAN)|ManpowerGroup Inc|39.07|29.27|8 |
+|[HMC](https://finance.yahoo.com/quote/HMC)|Honda Motor Co Ltd ADR|30.80|24.71|8 |
+|[STLA](https://finance.yahoo.com/quote/STLA)|Stellantis NV|9.45|7.66|8 (+1)|
+|[RBLX](https://finance.yahoo.com/quote/RBLX)|Roblox Corp|71.82|43.76|8 |
+|[STG](https://finance.yahoo.com/quote/STG)|Sunlands Technology Group ADR|5.00|3.29|8 (+2)|
+|[MRSH](https://finance.yahoo.com/quote/MRSH)|Marsh & McLennan Companies Inc|222.31|163.90|8 (-1)|
+|[ONON](https://finance.yahoo.com/quote/ONON)|On Holding AG|48.89|36.06|8 (+1)|
+|[PRT](https://finance.yahoo.com/quote/PRT)|PermRock Royalty Units|3.48|2.68|8 |
+|[SYK](https://finance.yahoo.com/quote/SYK)|Stryker Corp|377.72|292.33|8 (-1)|
+|[EFX](https://finance.yahoo.com/quote/EFX)|Equifax Inc|260.01|173.20|8 |
+|[FSK](https://finance.yahoo.com/quote/FSK)|FS KKR Capital Corp|16.47|11.42|8 |
+|[IIIN](https://finance.yahoo.com/quote/IIIN)|Insteel Industries Inc|33.85|26.71|8 |
+|[PRMB](https://finance.yahoo.com/quote/PRMB)|Primo Brands Corp|32.59|19.80|8 (-2)|
+|[EVH](https://finance.yahoo.com/quote/EVH)|Evolent Health Inc|10.56|3.83|8 (-1)|
+|[ZTS](https://finance.yahoo.com/quote/ZTS)|Zoetis Inc|155.64|111.22|8 (-1)|
+|[TREX](https://finance.yahoo.com/quote/TREX)|Trex Company Inc|60.05|39.91|8 (+2)|
+|[NKE](https://finance.yahoo.com/quote/NKE)|Nike Inc|55.95|43.88|8 (+1)|
+|[CRM](https://finance.yahoo.com/quote/CRM)|Salesforce Inc|270.61|181.19|8 (-1)|
+|[WK](https://finance.yahoo.com/quote/WK)|Workiva Inc|66.25|51.53|8 (-2)|
+|[QGEN](https://finance.yahoo.com/quote/QGEN)|Qiagen NV|42.59|34.44|8 (+1)|
+|[JBI](https://finance.yahoo.com/quote/JBI)|Janus International Group Inc|7.30|5.30|7 |
+|[HNI](https://finance.yahoo.com/quote/HNI)|HNI Corp|41.83|33.29|7 (-3)|
+|[CNMD](https://finance.yahoo.com/quote/CNMD)|Conmed Corp|56.55|37.32|7 |
+|[UTZ](https://finance.yahoo.com/quote/UTZ)|UTZ Brands Inc|11.35|8.30|7 (+1)|
+|[G](https://finance.yahoo.com/quote/G)|Genpact Ltd|48.94|33.80|7 (-1)|
+|[CXM](https://finance.yahoo.com/quote/CXM)|Sprinklr Inc|7.72|5.25|7 (-2)|
+|[ECC](https://finance.yahoo.com/quote/ECC)|Eagle Point Credit Company Inc|6.12|4.22|7 (-2)|
+|[FUN](https://finance.yahoo.com/quote/FUN)|Six Flags Entertainment Corp|35.73|19.69|7 (+2)|
+|[CURV](https://finance.yahoo.com/quote/CURV)|Torrid Holdings Inc|5.69|1.53|7 |
+|[LOAR](https://finance.yahoo.com/quote/LOAR)|Loar Holdings Inc|96.79|61.83|7 (+1)|
+|[TME](https://finance.yahoo.com/quote/TME)|Tencent Music Entertainment Group ADR|13.83|9.67|7 (+2)|
+|[GFL](https://finance.yahoo.com/quote/GFL)|GFL Environmental Inc|51.54|36.39|7 (-1)|
+|[BOW](https://finance.yahoo.com/quote/BOW)|Bowhead Specialty Holdings Inc|41.30|24.72|7 (-1)|
+|[SPMC](https://finance.yahoo.com/quote/SPMC)|Sound Point Meridian Capital Inc|15.75|10.87|7 |
+|[BAH](https://finance.yahoo.com/quote/BAH)|Booz Allen Hamilton Holding Corp|116.28|76.28|7 (-1)|
+|[DXC](https://finance.yahoo.com/quote/DXC)|DXC Technology Co|15.88|11.47|7 (-2)|
+|[LOCL](https://finance.yahoo.com/quote/LOCL)|Local Bounti Corp|2.50|1.76|7 (+1)|
+|[RPC](https://finance.yahoo.com/quote/RPC)|Ridgepost Capital Inc|11.28|8.21|7 |
+|[SRFM](https://finance.yahoo.com/quote/SRFM)|Surf Air Mobility Inc|2.44|1.37|7 (+4)|
+|[CMG](https://finance.yahoo.com/quote/CMG)|Chipotle Mexican Grill Inc|50.01|32.74|7 (+1)|
+|[ARE](https://finance.yahoo.com/quote/ARE)|Alexandria Real Estate Equities  Inc|68.96|45.83|7 (+2)|
+|[RHI](https://finance.yahoo.com/quote/RHI)|Robert Half Inc|40.80|26.17|7 |
+|[KBR](https://finance.yahoo.com/quote/KBR)|KBR Inc|50.82|35.11|6 (-2)|
+|[CHWY](https://finance.yahoo.com/quote/CHWY)|Chewy Inc|37.81|24.59|6 (-2)|
+|[NGVC](https://finance.yahoo.com/quote/NGVC)|Natural Grocers by Vitamin Cottage Inc|48.94|27.11|6 (-2)|
+|[WHR](https://finance.yahoo.com/quote/WHR)|Whirlpool Corp|72.87|54.73|6 |
+|[YEXT](https://finance.yahoo.com/quote/YEXT)|Yext Inc|6.58|4.04|6 |
+|[CINT](https://finance.yahoo.com/quote/CINT)|Ci&T Inc|5.81|4.09|6 (+1)|
+|[INFY](https://finance.yahoo.com/quote/INFY)|Infosys Ltd ADR|17.34|12.64|6 |
+|[TYL](https://finance.yahoo.com/quote/TYL)|Tyler Technologies Inc|549.34|320.65|6 (-2)|
+|[ALC](https://finance.yahoo.com/quote/ALC)|Alcon AG|96.57|65.41|6 (-6)|
+|[WPP](https://finance.yahoo.com/quote/WPP)|WPP PLC ADR|36.81|18.53|6 |
+|[FBIN](https://finance.yahoo.com/quote/FBIN)|Fortune Brands Innovations Inc|53.25|39.93|6 (+1)|
+|[COOK](https://finance.yahoo.com/quote/COOK)|Traeger Inc|72.00|42.88|6 (+2)|
+|[SE](https://finance.yahoo.com/quote/SE)|Sea Ltd ADR|142.50|90.02|6 (+2)|
+|[FND](https://finance.yahoo.com/quote/FND)|Floor & Decor Holdings Inc|74.00|51.02|6 (+1)|
+|[PAYC](https://finance.yahoo.com/quote/PAYC)|Paycom Software Inc|225.45|126.36|6 (-3)|
+|[RLI](https://finance.yahoo.com/quote/RLI)|RLI Corp|71.36|49.01|6 (-1)|
+|[XYF](https://finance.yahoo.com/quote/XYF)|X Financial ADR|11.78|5.00|6 (+1)|
+|[BR](https://finance.yahoo.com/quote/BR)|Broadridge Financial Solutions Inc|228.21|152.83|6 |
+|[BBWI](https://finance.yahoo.com/quote/BBWI)|Bath & Body Works Inc|29.27|19.20|6 (+1)|
+|[LU](https://finance.yahoo.com/quote/LU)|Lufax Holding Ltd ADR|2.96|2.02|6 |
+|[CRK](https://finance.yahoo.com/quote/CRK)|Comstock Resources Inc|21.24|14.99|6 (-5)|
+|[WIT](https://finance.yahoo.com/quote/WIT)|Wipro Ltd ADR|2.84|2.00|6 |
+|[WEAV](https://finance.yahoo.com/quote/WEAV)|Weave Communications Inc|10.70|6.01|5 (-2)|
+|[HDB](https://finance.yahoo.com/quote/HDB)|HDFC Bank Ltd ADR|36.34|25.63|5 |
+|[OWL](https://finance.yahoo.com/quote/OWL)|Blue Owl Capital Inc|17.44|10.54|5 (-1)|
+|[RH](https://finance.yahoo.com/quote/RH)|RH|186.31|131.73|5 (+2)|
+|[PBH](https://finance.yahoo.com/quote/PBH)|Prestige Consumer Healthcare Inc|82.98|54.31|5 (-1)|
+|[CLX](https://finance.yahoo.com/quote/CLX)|Clorox Co|132.42|90.01|5 |
+|[CCIF](https://finance.yahoo.com/quote/CCIF)|Carlyle Credit Income Fund|5.37|3.32|5 (-1)|
+|[BLDR](https://finance.yahoo.com/quote/BLDR)|Builders FirstSource Inc|111.86|80.03|5 (+1)|
+|[FIS](https://finance.yahoo.com/quote/FIS)|Fidelity National Information Services Inc|76.36|45.97|5 (-1)|
+|[ABT](https://finance.yahoo.com/quote/ABT)|Abbott Laboratories|129.95|86.30|5 (-1)|
+|[TGLS](https://finance.yahoo.com/quote/TGLS)|Tecnoglass Inc|73.85|44.05|5 |
+|[DFH](https://finance.yahoo.com/quote/DFH)|Dream Finders Homes Inc|22.66|14.65|5 |
+|[QTWO](https://finance.yahoo.com/quote/QTWO)|Q2 Holdings Inc|80.39|49.34|5 (-2)|
+|[RC](https://finance.yahoo.com/quote/RC)|Ready Capital Corp|4.14|2.04|5 (+1)|
+|[FMC](https://finance.yahoo.com/quote/FMC)|FMC Corp|34.45|14.79|5 (+1)|
+|[GOTU](https://finance.yahoo.com/quote/GOTU)|Gaotu Techedu Inc ADR|3.41|1.97|5 |
+|[ZVIA](https://finance.yahoo.com/quote/ZVIA)|Zevia PBC|2.09|1.19|5 |
+|[SAP](https://finance.yahoo.com/quote/SAP)|SAP SE ADR|294.79|173.13|5 |
+|[XXI](https://finance.yahoo.com/quote/XXI)|Twenty One Capital Inc|33.90|8.69|5 (+3)|
+|[KMX](https://finance.yahoo.com/quote/KMX)|Carmax Inc|66.29|39.43|5 (+1)|
+|[AVTR](https://finance.yahoo.com/quote/AVTR)|Avantor Inc|12.63|8.43|5 (+1)|
+|[OI](https://finance.yahoo.com/quote/OI)|O-i Glass  Inc|13.25|9.09|5 (+1)|
+|[SUPV](https://finance.yahoo.com/quote/SUPV)|Grupo Supervielle SA ADR|13.88|8.74|5 (+2)|
+|[GIS](https://finance.yahoo.com/quote/GIS)|General Mills Inc|52.09|35.07|4 (-1)|
+|[KNSL](https://finance.yahoo.com/quote/KNSL)|Kinsale Capital Group Inc|455.18|303.61|4 (-2)|
+|[GIB](https://finance.yahoo.com/quote/GIB)|CGI Inc|104.71|66.67|4 (-2)|
+|[ESTC](https://finance.yahoo.com/quote/ESTC)|Elastic NV|83.26|49.11|4 (-2)|
+|[CAG](https://finance.yahoo.com/quote/CAG)|Conagra Brands Inc|21.64|14.07|4 (-1)|
+|[EVTL](https://finance.yahoo.com/quote/EVTL)|Vertical Aerospace Ltd|4.30|2.72|4 |
+|[MKC](https://finance.yahoo.com/quote/MKC)|McCormick & Co Non-Voting Ord Shs|73.16|48.49|4 (-1)|
+|[GHG](https://finance.yahoo.com/quote/GHG)|GreenTree Hospitality Group Ltd ADR|2.09|1.22|4 (-1)|
+|[SJT](https://finance.yahoo.com/quote/SJT)|San Juan Basin Royalty Units|6.23|4.16|4 (-1)|
+|[SDHC](https://finance.yahoo.com/quote/SDHC)|Smith Douglas Homes Corp|19.59|13.01|4 |
+|[SLAI](https://finance.yahoo.com/quote/SLAI)|SOLAI Ltd ADR|1.77|0.78|4 |
+|[PLNT](https://finance.yahoo.com/quote/PLNT)|Planet Fitness Inc|98.41|63.96|4 |
+|[AVD](https://finance.yahoo.com/quote/AVD)|American Vanguard Corp|4.22|2.91|4 |
+|[KMPR](https://finance.yahoo.com/quote/KMPR)|Kemper Corp|59.39|32.77|4 |
+|[BAX](https://finance.yahoo.com/quote/BAX)|Baxter International Inc|30.02|16.98|4 |
+|[FDS](https://finance.yahoo.com/quote/FDS)|Factset Research Systems Inc|426.89|211.79|4 (-1)|
+|[EPAM](https://finance.yahoo.com/quote/EPAM)|Epam Systems Inc|159.12|106.97|4 |
+|[NRDY](https://finance.yahoo.com/quote/NRDY)|Nerdy Inc|1.63|0.87|4 (+1)|
+|[AJG](https://finance.yahoo.com/quote/AJG)|Arthur J. Gallagher & Co.|331.58|196.91|4 (-1)|
+|[OPTU](https://finance.yahoo.com/quote/OPTU)|Optimum Communications Inc|2.53|1.38|4 (-1)|
+|[BMI](https://finance.yahoo.com/quote/BMI)|Badger Meter Inc|226.65|123.75|4 (+1)|
+|[NOMD](https://finance.yahoo.com/quote/NOMD)|Nomad Foods Ltd|19.08|10.12|4 (+2)|
+|[SG](https://finance.yahoo.com/quote/SG)|Sweetgreen Inc|19.54|6.87|3 (-1)|
+|[PRGO](https://finance.yahoo.com/quote/PRGO)|Perrigo Company PLC|24.12|12.26|3 |
+|[LFT](https://finance.yahoo.com/quote/LFT)|Lument Finance Trust Inc|2.39|1.16|3 |
+|[FICO](https://finance.yahoo.com/quote/FICO)|Fair Isaac Corp|2080.41|1067.00|3 |
+|[GPK](https://finance.yahoo.com/quote/GPK)|Graphic Packaging Holding Co|21.49|11.20|3 |
+|[CLW](https://finance.yahoo.com/quote/CLW)|Clearwater Paper Corp|26.02|14.23|3 |
+|[MBC](https://finance.yahoo.com/quote/MBC)|Masterbrand Inc|12.24|7.70|3 (-1)|
+|[ACN](https://finance.yahoo.com/quote/ACN)|Accenture PLC|303.60|174.57|3 |
+|[SLQT](https://finance.yahoo.com/quote/SLQT)|SelectQuote Inc|2.52|1.20|3 |
+|[HRB](https://finance.yahoo.com/quote/HRB)|H & R Block Inc|59.21|29.32|3 |
+|[TRAK](https://finance.yahoo.com/quote/TRAK)|ReposiTrak Inc|21.66|9.72|3 (-1)|
+|[BHVN](https://finance.yahoo.com/quote/BHVN)|Biohaven Ltd|22.62|10.04|3 (+1)|
+|[GDDY](https://finance.yahoo.com/quote/GDDY)|GoDaddy Inc|182.19|85.20|3 (-1)|
+|[FLO](https://finance.yahoo.com/quote/FLO)|Flowers Foods Inc|16.06|8.62|3 |
+|[BLND](https://finance.yahoo.com/quote/BLND)|Blend Labs Inc|3.26|1.60|3 (+1)|
+|[SKIL](https://finance.yahoo.com/quote/SKIL)|Skillsoft Corp|19.14|8.16|3 (-1)|
+|[HUBS](https://finance.yahoo.com/quote/HUBS)|HubSpot Inc|639.40|235.16|3 |
+|[BSX](https://finance.yahoo.com/quote/BSX)|Boston Scientific Corp|104.24|56.00|3 (+1)|
+|[AHT](https://finance.yahoo.com/quote/AHT)|Ashford Hospitality Trust Inc|6.13|3.00|3 (+1)|
+|[PD](https://finance.yahoo.com/quote/PD)|PagerDuty Inc|15.14|6.85|3 |
+|[CWH](https://finance.yahoo.com/quote/CWH)|Camping World Holdings Inc|13.60|7.89|3 (+1)|
+|[AI](https://finance.yahoo.com/quote/AI)|C3.ai Inc|21.98|9.60|3 (+1)|
+|[COTY](https://finance.yahoo.com/quote/COTY)|Coty Inc|5.16|2.65|2 |
+|[BRO](https://finance.yahoo.com/quote/BRO)|Brown & Brown Inc|109.59|56.56|2 (-1)|
+|[FOUR](https://finance.yahoo.com/quote/FOUR)|Shift4 Payments  Inc|82.64|42.88|2 (-1)|
+|[OSG](https://finance.yahoo.com/quote/OSG)|Octave Specialty Group Inc|8.01|4.22|2 (-1)|
+|[BFAM](https://finance.yahoo.com/quote/BFAM)|Bright Horizons Family Solutions Inc|126.82|66.36|2 (-5)|
+|[KVYO](https://finance.yahoo.com/quote/KVYO)|Klaviyo Inc|31.36|15.81|2 (-16)|
+|[NOW](https://finance.yahoo.com/quote/NOW)|ServiceNow Inc|195.61|89.05|2 (-1)|
+|[TNET](https://finance.yahoo.com/quote/TNET)|TriNet Group Inc|79.02|40.89|2 (-1)|
+|[IT](https://finance.yahoo.com/quote/IT)|Gartner Inc|426.98|151.05|2 |
+|[DOCS](https://finance.yahoo.com/quote/DOCS)|Doximity Inc|59.39|25.69|2 |
+|[GHI](https://finance.yahoo.com/quote/GHI)|Greystone Housing Impact Investors Units|10.58|5.34|2 |
+|[NSP](https://finance.yahoo.com/quote/NSP)|Insperity Inc|60.71|28.75|2 |
+|[SMWB](https://finance.yahoo.com/quote/SMWB)|Similarweb Ltd|7.57|3.07|2 |
+|[ASAN](https://finance.yahoo.com/quote/ASAN)|Asana Inc|16.05|6.83|2 |
+|[CBZ](https://finance.yahoo.com/quote/CBZ)|CBIZ Inc|71.99|29.67|2 |
+|[FVRR](https://finance.yahoo.com/quote/FVRR)|Fiverr International Ltd|26.30|11.26|2 |
+|[FUBO](https://finance.yahoo.com/quote/FUBO)|FuboTV Inc|30.24|10.43|2 (-1)|
+|[GETY](https://finance.yahoo.com/quote/GETY)|Getty Images Holdings Inc|1.96|0.80|2 (+1)|
+|[PHR](https://finance.yahoo.com/quote/PHR)|Phreesia Inc|25.24|9.53|2 |
+|[FLUT](https://finance.yahoo.com/quote/FLUT)|Flutter Entertainment PLC|249.25|99.11|2 |
+|[RYAN](https://finance.yahoo.com/quote/RYAN)|Ryan Specialty Holdings Inc|67.04|29.39|2 |
+|[KLC](https://finance.yahoo.com/quote/KLC)|Kindercare Learning Companies Inc|13.26|4.19|2 (+1)|
+|[EFOR](https://finance.yahoo.com/quote/EFOR)|Everforth Inc|52.10|20.61|1 |
+|[GENI](https://finance.yahoo.com/quote/GENI)|Genius Sports Ltd|11.01|4.40|1 |
+|[PEW](https://finance.yahoo.com/quote/PEW)|GrabAGun Digital Holdings Inc|12.14|2.87|1 |
+|[BARK](https://finance.yahoo.com/quote/BARK)|Bark Inc|22.40|8.96|1 |
+|[NMAX](https://finance.yahoo.com/quote/NMAX)|Newsmax Inc|23.05|5.99|1 |
+|[CNF](https://finance.yahoo.com/quote/CNF)|CNFinance Holdings Ltd ADR|8.20|3.06|1 |
+|[KD](https://finance.yahoo.com/quote/KD)|Kyndryl Holdings Inc|33.53|13.12|1 (-1)|
+|[GLOB](https://finance.yahoo.com/quote/GLOB)|Globant SA|117.82|40.69|1 |
+|[ACVA](https://finance.yahoo.com/quote/ACVA)|ACV Auctions Inc|15.38|5.22|1 |
+|[BUR](https://finance.yahoo.com/quote/BUR)|Burford Capital Ltd|13.88|5.30|1 |
+|[UP](https://finance.yahoo.com/quote/UP)|Wheels Up Experience Inc|21.20|6.01|1 |
+|[YRD](https://finance.yahoo.com/quote/YRD)|Yiren Digital Ltd ADR|6.33|2.12|1 |
+|[INSP](https://finance.yahoo.com/quote/INSP)|Inspire Medical Systems Inc|158.74|45.70|1 |
+|[SOS](https://finance.yahoo.com/quote/SOS)|Sos Ltd|4.89|1.11|1 |
+|[JELD](https://finance.yahoo.com/quote/JELD)|JELD-WEN Holding Inc|5.63|1.73|1 |
+|[CABO](https://finance.yahoo.com/quote/CABO)|Cable One Inc|175.23|55.72|1 (-1)|
+|[SQNS](https://finance.yahoo.com/quote/SQNS)|Sequans Communications SA ADR|19.00|3.37|1 |
+|[CANG](https://finance.yahoo.com/quote/CANG)|Cango Inc|2.03|0.55|1 |
+|[DAVA](https://finance.yahoo.com/quote/DAVA)|Endava PLC ADR|19.00|4.14|1 |
+|[PAR](https://finance.yahoo.com/quote/PAR)|PAR Technology Corp|59.84|13.85|1 |
+|[ALIT](https://finance.yahoo.com/quote/ALIT)|Alight Inc|5.07|0.94|1 |
+|[BRBR](https://finance.yahoo.com/quote/BRBR)|Bellring Brands Inc|78.43|11.10|1 |
