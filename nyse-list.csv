@@ -2662,22 +2662,22 @@
 2660,RC PR C,Ready Capital 6 25 Cumul Convertible Prf Shs Series C,60102040,특수 REITs
 2661,BFS PR D,Saul Ctrs 1 100 Cum DS Representing Pref Shs Series D,60102020,상업용 REITs
 2662,AHL PR D,Aspen Insurance 5 625 Perpetual Non Cumulative Pref Shs,55301020,손해보험
-2663,AEFC,Aegon Funding Company 5 10 Subordinated Notes due 2049,55301030,생명 및 건강 보험
-2664,AFGC,American Financial Group 5 125 Subordinated Debentures due 2059,55301020,손해보험
-2665,AFGB,American Financial Group 5 875 Subordinated Debentures Exp 2059,55301020,손해보험
-2666,AFGD,American Financial Group 5 625 Subordinated Debenture,55301020,손해보험
-2667,CELG RT,Bristol Myers Squibb Company Contingent Rights Exp 31 Dec 2030,56201040,제약
-2668,CCZ,Comcast Holdings ZONES 2 Exchangeable Subor Debentures Exp 15 Nov 2029,53302020,방송
+2663,AFGB,American Financial Group 5 875 Subordinated Debentures Exp 2059,55301020,손해보험
+2664,AFGD,American Financial Group 5 625 Subordinated Debenture,55301020,손해보험
+2665,AEFC,Aegon Funding Company 5 10 Subordinated Notes due 2049,55301030,생명 및 건강 보험
+2666,AFGC,American Financial Group 5 125 Subordinated Debentures due 2059,55301020,손해보험
+2667,CCZ,Comcast Holdings ZONES 2 Exchangeable Subor Debentures Exp 15 Nov 2029,53302020,방송
+2668,CELG RT,Bristol Myers Squibb Company Contingent Rights Exp 31 Dec 2030,56201040,제약
 2669,DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures Exp 15 Sep 2078,59101010,전력 유틸리티
-2670,ELC,Entergy Louisiana Collateral Mortgage Bonds 4.875 Series Exp 01 Sept 2066,59101010,전력 유틸리티
-2671,EAI,Entergy Arkansas First Mortgage Bonds 4.875 Series Exp 01 Sept 2066,59101010,전력 유틸리티
+2670,EAI,Entergy Arkansas First Mortgage Bonds 4.875 Series Exp 01 Sept 2066,59101010,전력 유틸리티
+2671,DTW,Dte Energy Company 5 25 Junior Subordinated Debentures due 2077 Series E,59101010,전력 유틸리티
 2672,ENJ,Entergy Orleans 5% Mortgage Bonds Series Exp 01 Dec 2052,59101010,전력 유틸리티
-2673,EMP,Entergy Mississippi 4.90 First Mortgage Bonds Exp 1 Oct 2066,59101010,전력 유틸리티
-2674,DTW,Dte Energy Company 5 25 Junior Subordinated Debentures due 2077 Series E,59101010,전력 유틸리티
-2675,GJS,Strats Sm Trust For Goldman Sachs Group Securities Certificates Series 2006-2,55101050,기업 금융 서비스
-2676,GJO,STRATS SM Wal-Mart 4.65 Floating Rate STRATS Certificates Series 2005-4,55101050,기업 금융 서비스
-2677,GJT,STRATS SM Trust for Allstate Securities Certificates Series 2006-3,55101050,기업 금융 서비스
-2678,GJR,STRATS SM Floating Rate Structured Repackaged Asset Backed Gamble Securities,55101050,기업 금융 서비스
+2673,ELC,Entergy Louisiana Collateral Mortgage Bonds 4.875 Series Exp 01 Sept 2066,59101010,전력 유틸리티
+2674,EMP,Entergy Mississippi 4.90 First Mortgage Bonds Exp 1 Oct 2066,59101010,전력 유틸리티
+2675,GJT,STRATS SM Trust for Allstate Securities Certificates Series 2006-3,55101050,기업 금융 서비스
+2676,GJR,STRATS SM Floating Rate Structured Repackaged Asset Backed Gamble Securities,55101050,기업 금융 서비스
+2677,GJS,Strats Sm Trust For Goldman Sachs Group Securities Certificates Series 2006-2,55101050,기업 금융 서비스
+2678,GJO,STRATS SM Wal-Mart 4.65 Floating Rate STRATS Certificates Series 2005-4,55101050,기업 금융 서비스
 2679,IPB,Merrill Lynch Depositor Certificates Series 2003 1 Exp 15 May 2033,55101050,기업 금융 서비스
 2680,RCB,Ready Capital 6 20 Senior Notes due 2026,60102040,특수 REITs
 2681,RZB,Reinsurance Group of America 5.75 Fixed To Floating Rate Subordinated,55301050,재보험
@@ -2685,8 +2685,8 @@
 2683,WRB PR E,WR Berkley 5.70 Subordinated Debentures Due 2058,55301020,손해보험
 2684,WRB PR F,W R Berkley 5.10% Subordinated Debentures Exp 2059,55301020,손해보험
 2685,UZD,Array Digital Infrtre 6 250 Senior Notes due 2069,57401020,무선 통신 서비스
-2686,AFGE,American Financial Group 4 500 Subordinated Debentures due 2060,55301020,손해보험
-2687,DTB,DTE Energy 4 375 Junior Subordinated Debentures Series G due 2080,59101010,전력 유틸리티
+2686,DTB,DTE Energy 4 375 Junior Subordinated Debentures Series G due 2080,59101010,전력 유틸리티
+2687,AFGE,American Financial Group 4 500 Subordinated Debentures due 2060,55301020,손해보험
 2688,MFAN,MFA Financial 8 875 Senior Notes due 2029,60102040,특수 REITs
 2689,FGN,F&G Annuities And Life 7 950 Senior Notes due 2053,55301030,생명 및 건강 보험
 2690,PMTU,PennyMac Mortgage Investment 8 50 Senior Notes due 2028,60102040,특수 REITs
