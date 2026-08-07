@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "NASDAQ Relative Strength 2026-08-07"
-date: 2026-08-07 01:20:23 +0000
+date: 2026-08-07 22:13:14 +0000
 categories: rs
 ---
 Calculated Relative Strength for all NASDAQ stocks.
@@ -28,7 +28,6 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[EDSA](https://finance.yahoo.com/quote/EDSA)|Edesa Biotech Inc|2.26|5.05|98 |
 |[SMX](https://finance.yahoo.com/quote/SMX)|SMX (Security Matters) PLC|747.24|16.79|98 |
 |[GENVR](https://finance.yahoo.com/quote/GENVR)|Gen Digital Contingent Value Rights|7.28|2.53|98 |
-|[GENVR](https://finance.yahoo.com/quote/GENVR)|Gen Digital Contingent Value Rights|7.28|2.53|98 |
 |[SPRB](https://finance.yahoo.com/quote/SPRB)|Spruce Biosciences  Inc.|10.12|46.42|98 (+92)|
 |[AXTI](https://finance.yahoo.com/quote/AXTI)|AXT  Inc.|2.05|75.17|98 |
 |[BVC](https://finance.yahoo.com/quote/BVC)|BitVentures Ltd|0.65|10.74|98 |
@@ -46,7 +45,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[KAZR](https://finance.yahoo.com/quote/KAZR)|Skyline Builders Group Holding Ltd|0.59|2.13|98 (+1)|
 |[REPL](https://finance.yahoo.com/quote/REPL)|Replimune Group  Inc.|6.32|12.86|98 |
 |[QTTB](https://finance.yahoo.com/quote/QTTB)|Q32 Bio Inc.|1.98|16.20|98 |
-|[ALMS](https://finance.yahoo.com/quote/ALMS)|Alumis Inc.|4.20|27.80|97 |
+|[ALMS](https://finance.yahoo.com/quote/ALMS)|Alumis Inc.|4.20|27.80|98 |
 |[APPS](https://finance.yahoo.com/quote/APPS)|Digital Turbine  Inc.|5.44|14.27|97 |
 |[OTLK](https://finance.yahoo.com/quote/OTLK)|Outlook Therapeutics Inc|2.00|0.97|97 (-1)|
 |[WYHG](https://finance.yahoo.com/quote/WYHG)|Wing Yip Food Holdings Group Ltd ADR|4.64|9.83|97 (+35)|
@@ -80,7 +79,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[LQDA](https://finance.yahoo.com/quote/LQDA)|Liquidia Corporation|20.07|89.42|97 |
 |[YARW](https://finance.yahoo.com/quote/YARW)|Yarrow Bioscience Inc|10.16|41.63|97 (+1)|
 |[MU](https://finance.yahoo.com/quote/MU)|Micron Technology  Inc.|108.89|881.47|97 |
-|[TOP](https://finance.yahoo.com/quote/TOP)|TOP Financial Group Ltd|5.70|10.66|96 |
+|[TOP](https://finance.yahoo.com/quote/TOP)|TOP Financial Group Ltd|5.70|10.66|97 (+1)|
 |[QURE](https://finance.yahoo.com/quote/QURE)|uniQure N.V.|14.00|45.36|96 (-2)|
 |[ATEX](https://finance.yahoo.com/quote/ATEX)|Anterix Inc|21.89|100.32|96 (-1)|
 |[LITE](https://finance.yahoo.com/quote/LITE)|Lumentum Holdings Inc.|108.15|838.06|96 |
@@ -99,7 +98,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CHRN](https://finance.yahoo.com/quote/CHRN)|Chronoscale Corp|3.38|20.25|96 (-1)|
 |[RLAY](https://finance.yahoo.com/quote/RLAY)|Relay Therapeutics  Inc.|3.53|19.75|96 |
 |[BETR](https://finance.yahoo.com/quote/BETR)|Better Home & Finance Holding Co|14.42|16.64|96 (-1)|
-|[ADIL](https://finance.yahoo.com/quote/ADIL)|Adial Pharmaceuticals Inc|10.75|4.80|96 (+4)|
+|[ADIL](https://finance.yahoo.com/quote/ADIL)|Adial Pharmaceuticals Inc|10.75|4.80|96 (+3)|
 |[KEEL](https://finance.yahoo.com/quote/KEEL)|Keel Infrastructure Corp|1.23|3.82|96 |
 |[QH](https://finance.yahoo.com/quote/QH)|Quhuo Ltd|9.63|4.53|96 (+1)|
 |[OESX](https://finance.yahoo.com/quote/OESX)|Orion Energy Systems Inc|5.70|17.58|96 (+1)|
@@ -114,10 +113,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[MAMK](https://finance.yahoo.com/quote/MAMK)|MaxsMaking Inc|2.52|13.00|96 |
 |[PSNL](https://finance.yahoo.com/quote/PSNL)|Personalis  Inc.|5.64|13.03|96 (-1)|
 |[FSLY](https://finance.yahoo.com/quote/FSLY)|Fastly  Inc.|6.38|22.68|96 |
-|[JLHL](https://finance.yahoo.com/quote/JLHL)|Julong Holding Ltd|4.03|8.60|95 (-1)|
+|[JLHL](https://finance.yahoo.com/quote/JLHL)|Julong Holding Ltd|4.03|8.60|96 |
 |[KOD](https://finance.yahoo.com/quote/KOD)|Kodiak Sciences Inc.|8.09|45.40|95 (-1)|
 |[GPCR](https://finance.yahoo.com/quote/GPCR)|Structure Therapeutics Inc. ADR|16.68|52.62|95 |
-|[NBTX](https://finance.yahoo.com/quote/NBTX)|Nanobiotix SA ADR|6.95|37.79|95 (-1)|
+|[NBTX](https://finance.yahoo.com/quote/NBTX)|Nanobiotix SA ADR|6.95|37.79|95 (-2)|
 |[PEPG](https://finance.yahoo.com/quote/PEPG)|PepGen Inc.|1.32|2.41|95 (+1)|
 |[AMPG](https://finance.yahoo.com/quote/AMPG)|Amplitech Group Inc|2.96|5.43|95 |
 |[GH](https://finance.yahoo.com/quote/GH)|Guardant Health  Inc.|46.17|157.58|95 (-1)|
@@ -147,13 +146,13 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ALTO](https://finance.yahoo.com/quote/ALTO)|Alto Ingredients Inc|1.04|4.51|95 (-1)|
 |[WULF](https://finance.yahoo.com/quote/WULF)|TeraWulf Inc.|5.06|17.61|95 |
 |[PLSE](https://finance.yahoo.com/quote/PLSE)|Pulse Biosciences Inc|15.25|38.24|95 |
-|[ICHR](https://finance.yahoo.com/quote/ICHR)|Ichor Holdings  Ltd.|14.06|65.33|94 (+3)|
+|[ICHR](https://finance.yahoo.com/quote/ICHR)|Ichor Holdings  Ltd.|14.06|65.33|95 (+4)|
 |[ARTV](https://finance.yahoo.com/quote/ARTV)|Artiva Biotherapeutics Inc|3.08|11.58|94 |
 |[OCC](https://finance.yahoo.com/quote/OCC)|Optical Cable Corp|5.83|15.63|94 |
 |[NEO](https://finance.yahoo.com/quote/NEO)|NeoGenomics  Inc.|5.62|15.56|94 (-1)|
 |[NVCT](https://finance.yahoo.com/quote/NVCT)|Nuvectis Pharma Inc|6.90|18.83|94 (-1)|
 |[TVTX](https://finance.yahoo.com/quote/TVTX)|Travere Therapeutics  Inc.|16.68|62.45|94 (-1)|
-|[NBIS](https://finance.yahoo.com/quote/NBIS)|Nebius Group NV|55.17|189.88|94 (-1)|
+|[NBIS](https://finance.yahoo.com/quote/NBIS)|Nebius Group NV|55.17|189.88|94 (-2)|
 |[RRGB](https://finance.yahoo.com/quote/RRGB)|Red Robin Gourmet Burgers Inc|5.76|8.44|94 (-1)|
 |[SEPN](https://finance.yahoo.com/quote/SEPN)|Septerna  Inc.|11.65|39.53|94 |
 |[ETON](https://finance.yahoo.com/quote/ETON)|Eton Pharmaceuticals Inc|14.73|46.18|94 |
@@ -181,7 +180,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[TMCI](https://finance.yahoo.com/quote/TMCI)|Treace Medical Concepts  Inc.|5.59|4.38|94 (-1)|
 |[EQ](https://finance.yahoo.com/quote/EQ)|Equillium Inc|0.60|2.12|94 |
 |[AVAH](https://finance.yahoo.com/quote/AVAH)|Aveanna Healthcare Holdings Inc|3.78|9.31|94 (+1)|
-|[ABSI](https://finance.yahoo.com/quote/ABSI)|Absci Corp|2.95|8.30|93 |
+|[ABSI](https://finance.yahoo.com/quote/ABSI)|Absci Corp|2.95|8.30|94 (+1)|
 |[SEZL](https://finance.yahoo.com/quote/SEZL)|Sezzle Inc|151.94|178.53|93 |
 |[ACRS](https://finance.yahoo.com/quote/ACRS)|Aclaris Therapeutics  Inc.|1.55|6.09|93 (-1)|
 |[RANI](https://finance.yahoo.com/quote/RANI)|Rani Therapeutics Holdings Inc|0.55|0.78|93 (-1)|
@@ -215,7 +214,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BDSX](https://finance.yahoo.com/quote/BDSX)|Biodesix Inc|8.46|22.10|93 |
 |[XGN](https://finance.yahoo.com/quote/XGN)|Exagen Inc.|8.87|6.59|93 (+1)|
 |[HBNB](https://finance.yahoo.com/quote/HBNB)|Hotel101 Global Holdings Corp|1.92|5.49|93 (+2)|
-|[INNV](https://finance.yahoo.com/quote/INNV)|InnovAge Holding Corp|3.45|10.98|92 |
+|[INNV](https://finance.yahoo.com/quote/INNV)|InnovAge Holding Corp|3.45|10.98|93 (+1)|
 |[RAPP](https://finance.yahoo.com/quote/RAPP)|Rapport Therapeutics  Inc.|14.43|46.35|92 |
 |[ALAB](https://finance.yahoo.com/quote/ALAB)|Astera Labs  Inc.|135.54|331.50|92 (+2)|
 |[MRVI](https://finance.yahoo.com/quote/MRVI)|Maravai LifeSciences Holdings Inc|2.34|6.25|92 (-1)|
@@ -227,7 +226,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[LIND](https://finance.yahoo.com/quote/LIND)|Lindblad Expeditions Holdings  Inc.|13.63|34.07|92 (-1)|
 |[ALXO](https://finance.yahoo.com/quote/ALXO)|ALX Oncology Holdings Inc|0.66|2.11|92 (-1)|
 |[HELP](https://finance.yahoo.com/quote/HELP)|Cybin Inc.|7.57|11.10|92 |
-|[LPTH](https://finance.yahoo.com/quote/LPTH)|LightPath Technologies Inc|3.51|12.01|92 (-1)|
+|[LPTH](https://finance.yahoo.com/quote/LPTH)|LightPath Technologies Inc|3.51|12.01|92 (-2)|
 |[IBRX](https://finance.yahoo.com/quote/IBRX)|Immunitybio Inc|2.41|7.32|92 |
 |[IRD](https://finance.yahoo.com/quote/IRD)|Opus Genetics Inc|1.11|3.72|92 |
 |[CMPS](https://finance.yahoo.com/quote/CMPS)|Compass Pathways PLC ADR|4.48|13.55|92 |
@@ -245,11 +244,11 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ADPT](https://finance.yahoo.com/quote/ADPT)|Adaptive Biotechnologies Corporation|11.05|23.60|92 (-1)|
 |[SITM](https://finance.yahoo.com/quote/SITM)|SiTime Corporation|197.73|687.50|92 (+6)|
 |[SGHT](https://finance.yahoo.com/quote/SGHT)|Sight Sciences  Inc.|3.49|7.09|92 (+8)|
-|[FBIOP](https://finance.yahoo.com/quote/FBIOP)|Fortress Biotech 9 375 Cumulative Redeemable Perpetual Pref Shs Series A|7.25|19.94|92 (+2)|
+|[FBIOP](https://finance.yahoo.com/quote/FBIOP)|Fortress Biotech 9 375 Cumulative Redeemable Perpetual Pref Shs Series A|7.25|19.94|92 (+1)|
 |[ULCC](https://finance.yahoo.com/quote/ULCC)|Frontier Group Holdings  Inc.|3.44|7.58|92 |
 |[ACHV](https://finance.yahoo.com/quote/ACHV)|Achieve Life Sciences  Inc.|2.62|6.55|92 (-1)|
 |[LASR](https://finance.yahoo.com/quote/LASR)|nLIGHT  Inc.|20.93|75.44|92 |
-|[ALNT](https://finance.yahoo.com/quote/ALNT)|Allient Inc|39.69|111.21|91 (+5)|
+|[ALNT](https://finance.yahoo.com/quote/ALNT)|Allient Inc|39.69|111.21|92 (+6)|
 |[LFST](https://finance.yahoo.com/quote/LFST)|LifeStance Health Group  Inc.|3.89|10.66|91 |
 |[CAKE](https://finance.yahoo.com/quote/CAKE)|Cheesecake Factory Inc|60.42|107.31|91 (+1)|
 |[CAMP](https://finance.yahoo.com/quote/CAMP)|CAMP4 Therapeutics Corp|1.67|4.50|91 (+1)|
@@ -282,12 +281,12 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[IFRX](https://finance.yahoo.com/quote/IFRX)|InflaRx NV|0.88|1.72|91 (+3)|
 |[CVGI](https://finance.yahoo.com/quote/CVGI)|Commercial Vehicle Group Inc|1.80|3.64|91 (+1)|
 |[STRO](https://finance.yahoo.com/quote/STRO)|Sutro Biopharma Inc|8.10|24.15|91 (+1)|
-|[BIOA](https://finance.yahoo.com/quote/BIOA)|BioAge Labs  Inc.|4.44|11.27|90 |
+|[BIOA](https://finance.yahoo.com/quote/BIOA)|BioAge Labs  Inc.|4.44|11.27|91 (+1)|
 |[XFOR](https://finance.yahoo.com/quote/XFOR)|X4 Pharmaceuticals Inc|1.61|4.17|90 (-1)|
 |[TLS](https://finance.yahoo.com/quote/TLS)|Telos Corp|2.46|4.57|90 (+1)|
 |[DGII](https://finance.yahoo.com/quote/DGII)|Digi International Inc.|31.56|83.01|90 (+4)|
 |[NVEC](https://finance.yahoo.com/quote/NVEC)|NVE Corp|56.91|129.43|90 |
-|[BTSG](https://finance.yahoo.com/quote/BTSG)|Brightspring Health Services Inc|19.85|60.60|90 (-1)|
+|[BTSG](https://finance.yahoo.com/quote/BTSG)|Brightspring Health Services Inc|19.85|60.60|90 (-2)|
 |[FTNT](https://finance.yahoo.com/quote/FTNT)|Fortinet  Inc.|96.21|160.11|90 (-1)|
 |[AREC](https://finance.yahoo.com/quote/AREC)|American Resources Corp|1.31|2.27|90 (-1)|
 |[TWIN](https://finance.yahoo.com/quote/TWIN)|Twin Disc Inc|8.88|23.35|90 (-3)|
@@ -316,13 +315,13 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NRIX](https://finance.yahoo.com/quote/NRIX)|Nurix Therapeutics Inc|11.31|25.22|90 |
 |[MGNX](https://finance.yahoo.com/quote/MGNX)|MacroGenics Inc|1.69|4.01|90 (+1)|
 |[MSLE](https://finance.yahoo.com/quote/MSLE)|Satellos Bioscience Inc.|4.94|10.07|90 (+2)|
-|[MKSI](https://finance.yahoo.com/quote/MKSI)|MKS Incorporated|91.53|291.31|89 (-2)|
+|[MKSI](https://finance.yahoo.com/quote/MKSI)|MKS Incorporated|91.53|291.31|90 (-1)|
 |[CSTE](https://finance.yahoo.com/quote/CSTE)|Caesarstone Ltd|1.77|2.20|89 (-5)|
 |[GRAL](https://finance.yahoo.com/quote/GRAL)|Grail Inc|33.75|63.40|89 (-5)|
 |[ONDS](https://finance.yahoo.com/quote/ONDS)|Ondas Inc|3.07|8.74|89 (-4)|
 |[WHLRP](https://finance.yahoo.com/quote/WHLRP)|Wheeler Real Estate Investment Trust Series B Conv Prf Shs|4.00|9.82|89 |
 |[IMVT](https://finance.yahoo.com/quote/IMVT)|Immunovant  Inc.|16.51|39.74|89 (-1)|
-|[QUIK](https://finance.yahoo.com/quote/QUIK)|Quicklogic Corp|6.05|13.87|89 (+2)|
+|[QUIK](https://finance.yahoo.com/quote/QUIK)|Quicklogic Corp|6.05|13.87|89 (+1)|
 |[ATLC](https://finance.yahoo.com/quote/ATLC)|Atlanticus Holdings Corp|49.57|111.79|89 |
 |[STRZ](https://finance.yahoo.com/quote/STRZ)|Starz Entertainment Corp.|14.18|25.74|89 |
 |[SMTI](https://finance.yahoo.com/quote/SMTI)|Sanara Medtech Inc|24.52|34.09|89 (+1)|
@@ -350,7 +349,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[WGS](https://finance.yahoo.com/quote/WGS)|GeneDx Holdings Corp.|106.65|69.59|89 |
 |[DHAI](https://finance.yahoo.com/quote/DHAI)|DIH Holding US Inc|6.15|0.00|89 |
 |[ESLA](https://finance.yahoo.com/quote/ESLA)|Estrella Immunopharma Inc|0.85|0.75|89 (+12)|
-|[AIP](https://finance.yahoo.com/quote/AIP)|Arteris Inc|13.00|31.62|88 (-3)|
+|[AIP](https://finance.yahoo.com/quote/AIP)|Arteris Inc|13.00|31.62|89 (-2)|
 |[ATOM](https://finance.yahoo.com/quote/ATOM)|Atomera Inc|4.66|5.32|88 (-2)|
 |[COHU](https://finance.yahoo.com/quote/COHU)|Cohu  Inc.|18.47|51.79|88 |
 |[CGON](https://finance.yahoo.com/quote/CGON)|CG Oncology  Inc.|26.94|74.85|88 |
@@ -380,10 +379,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BLFS](https://finance.yahoo.com/quote/BLFS)|BioLife Solutions  Inc.|20.73|33.93|88 (+1)|
 |[BLTE](https://finance.yahoo.com/quote/BLTE)|Belite Bio  Inc ADR|66.31|160.67|88 (+2)|
 |[AEVA](https://finance.yahoo.com/quote/AEVA)|Aeva Technologies Inc|14.69|25.26|88 (+14)|
-|[KELYB](https://finance.yahoo.com/quote/KELYB)|Kelly Services Inc Class B|12.21|23.12|88 (+2)|
+|[KELYB](https://finance.yahoo.com/quote/KELYB)|Kelly Services Inc Class B|12.21|23.12|88 (+1)|
 |[SND](https://finance.yahoo.com/quote/SND)|Smart Sand Inc|1.81|4.42|88 (+2)|
 |[CTNM](https://finance.yahoo.com/quote/CTNM)|Contineum Therapeutics Inc|6.00|15.35|88 (-1)|
-|[AIRS](https://finance.yahoo.com/quote/AIRS)|AirSculpt Technologies Inc|6.02|4.77|87 |
+|[AIRS](https://finance.yahoo.com/quote/AIRS)|AirSculpt Technologies Inc|6.02|4.77|88 (+1)|
 |[WATT](https://finance.yahoo.com/quote/WATT)|Energous Corp|12.69|17.91|87 (+2)|
 |[JBIO](https://finance.yahoo.com/quote/JBIO)|Jade Biosciences Inc|7.94|22.24|87 (-1)|
 |[TSAT](https://finance.yahoo.com/quote/TSAT)|Telesat Corp|24.18|54.08|87 (+2)|
@@ -392,8 +391,8 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[VIP](https://finance.yahoo.com/quote/VIP)|Vulcan Infrastructure and Power Inc|1.53|2.07|87 (-3)|
 |[MBAI](https://finance.yahoo.com/quote/MBAI)|Check Cap Ltd|0.63|1.43|87 (+3)|
 |[OSS](https://finance.yahoo.com/quote/OSS)|One Stop Systems Inc|5.04|13.32|87 (-4)|
-|[VTVT](https://finance.yahoo.com/quote/VTVT)|vTv Therapeutics Inc|14.62|34.61|87 (-1)|
-|[BVS](https://finance.yahoo.com/quote/BVS)|Bioventus Inc.|6.14|13.98|87 (-2)|
+|[VTVT](https://finance.yahoo.com/quote/VTVT)|vTv Therapeutics Inc|14.62|34.61|87 (-2)|
+|[BVS](https://finance.yahoo.com/quote/BVS)|Bioventus Inc.|6.14|13.98|87 (-3)|
 |[CCSI](https://finance.yahoo.com/quote/CCSI)|Consensus Cloud Solutions Inc|20.02|37.33|87 |
 |[TCMD](https://finance.yahoo.com/quote/TCMD)|Tactile Systems Technology  Inc.|12.54|28.86|87 (-5)|
 |[LGND](https://finance.yahoo.com/quote/LGND)|Ligand Pharmaceuticals Incorporated|135.15|300.14|87 |
@@ -407,7 +406,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[AIRT](https://finance.yahoo.com/quote/AIRT)|Air T Inc|22.25|34.26|87 (+4)|
 |[AVR](https://finance.yahoo.com/quote/AVR)|Anteris Technologies Global Corp|3.80|8.36|87 (-1)|
 |[HIVE](https://finance.yahoo.com/quote/HIVE)|HIVE Digital Technologies Ltd|2.07|2.76|87 (+1)|
-|[ZYBT](https://finance.yahoo.com/quote/ZYBT)|Zhengye Biotechnology Holding Ltd|5.75|2.09|87 (-7)|
+|[ZYBT](https://finance.yahoo.com/quote/ZYBT)|Zhengye Biotechnology Holding Ltd|5.75|2.09|87 (-8)|
 |[AMCX](https://finance.yahoo.com/quote/AMCX)|AMC Global Media Inc|5.98|11.87|87 (-1)|
 |[PRE](https://finance.yahoo.com/quote/PRE)|Prenetics Global Ltd|7.98|17.86|87 (-1)|
 |[SHIP](https://finance.yahoo.com/quote/SHIP)|Seanergy Maritime Holdings Corp|6.92|17.24|87 (+1)|
@@ -417,7 +416,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ASML](https://finance.yahoo.com/quote/ASML)|ASML Holding N.V. ADR|685.12|1704.37|87 |
 |[GTX](https://finance.yahoo.com/quote/GTX)|Garrett Motion Inc.|12.53|30.47|87 (-1)|
 |[LILAK](https://finance.yahoo.com/quote/LILAK)|Liberty Latin America Ltd. Class C|4.93|8.56|87 (+2)|
-|[AIRJ](https://finance.yahoo.com/quote/AIRJ)|AirJoule Technologies Corporation|4.11|5.59|86 (-6)|
+|[AIRJ](https://finance.yahoo.com/quote/AIRJ)|AirJoule Technologies Corporation|4.11|5.59|87 (-5)|
 |[DAVE](https://finance.yahoo.com/quote/DAVE)|Dave Inc.|238.83|365.26|86 (-4)|
 |[WRAP](https://finance.yahoo.com/quote/WRAP)|Wrap Technologies Inc|1.29|1.95|86 (-1)|
 |[CGEM](https://finance.yahoo.com/quote/CGEM)|Cullinan Therapeutics  Inc.|8.08|17.95|86 (+1)|
@@ -451,7 +450,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[KRYS](https://finance.yahoo.com/quote/KRYS)|Krystal Biotech  Inc.|137.35|322.69|86 (-1)|
 |[PMTS](https://finance.yahoo.com/quote/PMTS)|CPI Card Group Inc|17.90|24.45|86 (+7)|
 |[MDB](https://finance.yahoo.com/quote/MDB)|MongoDB  Inc.|228.25|370.00|86 |
-|[PALI](https://finance.yahoo.com/quote/PALI)|Palisade Bio Inc|1.02|2.09|85 (-1)|
+|[PALI](https://finance.yahoo.com/quote/PALI)|Palisade Bio Inc|1.02|2.09|86 |
 |[PETZ](https://finance.yahoo.com/quote/PETZ)|TDH Holdings Inc|0.98|1.53|85 (+17)|
 |[BMHL](https://finance.yahoo.com/quote/BMHL)|Bluemount Holdings Ltd|3.95|5.64|85 |
 |[IMDX](https://finance.yahoo.com/quote/IMDX)|Insight Molecular Diagnostics Inc|2.61|4.80|85 (-1)|
@@ -462,9 +461,9 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NGNE](https://finance.yahoo.com/quote/NGNE)|Neurogene Inc|21.45|35.60|85 (-2)|
 |[RCKY](https://finance.yahoo.com/quote/RCKY)|Rocky Brands Inc|26.54|49.71|85 (-1)|
 |[INOD](https://finance.yahoo.com/quote/INOD)|Innodata Inc.|44.48|65.48|85 (-3)|
-|[SHLS](https://finance.yahoo.com/quote/SHLS)|Shoals Technologies Group  Inc.|4.67|8.60|85 (+4)|
+|[SHLS](https://finance.yahoo.com/quote/SHLS)|Shoals Technologies Group  Inc.|4.67|8.60|85 (+3)|
 |[PGNY](https://finance.yahoo.com/quote/PGNY)|Progyny  Inc.|23.22|30.21|85 (-1)|
-|[RILYL](https://finance.yahoo.com/quote/RILYL)|BRC Group Holdings Depositary Shares representing 1 1000 Cum Pref Series B|6.54|13.85|85 (+1)|
+|[RILYL](https://finance.yahoo.com/quote/RILYL)|BRC Group Holdings Depositary Shares representing 1 1000 Cum Pref Series B|6.54|13.85|85 |
 |[KOPN](https://finance.yahoo.com/quote/KOPN)|Kopin Corp|2.00|4.08|85 |
 |[CARE](https://finance.yahoo.com/quote/CARE)|Carter Bankshares Inc|17.07|33.90|85 (-1)|
 |[CYTK](https://finance.yahoo.com/quote/CYTK)|Cytokinetics  Incorporated|36.16|81.37|85 (+1)|
@@ -485,7 +484,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[EXFY](https://finance.yahoo.com/quote/EXFY)|Expensify  Inc.|2.07|1.98|85 |
 |[TYRA](https://finance.yahoo.com/quote/TYRA)|Tyra Biosciences  Inc.|11.45|26.96|85 |
 |[ATNI](https://finance.yahoo.com/quote/ATNI)|ATN International Inc|15.63|30.63|85 (+15)|
-|[CCCC](https://finance.yahoo.com/quote/CCCC)|C4 Therapeutics  Inc.|2.01|3.64|84 (+1)|
+|[CCCC](https://finance.yahoo.com/quote/CCCC)|C4 Therapeutics  Inc.|2.01|3.64|85 (+2)|
 |[ORMP](https://finance.yahoo.com/quote/ORMP)|Oramed Pharmaceuticals Inc|1.94|4.30|84 |
 |[KFFB](https://finance.yahoo.com/quote/KFFB)|Kentucky First Federal Bancorp|3.06|5.62|84 |
 |[MAKO](https://finance.yahoo.com/quote/MAKO)|Mako Mining Corp|3.85|8.66|84 (-1)|
@@ -504,7 +503,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[DLTH](https://finance.yahoo.com/quote/DLTH)|Duluth Holdings Inc|2.26|4.16|84 |
 |[KYTX](https://finance.yahoo.com/quote/KYTX)|Kyverna Therapeutics  Inc.|3.41|7.75|84 |
 |[NVTS](https://finance.yahoo.com/quote/NVTS)|Navitas Semiconductor Corporation|6.77|12.40|84 (+7)|
-|[TSHA](https://finance.yahoo.com/quote/TSHA)|Taysha Gene Therapies  Inc.|2.74|6.34|84 (-1)|
+|[TSHA](https://finance.yahoo.com/quote/TSHA)|Taysha Gene Therapies  Inc.|2.74|6.34|84 (-2)|
 |[LPCN](https://finance.yahoo.com/quote/LPCN)|Lipocine Inc|3.08|2.13|84 (-2)|
 |[ADEA](https://finance.yahoo.com/quote/ADEA)|Adeia Inc.|12.35|28.31|84 (-2)|
 |[MRCY](https://finance.yahoo.com/quote/MRCY)|Mercury Systems Inc|54.24|108.83|84 (-2)|
@@ -518,7 +517,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[LUNG](https://finance.yahoo.com/quote/LUNG)|Pulmonx Corp|1.64|2.05|84 (+1)|
 |[ABCL](https://finance.yahoo.com/quote/ABCL)|AbCellera Biologics Inc.|4.36|6.53|84 (+4)|
 |[TALK](https://finance.yahoo.com/quote/TALK)|Talkspace  Inc.|2.27|5.21|84 (+2)|
-|[MRNA](https://finance.yahoo.com/quote/MRNA)|Moderna Inc|27.47|53.86|83 (-2)|
+|[MRNA](https://finance.yahoo.com/quote/MRNA)|Moderna Inc|27.47|53.86|84 (-1)|
 |[DTIL](https://finance.yahoo.com/quote/DTIL)|Precision BioSciences Inc|4.86|7.42|83 (-2)|
 |[NTRA](https://finance.yahoo.com/quote/NTRA)|Natera  Inc.|140.12|265.38|83 (-3)|
 |[SHOO](https://finance.yahoo.com/quote/SHOO)|Steven Madden  Ltd.|24.55|48.26|83 (-3)|
@@ -527,13 +526,13 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[KLRS](https://finance.yahoo.com/quote/KLRS)|Kalaris Therapeutics Inc|2.55|4.19|83 |
 |[MLKN](https://finance.yahoo.com/quote/MLKN)|MillerKnoll  Inc.|18.98|23.68|83 (-1)|
 |[ICCC](https://finance.yahoo.com/quote/ICCC)|ImmuCell Corp|6.19|11.02|83 (+1)|
-|[EGAN](https://finance.yahoo.com/quote/EGAN)|eGain Corp|6.03|7.36|83 (+8)|
+|[EGAN](https://finance.yahoo.com/quote/EGAN)|eGain Corp|6.03|7.36|83 (+7)|
 |[CGTX](https://finance.yahoo.com/quote/CGTX)|Cognition Therapeutics Inc|0.72|1.13|83 |
 |[RZLT](https://finance.yahoo.com/quote/RZLT)|Rezolute  Inc.|5.86|4.70|83 (+3)|
 |[WEYS](https://finance.yahoo.com/quote/WEYS)|WEYCO Group Inc|26.78|43.91|83 (-1)|
 |[CNTN](https://finance.yahoo.com/quote/CNTN)|Canton Strategic Holdings Inc|1.22|1.86|83 (+2)|
 |[HOFT](https://finance.yahoo.com/quote/HOFT)|Hooker Furnishings Corp|8.86|15.16|83 (+1)|
-|[LEDS](https://finance.yahoo.com/quote/LEDS)|SemiLEDs Corp|1.57|2.13|83 (+1)|
+|[LEDS](https://finance.yahoo.com/quote/LEDS)|SemiLEDs Corp|1.57|2.13|83 |
 |[DIBS](https://finance.yahoo.com/quote/DIBS)|1stdibs.Com Inc|2.63|4.96|83 (+1)|
 |[STLD](https://finance.yahoo.com/quote/STLD)|Steel Dynamics Inc|122.07|261.48|83 (-1)|
 |[CLDX](https://finance.yahoo.com/quote/CLDX)|Celldex Therapeutics  Inc.|22.13|41.56|83 |
@@ -552,7 +551,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[MTSI](https://finance.yahoo.com/quote/MTSI)|MACOM Technology Solutions Holdings  Inc.|137.28|301.64|83 (+7)|
 |[BELFB](https://finance.yahoo.com/quote/BELFB)|Bel Fuse Inc. Class B|131.53|289.40|83 |
 |[WBD](https://finance.yahoo.com/quote/WBD)|Warner Bros. Discovery  Inc.|12.72|26.40|83 (+1)|
-|[CRSR](https://finance.yahoo.com/quote/CRSR)|Corsair Gaming Inc|8.96|10.61|82 (-3)|
+|[CRSR](https://finance.yahoo.com/quote/CRSR)|Corsair Gaming Inc|8.96|10.61|83 (-2)|
 |[STRL](https://finance.yahoo.com/quote/STRL)|Sterling Infrastructure  Inc.|296.58|536.08|82 (+1)|
 |[ACHC](https://finance.yahoo.com/quote/ACHC)|Acadia Healthcare Company  Inc.|21.76|30.72|82 (-3)|
 |[NAAS](https://finance.yahoo.com/quote/NAAS)|NaaS Technology Inc ADR|2.68|3.33|82 (+16)|
@@ -563,7 +562,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PAMT](https://finance.yahoo.com/quote/PAMT)|PAMT Corp|12.82|15.06|82 (+2)|
 |[FENC](https://finance.yahoo.com/quote/FENC)|Fennec Pharmaceuticals Inc.|8.17|10.84|82 (-1)|
 |[PDFS](https://finance.yahoo.com/quote/PDFS)|PDF Solutions  Inc.|22.60|45.90|82 (-2)|
-|[ROKU](https://finance.yahoo.com/quote/ROKU)|Roku  Inc.|83.64|150.07|82 (+2)|
+|[ROKU](https://finance.yahoo.com/quote/ROKU)|Roku  Inc.|83.64|150.07|82 (+1)|
 |[KMTS](https://finance.yahoo.com/quote/KMTS)|Kestra Medical Technologies  Ltd.|15.86|25.27|82 (-2)|
 |[BWFG](https://finance.yahoo.com/quote/BWFG)|Bankwell Financial Group Inc|38.91|66.87|82 |
 |[MGTX](https://finance.yahoo.com/quote/MGTX)|MeiraGTx Holdings PLC|7.74|12.79|82 (+1)|
@@ -586,7 +585,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[DNLI](https://finance.yahoo.com/quote/DNLI)|Denali Therapeutics Inc.|14.29|24.73|82 (-1)|
 |[BSET](https://finance.yahoo.com/quote/BSET)|Bassett Furniture Industries Inc|14.94|20.28|82 (+3)|
 |[SHC](https://finance.yahoo.com/quote/SHC)|Sotera Health Company|11.19|18.91|82 (+3)|
-|[BOF](https://finance.yahoo.com/quote/BOF)|BranchOut Food Inc|2.25|4.12|81 (-2)|
+|[BOF](https://finance.yahoo.com/quote/BOF)|BranchOut Food Inc|2.25|4.12|82 (-1)|
 |[ARKO](https://finance.yahoo.com/quote/ARKO)|Arko Corp.|3.97|7.29|81 (-1)|
 |[VCTR](https://finance.yahoo.com/quote/VCTR)|Victory Capital Holdings  Inc.|67.36|106.79|81 (+4)|
 |[SNAL](https://finance.yahoo.com/quote/SNAL)|Snail Inc|4.97|4.55|81 (+20)|
@@ -612,14 +611,14 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[MEDP](https://finance.yahoo.com/quote/MEDP)|Medpace Holdings  Inc.|436.30|585.01|81 |
 |[CRML](https://finance.yahoo.com/quote/CRML)|Critical Metals Corp|4.20|6.55|81 (-9)|
 |[MBIN](https://finance.yahoo.com/quote/MBIN)|Merchants Bancorp|30.48|54.06|81 (-1)|
-|[QMCO](https://finance.yahoo.com/quote/QMCO)|Quantum Corp|8.31|11.68|81 (-2)|
+|[QMCO](https://finance.yahoo.com/quote/QMCO)|Quantum Corp|8.31|11.68|81 (-3)|
 |[CMCO](https://finance.yahoo.com/quote/CMCO)|Columbus McKinnon Corp|14.03|20.76|81 (-3)|
 |[ANDE](https://finance.yahoo.com/quote/ANDE)|Andersons Inc|34.13|67.95|81 (+2)|
 |[FISI](https://finance.yahoo.com/quote/FISI)|Financial Institutions Inc|24.12|41.96|81 |
 |[NHPBP](https://finance.yahoo.com/quote/NHPBP)|National Healthcare 7.125 Cumulative Redeemable Perpetual Pref Shs Series B|14.81|25.15|81 (+8)|
 |[CLBK](https://finance.yahoo.com/quote/CLBK)|Columbia Financial Inc|6.51|10.84|81 (+1)|
 |[JOYY](https://finance.yahoo.com/quote/JOYY)|JOYY Inc. ADR|46.58|74.73|81 |
-|[JBHT](https://finance.yahoo.com/quote/JBHT)|J B Hunt Transport Services Inc|141.87|267.25|80 (-2)|
+|[JBHT](https://finance.yahoo.com/quote/JBHT)|J B Hunt Transport Services Inc|141.87|267.25|81 (-1)|
 |[CSTL](https://finance.yahoo.com/quote/CSTL)|Castle Biosciences  Inc.|20.35|30.47|80 (-8)|
 |[CENX](https://finance.yahoo.com/quote/CENX)|Century Aluminum Company|21.06|45.95|80 (-2)|
 |[CNXN](https://finance.yahoo.com/quote/CNXN)|PC Connection Inc|58.31|86.60|80 (+1)|
@@ -653,7 +652,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[SHBI](https://finance.yahoo.com/quote/SHBI)|Shore Bancshares Inc|15.02|24.11|80 |
 |[JXG](https://finance.yahoo.com/quote/JXG)|JX Luxventure Group Inc|15.45|7.09|80 |
 |[CEVA](https://finance.yahoo.com/quote/CEVA)|CEVA Inc|21.62|35.59|80 (+3)|
-|[THFF](https://finance.yahoo.com/quote/THFF)|First Financial Corp|51.51|82.46|79 |
+|[THFF](https://finance.yahoo.com/quote/THFF)|First Financial Corp|51.51|82.46|80 (+1)|
 |[BLDP](https://finance.yahoo.com/quote/BLDP)|Ballard Power Systems Inc|1.86|2.55|79 (+2)|
 |[KZIA](https://finance.yahoo.com/quote/KZIA)|Kazia Therapeutics Ltd ADR|8.68|12.33|79 (+1)|
 |[ROST](https://finance.yahoo.com/quote/ROST)|Ross Stores Inc|140.52|254.31|79 |
@@ -687,7 +686,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PTLE](https://finance.yahoo.com/quote/PTLE)|PTL Ltd|15.36|9.90|79 (+5)|
 |[ESTA](https://finance.yahoo.com/quote/ESTA)|Establishment Labs Holdings Inc|44.03|79.05|79 (-8)|
 |[BRKR](https://finance.yahoo.com/quote/BRKR)|Bruker Corporation|31.91|51.27|79 (-3)|
-|[UAL](https://finance.yahoo.com/quote/UAL)|United Airlines Holdings  Inc.|87.66|129.12|78 (-5)|
+|[UAL](https://finance.yahoo.com/quote/UAL)|United Airlines Holdings  Inc.|87.66|129.12|79 (-4)|
 |[CMTV](https://finance.yahoo.com/quote/CMTV)|Community Bancorp|21.42|40.04|78 |
 |[ATLO](https://finance.yahoo.com/quote/ATLO)|Ames National Corp|17.92|31.42|78 |
 |[COCO](https://finance.yahoo.com/quote/COCO)|The Vita Coco Company  Inc.|32.30|64.12|78 |
@@ -707,7 +706,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NCSM](https://finance.yahoo.com/quote/NCSM)|NCS Multistage Holdings Inc|31.83|48.64|78 (+2)|
 |[BELFA](https://finance.yahoo.com/quote/BELFA)|Bel Fuse Inc. Class A|118.08|232.65|78 (-1)|
 |[ABVX](https://finance.yahoo.com/quote/ABVX)|Abivax SA ADR|70.91|130.00|78 (+2)|
-|[YQ](https://finance.yahoo.com/quote/YQ)|17 Education and Technology Group Inc ADR|1.84|2.01|78 |
+|[YQ](https://finance.yahoo.com/quote/YQ)|17 Education and Technology Group Inc ADR|1.84|2.01|78 (-1)|
 |[SENEA](https://finance.yahoo.com/quote/SENEA)|Seneca Foods Corporation Class A|101.15|166.58|78 |
 |[FSTR](https://finance.yahoo.com/quote/FSTR)|L B Foster Co|22.66|41.88|78 (-1)|
 |[PUBM](https://finance.yahoo.com/quote/PUBM)|PubMatic  Inc.|11.65|13.48|78 (+1)|
@@ -721,7 +720,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ENTG](https://finance.yahoo.com/quote/ENTG)|Entegris Inc|73.09|142.65|78 (-1)|
 |[DXPE](https://finance.yahoo.com/quote/DXPE)|DXP Enterprises  Inc.|114.14|198.21|78 (+13)|
 |[RRBI](https://finance.yahoo.com/quote/RRBI)|Red River Bancshares Inc|59.45|100.76|78 |
-|[LINC](https://finance.yahoo.com/quote/LINC)|Lincoln Educational Services Corp|22.64|39.33|77 (-4)|
+|[LINC](https://finance.yahoo.com/quote/LINC)|Lincoln Educational Services Corp|22.64|39.33|78 (-3)|
 |[GPRE](https://finance.yahoo.com/quote/GPRE)|Green Plains Inc|7.75|15.20|77 (-4)|
 |[SRCE](https://finance.yahoo.com/quote/SRCE)|1st Source Corp|57.58|89.34|77 (-1)|
 |[SOTK](https://finance.yahoo.com/quote/SOTK)|Sono-Tek Corp|3.27|5.42|77 |
@@ -750,11 +749,11 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[RGEN](https://finance.yahoo.com/quote/RGEN)|Repligen Corporation|115.88|159.44|77 (+1)|
 |[BLMN](https://finance.yahoo.com/quote/BLMN)|Bloomin' Brands Inc|8.76|10.88|77 (-15)|
 |[FVCB](https://finance.yahoo.com/quote/FVCB)|FVCBankcorp Inc|12.27|18.73|77 |
-|[WSBF](https://finance.yahoo.com/quote/WSBF)|Waterstone Financial Inc|12.98|20.88|77 |
+|[WSBF](https://finance.yahoo.com/quote/WSBF)|Waterstone Financial Inc|12.98|20.88|77 (-1)|
 |[INCY](https://finance.yahoo.com/quote/INCY)|Incyte Corp|77.72|118.38|77 |
 |[WEST](https://finance.yahoo.com/quote/WEST)|Westrock Coffee Co|6.76|8.09|77 (-2)|
 |[ITIC](https://finance.yahoo.com/quote/ITIC)|Investors Title Co|209.88|295.43|77 (+3)|
-|[FNLC](https://finance.yahoo.com/quote/FNLC)|First Bancorp Inc|23.80|35.31|76 (-1)|
+|[FNLC](https://finance.yahoo.com/quote/FNLC)|First Bancorp Inc|23.80|35.31|77 |
 |[WSBC](https://finance.yahoo.com/quote/WSBC)|Wesbanco  Inc.|28.46|41.73|76 (-1)|
 |[PSMT](https://finance.yahoo.com/quote/PSMT)|PriceSmart  Inc.|107.94|178.12|76 (-4)|
 |[OBT](https://finance.yahoo.com/quote/OBT)|Orange County Bancorp Inc|23.50|38.39|76 (-1)|
@@ -788,7 +787,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GOOGL](https://finance.yahoo.com/quote/GOOGL)|Alphabet Inc. Class A|194.12|357.75|76 |
 |[PFG](https://finance.yahoo.com/quote/PFG)|Principal Financial Group Inc|73.42|115.41|76 (+1)|
 |[BRUN](https://finance.yahoo.com/quote/BRUN)|Boost Run Inc|10.27|17.19|76 (-7)|
-|[GOOG](https://finance.yahoo.com/quote/GOOG)|Alphabet Inc. Class C|194.76|356.62|75 (-1)|
+|[GOOG](https://finance.yahoo.com/quote/GOOG)|Alphabet Inc. Class C|194.76|356.62|76 |
 |[CHYM](https://finance.yahoo.com/quote/CHYM)|Chime Financial  Inc.|33.80|31.25|75 (+18)|
 |[UVSP](https://finance.yahoo.com/quote/UVSP)|Univest Financial Corp|27.82|43.76|75 (-1)|
 |[CROX](https://finance.yahoo.com/quote/CROX)|Crocs  Inc.|102.00|134.18|75 (-3)|
@@ -796,7 +795,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[INDV](https://finance.yahoo.com/quote/INDV)|Indivior Pharmaceuticals Inc|21.80|38.67|75 (-2)|
 |[RGS](https://finance.yahoo.com/quote/RGS)|Regis Corp|19.31|28.79|75 (+4)|
 |[SAIL](https://finance.yahoo.com/quote/SAIL)|SailPoint  Inc.|19.50|17.68|75 (+6)|
-|[PDEX](https://finance.yahoo.com/quote/PDEX)|Pro-Dex Inc|45.09|65.48|75 (-1)|
+|[PDEX](https://finance.yahoo.com/quote/PDEX)|Pro-Dex Inc|45.09|65.48|75 (-2)|
 |[ISSC](https://finance.yahoo.com/quote/ISSC)|Innovative Solutions and Support Inc|17.44|20.51|75 (-3)|
 |[BPRN](https://finance.yahoo.com/quote/BPRN)|Princeton Bancorp Inc|29.30|42.24|75 |
 |[CERS](https://finance.yahoo.com/quote/CERS)|Cerus Corp|1.28|2.32|75 (+2)|
@@ -822,8 +821,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[SCOR](https://finance.yahoo.com/quote/SCOR)|Comscore Inc|4.87|7.49|75 (+6)|
 |[ZYME](https://finance.yahoo.com/quote/ZYME)|Zymeworks Inc.|12.54|23.13|75 (-1)|
 |[MLAB](https://finance.yahoo.com/quote/MLAB)|Mesa Laboratories  Inc.|57.01|101.01|75 (+13)|
-|[SANM](https://finance.yahoo.com/quote/SANM)|Sanmina Corp|117.05|205.66|74 (+3)|
-|[GLBE](https://finance.yahoo.com/quote/GLBE)|Global-E Online Ltd|32.58|41.02|74 (-1)|
+|[SANM](https://finance.yahoo.com/quote/SANM)|Sanmina Corp|117.05|205.66|75 (+4)|
 |[KINS](https://finance.yahoo.com/quote/KINS)|Kingstone Companies Inc|15.56|20.80|74 |
 |[LNTH](https://finance.yahoo.com/quote/LNTH)|Lantheus Holdings  Inc.|72.63|101.07|74 (-1)|
 |[AVBP](https://finance.yahoo.com/quote/AVBP)|ArriVent BioPharma  Inc.|19.45|31.01|74 (+1)|
@@ -853,9 +851,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[QDEL](https://finance.yahoo.com/quote/QDEL)|QuidelOrtho Corp|23.68|16.32|74 (+1)|
 |[EDHL](https://finance.yahoo.com/quote/EDHL)|Everbright Digital Holding Ltd|10.10|4.02|74 (-3)|
 |[CARL](https://finance.yahoo.com/quote/CARL)|Carlsmed  Inc.|12.24|13.70|74 (-4)|
+|[PBAM](https://finance.yahoo.com/quote/PBAM)|Private Bancorp of America Inc|57.26|85.81|74 (+2)|
 |[DMAC](https://finance.yahoo.com/quote/DMAC)|DiaMedica Therapeutics Inc|4.49|6.77|74 (-3)|
 |[THRM](https://finance.yahoo.com/quote/THRM)|Gentherm Incorporated|32.80|40.40|74 (-3)|
-|[ODYS](https://finance.yahoo.com/quote/ODYS)|Odysight.AI Inc|4.02|4.40|73 (+9)|
+|[ODYS](https://finance.yahoo.com/quote/ODYS)|Odysight.AI Inc|4.02|4.40|74 (+10)|
 |[PRGS](https://finance.yahoo.com/quote/PRGS)|Progress Software Corp|44.34|41.81|73 (+3)|
 |[DXCM](https://finance.yahoo.com/quote/DXCM)|Dexcom Inc|75.46|83.02|73 (-1)|
 |[MTLS](https://finance.yahoo.com/quote/MTLS)|Materialise NV ADR|5.05|6.75|73 (+1)|
@@ -868,15 +867,14 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CV](https://finance.yahoo.com/quote/CV)|CapsoVision Inc|4.14|6.90|73 (+2)|
 |[PANL](https://finance.yahoo.com/quote/PANL)|Pangaea Logistics Solutions Ltd.|4.88|7.44|73 |
 |[ATRC](https://finance.yahoo.com/quote/ATRC)|AtriCure  Inc.|37.54|39.49|73 (+4)|
-|[SLP](https://finance.yahoo.com/quote/SLP)|Simulations Plus  Inc.|12.91|18.34|73 (+1)|
+|[SLP](https://finance.yahoo.com/quote/SLP)|Simulations Plus  Inc.|12.91|18.34|73 |
 |[ALLO](https://finance.yahoo.com/quote/ALLO)|Allogene Therapeutics  Inc.|1.12|1.97|73 |
 |[BUSE](https://finance.yahoo.com/quote/BUSE)|First Busey Corporation|21.54|31.09|73 (-1)|
 |[CBUS](https://finance.yahoo.com/quote/CBUS)|Cibus Inc|1.55|1.87|73 (-2)|
-|[PBAM](https://finance.yahoo.com/quote/PBAM)|CalPrivate Bank|57.45|85.51|73 |
-|[FDBC](https://finance.yahoo.com/quote/FDBC)|Fidelity D&D Bancorp Inc|38.50|53.90|73 (+2)|
+|[FDBC](https://finance.yahoo.com/quote/FDBC)|Fidelity D&D Bancorp Inc|38.50|53.90|73 (+1)|
 |[SBLK](https://finance.yahoo.com/quote/SBLK)|Star Bulk Carriers Corp.|18.51|28.59|73 (+2)|
-|[CLMB](https://finance.yahoo.com/quote/CLMB)|Climb Global Solutions Inc|26.89|27.47|73 (+3)|
-|[CORZ](https://finance.yahoo.com/quote/CORZ)|Core Scientific Inc|14.08|21.05|73 (-1)|
+|[CLMB](https://finance.yahoo.com/quote/CLMB)|Climb Global Solutions Inc|26.89|27.47|73 (+2)|
+|[CORZ](https://finance.yahoo.com/quote/CORZ)|Core Scientific Inc|14.08|21.05|73 (-2)|
 |[MBWM](https://finance.yahoo.com/quote/MBWM)|Mercantile Bank Corp|43.68|61.33|73 (-1)|
 |[MPB](https://finance.yahoo.com/quote/MPB)|Mid Penn Bancorp Inc|26.15|37.80|73 |
 |[ACAD](https://finance.yahoo.com/quote/ACAD)|Acadia Pharmaceuticals Inc.|23.64|28.45|73 (+3)|
@@ -889,8 +887,8 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[VMD](https://finance.yahoo.com/quote/VMD)|Viemed Healthcare Inc|6.32|9.52|73 (+2)|
 |[DLTR](https://finance.yahoo.com/quote/DLTR)|Dollar Tree Inc|115.66|129.68|73 (-1)|
 |[AROW](https://finance.yahoo.com/quote/AROW)|Arrow Financial Corp|25.85|39.97|73 (-1)|
-|[CPBI](https://finance.yahoo.com/quote/CPBI)|Central Plains Bancshares Inc|15.25|21.00|72 |
-|[QCRH](https://finance.yahoo.com/quote/QCRH)|QCR Holdings Inc|70.79|104.34|72 (-2)|
+|[CPBI](https://finance.yahoo.com/quote/CPBI)|Central Plains Bancshares Inc|15.25|21.00|73 (+1)|
+|[QCRH](https://finance.yahoo.com/quote/QCRH)|QCR Holdings Inc|70.79|104.34|73 (-1)|
 |[BBCP](https://finance.yahoo.com/quote/BBCP)|Concrete Pumping Holdings Inc|7.20|9.68|72 (-4)|
 |[RUSHB](https://finance.yahoo.com/quote/RUSHB)|Rush Enterprises  Inc. Class B|53.91|77.85|72 (-2)|
 |[ESEA](https://finance.yahoo.com/quote/ESEA)|Euroseas Ltd|50.09|76.89|72 (+1)|
@@ -902,7 +900,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NWFL](https://finance.yahoo.com/quote/NWFL)|Norwood Financial Corp|23.24|34.01|72 (-1)|
 |[RMNI](https://finance.yahoo.com/quote/RMNI)|Rimini Street Inc|4.00|4.95|72 (+5)|
 |[VRNS](https://finance.yahoo.com/quote/VRNS)|Varonis Systems  Inc.|55.09|42.44|72 (-1)|
-|[KRRO](https://finance.yahoo.com/quote/KRRO)|Korro Bio  Inc.|15.92|12.12|72 (-7)|
+|[KRRO](https://finance.yahoo.com/quote/KRRO)|Korro Bio  Inc.|15.92|12.12|72 (-8)|
 |[IKT](https://finance.yahoo.com/quote/IKT)|Inhibikase Therapeutics  Inc.|1.80|2.41|72 (-5)|
 |[ABOS](https://finance.yahoo.com/quote/ABOS)|Acumen Pharmaceuticals Inc|1.36|2.28|72 (-1)|
 |[NOVT](https://finance.yahoo.com/quote/NOVT)|Novanta Inc.|115.70|163.32|72 (+7)|
@@ -919,11 +917,12 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[LARK](https://finance.yahoo.com/quote/LARK)|Landmark Bancorp Inc|22.80|32.11|72 (+1)|
 |[AVBH](https://finance.yahoo.com/quote/AVBH)|Avidbank Holdings Inc|21.70|32.60|72 |
 |[POET](https://finance.yahoo.com/quote/POET)|POET Technologies Inc|5.51|8.53|72 (+10)|
-|[TBPH](https://finance.yahoo.com/quote/TBPH)|Theravance Biopharma  Inc.|11.09|16.92|72 (+2)|
+|[GLBE](https://finance.yahoo.com/quote/GLBE)|Global-E Online Ltd.|34.81|42.32|72 (-2)|
+|[TBPH](https://finance.yahoo.com/quote/TBPH)|Theravance Biopharma  Inc.|11.09|16.92|72 (+1)|
 |[WRLD](https://finance.yahoo.com/quote/WRLD)|World Acceptance Corp|159.42|190.03|72 (-4)|
 |[FFBC](https://finance.yahoo.com/quote/FFBC)|First Financial Bancorp.|23.06|33.78|72 (-1)|
 |[BFST](https://finance.yahoo.com/quote/BFST)|Business First Bancshares Inc|22.57|31.71|72 |
-|[CBIO](https://finance.yahoo.com/quote/CBIO)|Crescent Biopharma  Inc.|11.60|16.43|71 (+3)|
+|[CBIO](https://finance.yahoo.com/quote/CBIO)|Crescent Biopharma  Inc.|11.60|16.43|72 (+4)|
 |[TCBK](https://finance.yahoo.com/quote/TCBK)|Trico Bancshares|40.05|57.54|71 (-1)|
 |[ODFL](https://finance.yahoo.com/quote/ODFL)|Old Dominion Freight Line  Inc.|146.19|211.41|71 (-1)|
 |[FRBA](https://finance.yahoo.com/quote/FRBA)|FIRST BANK (Hamilton)|14.70|18.79|71 |
@@ -944,7 +943,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NEWT](https://finance.yahoo.com/quote/NEWT)|NewtekOne  Inc.|10.67|14.95|71 (-3)|
 |[AMBA](https://finance.yahoo.com/quote/AMBA)|Ambarella  Inc.|63.40|83.79|71 (+2)|
 |[HURN](https://finance.yahoo.com/quote/HURN)|Huron Consulting Group Inc.|127.89|150.10|71 (+7)|
-|[PCAR](https://finance.yahoo.com/quote/PCAR)|Paccar Inc|95.78|132.06|71 (-2)|
+|[PCAR](https://finance.yahoo.com/quote/PCAR)|Paccar Inc|95.78|132.06|71 (-3)|
 |[AERT](https://finance.yahoo.com/quote/AERT)|Aeries Technology Inc|6.90|6.95|71 (+12)|
 |[WFF](https://finance.yahoo.com/quote/WFF)|WF Holding Ltd|4.70|2.72|71 (+5)|
 |[ORRF](https://finance.yahoo.com/quote/ORRF)|Orrstown Financial Services Inc|31.20|42.96|71 |
@@ -957,7 +956,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[KE](https://finance.yahoo.com/quote/KE)|Kimball Electronics Inc|18.88|26.40|71 (+3)|
 |[TRNS](https://finance.yahoo.com/quote/TRNS)|Transcat  Inc.|75.64|94.54|71 (+1)|
 |[COKE](https://finance.yahoo.com/quote/COKE)|Coca-Cola Consolidated Inc|111.45|188.23|71 (+3)|
-|[RBKB](https://finance.yahoo.com/quote/RBKB)|Rhinebeck Bancorp Inc|8.97|12.52|70 (+3)|
+|[RBKB](https://finance.yahoo.com/quote/RBKB)|Rhinebeck Bancorp Inc|8.97|12.52|71 (+4)|
 |[RBB](https://finance.yahoo.com/quote/RBB)|RBB Bancorp|18.40|26.81|70 (-2)|
 |[FDSB](https://finance.yahoo.com/quote/FDSB)|Fifth District Bancorp Inc|13.18|17.90|70 |
 |[NEPH](https://finance.yahoo.com/quote/NEPH)|Nephros Inc|3.10|3.59|70 |
@@ -990,7 +989,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[DOO](https://finance.yahoo.com/quote/DOO)|BRP Inc.|50.40|63.85|70 (-5)|
 |[INSG](https://finance.yahoo.com/quote/INSG)|Inseego Corp.|6.82|5.30|70 (-5)|
 |[EXTR](https://finance.yahoo.com/quote/EXTR)|Extreme Networks  Inc.|17.67|24.32|70 (-6)|
-|[ACOG](https://finance.yahoo.com/quote/ACOG)|Alpha Cognition Inc|9.09|8.67|69 (+1)|
+|[ACOG](https://finance.yahoo.com/quote/ACOG)|Alpha Cognition Inc|9.09|8.67|70 (+2)|
 |[ACT](https://finance.yahoo.com/quote/ACT)|Enact Holdings Inc|35.13|48.67|69 |
 |[NBTB](https://finance.yahoo.com/quote/NBTB)|NBT Bancorp Inc.|39.53|52.91|69 (-1)|
 |[BHRB](https://finance.yahoo.com/quote/BHRB)|Burke & Herbert Financial Services Corp|55.27|73.76|69 (-1)|
@@ -1004,7 +1003,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[HAFC](https://finance.yahoo.com/quote/HAFC)|Hanmi Financial Corp|21.66|32.18|69 (-1)|
 |[KURA](https://finance.yahoo.com/quote/KURA)|Kura Oncology  Inc.|6.36|9.28|69 (-2)|
 |[NYAX](https://finance.yahoo.com/quote/NYAX)|Nayax Ltd.|42.23|68.27|69 (+2)|
-|[STRR](https://finance.yahoo.com/quote/STRR)|Star Equity Holdings Inc|9.20|11.48|69 (-3)|
+|[STRR](https://finance.yahoo.com/quote/STRR)|Star Equity Holdings Inc|9.20|11.48|69 (-4)|
 |[BLBD](https://finance.yahoo.com/quote/BLBD)|Blue Bird Corporation|43.61|66.01|69 (-12)|
 |[ON](https://finance.yahoo.com/quote/ON)|ON Semiconductor Corp|47.24|78.33|69 (+1)|
 |[BOKF](https://finance.yahoo.com/quote/BOKF)|BOK Financial Corp|99.41|144.47|69 |
@@ -1017,14 +1016,14 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CLWT](https://finance.yahoo.com/quote/CLWT)|Euro Tech Holdings Company Ltd|1.22|1.51|69 (-4)|
 |[PAA](https://finance.yahoo.com/quote/PAA)|Plains All American Pipeline Units|16.41|23.52|69 (+3)|
 |[FNWB](https://finance.yahoo.com/quote/FNWB)|First Northwest Bancorp|7.83|11.02|69 |
-|[CAMT](https://finance.yahoo.com/quote/CAMT)|Camtek Ltd.|88.35|149.67|69 (+8)|
+|[CAMT](https://finance.yahoo.com/quote/CAMT)|Camtek Ltd.|88.35|149.67|69 (+7)|
 |[PLUS](https://finance.yahoo.com/quote/PLUS)|ePlus inc.|63.01|90.35|69 (-1)|
 |[ELDN](https://finance.yahoo.com/quote/ELDN)|Eledon Pharmaceuticals Inc|3.13|3.46|69 (+5)|
 |[FSLR](https://finance.yahoo.com/quote/FSLR)|First Solar  Inc.|186.84|244.14|69 (+3)|
 |[HUBG](https://finance.yahoo.com/quote/HUBG)|Hub Group  Inc.|34.53|46.23|69 (-3)|
 |[SRBK](https://finance.yahoo.com/quote/SRBK)|SR Bancorp Inc|13.85|19.98|69 |
 |[IDAI](https://finance.yahoo.com/quote/IDAI)|T Stamp Inc|2.97|3.13|69 (+3)|
-|[TAYD](https://finance.yahoo.com/quote/TAYD)|Taylor Devices Inc|44.28|53.13|68 (+5)|
+|[TAYD](https://finance.yahoo.com/quote/TAYD)|Taylor Devices Inc|44.28|53.13|69 (+6)|
 |[APPN](https://finance.yahoo.com/quote/APPN)|Appian Corp|27.58|30.41|68 (+1)|
 |[ZION](https://finance.yahoo.com/quote/ZION)|Zions Bancorporation  National Association|50.83|70.58|68 (-2)|
 |[PROF](https://finance.yahoo.com/quote/PROF)|Profound Medical Corp|5.58|7.94|68 |
@@ -1036,10 +1035,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BVFL](https://finance.yahoo.com/quote/BVFL)|BV Financial Inc|15.19|21.31|68 (+2)|
 |[ORBS](https://finance.yahoo.com/quote/ORBS)|Eightco Holdings Inc (Pre-Reincorporation)|1.45|0.67|68 (-7)|
 |[NECB](https://finance.yahoo.com/quote/NECB)|Northeast Community Bancorp Inc|19.66|26.94|68 (-2)|
-|[CCBG](https://finance.yahoo.com/quote/CCBG)|Capital City Bank Group Inc|37.95|52.26|68 |
+|[CCBG](https://finance.yahoo.com/quote/CCBG)|Capital City Bank Group Inc|37.95|52.26|68 (-1)|
 |[RDNT](https://finance.yahoo.com/quote/RDNT)|RadNet  Inc.|55.46|68.16|68 (+3)|
 |[EVAX](https://finance.yahoo.com/quote/EVAX)|Evaxion A/S ADR|2.68|2.99|68 (+3)|
-|[CTMX](https://finance.yahoo.com/quote/CTMX)|CytomX Therapeutics  Inc.|2.37|3.37|68 (-1)|
+|[CTMX](https://finance.yahoo.com/quote/CTMX)|CytomX Therapeutics  Inc.|2.37|3.37|68 (-2)|
 |[HNVR](https://finance.yahoo.com/quote/HNVR)|Hanover Bancorp Inc|20.72|27.10|68 |
 |[VSEC](https://finance.yahoo.com/quote/VSEC)|VSE Corp|158.15|225.45|68 (-5)|
 |[LSBK](https://finance.yahoo.com/quote/LSBK)|Lake Shore Bancorp Inc|12.05|17.15|68 |
@@ -1058,24 +1057,24 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[LGIH](https://finance.yahoo.com/quote/LGIH)|LGI Homes  Inc.|59.34|59.18|68 (-6)|
 |[FSEA](https://finance.yahoo.com/quote/FSEA)|First Seacoast Bancorp Inc|11.58|17.08|68 |
 |[NODK](https://finance.yahoo.com/quote/NODK)|NI Holdings Inc|12.45|15.55|68 (+3)|
-|[HBNC](https://finance.yahoo.com/quote/HBNC)|Horizon Bancorp Inc|14.83|20.48|67 (-2)|
+|[HBNC](https://finance.yahoo.com/quote/HBNC)|Horizon Bancorp Inc|14.83|20.48|68 (-1)|
 |[RYTM](https://finance.yahoo.com/quote/RYTM)|Rhythm Pharmaceuticals  Inc.|88.57|112.10|67 (-1)|
 |[PTCT](https://finance.yahoo.com/quote/PTCT)|PTC Therapeutics  Inc.|51.11|70.85|67 (+2)|
 |[NBBK](https://finance.yahoo.com/quote/NBBK)|NB Bancorp Inc|16.98|22.75|67 (-2)|
 |[CVCO](https://finance.yahoo.com/quote/CVCO)|Cavco Industries  Inc.|446.28|578.17|67 (-4)|
 |[NBN](https://finance.yahoo.com/quote/NBN)|Northeast Bank|95.65|133.57|67 (-2)|
-|[SIGI](https://finance.yahoo.com/quote/SIGI)|Selective Insurance Group  Inc.|76.45|96.78|67 (+1)|
+|[SIGI](https://finance.yahoo.com/quote/SIGI)|Selective Insurance Group  Inc.|76.45|96.78|67 |
 |[CGEN](https://finance.yahoo.com/quote/CGEN)|Compugen Ltd.|1.46|2.30|67 (+1)|
-|[HELE](https://finance.yahoo.com/quote/HELE)|Helen of Troy Ltd|22.75|28.82|67 (-7)|
+|[HELE](https://finance.yahoo.com/quote/HELE)|Helen of Troy Ltd|22.75|28.82|67 (-8)|
 |[MCBS](https://finance.yahoo.com/quote/MCBS)|Metrocity Bankshares Inc|26.58|35.88|67 (-1)|
 |[CBNK](https://finance.yahoo.com/quote/CBNK)|Capital Bancorp Inc|30.88|37.82|67 |
-|[BMRC](https://finance.yahoo.com/quote/BMRC)|Bank of Marin Bancorp|21.24|28.73|67 (-1)|
+|[BMRC](https://finance.yahoo.com/quote/BMRC)|Bank of Marin Bancorp|21.24|28.73|67 (-2)|
 |[AOSL](https://finance.yahoo.com/quote/AOSL)|Alpha and Omega Semiconductor Limited|26.07|33.33|67 (+5)|
 |[PCTY](https://finance.yahoo.com/quote/PCTY)|Paylocity Holding Corp|181.71|151.49|67 (+8)|
 |[FBLA](https://finance.yahoo.com/quote/FBLA)|FB Bancorp Inc|11.29|15.52|67 (-1)|
 |[AIOT](https://finance.yahoo.com/quote/AIOT)|Powerfleet  Inc.|3.89|4.13|67 (-2)|
 |[TECX](https://finance.yahoo.com/quote/TECX)|Tectonic Therapeutic Inc|22.53|30.22|67 (+1)|
-|[VCEL](https://finance.yahoo.com/quote/VCEL)|Vericel Corporation|36.82|44.75|67 |
+|[VCEL](https://finance.yahoo.com/quote/VCEL)|Vericel Corporation|36.82|44.75|67 (-1)|
 |[STRS](https://finance.yahoo.com/quote/STRS)|Stratus Properties Inc|12.68|19.77|67 |
 |[HQI](https://finance.yahoo.com/quote/HQI)|Hirequest Inc|9.71|12.75|67 (-1)|
 |[PENN](https://finance.yahoo.com/quote/PENN)|PENN Entertainment  Inc.|17.39|20.13|67 (+4)|
@@ -1091,9 +1090,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[EXEL](https://finance.yahoo.com/quote/EXEL)|Exelixis Inc|37.46|52.20|67 (-12)|
 |[TNYA](https://finance.yahoo.com/quote/TNYA)|Tenaya Therapeutics  Inc.|0.69|0.73|67 (-8)|
 |[UNTY](https://finance.yahoo.com/quote/UNTY)|Unity Bancorp Inc|46.75|60.10|67 (+2)|
-|[FCFS](https://finance.yahoo.com/quote/FCFS)|Firstcash Holdings Inc (Texas)|131.98|205.66|66 (-1)|
+|[FCFS](https://finance.yahoo.com/quote/FCFS)|Firstcash Holdings Inc (Texas)|131.98|205.66|67 |
 |[CHCO](https://finance.yahoo.com/quote/CHCO)|City Holding Co|117.62|145.24|66 |
 |[INDB](https://finance.yahoo.com/quote/INDB)|Independent Bank Corp (Massachusetts)|62.07|83.98|66 (-3)|
+|[RCBC](https://finance.yahoo.com/quote/RCBC)|River City Bank|36.33|47.00|66 (+1)|
 |[WERN](https://finance.yahoo.com/quote/WERN)|Werner Enterprises  Inc.|27.12|36.87|66 (-4)|
 |[FTAI](https://finance.yahoo.com/quote/FTAI)|FTAI Aviation Ltd.|137.92|221.23|66 (-7)|
 |[REGN](https://finance.yahoo.com/quote/REGN)|Regeneron Pharmaceuticals  Inc.|566.79|772.11|66 |
@@ -1107,8 +1107,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[LIF](https://finance.yahoo.com/quote/LIF)|Life360  Inc.|75.85|59.69|66 (+1)|
 |[NRXP](https://finance.yahoo.com/quote/NRXP)|NRX Pharmaceuticals Inc|2.64|3.09|66 (+5)|
 |[HQY](https://finance.yahoo.com/quote/HQY)|HealthEquity  Inc.|91.01|103.44|66 (-1)|
-|[RCBC](https://finance.yahoo.com/quote/RCBC)|RCB Corp|36.33|46.80|66 (-5)|
-|[NRIM](https://finance.yahoo.com/quote/NRIM)|Northrim BanCorp Inc|19.70|26.56|66 |
+|[NRIM](https://finance.yahoo.com/quote/NRIM)|Northrim BanCorp Inc|19.70|26.56|66 (-1)|
 |[WWD](https://finance.yahoo.com/quote/WWD)|Woodward  Inc.|252.15|365.78|66 (-2)|
 |[RYM](https://finance.yahoo.com/quote/RYM)|RYTHM Inc|24.30|22.08|66 (-13)|
 |[DSGR](https://finance.yahoo.com/quote/DSGR)|Distribution Solutions Group  Inc.|31.28|34.82|66 (-1)|
@@ -1125,7 +1124,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ONB](https://finance.yahoo.com/quote/ONB)|Old National Bancorp|20.38|26.67|66 (-1)|
 |[GFS](https://finance.yahoo.com/quote/GFS)|GLOBALFOUNDRIES Inc.|32.75|50.36|66 (+6)|
 |[HAPN](https://finance.yahoo.com/quote/HAPN)|Happen  Inc.|15.88|19.71|66 (-2)|
-|[UMBF](https://finance.yahoo.com/quote/UMBF)|UMB Financial Corp|109.70|145.13|65 (-2)|
+|[UMBF](https://finance.yahoo.com/quote/UMBF)|UMB Financial Corp|109.70|145.13|66 (-1)|
 |[DAKT](https://finance.yahoo.com/quote/DAKT)|Daktronics Inc|16.83|21.74|65 (-3)|
 |[ECBK](https://finance.yahoo.com/quote/ECBK)|ECB Bancorp Inc|15.77|20.58|65 (-1)|
 |[CMPX](https://finance.yahoo.com/quote/CMPX)|Compass Therapeutics Inc.|2.93|1.99|65 (+5)|
@@ -1141,7 +1140,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[LYTS](https://finance.yahoo.com/quote/LYTS)|LSI Industries Inc|18.00|24.86|65 |
 |[PRPO](https://finance.yahoo.com/quote/PRPO)|Precipio Inc|14.65|23.46|65 (+1)|
 |[IOSP](https://finance.yahoo.com/quote/IOSP)|Innospec Inc|78.83|91.53|65 |
-|[FBNC](https://finance.yahoo.com/quote/FBNC)|First Bancorp (North Carolina)|49.11|64.20|65 (-2)|
+|[FBNC](https://finance.yahoo.com/quote/FBNC)|First Bancorp (North Carolina)|49.11|64.20|65 (-3)|
 |[ABUS](https://finance.yahoo.com/quote/ABUS)|Arbutus Biopharma Corp|3.41|4.54|65 (-3)|
 |[MASS](https://finance.yahoo.com/quote/MASS)|908 Devices Inc.|6.34|8.30|65 (-4)|
 |[SKYW](https://finance.yahoo.com/quote/SKYW)|SkyWest  Inc.|109.21|113.44|65 (-6)|
@@ -1159,8 +1158,8 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[VOXR](https://finance.yahoo.com/quote/VOXR)|Vox Royalty Corp|3.21|4.97|65 (-3)|
 |[FUND](https://finance.yahoo.com/quote/FUND)|Sprott Focus Trust|7.23|10.16|65 (+1)|
 |[CLSK](https://finance.yahoo.com/quote/CLSK)|CleanSpark  Inc.|10.83|12.75|65 (-4)|
-|[IPAR](https://finance.yahoo.com/quote/IPAR)|Interparfums Inc|114.57|119.00|64 (-6)|
-|[TRMK](https://finance.yahoo.com/quote/TRMK)|Trustmark Corporation|36.15|47.91|64 (-1)|
+|[IPAR](https://finance.yahoo.com/quote/IPAR)|Interparfums Inc|114.57|119.00|65 (-5)|
+|[TRMK](https://finance.yahoo.com/quote/TRMK)|Trustmark Corporation|36.15|47.91|64 (-2)|
 |[ACRV](https://finance.yahoo.com/quote/ACRV)|Acrivon Therapeutics  Inc.|1.30|1.69|64 (+12)|
 |[ARGX](https://finance.yahoo.com/quote/ARGX)|argenx SE ADR|674.90|875.30|64 (+1)|
 |[SPAI](https://finance.yahoo.com/quote/SPAI)|Safe Pro Group Inc|3.64|4.39|64 (-8)|
@@ -1178,7 +1177,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ASND](https://finance.yahoo.com/quote/ASND)|Ascendis Pharma A/S|186.59|249.85|64 |
 |[SBCF](https://finance.yahoo.com/quote/SBCF)|Seacoast Banking Corporation of Florida|27.38|34.53|64 (-2)|
 |[HSTM](https://finance.yahoo.com/quote/HSTM)|HealthStream  Inc.|25.60|28.12|64 (+5)|
-|[SEIC](https://finance.yahoo.com/quote/SEIC)|SEI Investments Company|86.76|104.69|64 (+1)|
+|[SEIC](https://finance.yahoo.com/quote/SEIC)|SEI Investments Company|86.76|104.69|64 |
 |[TUSK](https://finance.yahoo.com/quote/TUSK)|Mammoth Energy Services Inc|2.53|2.94|64 (+8)|
 |[RJET](https://finance.yahoo.com/quote/RJET)|Republic Airways Holdings Inc|16.20|21.28|64 (-3)|
 |[DDI](https://finance.yahoo.com/quote/DDI)|DoubleDown Interactive Co Ltd ADR|9.36|11.90|64 |
@@ -1190,10 +1189,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[HTO](https://finance.yahoo.com/quote/HTO)|H2O America(Dover)|47.91|61.78|64 (+1)|
 |[LSTR](https://finance.yahoo.com/quote/LSTR)|Landstar System  Inc.|127.34|177.06|64 (-1)|
 |[HRMY](https://finance.yahoo.com/quote/HRMY)|Harmony Biosciences Holdings  Inc.|34.94|38.75|64 (+1)|
-|[VABK](https://finance.yahoo.com/quote/VABK)|Virginia National Bankshares Corp|35.67|46.89|64 (-1)|
+|[VABK](https://finance.yahoo.com/quote/VABK)|Virginia National Bankshares Corp|35.67|46.89|64 (-2)|
 |[XOS](https://finance.yahoo.com/quote/XOS)|Xos Inc|3.08|2.63|64 (-17)|
 |[EQIX](https://finance.yahoo.com/quote/EQIX)|Equinix  Inc.|761.62|1052.86|64 |
-|[ISBA](https://finance.yahoo.com/quote/ISBA)|Isabella Bank Corp|31.21|40.81|63 (+1)|
+|[ISBA](https://finance.yahoo.com/quote/ISBA)|Isabella Bank Corp|31.21|40.81|64 (+2)|
 |[STHO](https://finance.yahoo.com/quote/STHO)|Star Holdings|7.27|9.48|63 (-1)|
 |[LWAY](https://finance.yahoo.com/quote/LWAY)|Lifeway Foods Inc|27.06|31.06|63 (+7)|
 |[WSBK](https://finance.yahoo.com/quote/WSBK)|Winchester Bancorp Inc|9.64|12.99|63 (-1)|
@@ -1226,12 +1225,12 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PYPL](https://finance.yahoo.com/quote/PYPL)|Paypal Holdings Inc|67.25|59.78|63 (+5)|
 |[AUPH](https://finance.yahoo.com/quote/AUPH)|Aurinia Pharmaceuticals Inc|11.70|16.13|63 (+5)|
 |[DUOT](https://finance.yahoo.com/quote/DUOT)|Duos Technologies Group Inc|6.90|8.69|63 (-1)|
-|[ADP](https://finance.yahoo.com/quote/ADP)|Automatic Data Processing Inc|291.34|273.51|62 (+3)|
+|[ADP](https://finance.yahoo.com/quote/ADP)|Automatic Data Processing Inc|291.34|273.51|63 (+4)|
 |[CINF](https://finance.yahoo.com/quote/CINF)|Cincinnati Financial Corporation|147.13|179.04|62 |
 |[TURB](https://finance.yahoo.com/quote/TURB)|Turbo Energy SA ADR|2.30|1.36|62 (-7)|
 |[VOR](https://finance.yahoo.com/quote/VOR)|Vor Biopharma Inc.|43.60|23.70|62 (+7)|
 |[AVIR](https://finance.yahoo.com/quote/AVIR)|Atea Pharmaceuticals  Inc.|3.52|4.99|62 (+4)|
-|[FUSB](https://finance.yahoo.com/quote/FUSB)|First US Bancshares Inc|12.86|16.70|62 |
+|[FUSB](https://finance.yahoo.com/quote/FUSB)|First US Bancshares Inc|12.86|16.70|62 (-1)|
 |[SYBT](https://finance.yahoo.com/quote/SYBT)|Stock Yards Bancorp Inc|72.80|83.93|62 (-1)|
 |[UTMD](https://finance.yahoo.com/quote/UTMD)|Utah Medical Products Inc|55.73|69.97|62 (-1)|
 |[SPKLU](https://finance.yahoo.com/quote/SPKLU)|Spark I Acquisition Units|10.79|12.83|62 |
@@ -1259,8 +1258,8 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[FAST](https://finance.yahoo.com/quote/FAST)|Fastenal Company|44.47|50.80|62 (+2)|
 |[NVDA](https://finance.yahoo.com/quote/NVDA)|NVIDIA Corp|178.02|218.99|62 (-1)|
 |[PFAI](https://finance.yahoo.com/quote/PFAI)|Pinnacle Food Group Ltd|1.76|2.36|62 (+10)|
-|[HLIT](https://finance.yahoo.com/quote/HLIT)|Harmonic Inc.|8.73|11.68|62 (-2)|
-|[IFBD](https://finance.yahoo.com/quote/IFBD)|Infobird Co Ltd|1.00|1.05|61 (+6)|
+|[HLIT](https://finance.yahoo.com/quote/HLIT)|Harmonic Inc.|8.73|11.68|62 (-3)|
+|[IFBD](https://finance.yahoo.com/quote/IFBD)|Infobird Co Ltd|1.00|1.05|62 (+7)|
 |[TNDM](https://finance.yahoo.com/quote/TNDM)|Tandem Diabetes Care  Inc.|15.15|18.79|61 |
 |[BHF](https://finance.yahoo.com/quote/BHF)|Brighthouse Financial  Inc.|46.79|62.17|61 (+1)|
 |[XLO](https://finance.yahoo.com/quote/XLO)|Xilio Therapeutics Inc|9.32|9.27|61 (+2)|
@@ -1288,13 +1287,13 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ACNT](https://finance.yahoo.com/quote/ACNT)|Ascent Industries Co|13.01|15.25|61 |
 |[GERN](https://finance.yahoo.com/quote/GERN)|Geron Corporation|1.20|1.57|61 |
 |[MDRR](https://finance.yahoo.com/quote/MDRR)|Medalist Diversified Inc|10.16|12.17|61 (+2)|
-|[BCPC](https://finance.yahoo.com/quote/BCPC)|Balchem Corporation|155.46|180.42|61 (+2)|
+|[BCPC](https://finance.yahoo.com/quote/BCPC)|Balchem Corporation|155.46|180.42|61 (+1)|
 |[CRWS](https://finance.yahoo.com/quote/CRWS)|Crown Crafts Inc|2.56|3.00|61 (+2)|
 |[RNXT](https://finance.yahoo.com/quote/RNXT)|RenovoRx Inc|1.22|1.15|61 (+18)|
 |[MFIN](https://finance.yahoo.com/quote/MFIN)|Medallion Financial Corp|9.85|10.84|61 (+2)|
 |[MCRI](https://finance.yahoo.com/quote/MCRI)|Monarch Casino & Resort  Inc.|99.36|122.10|61 (+3)|
 |[SKYX](https://finance.yahoo.com/quote/SKYX)|SKYX Platforms Corp|1.08|1.19|61 (-16)|
-|[ADUS](https://finance.yahoo.com/quote/ADUS)|Addus Homecare Corp|116.57|118.78|60 (-1)|
+|[ADUS](https://finance.yahoo.com/quote/ADUS)|Addus Homecare Corp|116.57|118.78|61 |
 |[KLTR](https://finance.yahoo.com/quote/KLTR)|Kaltura Inc|1.68|1.72|60 (-6)|
 |[ABEO](https://finance.yahoo.com/quote/ABEO)|Abeona Therapeutics Inc|6.47|6.90|60 |
 |[LLYVK](https://finance.yahoo.com/quote/LLYVK)|Liberty Live Holdings Inc Series C|85.71|103.73|60 (-2)|
@@ -1327,8 +1326,8 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[IMXI](https://finance.yahoo.com/quote/IMXI)|International Money Express Inc|8.97|12.19|60 (-1)|
 |[NB](https://finance.yahoo.com/quote/NB)|NioCorp Developments Ltd.|3.84|5.06|60 (-18)|
 |[CODA](https://finance.yahoo.com/quote/CODA)|Coda Octopus Group Inc|7.61|10.53|60 |
-|[BNTC](https://finance.yahoo.com/quote/BNTC)|Benitec Biopharma Inc|11.52|13.13|59 (+2)|
-|[ULH](https://finance.yahoo.com/quote/ULH)|Universal Logistics Holdings Inc|23.05|18.38|59 (-10)|
+|[BNTC](https://finance.yahoo.com/quote/BNTC)|Benitec Biopharma Inc|11.52|13.13|60 (+3)|
+|[ULH](https://finance.yahoo.com/quote/ULH)|Universal Logistics Holdings Inc|23.05|18.38|59 (-11)|
 |[AUDC](https://finance.yahoo.com/quote/AUDC)|AudioCodes Ltd|9.31|9.90|59 (+1)|
 |[PPLI](https://finance.yahoo.com/quote/PPLI)|People Incorporated|34.38|42.94|59 (+3)|
 |[RMR](https://finance.yahoo.com/quote/RMR)|The RMR Group Inc.|14.75|18.80|59 (-2)|
@@ -1361,7 +1360,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[RCMT](https://finance.yahoo.com/quote/RCMT)|R C M Technologies Inc|23.56|28.53|59 (+1)|
 |[CHW](https://finance.yahoo.com/quote/CHW)|Calamos Global Dynamic Income Closed Fund|6.64|8.47|59 (-1)|
 |[ADVB](https://finance.yahoo.com/quote/ADVB)|Advanced Biomed Inc|7.72|7.44|59 (+2)|
-|[VFF](https://finance.yahoo.com/quote/VFF)|Village Farms International Inc|1.69|2.04|58 (+2)|
+|[VFF](https://finance.yahoo.com/quote/VFF)|Village Farms International Inc|1.69|2.04|59 (+3)|
 |[MSGM](https://finance.yahoo.com/quote/MSGM)|Motorsport Games Inc|3.20|3.89|58 (-14)|
 |[NXTC](https://finance.yahoo.com/quote/NXTC)|NextCure Inc|5.20|5.59|58 (-5)|
 |[ELE](https://finance.yahoo.com/quote/ELE)|Elemental Royalty Corp|14.80|17.83|58 (-4)|
@@ -1374,7 +1373,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PAHC](https://finance.yahoo.com/quote/PAHC)|Phibro Animal Health Corp|26.26|35.50|58 (+3)|
 |[STRRP](https://finance.yahoo.com/quote/STRRP)|Star Equity Holdings 10 Cumulative Perpetual Prf Shs Series A|8.22|10.06|58 |
 |[TOWN](https://finance.yahoo.com/quote/TOWN)|TowneBank|33.47|37.73|58 (-1)|
-|[SUPN](https://finance.yahoo.com/quote/SUPN)|Supernus Pharmaceuticals  Inc.|37.53|46.76|58 (-2)|
+|[SUPN](https://finance.yahoo.com/quote/SUPN)|Supernus Pharmaceuticals  Inc.|37.53|46.76|58 (-3)|
 |[MGRX](https://finance.yahoo.com/quote/MGRX)|Mangoceuticals Inc|1.77|0.53|58 (+23)|
 |[EHLD](https://finance.yahoo.com/quote/EHLD)|Euroholdings Ltd|6.91|8.30|58 (+3)|
 |[WDFC](https://finance.yahoo.com/quote/WDFC)|WD-40 Company|213.02|231.20|58 (-2)|
@@ -1382,7 +1381,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PASG](https://finance.yahoo.com/quote/PASG)|Passage Bio Inc|5.81|4.40|58 (-4)|
 |[MNKD](https://finance.yahoo.com/quote/MNKD)|MannKind Corporation|3.99|3.89|58 (-24)|
 |[OTTR](https://finance.yahoo.com/quote/OTTR)|Otter Tail Corporation|78.89|93.05|58 (-3)|
-|[TLSI](https://finance.yahoo.com/quote/TLSI)|TriSalus Life Sciences Inc|4.21|4.87|58 (+8)|
+|[TLSI](https://finance.yahoo.com/quote/TLSI)|TriSalus Life Sciences Inc|4.21|4.87|58 (+7)|
 |[TARA](https://finance.yahoo.com/quote/TARA)|Protara Therapeutics Inc|3.15|4.10|58 (+1)|
 |[TTAN](https://finance.yahoo.com/quote/TTAN)|ServiceTitan Inc|111.77|85.59|58 (+3)|
 |[NVMI](https://finance.yahoo.com/quote/NVMI)|Nova Ltd.|263.49|381.32|58 (-2)|
@@ -1391,11 +1390,12 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[FRSH](https://finance.yahoo.com/quote/FRSH)|Freshworks Inc.|13.46|11.59|58 (+3)|
 |[HROW](https://finance.yahoo.com/quote/HROW)|Harrow  Inc.|33.45|39.92|58 (+3)|
 |[PAL](https://finance.yahoo.com/quote/PAL)|Proficient Auto Logistics Inc|6.30|7.08|58 (+1)|
-|[NSTS](https://finance.yahoo.com/quote/NSTS)|NSTS Bancorp Inc|12.19|13.81|58 (+2)|
+|[NSTS](https://finance.yahoo.com/quote/NSTS)|NSTS Bancorp Inc|12.19|13.81|58 (+1)|
 |[CHRW](https://finance.yahoo.com/quote/CHRW)|C.H. Robinson Worldwide  Inc.|114.51|146.66|58 (-4)|
 |[ADAMN](https://finance.yahoo.com/quote/ADAMN)|Adamas 8 00 Fixed Floating Rate Cumulative Redeemable Pref Shs Series D|19.90|23.78|58 (+2)|
 |[BPYPP](https://finance.yahoo.com/quote/BPYPP)|Brookfield Property Partners 6 50 Cumulative Redeemable Perpetual Preferred|13.29|16.10|58 |
-|[PCRX](https://finance.yahoo.com/quote/PCRX)|Pacira BioSciences  Inc.|22.54|25.58|57 (+7)|
+|[PCRX](https://finance.yahoo.com/quote/PCRX)|Pacira BioSciences  Inc.|22.54|25.58|58 (+8)|
+|[ENSG](https://finance.yahoo.com/quote/ENSG)|The Ensign Group  Inc.|157.90|182.97|57 (+2)|
 |[CVLT](https://finance.yahoo.com/quote/CVLT)|Commvault Systems  Inc.|183.25|133.36|57 (+2)|
 |[ADAML](https://finance.yahoo.com/quote/ADAML)|Adamas 6 875 Fixed To Floating Rate Cumulative Redeemable Pref Shs Series F|20.44|24.60|57 |
 |[BANR](https://finance.yahoo.com/quote/BANR)|Banner Corp|61.20|70.49|57 (-2)|
@@ -1406,7 +1406,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GLNG](https://finance.yahoo.com/quote/GLNG)|Golar LNG Limited|40.85|51.02|57 (+3)|
 |[HBIO](https://finance.yahoo.com/quote/HBIO)|Harvard Bioscience Inc|4.80|6.19|57 (-8)|
 |[ROCK](https://finance.yahoo.com/quote/ROCK)|Gibraltar Industries  Inc.|64.42|50.78|57 (-8)|
-|[HERZ](https://finance.yahoo.com/quote/HERZ)|Herzfeld Credit Income Fund，Inc.|12.66|15.77|57 |
+|[HERZ](https://finance.yahoo.com/quote/HERZ)|Herzfeld Credit Income Fund，Inc.|12.66|15.77|57 (-1)|
 |[LANDP](https://finance.yahoo.com/quote/LANDP)|Gladstone Land 6 00 Cumulative Redeemable Preferred Stock Series C|18.36|21.38|57 |
 |[OTEX](https://finance.yahoo.com/quote/OTEX)|Open Text Corporation|27.56|25.66|57 (+3)|
 |[QRVO](https://finance.yahoo.com/quote/QRVO)|Qorvo  Inc.|84.95|95.33|57 (+4)|
@@ -1451,7 +1451,6 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GEHC](https://finance.yahoo.com/quote/GEHC)|GE HealthCare Technologies Inc.|70.61|70.31|56 (+1)|
 |[SPPL](https://finance.yahoo.com/quote/SPPL)|Simpple Ltd|2.95|2.34|56 (+24)|
 |[GOODN](https://finance.yahoo.com/quote/GOODN)|Gladstone Coml Pref Shs Series E|21.17|23.57|56 (+1)|
-|[ENSG](https://finance.yahoo.com/quote/ENSG)|Ensign Group  Inc|157.69|181.66|56 (+2)|
 |[NTWK](https://finance.yahoo.com/quote/NTWK)|NetSol Technologies Inc|4.34|4.37|56 (-4)|
 |[BKHAU](https://finance.yahoo.com/quote/BKHAU)|Black Hawk Acquisition Units|10.51|12.05|56 (+1)|
 |[MARPS](https://finance.yahoo.com/quote/MARPS)|Marine Petroleum Units|4.08|4.87|56 (+5)|
@@ -1462,7 +1461,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[USLM](https://finance.yahoo.com/quote/USLM)|United States Lime & Minerals Inc|106.47|116.28|56 (-2)|
 |[POWI](https://finance.yahoo.com/quote/POWI)|Power Integrations  Inc.|47.44|58.98|56 (-3)|
 |[NHICU](https://finance.yahoo.com/quote/NHICU)|Newhold Investment III Units|10.32|11.58|56 (+2)|
-|[BPYPO](https://finance.yahoo.com/quote/BPYPO)|Brookfield Ppty Partners 6 375 Cum Red Perp Pfd Unit Class A|13.13|15.29|55 (+1)|
+|[BPYPO](https://finance.yahoo.com/quote/BPYPO)|Brookfield Ppty Partners 6 375 Cum Red Perp Pfd Unit Class A|13.13|15.29|56 (+2)|
 |[CRBP](https://finance.yahoo.com/quote/CRBP)|Corbus Pharmaceuticals Holdings  Inc.|8.90|9.74|55 (+7)|
 |[CCEC](https://finance.yahoo.com/quote/CCEC)|Capital Clean Energy Carriers Corp|22.20|22.75|55 (-1)|
 |[BACCU](https://finance.yahoo.com/quote/BACCU)|Blue Acquisition Units|10.11|11.23|55 (+1)|
@@ -1492,11 +1491,11 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[OZK](https://finance.yahoo.com/quote/OZK)|Bank Ozk|46.87|51.59|55 |
 |[AURA](https://finance.yahoo.com/quote/AURA)|Aura Biosciences  Inc.|6.63|7.72|55 (+13)|
 |[XRX](https://finance.yahoo.com/quote/XRX)|Xerox Holdings Corp|3.89|3.23|55 (+5)|
-|[TCBS](https://finance.yahoo.com/quote/TCBS)|Texas Community Bancshares Inc|15.58|17.43|55 (+2)|
+|[TCBS](https://finance.yahoo.com/quote/TCBS)|Texas Community Bancshares Inc|15.58|17.43|55 (+1)|
 |[AIRG](https://finance.yahoo.com/quote/AIRG)|Airgain Inc|4.52|5.70|55 (+1)|
 |[BPYPN](https://finance.yahoo.com/quote/BPYPN)|Brookfield Ppty Partners 5 750 Cum Red Perp Series 3 Class A|12.02|13.90|55 |
 |[FGBIP](https://finance.yahoo.com/quote/FGBIP)|First Guaranty Bancshares 6.75 Dep Shs Rep Non Cumulative Perpetual Prf Shs|17.54|19.84|55 (+2)|
-|[BZUN](https://finance.yahoo.com/quote/BZUN)|Baozun Inc ADR|2.71|2.90|54 (-3)|
+|[BZUN](https://finance.yahoo.com/quote/BZUN)|Baozun Inc ADR|2.71|2.90|55 (-2)|
 |[FTAIM](https://finance.yahoo.com/quote/FTAIM)|FTAI Aviation Fixed Rate Reset Cum Perp Pfd Series D|24.47|27.56|54 (+1)|
 |[RVSB](https://finance.yahoo.com/quote/RVSB)|Riverview Bancorp Inc|4.83|5.44|54 |
 |[JBDI](https://finance.yahoo.com/quote/JBDI)|JBDI Holdings Ltd|1.92|1.42|54 (+4)|
@@ -1505,7 +1504,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[AMIX](https://finance.yahoo.com/quote/AMIX)|Autonomix Medical Inc|27.51|12.17|54 (+1)|
 |[ICFI](https://finance.yahoo.com/quote/ICFI)|ICF International  Inc.|89.73|85.31|54 (+3)|
 |[GOOD](https://finance.yahoo.com/quote/GOOD)|Gladstone Commercial Corp|11.96|12.91|54 (+12)|
-|[NOEMU](https://finance.yahoo.com/quote/NOEMU)|CO2 Energy Transition Units|10.62|12.12|54 (+1)|
+|[NOEMU](https://finance.yahoo.com/quote/NOEMU)|CO2 Energy Transition Units|10.62|12.12|54 |
 |[WSC](https://finance.yahoo.com/quote/WSC)|WillScot Holdings Corporation|25.03|25.82|54 (-6)|
 |[GEG](https://finance.yahoo.com/quote/GEG)|Great Elm Group Inc|2.15|2.23|54 (+5)|
 |[PLTR](https://finance.yahoo.com/quote/PLTR)|Palantir Technologies Inc.|173.27|155.92|54 (-3)|
@@ -1514,7 +1513,6 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[JOUT](https://finance.yahoo.com/quote/JOUT)|Johnson Outdoors Inc|38.18|47.55|54 (-2)|
 |[MBNKO](https://finance.yahoo.com/quote/MBNKO)|Medallion Bank Fixed Rate Reset Non Cumulative Perpetual Pref Shs Series G|23.12|25.92|54 (+1)|
 |[OTLY](https://finance.yahoo.com/quote/OTLY)|Oatly Group AB ADR|16.63|13.69|54 (-3)|
-|[RDWR](https://finance.yahoo.com/quote/RDWR)|Radware Ltd|25.00|27.91|54 |
 |[FWONK](https://finance.yahoo.com/quote/FWONK)|Liberty Media Formula One Ord Shs Series C|98.32|99.69|54 (+5)|
 |[DASH](https://finance.yahoo.com/quote/DASH)|DoorDash  Inc.|255.28|213.26|54 (+4)|
 |[NWS](https://finance.yahoo.com/quote/NWS)|News Corporation Class B|33.32|33.87|54 (+2)|
@@ -1530,8 +1528,8 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GTIM](https://finance.yahoo.com/quote/GTIM)|Good Times Restaurants Inc|1.36|1.42|54 (-2)|
 |[DXR](https://finance.yahoo.com/quote/DXR)|Daxor Corp|9.97|10.48|54 (+3)|
 |[CNOBP](https://finance.yahoo.com/quote/CNOBP)|Connectone Bancorp New Depositary Shs Rep A 1 40Th Non Cm Perp Pref Shs Series A|22.45|25.31|54 (+1)|
-|[DTSQU](https://finance.yahoo.com/quote/DTSQU)|DT Cloud Star Acquisition Units|10.45|11.49|53 |
-|[MSBIP](https://finance.yahoo.com/quote/MSBIP)|Midland Sts Bancorp Depositary Shs Repstg 1 40Th Perp Pfd Series A|22.33|25.20|53 |
+|[DTSQU](https://finance.yahoo.com/quote/DTSQU)|DT Cloud Star Acquisition Units|10.45|11.49|54 (+1)|
+|[MSBIP](https://finance.yahoo.com/quote/MSBIP)|Midland Sts Bancorp Depositary Shs Repstg 1 40Th Perp Pfd Series A|22.33|25.20|54 (+1)|
 |[POWWP](https://finance.yahoo.com/quote/POWWP)|AMMO 8 75 Cumulative Redeemable Perpetual Prf Shs Series A|21.31|24.42|53 (+1)|
 |[NTES](https://finance.yahoo.com/quote/NTES)|NetEase  Inc. ADR|128.16|130.36|53 |
 |[RZLV](https://finance.yahoo.com/quote/RZLV)|Rezolve AI PLC|3.07|2.64|53 |
@@ -1563,8 +1561,8 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[OCSL](https://finance.yahoo.com/quote/OCSL)|Oaktree Specialty Lending Corp|11.73|12.72|53 (+9)|
 |[ARQQ](https://finance.yahoo.com/quote/ARQQ)|Arqit Quantum Inc|37.38|21.47|53 (-8)|
 |[BPYPM](https://finance.yahoo.com/quote/BPYPM)|Brookfield Property Preferred Pref Shs Class A|14.32|16.39|53 (+5)|
-|[SFBC](https://finance.yahoo.com/quote/SFBC)|Sound Financial Bancorp Inc|46.01|46.75|52 (-2)|
-|[STNE](https://finance.yahoo.com/quote/STNE)|StoneCo Ltd.|10.61|11.08|52 (-3)|
+|[SFBC](https://finance.yahoo.com/quote/SFBC)|Sound Financial Bancorp Inc|46.01|46.75|53 (-1)|
+|[STNE](https://finance.yahoo.com/quote/STNE)|StoneCo Ltd.|10.61|11.08|53 (-2)|
 |[CAAS](https://finance.yahoo.com/quote/CAAS)|China Automotive Systems Inc|3.93|4.52|52 (+6)|
 |[ADAMG](https://finance.yahoo.com/quote/ADAMG)|Adamas 9 125 Senior Notes Due 2030|22.47|25.13|52 |
 |[ATLCZ](https://finance.yahoo.com/quote/ATLCZ)|Atlanticus Holding 9 25 Senior Notes due 2029|23.04|25.51|52 (+1)|
@@ -1578,7 +1576,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[FVN](https://finance.yahoo.com/quote/FVN)|Future Vision II Acquisition Corp|10.39|11.29|52 (+8)|
 |[AUTL](https://finance.yahoo.com/quote/AUTL)|Autolus Therapeutics PLC ADR|2.37|2.00|52 (+7)|
 |[SBGI](https://finance.yahoo.com/quote/SBGI)|Sinclair  Inc.|13.24|14.76|52 (+10)|
-|[URBN](https://finance.yahoo.com/quote/URBN)|Urban Outfitters  Inc.|77.81|77.67|52 |
+|[RDWR](https://finance.yahoo.com/quote/RDWR)|Radware Ltd.|25.28|28.30|52 (-1)|
 |[BSBK](https://finance.yahoo.com/quote/BSBK)|Bogota Financial Corp|8.43|8.93|52 (+2)|
 |[GOODO](https://finance.yahoo.com/quote/GOODO)|Gladstone Commercial 6 00 Cum Red Prf Shs Series G|19.10|20.68|52 |
 |[NOEM](https://finance.yahoo.com/quote/NOEM)|CO2 Energy Transition Corp|10.10|10.90|52 (+3)|
@@ -1586,7 +1584,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BIDU](https://finance.yahoo.com/quote/BIDU)|Baidu  Inc. ADR|85.86|109.33|52 (-4)|
 |[AGNCP](https://finance.yahoo.com/quote/AGNCP)|Agnc Invt 1000 Dep Shs Repstg Cum Red Prf Series F|23.11|25.22|52 (+1)|
 |[MGRC](https://finance.yahoo.com/quote/MGRC)|McGrath RentCorp|118.65|121.75|52 (+2)|
-|[MBINM](https://finance.yahoo.com/quote/MBINM)|Merchants Depository Shares Rep 1 40Th  Int Share of 8 25 Fixed Rate Reset Non|23.14|25.57|52 (+1)|
+|[MBINM](https://finance.yahoo.com/quote/MBINM)|Merchants Depository Shares Rep 1 40Th  Int Share of 8 25 Fixed Rate Reset Non|23.14|25.57|52 |
 |[HEPS](https://finance.yahoo.com/quote/HEPS)|D Market Elektronik Hizmetler ve Ticaret AS ADR|2.74|2.92|52 (+7)|
 |[FFIN](https://finance.yahoo.com/quote/FFIN)|First Financial Bankshares Inc|33.48|34.71|52 (-2)|
 |[TRS](https://finance.yahoo.com/quote/TRS)|TriMas Corporation|35.51|40.48|52 (-2)|
@@ -1597,8 +1595,8 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[AGNCO](https://finance.yahoo.com/quote/AGNCO)|AGNC Investment DS REP 1/1000 Cumulative Pref Shs Series E|23.27|25.57|52 (+1)|
 |[SSBI](https://finance.yahoo.com/quote/SSBI)|Summit State Bank|12.06|13.32|52 |
 |[ALTI](https://finance.yahoo.com/quote/ALTI)|AlTi Global  Inc|4.84|4.34|52 (-17)|
-|[ATEC](https://finance.yahoo.com/quote/ATEC)|Alphatec Holdings  Inc|15.34|9.21|51 (+23)|
-|[SGMT](https://finance.yahoo.com/quote/SGMT)|Sagimet Biosciences Inc.|8.96|8.74|51 (-4)|
+|[ATEC](https://finance.yahoo.com/quote/ATEC)|Alphatec Holdings  Inc|15.34|9.21|52 (+24)|
+|[SGMT](https://finance.yahoo.com/quote/SGMT)|Sagimet Biosciences Inc.|8.96|8.74|52 (-3)|
 |[SLNG](https://finance.yahoo.com/quote/SLNG)|Stabilis Solutions Inc|4.83|4.73|51 (-5)|
 |[TTWO](https://finance.yahoo.com/quote/TTWO)|Take-Two Interactive Software  Inc.|225.92|232.47|51 |
 |[ADAMH](https://finance.yahoo.com/quote/ADAMH)|Adamas 9 875 Senior Notes Due 2030|22.90|25.38|51 |
@@ -1618,21 +1616,21 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[SKK](https://finance.yahoo.com/quote/SKK)|Skk Holdings Ltd|5.00|4.61|51 (+2)|
 |[ALKT](https://finance.yahoo.com/quote/ALKT)|Alkami Technology  Inc.|21.56|19.69|51 (+11)|
 |[ATIIU](https://finance.yahoo.com/quote/ATIIU)|Archimedes Tech SPAC Partners II Units|10.45|11.60|51 (+1)|
-|[ITRI](https://finance.yahoo.com/quote/ITRI)|Itron  Inc.|123.79|102.82|51 (-1)|
+|[ITRI](https://finance.yahoo.com/quote/ITRI)|Itron  Inc.|123.79|102.82|51 (-2)|
 |[UG](https://finance.yahoo.com/quote/UG)|United-Guardian Inc|7.43|7.24|51 (+8)|
 |[AIRTP](https://finance.yahoo.com/quote/AIRTP)|Air T Funding Alpha Income Pref Shs|16.50|19.02|51 (-1)|
-|[ANSCU](https://finance.yahoo.com/quote/ANSCU)|Agriculture Natural Solutions Acquisition Units|11.09|11.69|51 (+10)|
+|[ANSCU](https://finance.yahoo.com/quote/ANSCU)|Agriculture Natural Solutions Acquisition Units|11.09|11.69|51 (+9)|
 |[SOFI](https://finance.yahoo.com/quote/SOFI)|SoFi Technologies  Inc.|21.54|18.10|51 (+1)|
 |[AGNCL](https://finance.yahoo.com/quote/AGNCL)|AGNC Invt Dep Shs Repstg 1 1000Th Pref Shs Series G|23.43|25.19|51 (+2)|
 |[MACIU](https://finance.yahoo.com/quote/MACIU)|Melar Acquisition I Units Exp 10th June 2029|10.49|11.20|51 (+1)|
-|[GDYN](https://finance.yahoo.com/quote/GDYN)|Grid Dynamics Holdings  Inc.|8.00|7.58|51 (-4)|
+|[GDYN](https://finance.yahoo.com/quote/GDYN)|Grid Dynamics Holdings  Inc.|8.00|7.58|51 (-5)|
 |[OSIS](https://finance.yahoo.com/quote/OSIS)|OSI Systems  Inc.|219.64|237.10|51 (+2)|
 |[SWKHL](https://finance.yahoo.com/quote/SWKHL)|SWK Holdings 9 00 Senior Notes due 2027|23.48|25.39|51 (+1)|
 |[MTCH](https://finance.yahoo.com/quote/MTCH)|Match Group  Inc.|32.97|36.61|51 (-5)|
 |[ATLCL](https://finance.yahoo.com/quote/ATLCL)|Atlanticus Holdings 6 125 Senior Notes due 2026|23.06|25.05|51 (+1)|
 |[CRDL](https://finance.yahoo.com/quote/CRDL)|Cardiol Therapeutics Inc|1.35|1.36|51 |
-|[CAPNU](https://finance.yahoo.com/quote/CAPNU)|Cayson Acquisition Units|10.45|11.17|50 |
-|[JKHY](https://finance.yahoo.com/quote/JKHY)|Jack Henry & Associates Inc|163.53|156.94|50 (+10)|
+|[CAPNU](https://finance.yahoo.com/quote/CAPNU)|Cayson Acquisition Units|10.45|11.17|51 (+1)|
+|[JKHY](https://finance.yahoo.com/quote/JKHY)|Jack Henry & Associates Inc|163.53|156.94|51 (+11)|
 |[RCKT](https://finance.yahoo.com/quote/RCKT)|Rocket Pharmaceuticals  Inc.|3.04|3.54|50 (-3)|
 |[GGAL](https://finance.yahoo.com/quote/GGAL)|Grupo Financiero Galicia S.A. ADR|48.67|46.73|50 (-11)|
 |[OCCIM](https://finance.yahoo.com/quote/OCCIM)|OFS Credit Company 7 875 Prf Shs Series F|23.25|25.13|50 (+1)|
@@ -1648,9 +1646,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[SAIA](https://finance.yahoo.com/quote/SAIA)|Saia Inc|299.08|361.82|50 (+2)|
 |[VRCA](https://finance.yahoo.com/quote/VRCA)|Verrica Pharmaceuticals Inc|5.60|5.36|50 (-6)|
 |[CING](https://finance.yahoo.com/quote/CING)|Cingulate Inc|5.42|5.05|50 |
-|[AEP](https://finance.yahoo.com/quote/AEP)|American Electric Power Company Inc|109.76|125.26|50 (+3)|
+|[AEP](https://finance.yahoo.com/quote/AEP)|American Electric Power Company Inc|109.76|125.26|50 (+2)|
 |[IEP](https://finance.yahoo.com/quote/IEP)|Icahn Enterprises Units|7.16|7.63|50 (+7)|
 |[WALD](https://finance.yahoo.com/quote/WALD)|Waldencast PLC|1.74|1.44|50 (-18)|
+|[URBN](https://finance.yahoo.com/quote/URBN)|Urban Outfitters  Inc|79.79|76.92|50 (-2)|
 |[SEDG](https://finance.yahoo.com/quote/SEDG)|SolarEdge Technologies  Inc.|26.12|32.67|50 (-6)|
 |[INVA](https://finance.yahoo.com/quote/INVA)|Innoviva  Inc.|18.44|21.11|50 (+7)|
 |[LPLA](https://finance.yahoo.com/quote/LPLA)|LPL Financial Holdings Inc.|372.57|359.05|50 (+1)|
@@ -1659,20 +1658,20 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GIGM](https://finance.yahoo.com/quote/GIGM)|GigaMedia Ltd|1.45|1.43|50 (+6)|
 |[ABAT](https://finance.yahoo.com/quote/ABAT)|American Battery Technology Company|2.24|2.39|50 (-10)|
 |[SAFX](https://finance.yahoo.com/quote/SAFX)|XCF Global Inc|1.24|0.37|50 (+16)|
-|[SPKL](https://finance.yahoo.com/quote/SPKL)|Spark I Acquisition Corp|10.97|11.67|50 (+1)|
+|[SPKL](https://finance.yahoo.com/quote/SPKL)|Spark I Acquisition Corp|10.97|11.67|50 |
 |[LIEN](https://finance.yahoo.com/quote/LIEN)|Chicago Atlantic BDC Inc|8.94|9.38|50 (+1)|
 |[XRPNU](https://finance.yahoo.com/quote/XRPNU)|Armada Acquisition II Units|10.21|10.90|50 |
 |[IMPPP](https://finance.yahoo.com/quote/IMPPP)|Imperial Petroleum 8.75 Cumulative Redeemable Perpetual Pref Shs Series A|23.85|25.71|50 |
 |[LPAAU](https://finance.yahoo.com/quote/LPAAU)|Launch One Acquisition Units|10.56|11.11|50 (+1)|
 |[PRVA](https://finance.yahoo.com/quote/PRVA)|Privia Health Group Inc|19.45|22.00|50 (-7)|
-|[NCMI](https://finance.yahoo.com/quote/NCMI)|National Cinemedia Inc|4.39|4.03|49 (-2)|
+|[NCMI](https://finance.yahoo.com/quote/NCMI)|National Cinemedia Inc|4.39|4.03|50 (-1)|
 |[WAFDP](https://finance.yahoo.com/quote/WAFDP)|Wafd Depositary Shares|15.08|16.40|49 (-1)|
 |[MYGN](https://finance.yahoo.com/quote/MYGN)|Myriad Genetics  Inc.|3.87|3.18|49 (+13)|
 |[BPOPM](https://finance.yahoo.com/quote/BPOPM)|Popular Capital Trust II 6 125 Cumulative Monthly Income Pref Shs|23.38|25.19|49 (+1)|
 |[FSHP](https://finance.yahoo.com/quote/FSHP)|Flag Ship Acquisition Corp|10.49|11.19|49 |
 |[FSHPU](https://finance.yahoo.com/quote/FSHPU)|Flag Ship Acquisition Units|10.50|11.19|49 |
 |[CHSCM](https://finance.yahoo.com/quote/CHSCM)|CHS Reset Rate Cumulative Redeemable Pref Shs Series 3 Class B|22.89|24.76|49 (+1)|
-|[HOVR](https://finance.yahoo.com/quote/HOVR)|New Horizon Aircraft Ltd|1.68|1.95|49 (-9)|
+|[HOVR](https://finance.yahoo.com/quote/HOVR)|New Horizon Aircraft Ltd|1.68|1.95|49 (-10)|
 |[PRDO](https://finance.yahoo.com/quote/PRDO)|Perdoceo Education Corporation|28.75|32.45|49 (-4)|
 |[UTSI](https://finance.yahoo.com/quote/UTSI)|UTStarcom Holdings Corp.|2.46|2.55|49 (+8)|
 |[OMCL](https://finance.yahoo.com/quote/OMCL)|Omnicell Inc|30.50|36.16|49 (-3)|
@@ -1698,7 +1697,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GPAT](https://finance.yahoo.com/quote/GPAT)|GP-Act III Acquisition Corp|10.56|11.10|49 |
 |[CHAR](https://finance.yahoo.com/quote/CHAR)|Charlton Aria Acquisition Corp|10.30|10.91|49 (+1)|
 |[TDAC](https://finance.yahoo.com/quote/TDAC)|Translational Development Acquisition Corp|10.32|10.87|49 (+2)|
-|[ASUR](https://finance.yahoo.com/quote/ASUR)|Asure Software Inc|8.16|8.71|48 (+4)|
+|[ASUR](https://finance.yahoo.com/quote/ASUR)|Asure Software Inc|8.16|8.71|49 (+5)|
 |[VLYPP](https://finance.yahoo.com/quote/VLYPP)|Valley National 6 25 Fixed to Floating Rate Non Cumulative Perpetual Pref Shs|23.34|24.95|48 |
 |[CAPN](https://finance.yahoo.com/quote/CAPN)|Cayson Acquisition Corp|10.37|11.10|48 |
 |[REG](https://finance.yahoo.com/quote/REG)|Regency Centers Corp|70.91|76.96|48 (-5)|
@@ -1732,7 +1731,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[IVVD](https://finance.yahoo.com/quote/IVVD)|Invivyd  Inc.|0.72|0.66|48 (-1)|
 |[TVACU](https://finance.yahoo.com/quote/TVACU)|Texas Ventures Acquisition III Units|10.23|10.71|48 (+1)|
 |[EFSCP](https://finance.yahoo.com/quote/EFSCP)|Enterprise Finl Svcs DRC Rep Non Cum Perp Pfd Series A|18.95|20.12|48 (+4)|
-|[VNOM](https://finance.yahoo.com/quote/VNOM)|Viper Energy Inc|35.43|41.41|47 (+3)|
+|[VNOM](https://finance.yahoo.com/quote/VNOM)|Viper Energy Inc|35.43|41.41|48 (+4)|
 |[BKHA](https://finance.yahoo.com/quote/BKHA)|Black Hawk Acquisition Corp|10.95|11.78|47 |
 |[RFAI](https://finance.yahoo.com/quote/RFAI)|RF Acquisition Corp II|10.59|11.09|47 |
 |[PGAC](https://finance.yahoo.com/quote/PGAC)|Pantages Capital Acquisition Corp|10.21|10.68|47 |
@@ -1747,10 +1746,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[WTG](https://finance.yahoo.com/quote/WTG)|Wintergreen Acquisition Corp|10.03|10.47|47 |
 |[MACI](https://finance.yahoo.com/quote/MACI)|Melar Acquisition Corp I|10.46|10.95|47 |
 |[RGCO](https://finance.yahoo.com/quote/RGCO)|RGC Resources Inc|20.28|21.94|47 (+6)|
-|[COLA](https://finance.yahoo.com/quote/COLA)|Columbus Acquisition Corp|10.18|10.69|47 (+1)|
+|[COLA](https://finance.yahoo.com/quote/COLA)|Columbus Acquisition Corp|10.18|10.69|47 |
 |[RIBBU](https://finance.yahoo.com/quote/RIBBU)|Ribbon Acquisition Units|10.45|10.77|47 (+1)|
 |[DMAAU](https://finance.yahoo.com/quote/DMAAU)|Drugs Made In America Acquisition Units|10.58|10.89|47 (+1)|
-|[SIMA](https://finance.yahoo.com/quote/SIMA)|SIM Acquisition I Corp|10.42|10.94|47 (+5)|
+|[SIMA](https://finance.yahoo.com/quote/SIMA)|SIM Acquisition I Corp|10.42|10.94|47 (+4)|
 |[LCCC](https://finance.yahoo.com/quote/LCCC)|Lakeshore Acquisition III Corp|10.04|10.48|47 (+1)|
 |[SELF](https://finance.yahoo.com/quote/SELF)|Global Self Storage Inc|4.89|5.28|47 (+6)|
 |[REGCP](https://finance.yahoo.com/quote/REGCP)|Regency Centers 6 25 Series A Cumulative Redeemable Preferred Stock Series A|22.18|23.18|47 (+1)|
@@ -1761,12 +1760,12 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CRAQU](https://finance.yahoo.com/quote/CRAQU)|Cal Redwood Acquisition Units|10.20|10.53|47 (+1)|
 |[JRVR](https://finance.yahoo.com/quote/JRVR)|James River Group Holdings Inc|5.55|4.79|47 (+8)|
 |[BGC](https://finance.yahoo.com/quote/BGC)|Bgc Group Inc|9.86|10.51|47 (-5)|
-|[LKFN](https://finance.yahoo.com/quote/LKFN)|Lakeland Financial Corp|59.92|62.31|47 (-1)|
+|[LKFN](https://finance.yahoo.com/quote/LKFN)|Lakeland Financial Corp|59.92|62.31|47 (-2)|
 |[HOVNP](https://finance.yahoo.com/quote/HOVNP)|Hovnanian Enterprises 1000 Depositary Shares Representing 1 7.625% Pref Shs|18.26|19.78|47 (-1)|
 |[DMAA](https://finance.yahoo.com/quote/DMAA)|Drugs Made In America Acquisition Corp|10.26|10.71|47 (+1)|
 |[CHSCL](https://finance.yahoo.com/quote/CHSCL)|CHS Cumulative Redeemable Pref Shs Series 4 Class B|24.13|25.33|47 (+1)|
 |[BEAGU](https://finance.yahoo.com/quote/BEAGU)|Bold Eagle Acquisition Units|10.74|11.03|47 (+1)|
-|[CHPGU](https://finance.yahoo.com/quote/CHPGU)|Championsgate Acquisition Units|10.13|10.48|46 |
+|[CHPGU](https://finance.yahoo.com/quote/CHPGU)|Championsgate Acquisition Units|10.13|10.48|47 (+1)|
 |[HCMAU](https://finance.yahoo.com/quote/HCMAU)|HCM III Acquisition Units|10.13|10.48|46 (-1)|
 |[BWBBP](https://finance.yahoo.com/quote/BWBBP)|Bridgewater Bancshares DS 1 100th Int 5 875 Non Cumu Perpl Prf Shs Series A|19.51|20.00|46 (+2)|
 |[NHIC](https://finance.yahoo.com/quote/NHIC)|NewHold Investment Corp III|10.19|10.65|46 |
@@ -1783,10 +1782,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[KCHV](https://finance.yahoo.com/quote/KCHV)|Kochav Defense Acquisition Corp|10.03|10.41|46 |
 |[MBUU](https://finance.yahoo.com/quote/MBUU)|Malibu Boats Inc|33.64|28.61|46 (-6)|
 |[RANGU](https://finance.yahoo.com/quote/RANGU)|Range Capital Acquisition Units|10.35|10.83|46 (+1)|
-|[POLE](https://finance.yahoo.com/quote/POLE)|Andretti Acquisition Corp. II|10.41|10.81|46 (+1)|
+|[POLE](https://finance.yahoo.com/quote/POLE)|Andretti Acquisition Corp. II|10.41|10.81|46 |
 |[SIMAU](https://finance.yahoo.com/quote/SIMAU)|SM Acquisition Units|10.50|10.95|46 (+1)|
 |[XRPN](https://finance.yahoo.com/quote/XRPN)|Armada Acquisition Corp II|10.04|10.46|46 (+1)|
-|[SVCC](https://finance.yahoo.com/quote/SVCC)|Stellar V Capital Corp|10.27|10.62|46 (+1)|
+|[SVCC](https://finance.yahoo.com/quote/SVCC)|Stellar V Capital Corp|10.27|10.62|46 |
 |[DRDB](https://finance.yahoo.com/quote/DRDB)|Roman Dbdr Acquisition Corp. II|10.27|10.64|46 (+2)|
 |[LPBB](https://finance.yahoo.com/quote/LPBB)|Launch Two Acquisition Corp|10.43|10.77|46 (+1)|
 |[CRAQ](https://finance.yahoo.com/quote/CRAQ)|Cal Redwood Acquisition Corp|10.01|10.35|46 (+1)|
@@ -1799,7 +1798,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[SPEGU](https://finance.yahoo.com/quote/SPEGU)|Silver Pegasus Acquisition Units|10.14|10.48|46 (+1)|
 |[SDHI](https://finance.yahoo.com/quote/SDHI)|Siddhi Acquisition Corp|10.12|10.48|46 (+1)|
 |[IPEX](https://finance.yahoo.com/quote/IPEX)|Inflection Point Acquisition Corp V|10.13|10.52|46 (+1)|
-|[NMRA](https://finance.yahoo.com/quote/NMRA)|Neumora Therapeutics Inc|1.66|1.64|45 (+2)|
+|[NMRA](https://finance.yahoo.com/quote/NMRA)|Neumora Therapeutics Inc|1.66|1.64|46 (+2)|
 |[PACHU](https://finance.yahoo.com/quote/PACHU)|Pioneer Acquisition I Units|10.04|10.40|45 (-1)|
 |[ECOR](https://finance.yahoo.com/quote/ECOR)|electroCore  Inc.|6.86|6.70|45 (+8)|
 |[TAVI](https://finance.yahoo.com/quote/TAVI)|Tavia Acquisition Corp|10.27|10.68|45 |
@@ -1813,7 +1812,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[HVII](https://finance.yahoo.com/quote/HVII)|Hennessy Capital Investment Corp VII|10.17|10.51|45 |
 |[CHSCO](https://finance.yahoo.com/quote/CHSCO)|CHS Cumulative Redeemable Pref Shs Class B|24.71|25.70|45 (+1)|
 |[SOCAU](https://finance.yahoo.com/quote/SOCAU)|Solarius Capital Acquisition Units|10.05|10.37|45 (+1)|
-|[SVCCU](https://finance.yahoo.com/quote/SVCCU)|Stellar V Capital Units|10.33|10.65|45 (+1)|
+|[SVCCU](https://finance.yahoo.com/quote/SVCCU)|Stellar V Capital Units|10.33|10.65|45 |
 |[QCOM](https://finance.yahoo.com/quote/QCOM)|QUALCOMM Incorporated|143.68|160.39|45 (+2)|
 |[TVAIU](https://finance.yahoo.com/quote/TVAIU)|Thayer Ventures Acquisition II Units|10.10|10.50|45 (+1)|
 |[DYNC](https://finance.yahoo.com/quote/DYNC)|Dynamix Corp|10.53|10.84|45 (+2)|
@@ -1833,7 +1832,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ATII](https://finance.yahoo.com/quote/ATII)|Archimedes Tech SPAC Partners II Co|10.23|10.72|45 (-2)|
 |[IPHA](https://finance.yahoo.com/quote/IPHA)|Innate Pharma SA ADR|2.14|1.78|45 (-8)|
 |[KLXE](https://finance.yahoo.com/quote/KLXE)|KLX Energy Services Holdings Inc|1.77|2.15|45 (-4)|
-|[KFIIU](https://finance.yahoo.com/quote/KFIIU)|K and F Growth Acquisition Ii Units|10.30|10.69|44 |
+|[KFIIU](https://finance.yahoo.com/quote/KFIIU)|K and F Growth Acquisition Ii Units|10.30|10.69|45 (+1)|
 |[LPBBU](https://finance.yahoo.com/quote/LPBBU)|Launch Two Acquisition Units|10.68|10.85|44 |
 |[BLIV](https://finance.yahoo.com/quote/BLIV)|Belive Holdings|2.58|2.36|44 (-1)|
 |[ALDFU](https://finance.yahoo.com/quote/ALDFU)|Aldel Financial II Units|10.60|10.82|44 |
@@ -1852,7 +1851,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[WMT](https://finance.yahoo.com/quote/WMT)|Walmart Inc|98.49|112.07|44 (+1)|
 |[FERAU](https://finance.yahoo.com/quote/FERAU)|Fifth Era Acquisition I Units|10.50|10.69|44 (+1)|
 |[JJSF](https://finance.yahoo.com/quote/JJSF)|J&J Snack Foods Corp|113.18|91.86|44 (+11)|
-|[TACOU](https://finance.yahoo.com/quote/TACOU)|Berto Acquisition Units|10.81|10.87|44 (+1)|
+|[TACOU](https://finance.yahoo.com/quote/TACOU)|Berto Acquisition Units|10.81|10.87|44 |
 |[BEAG](https://finance.yahoo.com/quote/BEAG)|Bold Eagle Acquisition Corp|10.48|10.67|44 (+1)|
 |[IBAC](https://finance.yahoo.com/quote/IBAC)|IB Acquisition Corp|10.49|10.82|44 (+1)|
 |[TAVIU](https://finance.yahoo.com/quote/TAVIU)|Tavia Acquisition Units|10.54|10.73|44 (+1)|
@@ -1867,7 +1866,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[COOT](https://finance.yahoo.com/quote/COOT)|Australian Oilseeds Holdings Ltd|0.53|0.40|44 (-14)|
 |[RCEL](https://finance.yahoo.com/quote/RCEL)|AVITA Medical Inc|5.28|4.75|44 (+6)|
 |[PMTR](https://finance.yahoo.com/quote/PMTR)|Perimeter Acquisition I Corp|10.20|10.39|44 (+1)|
-|[MDIA](https://finance.yahoo.com/quote/MDIA)|Mediaco Holding Inc|1.32|1.01|43 (-8)|
+|[MDIA](https://finance.yahoo.com/quote/MDIA)|Mediaco Holding Inc|1.32|1.01|44 (-7)|
 |[YHNAU](https://finance.yahoo.com/quote/YHNAU)|YHN Acquisition I Units|10.45|10.91|43 |
 |[SZZLU](https://finance.yahoo.com/quote/SZZLU)|Sizzle Acquisition II Units|10.26|10.50|43 |
 |[INMB](https://finance.yahoo.com/quote/INMB)|INmune Bio Inc|2.69|1.91|43 (+4)|
@@ -1898,11 +1897,10 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[AAON](https://finance.yahoo.com/quote/AAON)|Aaon Inc|83.03|90.28|43 (-10)|
 |[MEGL](https://finance.yahoo.com/quote/MEGL)|Magic Empire Global Ltd|1.34|1.23|43 |
 |[MRDN](https://finance.yahoo.com/quote/MRDN)|Meridian Holdings Inc|18.60|13.74|43 (-11)|
-|[AVPT](https://finance.yahoo.com/quote/AVPT)|AvePoint Inc (Delaware)|17.58|12.79|43 (-3)|
 |[GBLI](https://finance.yahoo.com/quote/GBLI)|Global Indemnity Group LLC|29.28|27.97|43 (-2)|
 |[VLOS](https://finance.yahoo.com/quote/VLOS)|Velos Acquisition I Corp|10.58|10.77|43 (+1)|
-|[SDHIU](https://finance.yahoo.com/quote/SDHIU)|Siddhi Acquisition Units|10.32|10.56|42 |
-|[GSHRU](https://finance.yahoo.com/quote/GSHRU)|Gesher Acquisition II Units|10.50|10.53|42 |
+|[SDHIU](https://finance.yahoo.com/quote/SDHIU)|Siddhi Acquisition Units|10.32|10.56|43 (+1)|
+|[GSHRU](https://finance.yahoo.com/quote/GSHRU)|Gesher Acquisition II Units|10.50|10.53|43 (+1)|
 |[ARCC](https://finance.yahoo.com/quote/ARCC)|Ares Capital Corp|20.40|19.62|42 (+2)|
 |[JL](https://finance.yahoo.com/quote/JL)|J-Long Group Ltd|5.91|5.40|42 (-5)|
 |[VANI](https://finance.yahoo.com/quote/VANI)|Vivani Medical Inc|1.50|1.36|42 (-9)|
@@ -1925,6 +1923,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ANGH](https://finance.yahoo.com/quote/ANGH)|Anghami Inc|3.56|3.42|42 (+5)|
 |[PCAP](https://finance.yahoo.com/quote/PCAP)|Procap Acquisition Corp|10.38|10.32|42 (+1)|
 |[DTI](https://finance.yahoo.com/quote/DTI)|Drilling Tools International Corp|2.17|2.35|42 (-2)|
+|[AVPT](https://finance.yahoo.com/quote/AVPT)|AvePoint  Inc.|17.86|12.79|42 |
 |[HPK](https://finance.yahoo.com/quote/HPK)|Highpeak Energy Inc|8.44|6.86|42 (+6)|
 |[ISPR](https://finance.yahoo.com/quote/ISPR)|Ispire Technology Inc|2.73|1.66|42 (-13)|
 |[ONCHU](https://finance.yahoo.com/quote/ONCHU)|1RT Acquisition Units|10.52|10.41|42 (+1)|
@@ -1934,7 +1933,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[DRDBU](https://finance.yahoo.com/quote/DRDBU)|Roman DBDR Acquisition II Units|10.74|10.63|42 (+1)|
 |[WAVE](https://finance.yahoo.com/quote/WAVE)|Eco Wave Power Global AB (publ) ADR|8.19|6.96|42 (+3)|
 |[CEPO](https://finance.yahoo.com/quote/CEPO)|Cantor Equity Partners I Inc|10.78|10.65|42 (+3)|
-|[MESO](https://finance.yahoo.com/quote/MESO)|Mesoblast Limited ADR|15.59|15.62|41 (+3)|
+|[MESO](https://finance.yahoo.com/quote/MESO)|Mesoblast Limited ADR|15.59|15.62|42 (+4)|
 |[CRUS](https://finance.yahoo.com/quote/CRUS)|Cirrus Logic  Inc.|104.97|123.51|41 (-8)|
 |[TPG](https://finance.yahoo.com/quote/TPG)|TPG Inc|54.85|48.51|41 (+3)|
 |[METCZ](https://finance.yahoo.com/quote/METCZ)|Ramaco Resources 8 375 Senior Notes due 2029|25.26|25.22|41 |
@@ -1945,6 +1944,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ASPC](https://finance.yahoo.com/quote/ASPC)|A SPAC III Acquisition Corp|10.26|10.64|41 (-3)|
 |[PSHG](https://finance.yahoo.com/quote/PSHG)|Performance Shipping Inc|1.67|1.73|41 (-1)|
 |[NKTX](https://finance.yahoo.com/quote/NKTX)|Nkarta  Inc.|2.07|2.29|41 (+6)|
+|[NEWTH](https://finance.yahoo.com/quote/NEWTH)|NewtekOne 8 625 Fixed Rate Senior Notes due 2029|25.11|25.20|41 |
 |[NEWTH](https://finance.yahoo.com/quote/NEWTH)|NewtekOne 8 625 Fixed Rate Senior Notes due 2029|25.11|25.20|41 |
 |[PCAPU](https://finance.yahoo.com/quote/PCAPU)|Procap Acquisition Units A|10.62|10.40|41 (+1)|
 |[NNDM](https://finance.yahoo.com/quote/NNDM)|Nano Dimension Ltd ADR|1.39|1.57|41 |
@@ -1957,7 +1957,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[AARD](https://finance.yahoo.com/quote/AARD)|Aardvark Therapeutics  Inc.|12.55|7.30|41 (-16)|
 |[LOBO](https://finance.yahoo.com/quote/LOBO)|Lobo Technologies Ltd|0.82|0.69|41 (-22)|
 |[WTGUU](https://finance.yahoo.com/quote/WTGUU)|Wintergreen Acquisition Units|10.16|10.51|41 |
-|[CRNC](https://finance.yahoo.com/quote/CRNC)|Cerence Inc.|8.55|9.02|41 (-3)|
+|[CRNC](https://finance.yahoo.com/quote/CRNC)|Cerence Inc.|8.55|9.02|41 (-4)|
 |[BZ](https://finance.yahoo.com/quote/BZ)|KANZHUN LIMITED ADR|19.68|16.09|41 (-7)|
 |[ATHE](https://finance.yahoo.com/quote/ATHE)|Alterity Therapeutics Limited ADR|5.40|4.56|41 (+2)|
 |[GRVY](https://finance.yahoo.com/quote/GRVY)|Gravity Co Ltd ADR|63.94|61.13|41 (-1)|
@@ -2139,7 +2139,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[HNNA](https://finance.yahoo.com/quote/HNNA)|Hennessy Advisors Inc|11.94|9.92|36 (+2)|
 |[JANX](https://finance.yahoo.com/quote/JANX)|Janux Therapeutics  Inc.|25.50|16.10|35 (-4)|
 |[STEP](https://finance.yahoo.com/quote/STEP)|StepStone Group Inc.|56.49|50.33|35 (+1)|
-|[ALT](https://finance.yahoo.com/quote/ALT)|Altimmune Inc|3.67|3.01|35 (-7)|
+|[ALT](https://finance.yahoo.com/quote/ALT)|Altimmune Inc|3.67|3.01|35 (-8)|
 |[ASO](https://finance.yahoo.com/quote/ASO)|Academy Sports and Outdoors  Inc.|50.33|47.35|35 (-2)|
 |[WW](https://finance.yahoo.com/quote/WW)|WW International Inc|41.65|16.88|35 (+9)|
 |[PPIH](https://finance.yahoo.com/quote/PPIH)|Perma-Pipe International Holdings Inc|25.12|25.99|35 |
@@ -2376,6 +2376,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NEOV](https://finance.yahoo.com/quote/NEOV)|NeoVolta Inc|5.07|2.82|28 (-3)|
 |[ARKR](https://finance.yahoo.com/quote/ARKR)|Ark Restaurants Corp|7.30|5.82|28 (+1)|
 |[MTRX](https://finance.yahoo.com/quote/MTRX)|Matrix Service Co|14.58|11.73|28 |
+|[BSEM](https://finance.yahoo.com/quote/BSEM)|BioStem Technologies  Inc.|10.66|4.09|28 (+6)|
 |[OXSQ](https://finance.yahoo.com/quote/OXSQ)|Oxford Square Capital Corp.|1.86|1.49|28 |
 |[AIMD](https://finance.yahoo.com/quote/AIMD)|Ainos Inc|2.33|1.53|28 (+5)|
 |[ETOR](https://finance.yahoo.com/quote/ETOR)|eToro Group Ltd.|57.97|35.48|28 |
@@ -2405,7 +2406,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[TCOM](https://finance.yahoo.com/quote/TCOM)|Trip.com Group Limited ADR|61.17|46.24|28 |
 |[HWKN](https://finance.yahoo.com/quote/HWKN)|Hawkins Inc|168.07|130.03|28 (-1)|
 |[NAMM](https://finance.yahoo.com/quote/NAMM)|Namib Minerals|3.19|1.37|28 (-3)|
-|[PCSA](https://finance.yahoo.com/quote/PCSA)|Processa Pharmaceuticals Inc|6.05|2.30|28 (-1)|
+|[PCSA](https://finance.yahoo.com/quote/PCSA)|Processa Pharmaceuticals Inc|6.05|2.30|27 (-2)|
 |[HYPR](https://finance.yahoo.com/quote/HYPR)|Hyperfine Inc|1.20|0.98|27 (-1)|
 |[MDWD](https://finance.yahoo.com/quote/MDWD)|Mediwound Ltd|17.96|14.28|27 |
 |[RUM](https://finance.yahoo.com/quote/RUM)|RUM Group Inc.|8.37|6.20|27 (-1)|
@@ -2439,7 +2440,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[SNOA](https://finance.yahoo.com/quote/SNOA)|Sonoma Pharmaceuticals Inc|3.01|1.25|27 (+7)|
 |[LGVN](https://finance.yahoo.com/quote/LGVN)|Longeveron Inc|1.55|0.77|27 (+5)|
 |[VS](https://finance.yahoo.com/quote/VS)|Versus Systems Inc|2.29|1.31|27 (-1)|
-|[OMSE](https://finance.yahoo.com/quote/OMSE)|OMS Energy Technologies Inc|6.80|4.39|27 (+1)|
+|[OMSE](https://finance.yahoo.com/quote/OMSE)|OMS Energy Technologies Inc|6.80|4.39|26 |
 |[TAOX](https://finance.yahoo.com/quote/TAOX)|TAO Synergies Inc|5.89|3.44|26 (+3)|
 |[SORA](https://finance.yahoo.com/quote/SORA)|AsiaStrategy|4.84|2.31|26 (+3)|
 |[CIRC](https://finance.yahoo.com/quote/CIRC)|Circle8 Group Inc|1.57|0.79|26 (+2)|
@@ -2473,7 +2474,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BLRX](https://finance.yahoo.com/quote/BLRX)|BioLine RX Ltd ADR|3.89|2.79|26 (-1)|
 |[HIT](https://finance.yahoo.com/quote/HIT)|Health In Tech Inc|2.19|1.12|26 (+4)|
 |[THCH](https://finance.yahoo.com/quote/THCH)|TH International Ltd|2.63|1.78|26 |
-|[RWAY](https://finance.yahoo.com/quote/RWAY)|Runway Growth Finance Corp|9.14|5.98|26 (+2)|
+|[RWAY](https://finance.yahoo.com/quote/RWAY)|Runway Growth Finance Corp|9.14|5.98|25 (+1)|
 |[CRMD](https://finance.yahoo.com/quote/CRMD)|CorMedix Inc.|12.06|7.51|25 |
 |[JWEL](https://finance.yahoo.com/quote/JWEL)|Jowell Global Ltd|2.21|1.63|25 (-1)|
 |[OM](https://finance.yahoo.com/quote/OM)|Outset Medical  Inc.|14.10|5.20|25 (+3)|
@@ -2501,7 +2502,6 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BOLT](https://finance.yahoo.com/quote/BOLT)|Bolt Biotherapeutics  Inc.|5.60|3.87|25 (-1)|
 |[STRK](https://finance.yahoo.com/quote/STRK)|Strategy 8 00 Perpetual Strike Prf Shs Series A|96.20|65.25|25 |
 |[IRIX](https://finance.yahoo.com/quote/IRIX)|IRIDEX Corp|1.31|0.84|25 |
-|[TULP](https://finance.yahoo.com/quote/TULP)|Bloomia Holdings Inc|5.10|3.49|25 |
 |[FTHM](https://finance.yahoo.com/quote/FTHM)|Fathom Holdings Inc|1.20|0.75|25 |
 |[TELO](https://finance.yahoo.com/quote/TELO)|Telomir Pharmaceuticals Inc|1.83|1.17|25 |
 |[AHG](https://finance.yahoo.com/quote/AHG)|Akso Health Group ADR|1.73|1.32|25 (-4)|
@@ -2521,6 +2521,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[RDACU](https://finance.yahoo.com/quote/RDACU)|Rising Dragon Acquisition Units|10.65|7.60|24 (-1)|
 |[GLIBK](https://finance.yahoo.com/quote/GLIBK)|Liberty Capital Corp Series C|32.86|23.95|24 (+1)|
 |[GSIW](https://finance.yahoo.com/quote/GSIW)|Garden Stage Ltd|23.60|17.46|24 (+1)|
+|[TULP](https://finance.yahoo.com/quote/TULP)|Bloomia Holdings  Inc|5.18|3.41|24 (-1)|
 |[SGLY](https://finance.yahoo.com/quote/SGLY)|Singularity Future Technology Ltd|13.44|6.68|24 (+2)|
 |[TOMZ](https://finance.yahoo.com/quote/TOMZ)|TOMI Environmental Solutions Inc|3.00|1.84|24 (-2)|
 |[ENGN](https://finance.yahoo.com/quote/ENGN)|enGene Therapeutics Inc|3.94|1.80|24 (-1)|
@@ -2540,12 +2541,12 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[COCH](https://finance.yahoo.com/quote/COCH)|Envoy Medical Inc|1.48|0.68|24 (+1)|
 |[NFLX](https://finance.yahoo.com/quote/NFLX)|Netflix  Inc.|114.79|73.69|24 |
 |[PLCE](https://finance.yahoo.com/quote/PLCE)|Children's Place Inc|4.70|2.65|24 (-3)|
-|[ACB](https://finance.yahoo.com/quote/ACB)|Aurora Cannabis Inc|4.60|2.98|24 (+1)|
+|[ACB](https://finance.yahoo.com/quote/ACB)|Aurora Cannabis Inc|4.60|2.98|23 |
 |[HTLM](https://finance.yahoo.com/quote/HTLM)|HomesToLife Ltd|3.67|1.85|23 (-3)|
 |[WTF](https://finance.yahoo.com/quote/WTF)|Waton Financial Ltd|4.66|2.98|23 (-1)|
 |[AKTX](https://finance.yahoo.com/quote/AKTX)|Akari Therapeutics PLC ADR|39.88|8.08|23 (+3)|
 |[DUOL](https://finance.yahoo.com/quote/DUOL)|Duolingo  Inc.|340.31|122.58|23 (-6)|
-|[AACG](https://finance.yahoo.com/quote/AACG)|ATA Creativity Global ADR|1.42|0.90|23 (+1)|
+|[AACG](https://finance.yahoo.com/quote/AACG)|ATA Creativity Global ADR|1.42|0.90|23 (+2)|
 |[AEMD](https://finance.yahoo.com/quote/AEMD)|Aethlon Medical Inc|12.10|3.02|23 (-5)|
 |[CALC](https://finance.yahoo.com/quote/CALC)|CalciMedica Inc|3.00|0.71|23 (-5)|
 |[OGI](https://finance.yahoo.com/quote/OGI)|Organigram Global Inc|1.38|0.99|23 |
@@ -2574,7 +2575,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PLRX](https://finance.yahoo.com/quote/PLRX)|Pliant Therapeutics  Inc.|1.73|1.05|23 |
 |[CLFD](https://finance.yahoo.com/quote/CLFD)|Clearfield Inc|43.94|26.66|23 (-14)|
 |[ZJK](https://finance.yahoo.com/quote/ZJK)|ZJK Industrial Co Ltd|2.85|1.66|23 (+4)|
-|[AWRE](https://finance.yahoo.com/quote/AWRE)|Aware Inc|2.27|1.23|23 (-3)|
+|[AWRE](https://finance.yahoo.com/quote/AWRE)|Aware Inc|2.27|1.23|22 (-4)|
 |[SAMG](https://finance.yahoo.com/quote/SAMG)|Silvercrest Asset Management Group Inc|15.19|10.14|22 |
 |[FTEK](https://finance.yahoo.com/quote/FTEK)|Fuel Tech Inc|2.96|1.37|22 |
 |[NIU](https://finance.yahoo.com/quote/NIU)|NIU Technologies ADR|3.72|2.45|22 (-3)|
@@ -2608,7 +2609,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[HUIZ](https://finance.yahoo.com/quote/HUIZ)|Huize Holding Ltd ADR|2.35|1.21|22 (-1)|
 |[NCTY](https://finance.yahoo.com/quote/NCTY)|The9 Ltd ADR|8.72|5.01|22 |
 |[PULM](https://finance.yahoo.com/quote/PULM)|Pulmatrix Inc|5.48|1.66|22 |
-|[SYM](https://finance.yahoo.com/quote/SYM)|Symbotic Inc|63.21|39.60|22 (-10)|
+|[SYM](https://finance.yahoo.com/quote/SYM)|Symbotic Inc|63.21|39.60|21 (-11)|
 |[NXL](https://finance.yahoo.com/quote/NXL)|Nexalin Technology Inc|1.02|0.34|21 (-1)|
 |[CBAT](https://finance.yahoo.com/quote/CBAT)|CBAK Energy Technology Ltd|0.91|0.60|21 (+5)|
 |[CUPR](https://finance.yahoo.com/quote/CUPR)|Cuprina Holdings (Cayman) Ltd|67.44|3.35|21 (-5)|
@@ -2641,7 +2642,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CELH](https://finance.yahoo.com/quote/CELH)|Celsius Holdings  Inc.|42.74|23.77|21 (-6)|
 |[PLAY](https://finance.yahoo.com/quote/PLAY)|Dave & Buster's Entertainment  Inc.|26.47|10.09|21 (-1)|
 |[BRFH](https://finance.yahoo.com/quote/BRFH)|Barfresh Food Group Inc|2.86|1.77|21 (+1)|
-|[GPRO](https://finance.yahoo.com/quote/GPRO)|GoPro Inc|1.32|0.73|21 |
+|[GPRO](https://finance.yahoo.com/quote/GPRO)|GoPro Inc|1.32|0.73|20 (-1)|
 |[GMHS](https://finance.yahoo.com/quote/GMHS)|Gamehaus Holdings Inc|1.37|0.81|20 |
 |[QUBT](https://finance.yahoo.com/quote/QUBT)|Quantum Computing Inc.|16.89|8.77|20 (-5)|
 |[TSSI](https://finance.yahoo.com/quote/TSSI)|TSS Inc|28.97|10.75|20 (+1)|
@@ -2651,7 +2652,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[YMAT](https://finance.yahoo.com/quote/YMAT)|J-Star Holding Co Ltd|21.50|2.03|20 (-1)|
 |[DCGO](https://finance.yahoo.com/quote/DCGO)|DocGo Inc.|1.40|0.62|20 (+1)|
 |[SINT](https://finance.yahoo.com/quote/SINT)|SINTX Technologies Inc|2.65|1.63|20 (-2)|
-|[FLL](https://finance.yahoo.com/quote/FLL)|Full House Resorts Inc|4.50|2.19|20 (-1)|
+|[FLL](https://finance.yahoo.com/quote/FLL)|Full House Resorts Inc|4.50|2.19|20 |
 |[NWTG](https://finance.yahoo.com/quote/NWTG)|Newton Golf Company Inc|1.98|1.06|20 (-4)|
 |[PCT](https://finance.yahoo.com/quote/PCT)|PureCycle Technologies  Inc.|13.24|6.87|20 |
 |[EUDA](https://finance.yahoo.com/quote/EUDA)|EUDA Health Holdings Ltd|61.00|16.29|20 (+5)|
@@ -2675,9 +2676,9 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GRNQ](https://finance.yahoo.com/quote/GRNQ)|GreenPro Capital Corp|16.70|10.00|20 (-1)|
 |[DOMH](https://finance.yahoo.com/quote/DOMH)|Dominari Holdings Inc|4.38|2.48|20 (-1)|
 |[WVVI](https://finance.yahoo.com/quote/WVVI)|Willamette Valley Vineyards Inc|4.73|2.40|20 (-1)|
-|[SRAD](https://finance.yahoo.com/quote/SRAD)|Sportradar Group AG|27.84|12.70|20 (+2)|
+|[SRAD](https://finance.yahoo.com/quote/SRAD)|Sportradar Group AG|27.84|12.70|19 (+1)|
 |[ZKIN](https://finance.yahoo.com/quote/ZKIN)|ZK International Group Co Ltd|2.01|1.06|19 (-1)|
-|[TELA](https://finance.yahoo.com/quote/TELA)|TELA Bio Inc|1.85|0.86|19 (-1)|
+|[TELA](https://finance.yahoo.com/quote/TELA)|TELA Bio Inc|1.85|0.86|19 |
 |[CMRC](https://finance.yahoo.com/quote/CMRC)|Commerce.com  Inc.|4.41|2.32|19 (-16)|
 |[XTLB](https://finance.yahoo.com/quote/XTLB)|X T L Biopharmaceuticals Ltd ADR|5.80|2.87|19 (+4)|
 |[PROK](https://finance.yahoo.com/quote/PROK)|Prokidney Corp|3.18|1.64|19 |
@@ -2693,7 +2694,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[VITL](https://finance.yahoo.com/quote/VITL)|Vital Farms Inc|36.38|12.51|19 (+3)|
 |[IMSR](https://finance.yahoo.com/quote/IMSR)|Terrestrial Energy Inc|10.97|5.36|19 (-2)|
 |[SSM](https://finance.yahoo.com/quote/SSM)|Sono Group NV|6.00|3.58|19 (+1)|
-|[SILO](https://finance.yahoo.com/quote/SILO)|Silo Pharma Inc|9.59|4.67|19 (+3)|
+|[SILO](https://finance.yahoo.com/quote/SILO)|Silo Pharma Inc|9.59|4.67|19 (+4)|
 |[PSNY](https://finance.yahoo.com/quote/PSNY)|Polestar Automotive Holding UK PLC ADR Class A|31.80|13.90|19 |
 |[BRLS](https://finance.yahoo.com/quote/BRLS)|Borealis Foods Inc (Oakville)|2.99|0.82|19 (-4)|
 |[WIX](https://finance.yahoo.com/quote/WIX)|Wix.com Ltd.|128.09|60.88|19 (-1)|
@@ -2708,11 +2709,11 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[QFIN](https://finance.yahoo.com/quote/QFIN)|Qfin Holdings Inc ADR|30.36|13.02|19 |
 |[KBSX](https://finance.yahoo.com/quote/KBSX)|FST Ltd|1.74|0.94|19 (-4)|
 |[YHGJ](https://finance.yahoo.com/quote/YHGJ)|Yunhong Green CTI Ltd|7.00|3.12|19 (-1)|
-|[AIRO](https://finance.yahoo.com/quote/AIRO)|AIRO Group Holdings Inc|21.94|7.86|19 (+1)|
-|[ANGI](https://finance.yahoo.com/quote/ANGI)|Angi Inc|15.67|4.96|19 (+9)|
+|[AIRO](https://finance.yahoo.com/quote/AIRO)|AIRO Group Holdings Inc|21.94|7.86|19 (+2)|
+|[ANGI](https://finance.yahoo.com/quote/ANGI)|Angi Inc|15.67|4.96|18 (+8)|
 |[OCCI](https://finance.yahoo.com/quote/OCCI)|OFS Credit Company Inc|4.69|2.50|18 |
 |[RMSG](https://finance.yahoo.com/quote/RMSG)|Real Messenger Corp|1.66|0.41|18 (-7)|
-|[EHTH](https://finance.yahoo.com/quote/EHTH)|eHealth Inc|3.27|1.35|18 (+1)|
+|[EHTH](https://finance.yahoo.com/quote/EHTH)|eHealth Inc|3.27|1.35|18 (+2)|
 |[GLMD](https://finance.yahoo.com/quote/GLMD)|Galmed Pharmaceuticals Ltd|1.60|0.60|18 |
 |[XRTX](https://finance.yahoo.com/quote/XRTX)|XORTX Therapeutics Inc|3.80|2.03|18 (-2)|
 |[IPX](https://finance.yahoo.com/quote/IPX)|IperionX Limited ADR|41.00|23.87|18 (-2)|
@@ -2742,7 +2743,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ORKT](https://finance.yahoo.com/quote/ORKT)|Orangekloud Technology Inc|2.92|1.00|18 |
 |[DOGZ](https://finance.yahoo.com/quote/DOGZ)|Dogness International Corp|8.10|0.93|18 (-2)|
 |[DXLG](https://finance.yahoo.com/quote/DXLG)|Destination XL Group Inc|1.36|0.59|18 (+2)|
-|[BTBD](https://finance.yahoo.com/quote/BTBD)|Bt Brands Inc|2.62|1.22|18 (+2)|
+|[BTBD](https://finance.yahoo.com/quote/BTBD)|Bt Brands Inc|2.62|1.22|17 (+1)|
 |[LCID](https://finance.yahoo.com/quote/LCID)|Lucid Group  Inc.|24.20|6.98|17 (+1)|
 |[AIIR](https://finance.yahoo.com/quote/AIIR)|Air Global PLC|10.54|6.09|17 (-1)|
 |[BCYC](https://finance.yahoo.com/quote/BCYC)|Bicycle Therapeutics PLC ADR|7.86|3.97|17 (-1)|
@@ -2758,7 +2759,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[REBN](https://finance.yahoo.com/quote/REBN)|Reborn Coffee Inc|2.77|1.34|17 (-1)|
 |[BLNE](https://finance.yahoo.com/quote/BLNE)|Beeline Holdings Inc|2.17|1.01|17 (+1)|
 |[GAIA](https://finance.yahoo.com/quote/GAIA)|Gaia Inc|4.22|1.90|17 (+1)|
-|[ATER](https://finance.yahoo.com/quote/ATER)|Aterian Inc|1.18|0.46|17 (-2)|
+|[ATER](https://finance.yahoo.com/quote/ATER)|Aterian Inc|1.18|0.46|17 (-1)|
 |[GEOS](https://finance.yahoo.com/quote/GEOS)|Geospace Technologies Corp|17.82|6.82|17 (-3)|
 |[EPOW](https://finance.yahoo.com/quote/EPOW)|E-Power Inc|0.88|0.41|17 (+1)|
 |[BCAB](https://finance.yahoo.com/quote/BCAB)|Bioatla Inc|17.50|3.33|17 (-4)|
@@ -2776,7 +2777,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BRNS](https://finance.yahoo.com/quote/BRNS)|Barinthus Biotherapeutics PLC ADR|1.38|0.56|17 (-1)|
 |[CAN](https://finance.yahoo.com/quote/CAN)|Canaan Inc ADR|0.65|0.19|17 (-2)|
 |[YSXT](https://finance.yahoo.com/quote/YSXT)|YSX Tech Co Ltd|3.10|0.98|17 |
-|[LCFY](https://finance.yahoo.com/quote/LCFY)|Locafy Ltd|5.04|2.25|17 (-1)|
+|[LCFY](https://finance.yahoo.com/quote/LCFY)|Locafy Ltd|5.04|2.25|16 (-2)|
 |[LI](https://finance.yahoo.com/quote/LI)|Li Auto Inc. ADR|25.59|12.69|16 |
 |[LOT](https://finance.yahoo.com/quote/LOT)|Lotus Technology Inc ADR|1.99|0.92|16 (-1)|
 |[FMST](https://finance.yahoo.com/quote/FMST)|Foremost Clean Energy Ltd|3.32|1.42|16 (-5)|
@@ -2810,7 +2811,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[EVGO](https://finance.yahoo.com/quote/EVGO)|EVgo Inc|3.66|1.52|16 (+1)|
 |[PBK](https://finance.yahoo.com/quote/PBK)|PowerBank Corp|1.29|0.47|16 (-3)|
 |[NNNN](https://finance.yahoo.com/quote/NNNN)|Anbio Biotechnology|44.06|9.75|16 (+4)|
-|[LGO](https://finance.yahoo.com/quote/LGO)|Largo Inc|1.32|0.67|16 (-1)|
+|[LGO](https://finance.yahoo.com/quote/LGO)|Largo Inc|1.32|0.67|15 (-2)|
 |[PDC](https://finance.yahoo.com/quote/PDC)|Perpetuals.com Ltd ADR|9.84|3.07|15 (-2)|
 |[EVO](https://finance.yahoo.com/quote/EVO)|Evotec SE ADR|3.88|1.95|15 |
 |[SMPL](https://finance.yahoo.com/quote/SMPL)|The Simply Good Foods Company|30.02|11.17|15 |
@@ -2844,7 +2845,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ASPI](https://finance.yahoo.com/quote/ASPI)|ASP Isotopes Inc|9.97|4.10|15 (-1)|
 |[IPCXU](https://finance.yahoo.com/quote/IPCXU)|Inflection Point Acquisition III Units|10.48|5.15|15 (+1)|
 |[NTRB](https://finance.yahoo.com/quote/NTRB)|Nutriband Inc|6.92|2.91|15 (+1)|
-|[CCB](https://finance.yahoo.com/quote/CCB)|Coastal Financial Corp (EVERETT)|95.18|43.93|15 (+1)|
+|[CCB](https://finance.yahoo.com/quote/CCB)|Coastal Financial Corp (EVERETT)|95.18|43.93|14 |
 |[ATLX](https://finance.yahoo.com/quote/ATLX)|Atlas Lithium Corp|6.55|2.97|14 (-1)|
 |[RDHL](https://finance.yahoo.com/quote/RDHL)|Redhill Biopharma Ltd ADR|1.23|0.58|14 (-3)|
 |[LXEH](https://finance.yahoo.com/quote/LXEH)|Lixiang Education Holding Co Ltd ADR|19.20|1.60|14 (-7)|
@@ -2873,11 +2874,11 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[SDA](https://finance.yahoo.com/quote/SDA)|SunCar Technology Group Inc|2.17|0.79|14 (+1)|
 |[ZDAI](https://finance.yahoo.com/quote/ZDAI)|DirectBooking Technology Co Ltd|7.94|1.73|14 (-2)|
 |[AISP](https://finance.yahoo.com/quote/AISP)|Airship AI Holdings Inc|5.09|1.92|14 |
-|[IPCX](https://finance.yahoo.com/quote/IPCX)|Inflection Point Acquisition Corp III|10.21|4.65|14 |
+|[IPCX](https://finance.yahoo.com/quote/IPCX)|Inflection Point Acquisition Corp III|10.21|4.65|14 (+1)|
 |[ONEG](https://finance.yahoo.com/quote/ONEG)|OneConstruction Group Ltd|5.82|1.03|14 (-14)|
-|[EU](https://finance.yahoo.com/quote/EU)|enCore Energy Corp.|2.73|1.15|14 (-1)|
+|[EU](https://finance.yahoo.com/quote/EU)|enCore Energy Corp.|2.73|1.15|14 |
 |[SBET](https://finance.yahoo.com/quote/SBET)|Sharplink Inc|20.23|6.29|14 |
-|[ORIO](https://finance.yahoo.com/quote/ORIO)|Orion Digital Corp|1.61|0.67|14 (+1)|
+|[ORIO](https://finance.yahoo.com/quote/ORIO)|Orion Digital Corp|1.61|0.67|13 |
 |[CNEY](https://finance.yahoo.com/quote/CNEY)|CN Energy Group Inc|2.24|0.65|13 (-1)|
 |[KG](https://finance.yahoo.com/quote/KG)|Kestrel Group Ltd|26.82|8.91|13 |
 |[QCLS](https://finance.yahoo.com/quote/QCLS)|Q/C Technologies Inc|10.50|2.80|13 |
@@ -2889,7 +2890,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[MFI](https://finance.yahoo.com/quote/MFI)|mF International Limited|23.14|7.54|13 |
 |[TRAW](https://finance.yahoo.com/quote/TRAW)|Traws Pharma Inc|1.53|0.54|13 (-1)|
 |[BYSI](https://finance.yahoo.com/quote/BYSI)|Beyondspring Inc|2.05|0.87|13 (-1)|
-|[ZSQR](https://finance.yahoo.com/quote/ZSQR)|Z Squared Inc (Delaware)|11.05|3.94|13 |
+|[ZSQR](https://finance.yahoo.com/quote/ZSQR)|Z Squared Inc (Delaware)|11.05|3.94|13 (+1)|
 |[RAY](https://finance.yahoo.com/quote/RAY)|Raytech Holding Ltd|44.16|2.87|13 (-6)|
 |[PRZO](https://finance.yahoo.com/quote/PRZO)|Parazero Technologies Ltd|1.58|0.54|13 |
 |[RVSN](https://finance.yahoo.com/quote/RVSN)|Rail Vision Ltd|368.10|4.39|13 (+3)|
@@ -2910,8 +2911,8 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[HIND](https://finance.yahoo.com/quote/HIND)|Vyome Holdings Inc|10.32|2.14|13 (-2)|
 |[VRM](https://finance.yahoo.com/quote/VRM)|Vroom  Inc.|27.91|9.23|13 |
 |[MRLN](https://finance.yahoo.com/quote/MRLN)|Merlin Inc|10.34|4.25|13 (+1)|
-|[BGLC](https://finance.yahoo.com/quote/BGLC)|BioNexus Gene Lab Corp|5.73|1.58|13 (+3)|
-|[RECT](https://finance.yahoo.com/quote/RECT)|Rectitude Holdings Ltd|4.88|1.20|13 (-2)|
+|[BGLC](https://finance.yahoo.com/quote/BGLC)|BioNexus Gene Lab Corp|5.73|1.58|13 (+4)|
+|[RECT](https://finance.yahoo.com/quote/RECT)|Rectitude Holdings Ltd|4.88|1.20|12 (-3)|
 |[LOOP](https://finance.yahoo.com/quote/LOOP)|Loop Industries Inc|1.72|0.68|12 (-1)|
 |[BRR](https://finance.yahoo.com/quote/BRR)|ProCap Financial Inc|10.35|1.71|12 |
 |[NHTC](https://finance.yahoo.com/quote/NHTC)|Natural Health Trends Corp|4.27|1.69|12 |
@@ -2945,11 +2946,11 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[RNAZ](https://finance.yahoo.com/quote/RNAZ)|Transcode Therapeutics Inc|11.50|4.27|12 |
 |[SCKT](https://finance.yahoo.com/quote/SCKT)|Socket Mobile Inc|1.06|0.39|12 (+1)|
 |[NRSN](https://finance.yahoo.com/quote/NRSN)|Neurosense Therapeutics Ltd|1.38|0.50|12 (-1)|
-|[DPU](https://finance.yahoo.com/quote/DPU)|Top KingWin Ltd|9.25|1.90|12 |
+|[DPU](https://finance.yahoo.com/quote/DPU)|Top KingWin Ltd|9.25|1.90|11 (-1)|
 |[GRML](https://finance.yahoo.com/quote/GRML)|Greenland Mines Ltd|0.98|0.18|11 |
-|[GFAI](https://finance.yahoo.com/quote/GFAI)|Guardforce AI Co Ltd|1.14|0.32|11 (-1)|
+|[GFAI](https://finance.yahoo.com/quote/GFAI)|Guardforce AI Co Ltd|1.14|0.32|11 |
 |[BGMS](https://finance.yahoo.com/quote/BGMS)|Bio Green Med Solution Inc|8.21|0.97|11 (-1)|
-|[ASST](https://finance.yahoo.com/quote/ASST)|Strive Inc|69.80|12.31|11 |
+|[ASST](https://finance.yahoo.com/quote/ASST)|Strive Inc|69.80|12.31|11 (+1)|
 |[TDTH](https://finance.yahoo.com/quote/TDTH)|Trident Digital Tech Holdings Ltd|34.80|2.44|11 |
 |[FUFU](https://finance.yahoo.com/quote/FUFU)|BitFuFu Inc|3.57|1.29|11 (-1)|
 |[LNZA](https://finance.yahoo.com/quote/LNZA)|Lanzatech Global Inc|42.00|6.13|11 (+1)|
@@ -2978,7 +2979,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PBM](https://finance.yahoo.com/quote/PBM)|Psyence Biomedical Ltd|193.36|3.49|11 (-1)|
 |[REFR](https://finance.yahoo.com/quote/REFR)|Research Frontiers Inc|1.57|0.47|11 |
 |[BRTX](https://finance.yahoo.com/quote/BRTX)|BioRestorative Therapies Inc|1.49|0.21|11 (+1)|
-|[REVB](https://finance.yahoo.com/quote/REVB)|Revelation Biosciences Inc|10.36|1.12|11 (+1)|
+|[REVB](https://finance.yahoo.com/quote/REVB)|Revelation Biosciences Inc|10.36|1.12|10 |
 |[GIBO](https://finance.yahoo.com/quote/GIBO)|Gibo Holdings Ltd|260.00|30.40|10 |
 |[ANTA](https://finance.yahoo.com/quote/ANTA)|Antalpha Platform Holding Co|12.11|4.02|10 |
 |[MYSZ](https://finance.yahoo.com/quote/MYSZ)|My Size Inc|1.23|0.36|10 (-1)|
@@ -3012,7 +3013,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CNSY](https://finance.yahoo.com/quote/CNSY)|Plus Therapeutics Inc|16.50|3.86|10 (+1)|
 |[VRXA](https://finance.yahoo.com/quote/VRXA)|Veraxa Biotech AG|10.40|1.86|10 (+1)|
 |[BTCS](https://finance.yahoo.com/quote/BTCS)|BTCS Inc|4.07|1.07|10 (+1)|
-|[LX](https://finance.yahoo.com/quote/LX)|Lexinfintech Holdings Ltd ADR|5.76|1.45|10 |
+|[LX](https://finance.yahoo.com/quote/LX)|Lexinfintech Holdings Ltd ADR|5.76|1.45|9 (-1)|
 |[CDT](https://finance.yahoo.com/quote/CDT)|CDT Equity Inc|378.00|3.23|9 (-9)|
 |[LPSN](https://finance.yahoo.com/quote/LPSN)|LivePerson Inc|13.35|2.21|9 |
 |[LNAI](https://finance.yahoo.com/quote/LNAI)|Lunai Bioworks Inc|19.76|2.42|9 |
@@ -3026,7 +3027,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[UXIN](https://finance.yahoo.com/quote/UXIN)|Uxin Ltd ADR|3.72|1.01|9 (-2)|
 |[CRE](https://finance.yahoo.com/quote/CRE)|Cre8 Enterprise Ltd|69.60|2.71|9 (+3)|
 |[AIOS](https://finance.yahoo.com/quote/AIOS)|AIOS Tech Inc|81.80|12.44|9 (+1)|
-|[COSM](https://finance.yahoo.com/quote/COSM)|Cosmos Health Inc|0.88|0.22|9 |
+|[COSM](https://finance.yahoo.com/quote/COSM)|Cosmos Health Inc|0.88|0.22|9 (+1)|
 |[ONFO](https://finance.yahoo.com/quote/ONFO)|Onfolio Holdings Inc|1.16|0.06|9 |
 |[VWAV](https://finance.yahoo.com/quote/VWAV)|VisionWave Holdings Inc|7.20|1.24|9 (-1)|
 |[BIAF](https://finance.yahoo.com/quote/BIAF)|bioAffinity Technologies Inc|8.94|0.53|9 (+3)|
@@ -3046,7 +3047,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BYND](https://finance.yahoo.com/quote/BYND)|Beyond Meat  Inc.|3.10|0.53|9 |
 |[ZJYL](https://finance.yahoo.com/quote/ZJYL)|Jin Medical International Ltd|12.80|1.92|9 (-2)|
 |[ZOOZ](https://finance.yahoo.com/quote/ZOOZ)|Zooz Strategy Ltd|33.00|5.30|9 (-1)|
-|[SNTI](https://finance.yahoo.com/quote/SNTI)|Senti Biosciences Holdings Inc|1.72|0.36|9 (+1)|
+|[SNTI](https://finance.yahoo.com/quote/SNTI)|Senti Biosciences Holdings Inc|1.72|0.36|8 |
 |[DFDV](https://finance.yahoo.com/quote/DFDV)|DeFi Development Corp (Pre-Reincorporation)|14.10|2.72|8 |
 |[ARAY](https://finance.yahoo.com/quote/ARAY)|Accuray Incorporated|1.30|0.28|8 |
 |[BJDX](https://finance.yahoo.com/quote/BJDX)|Bluejay Diagnostics Inc|6.08|1.15|8 (-2)|
@@ -3059,7 +3060,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[TVGN](https://finance.yahoo.com/quote/TVGN)|Tevogen Inc|49.95|6.48|8 (-1)|
 |[ATOS](https://finance.yahoo.com/quote/ATOS)|Atossa Therapeutics Inc|12.15|2.42|8 |
 |[WKSP](https://finance.yahoo.com/quote/WKSP)|Worksport Ltd|3.44|0.71|8 |
-|[GAUZ](https://finance.yahoo.com/quote/GAUZ)|Gauzy Ltd|6.60|0.43|8 (+4)|
+|[GAUZ](https://finance.yahoo.com/quote/GAUZ)|Gauzy Ltd|6.60|0.43|8 (+5)|
 |[GDHG](https://finance.yahoo.com/quote/GDHG)|Golden Heaven Group Holdings Ltd|9.75|1.33|8 |
 |[MERC](https://finance.yahoo.com/quote/MERC)|Mercer International Inc|3.24|0.68|8 |
 |[RENX](https://finance.yahoo.com/quote/RENX)|RenX Enterprises Corp|30.80|1.92|8 |
@@ -3080,7 +3081,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ZEO](https://finance.yahoo.com/quote/ZEO)|Zeo Energy Corp|2.45|0.52|8 (-1)|
 |[SLMT](https://finance.yahoo.com/quote/SLMT)|Brera Holdings PLC|67.50|4.09|8 (-2)|
 |[UK](https://finance.yahoo.com/quote/UK)|Ucommune International Ltd|10.16|2.06|8 |
-|[IMNN](https://finance.yahoo.com/quote/IMNN)|Imunon Inc|7.62|1.58|8 (+1)|
+|[IMNN](https://finance.yahoo.com/quote/IMNN)|Imunon Inc|7.62|1.58|7 |
 |[STKE](https://finance.yahoo.com/quote/STKE)|Sol Strategies Inc|7.20|1.03|7 |
 |[CYN](https://finance.yahoo.com/quote/CYN)|CYNGN Inc|6.93|1.11|7 |
 |[FNGR](https://finance.yahoo.com/quote/FNGR)|FingerMotion Inc|1.52|0.35|7 (+1)|
@@ -3090,14 +3091,14 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CVKD](https://finance.yahoo.com/quote/CVKD)|Cadrenal Therapeutics Inc|10.90|1.87|7 (-3)|
 |[OLB](https://finance.yahoo.com/quote/OLB)|OLB Group Inc|1.56|0.29|7 |
 |[WNW](https://finance.yahoo.com/quote/WNW)|Meiwu Technology Co Ltd|178.10|2.73|7 (-1)|
-|[SOBR](https://finance.yahoo.com/quote/SOBR)|Sobr Safe Inc|3.68|0.53|7 (-1)|
+|[SOBR](https://finance.yahoo.com/quote/SOBR)|Sobr Safe Inc|3.68|0.53|7 |
 |[GOSS](https://finance.yahoo.com/quote/GOSS)|Gossamer Bio  Inc.|2.16|0.18|7 (-1)|
 |[TAOP](https://finance.yahoo.com/quote/TAOP)|Taoping Inc|3.72|0.76|7 |
 |[UPLD](https://finance.yahoo.com/quote/UPLD)|Upland Software Inc|20.00|4.28|7 |
 |[VIVS](https://finance.yahoo.com/quote/VIVS)|VivoSim Labs Inc|1.93|0.33|7 (-2)|
 |[NNOX](https://finance.yahoo.com/quote/NNOX)|Nano-X Imaging Ltd|4.89|1.02|7 |
 |[ALAR](https://finance.yahoo.com/quote/ALAR)|Alarum Technologies Ltd ADR|13.22|1.96|7 |
-|[TC](https://finance.yahoo.com/quote/TC)|Token Cat Ltd ADR|12.60|1.96|7 |
+|[TC](https://finance.yahoo.com/quote/TC)|Token Cat Ltd ADR|12.60|1.96|7 (+1)|
 |[DEFT](https://finance.yahoo.com/quote/DEFT)|DeFi Technologies Inc|2.56|0.43|7 (-1)|
 |[UPXI](https://finance.yahoo.com/quote/UPXI)|Upexi  Inc|5.27|0.81|7 (-1)|
 |[ICON](https://finance.yahoo.com/quote/ICON)|Icon Energy Corp|12.10|1.02|7 |
@@ -3113,7 +3114,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[SPWR](https://finance.yahoo.com/quote/SPWR)|SunPower Inc|1.47|0.24|7 |
 |[JFIN](https://finance.yahoo.com/quote/JFIN)|Jiayin Group Inc ADR|13.02|2.56|7 |
 |[VRRM](https://finance.yahoo.com/quote/VRRM)|Verra Mobility Corporation|25.14|5.12|7 |
-|[IQST](https://finance.yahoo.com/quote/IQST)|iQSTEL Inc|8.20|1.07|7 |
+|[IQST](https://finance.yahoo.com/quote/IQST)|iQSTEL Inc|8.20|1.07|6 (-1)|
 |[EJH](https://finance.yahoo.com/quote/EJH)|E-Home Household Service Holdings Ltd|36.75|1.28|6 (-1)|
 |[BNC](https://finance.yahoo.com/quote/BNC)|CEA Industries Inc|17.77|2.30|6 (-1)|
 |[PASW](https://finance.yahoo.com/quote/PASW)|Ping An Biomedical Co Ltd|1.49|0.13|6 |
@@ -3147,9 +3148,9 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[FRGT](https://finance.yahoo.com/quote/FRGT)|Freight Technologies Inc|40.53|3.00|6 (-1)|
 |[ACTU](https://finance.yahoo.com/quote/ACTU)|Actuate Therapeutics Inc|7.31|1.23|6 (+1)|
 |[CWD](https://finance.yahoo.com/quote/CWD)|CaliberCos Inc|3.37|0.47|6 (-1)|
-|[SKYE](https://finance.yahoo.com/quote/SKYE)|Skye Bioscience Inc|3.79|0.47|6 (-1)|
+|[SKYE](https://finance.yahoo.com/quote/SKYE)|Skye Bioscience Inc|3.79|0.47|5 (-2)|
 |[SBFM](https://finance.yahoo.com/quote/SBFM)|Sunshine Biopharma Inc|14.30|1.40|5 |
-|[SCNI](https://finance.yahoo.com/quote/SCNI)|Scinai Immunotherapeutics Ltd ADR|1.60|0.26|5 (-1)|
+|[SCNI](https://finance.yahoo.com/quote/SCNI)|Scinai Immunotherapeutics Ltd ADR|1.60|0.26|5 |
 |[SOHON](https://finance.yahoo.com/quote/SOHON)|SOTHERLY HOTELS Perpetual Pref Shs Series D|16.10|0.05|5 |
 |[VSA](https://finance.yahoo.com/quote/VSA)|VisionSys AI Inc ADR|725.00|3.05|5 (+1)|
 |[SVRN](https://finance.yahoo.com/quote/SVRN)|Oceanpal Inc|58.50|6.15|5 |
@@ -3181,12 +3182,12 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[FUSE](https://finance.yahoo.com/quote/FUSE)|FUSEMACHINES INC.|10.25|0.85|5 |
 |[CYCU](https://finance.yahoo.com/quote/CYCU)|Cycurion Inc|10.31|0.67|5 (-1)|
 |[ICCM](https://finance.yahoo.com/quote/ICCM)|Icecure Medical Ltd|26.70|3.08|5 |
-|[MRNO](https://finance.yahoo.com/quote/MRNO)|Murano Global Investments Plc|6.95|0.21|5 (+1)|
+|[MRNO](https://finance.yahoo.com/quote/MRNO)|Murano Global Investments Plc|6.95|0.21|4 |
 |[FLD](https://finance.yahoo.com/quote/FLD)|Fold Holdings Inc|4.09|0.50|4 |
 |[SLE](https://finance.yahoo.com/quote/SLE)|Super League Enterprise Inc|50.04|2.77|4 |
 |[CHR](https://finance.yahoo.com/quote/CHR)|Cheer Holding Inc|274.50|1.86|4 (-1)|
 |[NEON](https://finance.yahoo.com/quote/NEON)|Neonode Inc|22.25|0.95|4 |
-|[CHGA](https://finance.yahoo.com/quote/CHGA)|Change Agents Corp|2.41|0.20|4 (-1)|
+|[CHGA](https://finance.yahoo.com/quote/CHGA)|Change Agents Corp|2.41|0.20|4 |
 |[WCT](https://finance.yahoo.com/quote/WCT)|Wellchange Holdings Co Ltd|10.55|0.82|4 (-1)|
 |[SCAG](https://finance.yahoo.com/quote/SCAG)|Scage Future ADR|4.19|0.37|4 |
 |[XAIR](https://finance.yahoo.com/quote/XAIR)|Beyond Air Inc|55.20|5.56|4 |
@@ -3214,7 +3215,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[UZX](https://finance.yahoo.com/quote/UZX)|Linkage Global Inc|2.65|0.23|4 |
 |[IMCC](https://finance.yahoo.com/quote/IMCC)|IM Cannabis Corp|2.42|0.12|4 (+1)|
 |[CHSN](https://finance.yahoo.com/quote/CHSN)|Chanson International Holding|664.00|0.98|4 (+1)|
-|[TNMG](https://finance.yahoo.com/quote/TNMG)|TNL Mediagene|8.82|0.55|4 |
+|[TNMG](https://finance.yahoo.com/quote/TNMG)|TNL Mediagene|8.82|0.55|3 (-1)|
 |[GNLN](https://finance.yahoo.com/quote/GNLN)|Greenlane Holdings Inc|28.56|1.96|3 |
 |[OLOX](https://finance.yahoo.com/quote/OLOX)|Olenox Industries Inc|123.52|3.38|3 (-1)|
 |[NCRA](https://finance.yahoo.com/quote/NCRA)|Nocera Inc|48.00|2.04|3 |
@@ -3248,7 +3249,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[FEED](https://finance.yahoo.com/quote/FEED)|ENvue Medical Inc|8.76|0.40|3 |
 |[FTFT](https://finance.yahoo.com/quote/FTFT)|Future Fintech Group Inc|33.92|0.84|3 |
 |[CPOP](https://finance.yahoo.com/quote/CPOP)|Pop Culture Group Co Ltd|12.10|0.36|3 (+1)|
-|[WETO](https://finance.yahoo.com/quote/WETO)|Wetour Robotics Ltd|184.00|5.77|3 |
+|[WETO](https://finance.yahoo.com/quote/WETO)|Wetour Robotics Ltd|184.00|5.77|2 (-1)|
 |[NXTS](https://finance.yahoo.com/quote/NXTS)|Nexentis Technologies Inc|57.58|1.92|2 |
 |[ISPC](https://finance.yahoo.com/quote/ISPC)|iSpecimen Inc|58.00|2.20|2 |
 |[ARAI](https://finance.yahoo.com/quote/ARAI)|Arrive AI Inc|7.05|0.25|2 (-1)|
@@ -3261,7 +3262,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[RCON](https://finance.yahoo.com/quote/RCON)|Recon Technology Ltd|3.00|0.04|2 |
 |[TDIC](https://finance.yahoo.com/quote/TDIC)|Dreamland Ltd|485.00|2.67|2 |
 |[ELAB](https://finance.yahoo.com/quote/ELAB)|PMGC Holdings Inc|157.47|0.96|2 |
-|[NUWE](https://finance.yahoo.com/quote/NUWE)|Nuwellis Inc|182.35|1.63|2 (-1)|
+|[NUWE](https://finance.yahoo.com/quote/NUWE)|Nuwellis Inc|182.35|1.63|2 |
 |[IVF](https://finance.yahoo.com/quote/IVF)|INVO Fertility Inc|68.40|1.04|2 |
 |[RAYA](https://finance.yahoo.com/quote/RAYA)|Erayak Power Solution Group Inc|145.20|2.45|2 |
 |[ZCMD](https://finance.yahoo.com/quote/ZCMD)|Zhongchao Inc|714.98|1.08|2 |
@@ -3269,7 +3270,6 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ARTL](https://finance.yahoo.com/quote/ARTL)|Artelo Biosciences Inc|28.44|0.75|2 |
 |[TRNR](https://finance.yahoo.com/quote/TRNR)|Interactive Strength Inc|320.60|3.44|2 |
 |[JAGX](https://finance.yahoo.com/quote/JAGX)|Jaguar Health Inc|78.05|0.94|2 |
-|[VSEE](https://finance.yahoo.com/quote/VSEE)|Vsee Health Inc|1.37|0.03|2 |
 |[ONCO](https://finance.yahoo.com/quote/ONCO)|Onconetix Inc|151.50|0.90|2 |
 |[HCTI](https://finance.yahoo.com/quote/HCTI)|Healthcare Triangle Inc|244.80|1.19|2 |
 |[PPCB](https://finance.yahoo.com/quote/PPCB)|Propanc Biopharma Inc|247.50|1.36|2 (+1)|

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "NASDAQ Minervini Trend Template 2026-08-07"
-date: 2026-08-07 01:20:23 +0000
+date: 2026-08-07 22:13:14 +0000
 categories: minervini
 ---
 Stocks that meet Mark Minervini's Trend Template criteria.
@@ -16,7 +16,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[ERAS](https://finance.yahoo.com/quote/ERAS)|Erasca  Inc.|18.27|98|22.47, 1.39|16, 13, 11|
 |[FBRX](https://finance.yahoo.com/quote/FBRX)|Forte Biosciences Inc|76.83|98|76.98, 9.61|36, 30, 27|
 |[QTTB](https://finance.yahoo.com/quote/QTTB)|Q32 Bio Inc.|16.20|98|21.38, 1.63|13, 8, 6|
-|[ALMS](https://finance.yahoo.com/quote/ALMS)|Alumis Inc.|27.80|97|30.30, 3.88|25, 24, 20|
+|[ALMS](https://finance.yahoo.com/quote/ALMS)|Alumis Inc.|27.80|98|30.30, 3.88|25, 24, 20|
 |[SLS](https://finance.yahoo.com/quote/SLS)|Sellas Life Sciences Group Inc|11.70|97|15.45, 1.39|10, 6, 5|
 |[DMRA](https://finance.yahoo.com/quote/DMRA)|Damora Therapeutics Inc (Pre-Reincorporation)|29.88|97|34.14, 2.58|26, 25, 24|
 |[BBGI](https://finance.yahoo.com/quote/BBGI)|Beasley Broadcast Group Inc|23.62|97|26.51, 3.14|21, 12, 11|
@@ -75,7 +75,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[SITM](https://finance.yahoo.com/quote/SITM)|SiTime Corporation|687.50|92|901.48, 190.16|638, 513, 464|
 |[FBIOP](https://finance.yahoo.com/quote/FBIOP)|Fortress Biotech 9 375 Cumulative Redeemable Perpetual Pref Shs Series A|19.94|92|21.08, 6.53|19, 15, 13|
 |[LASR](https://finance.yahoo.com/quote/LASR)|nLIGHT  Inc.|75.44|92|84.95, 19.34|68, 63, 55|
-|[ALNT](https://finance.yahoo.com/quote/ALNT)|Allient Inc|111.21|91|111.21, 37.93|89, 73, 68|
+|[ALNT](https://finance.yahoo.com/quote/ALNT)|Allient Inc|111.21|92|111.21, 37.93|89, 73, 68|
 |[CAKE](https://finance.yahoo.com/quote/CAKE)|Cheesecake Factory Inc|107.31|91|107.31, 42.72|80, 66, 61|
 |[TER](https://finance.yahoo.com/quote/TER)|Teradyne  Inc.|384.89|91|483.84, 89.92|382, 332, 294|
 |[GSAT](https://finance.yahoo.com/quote/GSAT)|Globalstar  Inc.|83.24|91|84.43, 23.15|80, 72, 68|
@@ -181,7 +181,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[ACNB](https://finance.yahoo.com/quote/ACNB)|ACNB Corp|65.01|80|65.43, 39.72|59, 52, 51|
 |[WASH](https://finance.yahoo.com/quote/WASH)|Washington Trust Bancorp Inc|39.07|80|39.92, 24.17|35, 33, 31|
 |[SHBI](https://finance.yahoo.com/quote/SHBI)|Shore Bancshares Inc|24.11|80|24.61, 14.75|22, 20, 19|
-|[THFF](https://finance.yahoo.com/quote/THFF)|First Financial Corp|82.46|79|82.79, 50.26|75, 67, 65|
+|[THFF](https://finance.yahoo.com/quote/THFF)|First Financial Corp|82.46|80|82.79, 50.26|75, 67, 65|
 |[ROST](https://finance.yahoo.com/quote/ROST)|Ross Stores Inc|254.31|79|254.31, 135.31|231, 215, 203|
 |[ZD](https://finance.yahoo.com/quote/ZD)|Ziff Davis Inc|50.95|79|55.38, 26.51|49, 43, 40|
 |[ICUI](https://finance.yahoo.com/quote/ICUI)|ICU Medical  Inc.|166.37|79|172.94, 108.10|150, 141, 140|
@@ -193,7 +193,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[EGBN](https://finance.yahoo.com/quote/EGBN)|Eagle Bancorp  Inc.|27.86|79|29.13, 15.78|27, 26, 24|
 |[MNST](https://finance.yahoo.com/quote/MNST)|Monster Beverage Corp|94.16|79|99.94, 58.75|94, 83, 81|
 |[PFIS](https://finance.yahoo.com/quote/PFIS)|Peoples Financial Services Corp|71.55|79|71.98, 43.04|65, 57, 55|
-|[UAL](https://finance.yahoo.com/quote/UAL)|United Airlines Holdings  Inc.|129.12|78|136.11, 84.57|120, 107, 106|
+|[UAL](https://finance.yahoo.com/quote/UAL)|United Airlines Holdings  Inc.|129.12|79|136.11, 84.57|120, 107, 106|
 |[CMTV](https://finance.yahoo.com/quote/CMTV)|Community Bancorp|40.04|78|41.55, 20.17|39, 35, 32|
 |[ATLO](https://finance.yahoo.com/quote/ATLO)|Ames National Corp|31.42|78|31.42, 17.37|29, 27, 26|
 |[WTBA](https://finance.yahoo.com/quote/WTBA)|West Bancorporation Inc|28.32|78|28.35, 17.01|25, 24, 23|
@@ -215,7 +215,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[BPOP](https://finance.yahoo.com/quote/BPOP)|Popular Inc|176.14|77|177.52, 107.38|164, 146, 138|
 |[TILE](https://finance.yahoo.com/quote/TILE)|Interface  Inc.|35.10|77|35.94, 20.54|32, 30, 29|
 |[INCY](https://finance.yahoo.com/quote/INCY)|Incyte Corp|118.38|77|129.93, 70.16|110, 102, 101|
-|[FNLC](https://finance.yahoo.com/quote/FNLC)|First Bancorp Inc|35.31|76|35.66, 23.20|32, 29, 28|
+|[FNLC](https://finance.yahoo.com/quote/FNLC)|First Bancorp Inc|35.31|77|35.66, 23.20|32, 29, 28|
 |[WSBC](https://finance.yahoo.com/quote/WSBC)|Wesbanco  Inc.|41.73|76|42.31, 28.15|38, 35, 34|
 |[OBT](https://finance.yahoo.com/quote/OBT)|Orange County Bancorp Inc|38.39|76|38.89, 22.94|36, 33, 31|
 |[CASS](https://finance.yahoo.com/quote/CASS)|Cass Information Systems Inc|58.09|76|58.09, 36.00|51, 46, 45|
@@ -228,7 +228,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[DJCO](https://finance.yahoo.com/quote/DJCO)|Daily Journal Corporation|576.85|76|664.72, 374.53|563, 542, 518|
 |[GOOGL](https://finance.yahoo.com/quote/GOOGL)|Alphabet Inc. Class A|357.75|76|402.38, 188.59|357, 339, 328|
 |[PFG](https://finance.yahoo.com/quote/PFG)|Principal Financial Group Inc|115.41|76|115.41, 72.85|109, 98, 94|
-|[GOOG](https://finance.yahoo.com/quote/GOOG)|Alphabet Inc. Class C|356.62|75|398.80, 189.41|355, 338, 327|
+|[GOOG](https://finance.yahoo.com/quote/GOOG)|Alphabet Inc. Class C|356.62|76|398.80, 189.41|355, 338, 327|
 |[UVSP](https://finance.yahoo.com/quote/UVSP)|Univest Financial Corp|43.76|75|44.98, 27.22|42, 37, 35|
 |[CROX](https://finance.yahoo.com/quote/CROX)|Crocs  Inc.|134.18|75|141.19, 73.39|127, 103, 98|
 |[FSBC](https://finance.yahoo.com/quote/FSBC)|Five Star Bancorp|46.45|75|49.42, 28.55|46, 41, 39|
@@ -247,11 +247,11 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[ESQ](https://finance.yahoo.com/quote/ESQ)|Esquire Financial Holdings Inc|131.32|74|132.20, 92.31|118, 111, 108|
 |[FMBH](https://finance.yahoo.com/quote/FMBH)|First Mid Bancshares Inc|51.90|74|52.58, 34.34|47, 43, 42|
 |[STBA](https://finance.yahoo.com/quote/STBA)|S&T Bancorp Inc|51.65|74|53.36, 33.76|48, 44, 42|
+|[PBAM](https://finance.yahoo.com/quote/PBAM)|Private Bancorp of America Inc|85.81|74|85.81, 54.99|77, 70, 67|
 |[DXCM](https://finance.yahoo.com/quote/DXCM)|Dexcom Inc|83.02|73|89.53, 54.84|74, 69, 68|
 |[AAPL](https://finance.yahoo.com/quote/AAPL)|Apple Inc|312.41|73|340.08, 201.58|309, 281, 278|
 |[PEBK](https://finance.yahoo.com/quote/PEBK)|Peoples Bancorp of North Carolina Inc|43.04|73|44.37, 27.10|42, 39, 37|
 |[BUSE](https://finance.yahoo.com/quote/BUSE)|First Busey Corporation|31.09|73|31.58, 21.22|28, 26, 25|
-|[PBAM](https://finance.yahoo.com/quote/PBAM)|CalPrivate Bank|85.51|73|85.76, 54.99|76, 70, 66|
 |[FDBC](https://finance.yahoo.com/quote/FDBC)|Fidelity D&D Bancorp Inc|53.90|73|54.35, 38.31|50, 46, 45|
 |[SBLK](https://finance.yahoo.com/quote/SBLK)|Star Bulk Carriers Corp.|28.59|73|29.15, 16.14|26, 24, 22|
 |[MBWM](https://finance.yahoo.com/quote/MBWM)|Mercantile Bank Corp|61.33|73|61.98, 42.16|56, 52, 50|
@@ -261,7 +261,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[HSIC](https://finance.yahoo.com/quote/HSIC)|Henry Schein  Inc.|88.23|73|89.59, 62.03|82, 78, 76|
 |[DLTR](https://finance.yahoo.com/quote/DLTR)|Dollar Tree Inc|129.68|73|141.21, 85.04|119, 115, 114|
 |[AROW](https://finance.yahoo.com/quote/AROW)|Arrow Financial Corp|39.97|73|42.50, 25.21|39, 35, 34|
-|[QCRH](https://finance.yahoo.com/quote/QCRH)|QCR Holdings Inc|104.34|72|105.34, 66.84|97, 91, 88|
+|[QCRH](https://finance.yahoo.com/quote/QCRH)|QCR Holdings Inc|104.34|73|105.34, 66.84|97, 91, 88|
 |[RUSHB](https://finance.yahoo.com/quote/RUSHB)|Rush Enterprises  Inc. Class B|77.85|72|81.04, 47.67|73, 67, 63|
 |[ESEA](https://finance.yahoo.com/quote/ESEA)|Euroseas Ltd|76.89|72|79.39, 47.63|70, 65, 62|
 |[BIIB](https://finance.yahoo.com/quote/BIIB)|Biogen Inc|206.28|72|216.63, 126.64|201, 190, 184|
@@ -285,7 +285,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[INBK](https://finance.yahoo.com/quote/INBK)|First Internet Bancorp|29.26|71|29.94, 17.12|26, 23, 22|
 |[TRNS](https://finance.yahoo.com/quote/TRNS)|Transcat  Inc.|94.54|71|94.54, 52.06|88, 78, 73|
 |[COKE](https://finance.yahoo.com/quote/COKE)|Coca-Cola Consolidated Inc|188.23|71|216.33, 111.04|182, 180, 173|
-|[RBKB](https://finance.yahoo.com/quote/RBKB)|Rhinebeck Bancorp Inc|12.52|70|12.63, 6.89|12, 11, 10|
+|[RBKB](https://finance.yahoo.com/quote/RBKB)|Rhinebeck Bancorp Inc|12.52|71|12.63, 6.89|12, 11, 10|
 |[RBB](https://finance.yahoo.com/quote/RBB)|RBB Bancorp|26.81|70|27.75, 16.35|25, 23, 22|
 |[HBCP](https://finance.yahoo.com/quote/HBCP)|Home Bancorp Inc|71.99|70|72.51, 49.06|67, 63, 61|
 |[PCB](https://finance.yahoo.com/quote/PCB)|PCB Bancorp|28.12|70|30.62, 19.30|27, 24, 23|
