@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "NYSE Minervini Trend Template 2026-08-07"
-date: 2026-08-07 01:40:15 +0000
+date: 2026-08-07 22:24:57 +0000
 categories: minervini
 ---
 Stocks that meet Mark Minervini's Trend Template criteria.
@@ -216,12 +216,13 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[WST](https://finance.yahoo.com/quote/WST)|West Pharmaceutical Services  Inc.|348.60|79|365.50, 230.63|340, 290, 286|
 |[HZO](https://finance.yahoo.com/quote/HZO)|MarineMax Inc|35.13|79|37.74, 21.43|34, 30, 29|
 |[BMY](https://finance.yahoo.com/quote/BMY)|Bristol-Myers Squibb Company|64.15|79|65.89, 41.21|58, 57, 54|
+|[SHG](https://finance.yahoo.com/quote/SHG)|Shinhan Financial Group Co.  Ltd. ADR|75.81|79|75.81, 46.81|68, 64, 61|
 |[UBS](https://finance.yahoo.com/quote/UBS)|UBS Group AG|52.84|79|55.07, 35.49|50, 45, 43|
 |[PAG](https://finance.yahoo.com/quote/PAG)|Penske Automotive Group Inc|216.40|79|223.44, 139.39|190, 168, 166|
 |[MCY](https://finance.yahoo.com/quote/MCY)|Mercury General Corporation|107.44|79|111.12, 67.07|104, 96, 93|
 |[E](https://finance.yahoo.com/quote/E)|Eni SpA ADR|54.27|79|56.97, 33.20|50, 48, 45|
 |[RAMP](https://finance.yahoo.com/quote/RAMP)|Liveramp Holdings Inc|37.82|79|38.01, 22.42|37, 31, 30|
-|[KWR](https://finance.yahoo.com/quote/KWR)|Quaker Chemical Corp|167.31|79|179.27, 112.80|151, 145, 142|
+|[KWR](https://finance.yahoo.com/quote/KWR)|Quaker Chemical Corp|167.31|78|179.27, 112.80|151, 145, 142|
 |[VVX](https://finance.yahoo.com/quote/VVX)|V2X  Inc.|84.57|78|90.81, 47.25|80, 72, 68|
 |[SKM](https://finance.yahoo.com/quote/SKM)|SK Telecom Co.  Ltd. ADR|35.67|78|46.00, 19.68|34, 32, 29|
 |[NIC](https://finance.yahoo.com/quote/NIC)|Nicolet Bankshares Inc|173.89|78|175.13, 114.22|158, 149, 143|
@@ -237,7 +238,6 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[CDP](https://finance.yahoo.com/quote/CDP)|COPT Defense Properties|37.21|77|38.35, 26.20|35, 32, 31|
 |[GSL](https://finance.yahoo.com/quote/GSL)|Global Ship Lease  Inc.|42.80|77|44.47, 26.07|39, 38, 36|
 |[SUN](https://finance.yahoo.com/quote/SUN)|Sunoco Common Units|73.58|77|77.41, 46.14|69, 64, 61|
-|[SHG](https://finance.yahoo.com/quote/SHG)|Shinhan Financial Group Co Ltd ADR|74.25|77|74.25, 46.81|68, 64, 61|
 |[MLI](https://finance.yahoo.com/quote/MLI)|Mueller Industries Inc|69.46|77|70.23, 41.23|63, 62, 60|
 |[MTB](https://finance.yahoo.com/quote/MTB)|M&T Bank Corporation|250.14|77|254.04, 174.77|236, 220, 212|
 |[PNC](https://finance.yahoo.com/quote/PNC)|The PNC Financial Services Group  Inc.|252.76|77|255.37, 174.27|240, 223, 214|

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "NYSE Relative Strength 2026-08-07"
-date: 2026-08-07 01:40:15 +0000
+date: 2026-08-07 22:24:57 +0000
 categories: rs
 ---
 Calculated Relative Strength for all NYSE stocks.
@@ -413,7 +413,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NEU](https://finance.yahoo.com/quote/NEU)|NewMarket Corporation|697.53|893.28|81 (+3)|
 |[WPP](https://finance.yahoo.com/quote/WPP)|WPP PLC ADR|25.65|25.95|80 (+57)|
 |[RBRK](https://finance.yahoo.com/quote/RBRK)|Rubrik  Inc.|87.54|84.60|80 (+2)|
-|[CPAY](https://finance.yahoo.com/quote/CPAY)|Corpay  Inc.|318.58|398.28|80 (+3)|
+|[CPAY](https://finance.yahoo.com/quote/CPAY)|Corpay  Inc.|318.58|398.28|80 (+2)|
 |[ATEN](https://finance.yahoo.com/quote/ATEN)|A10 Networks Inc|17.58|27.60|80 (-8)|
 |[RIO](https://finance.yahoo.com/quote/RIO)|Rio Tinto PLC ADR|56.70|99.65|80 (-2)|
 |[USB](https://finance.yahoo.com/quote/USB)|US Bancorp|42.85|63.81|80 |
@@ -440,6 +440,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BMY](https://finance.yahoo.com/quote/BMY)|Bristol-Myers Squibb Company|43.75|64.15|79 (+3)|
 |[CODI](https://finance.yahoo.com/quote/CODI)|Compass Diversified Holdings|7.01|10.77|79 (-4)|
 |[NOV](https://finance.yahoo.com/quote/NOV)|Nov Inc|11.94|19.90|79 (+4)|
+|[SHG](https://finance.yahoo.com/quote/SHG)|Shinhan Financial Group Co.  Ltd. ADR|49.74|75.81|79 (+3)|
 |[HCI](https://finance.yahoo.com/quote/HCI)|Hci Group Inc|138.80|180.89|79 (+3)|
 |[UBS](https://finance.yahoo.com/quote/UBS)|UBS Group AG|36.60|52.84|79 (-2)|
 |[PAG](https://finance.yahoo.com/quote/PAG)|Penske Automotive Group Inc|171.13|216.40|79 (-1)|
@@ -454,7 +455,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BORR](https://finance.yahoo.com/quote/BORR)|Borr Drilling Limited|2.17|3.88|79 (-5)|
 |[XPRO](https://finance.yahoo.com/quote/XPRO)|Expro Ltd|10.83|16.99|79 (+10)|
 |[RAMP](https://finance.yahoo.com/quote/RAMP)|Liveramp Holdings Inc|32.05|37.82|79 (+5)|
-|[KWR](https://finance.yahoo.com/quote/KWR)|Quaker Chemical Corp|124.22|167.31|79 (-2)|
+|[KWR](https://finance.yahoo.com/quote/KWR)|Quaker Chemical Corp|124.22|167.31|78 (-3)|
 |[EIG](https://finance.yahoo.com/quote/EIG)|Employers Holdings  Inc.|39.45|50.58|78 (+2)|
 |[FIGS](https://finance.yahoo.com/quote/FIGS)|FIGS  Inc.|6.17|11.24|78 (+4)|
 |[VVX](https://finance.yahoo.com/quote/VVX)|V2X  Inc.|55.88|84.57|78 (+2)|
@@ -472,11 +473,11 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PAAS](https://finance.yahoo.com/quote/PAAS)|Pan American Silver Corp.|28.97|48.05|78 (-5)|
 |[BOW](https://finance.yahoo.com/quote/BOW)|Bowhead Specialty Holdings Inc.|31.15|33.87|78 (+6)|
 |[URI](https://finance.yahoo.com/quote/URI)|United Rentals  Inc.|859.86|1162.66|78 (-2)|
-|[WAT](https://finance.yahoo.com/quote/WAT)|Waters Corp|281.19|399.70|78 (+2)|
+|[WAT](https://finance.yahoo.com/quote/WAT)|Waters Corp|281.19|399.70|78 (+1)|
 |[PSTL](https://finance.yahoo.com/quote/PSTL)|Postal Realty Trust  Inc.|14.05|22.77|78 (-4)|
 |[MFC](https://finance.yahoo.com/quote/MFC)|Manulife Financial Corporation|30.23|44.58|78 (+1)|
 |[KB](https://finance.yahoo.com/quote/KB)|KB Financial Group Inc. ADR|80.39|121.32|78 |
-|[GBTG](https://finance.yahoo.com/quote/GBTG)|Global Business Travel Group  Inc.|6.50|9.43|78 |
+|[GBTG](https://finance.yahoo.com/quote/GBTG)|Global Business Travel Group  Inc.|6.50|9.43|77 (-1)|
 |[PLOW](https://finance.yahoo.com/quote/PLOW)|Douglas Dynamics Inc|27.83|44.91|77 (+3)|
 |[RIG](https://finance.yahoo.com/quote/RIG)|Transocean Ltd|2.91|5.16|77 (-1)|
 |[FITB](https://finance.yahoo.com/quote/FITB)|Fifth Third Bancorp|39.98|56.96|77 |
@@ -490,7 +491,6 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GSL](https://finance.yahoo.com/quote/GSL)|Global Ship Lease  Inc.|27.25|42.80|77 |
 |[SUN](https://finance.yahoo.com/quote/SUN)|Sunoco Common Units|50.10|73.58|77 (+5)|
 |[LXFR](https://finance.yahoo.com/quote/LXFR)|Luxfer Holdings PLC|11.41|17.09|77 (-2)|
-|[SHG](https://finance.yahoo.com/quote/SHG)|Shinhan Financial Group Co Ltd ADR|48.87|74.25|77 (+3)|
 |[BTU](https://finance.yahoo.com/quote/BTU)|Peabody Energy Corp|17.01|23.52|77 (+5)|
 |[MLI](https://finance.yahoo.com/quote/MLI)|Mueller Industries Inc|43.23|69.46|77 |
 |[MTB](https://finance.yahoo.com/quote/MTB)|M&T Bank Corporation|182.61|250.14|77 (+1)|
@@ -518,7 +518,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[TMO](https://finance.yahoo.com/quote/TMO)|Thermo Fisher Scientific Inc|464.73|580.02|76 (+1)|
 |[GNK](https://finance.yahoo.com/quote/GNK)|Genco Shipping & Trading Limited|16.03|25.13|76 (-3)|
 |[JBL](https://finance.yahoo.com/quote/JBL)|Jabil Inc.|219.32|344.67|76 (+3)|
-|[VALE](https://finance.yahoo.com/quote/VALE)|Vale SA ADR|9.06|14.72|76 (-2)|
+|[VALE](https://finance.yahoo.com/quote/VALE)|Vale S.A. ADR|9.04|14.71|76 (+2)|
 |[EMF](https://finance.yahoo.com/quote/EMF)|Templeton Emerging Markets Closed Fund|13.55|21.68|76 (-1)|
 |[GLAS](https://finance.yahoo.com/quote/GLAS)|Glass House Brands Inc|6.25|9.68|76 (+5)|
 |[BHVN](https://finance.yahoo.com/quote/BHVN)|Biohaven Ltd.|15.24|14.42|76 (+3)|
@@ -650,10 +650,11 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[IDT](https://finance.yahoo.com/quote/IDT)|IDT Corporation|58.91|66.17|70 (+2)|
 |[PFGC](https://finance.yahoo.com/quote/PFGC)|Performance Food Group Company|98.19|114.58|70 |
 |[SHO](https://finance.yahoo.com/quote/SHO)|Sunstone Hotel Investors Inc|8.45|11.29|70 (-5)|
+|[IBP](https://finance.yahoo.com/quote/IBP)|Installed Building Products  Inc.|209.15|244.05|70 (+44)|
 |[GNT](https://finance.yahoo.com/quote/GNT)|GAMCO Natural Resources Gold & Income Trust|5.95|8.48|70 (+2)|
 |[CLF](https://finance.yahoo.com/quote/CLF)|Cleveland-Cliffs Inc|9.65|12.23|70 (-7)|
 |[HASI](https://finance.yahoo.com/quote/HASI)|HA Sustainable Infrastructure Capital Inc|24.34|38.24|70 (+2)|
-|[MCK](https://finance.yahoo.com/quote/MCK)|McKesson Corp|706.61|871.38|70 (+9)|
+|[MCK](https://finance.yahoo.com/quote/MCK)|McKesson Corp|706.61|871.38|69 (+8)|
 |[OMF](https://finance.yahoo.com/quote/OMF)|OneMain Holdings  Inc.|53.20|65.03|69 (-2)|
 |[PII](https://finance.yahoo.com/quote/PII)|Polaris Inc|50.69|70.06|69 (-10)|
 |[WHG](https://finance.yahoo.com/quote/WHG)|Westwood Holdings Group Inc|16.88|19.48|69 (+6)|
@@ -675,7 +676,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PEN](https://finance.yahoo.com/quote/PEN)|Penumbra  Inc.|240.10|324.86|69 (+1)|
 |[HEI](https://finance.yahoo.com/quote/HEI)|HEICO Corporation|312.97|363.29|69 (-3)|
 |[BHV](https://finance.yahoo.com/quote/BHV)|BlackRock Virginia Municipal Bond Closed Fund|9.76|12.66|69 (+3)|
-|[BKSY](https://finance.yahoo.com/quote/BKSY)|Blacksky Technology Inc|18.94|27.79|69 (+36)|
+|[BKSY](https://finance.yahoo.com/quote/BKSY)|Blacksky Technology Inc|18.94|27.79|68 (+35)|
 |[CNS](https://finance.yahoo.com/quote/CNS)|Cohen & Steers Inc|72.05|84.48|68 (-1)|
 |[KODK](https://finance.yahoo.com/quote/KODK)|Eastman Kodak Co|6.57|9.45|68 (-2)|
 |[DB](https://finance.yahoo.com/quote/DB)|Deutsche Bank AG|32.59|37.63|68 (-7)|
@@ -698,7 +699,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CEE](https://finance.yahoo.com/quote/CEE)|Central and Eastern Europe Fund Inc|14.83|21.12|68 (+2)|
 |[LAW](https://finance.yahoo.com/quote/LAW)|CS Disco  Inc.|4.11|4.34|68 (+43)|
 |[VIST](https://finance.yahoo.com/quote/VIST)|Vista Energy  S.A.B. de C.V. ADR|44.94|66.31|68 (+8)|
-|[RNR](https://finance.yahoo.com/quote/RNR)|RenaissanceRe Holdings Ltd.|239.25|323.49|68 (+3)|
+|[RNR](https://finance.yahoo.com/quote/RNR)|RenaissanceRe Holdings Ltd.|239.25|323.49|67 (+2)|
 |[ASB](https://finance.yahoo.com/quote/ASB)|Associated Banc-Corp|23.44|31.16|67 (-2)|
 |[MUSA](https://finance.yahoo.com/quote/MUSA)|Murphy USA Inc.|359.70|536.18|67 (-7)|
 |[PBR](https://finance.yahoo.com/quote/PBR)|Petroleo Brasileiro ADR Reptg 2|12.48|18.52|67 (+3)|
@@ -720,7 +721,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NGS](https://finance.yahoo.com/quote/NGS)|Natural Gas Services Group  Inc.|23.97|36.40|67 (+2)|
 |[TEX](https://finance.yahoo.com/quote/TEX)|Terex Corporation|48.90|65.35|67 (-4)|
 |[KO](https://finance.yahoo.com/quote/KO)|Coca-Cola Co|67.15|86.85|67 (+2)|
-|[AX](https://finance.yahoo.com/quote/AX)|Axos Financial  Inc.|85.90|101.88|67 (-3)|
+|[AX](https://finance.yahoo.com/quote/AX)|Axos Financial  Inc.|85.90|101.88|66 (-4)|
 |[GRND](https://finance.yahoo.com/quote/GRND)|Grindr Inc|17.77|17.15|66 (-3)|
 |[SNA](https://finance.yahoo.com/quote/SNA)|Snap-On Inc|313.43|414.68|66 (-3)|
 |[AOD](https://finance.yahoo.com/quote/AOD)|abrdn Total Dynamic Dividend Mutual Fund|7.83|10.64|66 (+1)|
@@ -742,7 +743,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[HAFN](https://finance.yahoo.com/quote/HAFN)|Hafnia Limited|5.22|7.55|66 (+4)|
 |[NVS](https://finance.yahoo.com/quote/NVS)|Novartis AG ADR|114.25|154.21|66 (+1)|
 |[TFX](https://finance.yahoo.com/quote/TFX)|Teleflex Incorporated|113.55|138.89|66 (+3)|
-|[NWN](https://finance.yahoo.com/quote/NWN)|Northwest Natural Holding Company|37.91|50.77|66 (+16)|
+|[NWN](https://finance.yahoo.com/quote/NWN)|Northwest Natural Holding Company|37.91|50.77|65 (+15)|
 |[ALK](https://finance.yahoo.com/quote/ALK)|Alaska Air Group Inc|53.18|50.69|65 (-10)|
 |[MDV](https://finance.yahoo.com/quote/MDV)|Modiv Industrial Inc|13.38|17.96|65 (+10)|
 |[TTC](https://finance.yahoo.com/quote/TTC)|The Toro Company|73.18|98.23|65 (-1)|
@@ -764,7 +765,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[BTO](https://finance.yahoo.com/quote/BTO)|John Hancock Financial Opportunities Fund|31.98|40.38|65 (+1)|
 |[H](https://finance.yahoo.com/quote/H)|Hyatt Hotels Corp|136.08|178.88|65 |
 |[CVI](https://finance.yahoo.com/quote/CVI)|CVR Energy Inc|26.09|31.37|65 (+1)|
-|[KEN](https://finance.yahoo.com/quote/KEN)|Kenon Holdings Ltd|41.31|65.45|65 (+9)|
+|[KEN](https://finance.yahoo.com/quote/KEN)|Kenon Holdings Ltd|41.31|65.45|64 (+8)|
 |[DT](https://finance.yahoo.com/quote/DT)|Dynatrace  Inc|50.53|48.87|64 (-4)|
 |[AMP](https://finance.yahoo.com/quote/AMP)|Ameriprise Financial Inc|498.41|559.82|64 (+2)|
 |[NVST](https://finance.yahoo.com/quote/NVST)|Envista Holdings Corp|20.07|27.38|64 (-6)|
@@ -786,7 +787,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[JOE](https://finance.yahoo.com/quote/JOE)|St Joe Co|50.48|67.38|64 (+7)|
 |[SIG](https://finance.yahoo.com/quote/SIG)|Signet Jewelers Limited|75.39|93.88|64 (-9)|
 |[DRD](https://finance.yahoo.com/quote/DRD)|DRDGOLD Ltd ADR|15.59|22.48|64 (-11)|
-|[MTZ](https://finance.yahoo.com/quote/MTZ)|MasTec Inc|177.70|258.63|64 (+2)|
+|[MTZ](https://finance.yahoo.com/quote/MTZ)|MasTec Inc|177.70|258.63|63 (+1)|
 |[GCV](https://finance.yahoo.com/quote/GCV)|Gabelli Convertible and Income Securities Mutual Fund|3.49|4.63|63 (+1)|
 |[OHI](https://finance.yahoo.com/quote/OHI)|Omega Healthcare Investors  Inc.|37.71|48.68|63 (+2)|
 |[UPS](https://finance.yahoo.com/quote/UPS)|United Parcel Service Inc|81.20|103.20|63 (-8)|
@@ -808,7 +809,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[CW](https://finance.yahoo.com/quote/CW)|Curtiss-Wright Corporation|510.83|714.04|63 (-9)|
 |[FNV](https://finance.yahoo.com/quote/FNV)|Franco-Nevada Corporation|170.42|231.08|63 |
 |[CTRE](https://finance.yahoo.com/quote/CTRE)|CareTrust REIT  Inc.|31.53|41.13|63 (+2)|
-|[FLNG](https://finance.yahoo.com/quote/FLNG)|FLEX LNG Ltd.|22.90|31.02|63 (+9)|
+|[FLNG](https://finance.yahoo.com/quote/FLNG)|FLEX LNG Ltd.|22.90|31.02|62 (+8)|
 |[NCZ](https://finance.yahoo.com/quote/NCZ)|Virtus Convertible and Income Fund II|11.79|15.71|62 |
 |[FNB](https://finance.yahoo.com/quote/FNB)|FNB Corp|14.66|18.97|62 (-2)|
 |[PDM](https://finance.yahoo.com/quote/PDM)|Piedmont Realty Trust  Inc.|7.71|9.43|62 (-4)|
@@ -830,7 +831,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[IIPR](https://finance.yahoo.com/quote/IIPR)|Innovative Industrial Properties Inc|45.34|58.35|62 (+4)|
 |[IBTA](https://finance.yahoo.com/quote/IBTA)|Ibotta  Inc.|35.38|35.96|62 (+11)|
 |[TFC](https://finance.yahoo.com/quote/TFC)|Truist Financial Corporation|41.54|52.59|62 (+1)|
-|[CVEO](https://finance.yahoo.com/quote/CVEO)|Civeo Corp|23.86|31.45|62 (-5)|
+|[CVEO](https://finance.yahoo.com/quote/CVEO)|Civeo Corp|23.86|31.45|61 (-6)|
 |[GHC](https://finance.yahoo.com/quote/GHC)|Graham Holdings Co|945.76|1195.16|61 (-2)|
 |[AWR](https://finance.yahoo.com/quote/AWR)|American States Water Company|72.63|85.67|61 (+5)|
 |[GGZ](https://finance.yahoo.com/quote/GGZ)|Gabelli Global Small and Mid Cap Value Closed Fund|12.85|16.56|61 |
@@ -853,7 +854,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[EPD](https://finance.yahoo.com/quote/EPD)|Enterprise Products Partners Units|29.26|38.05|61 (+5)|
 |[NSC](https://finance.yahoo.com/quote/NSC)|Norfolk Southern Corp|276.11|342.46|61 (+1)|
 |[SLG](https://finance.yahoo.com/quote/SLG)|SL Green Realty Corp|52.84|54.52|61 (-1)|
-|[FAF](https://finance.yahoo.com/quote/FAF)|First American Financial Corp|60.57|75.15|61 |
+|[FAF](https://finance.yahoo.com/quote/FAF)|First American Financial Corp|60.57|75.15|60 (-1)|
 |[FBIN](https://finance.yahoo.com/quote/FBIN)|Fortune Brands Innovations Inc|55.55|50.35|60 (-12)|
 |[BANC](https://finance.yahoo.com/quote/BANC)|Banc of California  Inc.|14.21|19.00|60 (-5)|
 |[COOK](https://finance.yahoo.com/quote/COOK)|Traeger  Inc.|82.50|59.43|60 (-30)|
@@ -875,7 +876,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[DEA](https://finance.yahoo.com/quote/DEA)|Easterly Government Properties Inc|20.44|24.89|60 (+1)|
 |[EOD](https://finance.yahoo.com/quote/EOD)|Allspring Global Dividend Opportunity Mutual Fund|5.10|6.56|60 (+1)|
 |[TJX](https://finance.yahoo.com/quote/TJX)|The TJX Companies  Inc.|127.21|162.06|60 (+4)|
-|[BGR](https://finance.yahoo.com/quote/BGR)|BlackRock Energy and Resources Closed Fund|12.16|16.00|60 (+8)|
+|[BGR](https://finance.yahoo.com/quote/BGR)|BlackRock Energy and Resources Closed Fund|12.16|16.00|59 (+7)|
 |[SHEL](https://finance.yahoo.com/quote/SHEL)|Shell PLC ADR|69.72|89.60|59 (+6)|
 |[HOMB](https://finance.yahoo.com/quote/HOMB)|Home BancShares Inc|27.18|30.83|59 (-3)|
 |[DVN](https://finance.yahoo.com/quote/DVN)|Devon Energy Corporation|31.49|43.11|59 (+9)|
@@ -897,7 +898,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[MUR](https://finance.yahoo.com/quote/MUR)|Murphy Oil Corp|22.82|33.04|59 (-10)|
 |[KYN](https://finance.yahoo.com/quote/KYN)|Kayne Anderson Energy Infrastructure Fund Inc|11.51|14.29|59 (+7)|
 |[UCB](https://finance.yahoo.com/quote/UCB)|United Community Banks Inc|29.21|35.70|59 |
-|[ETO](https://finance.yahoo.com/quote/ETO)|Eaton Vance Tax Advantaged Global Dividend Opportunities Closed Fund|25.03|31.43|59 (-1)|
+|[ETO](https://finance.yahoo.com/quote/ETO)|Eaton Vance Tax Advantaged Global Dividend Opportunities Closed Fund|25.03|31.43|58 (-2)|
 |[NXE](https://finance.yahoo.com/quote/NXE)|Nexgen Energy Ltd|6.94|10.23|58 (-5)|
 |[SYY](https://finance.yahoo.com/quote/SYY)|Sysco Corporation|77.06|84.35|58 (+1)|
 |[EQH](https://finance.yahoo.com/quote/EQH)|Equitable Holdings Inc|49.60|52.17|58 (+5)|
@@ -919,7 +920,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ITT](https://finance.yahoo.com/quote/ITT)|ITT Inc|164.84|214.41|58 (+10)|
 |[KRG](https://finance.yahoo.com/quote/KRG)|Kite Realty Group Trust|20.82|26.71|58 (-3)|
 |[DE](https://finance.yahoo.com/quote/DE)|Deere & Co|502.29|614.84|58 (+1)|
-|[PNFP](https://finance.yahoo.com/quote/PNFP)|Pinnacle Financial Partners Inc|88.41|106.43|58 (-2)|
+|[PNFP](https://finance.yahoo.com/quote/PNFP)|Pinnacle Financial Partners Inc|88.41|106.43|57 (-3)|
 |[CF](https://finance.yahoo.com/quote/CF)|CF Industries Holdings Inc|90.77|116.73|57 (+5)|
 |[ACV](https://finance.yahoo.com/quote/ACV)|Virtus Diversified Income And Convertible Fund|20.44|26.70|57 (-4)|
 |[WMS](https://finance.yahoo.com/quote/WMS)|Advanced Drainage Systems Inc|116.52|148.45|57 (-7)|
@@ -941,7 +942,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PSA](https://finance.yahoo.com/quote/PSA)|Public Storage|270.59|327.00|57 (-2)|
 |[OMC](https://finance.yahoo.com/quote/OMC)|Omnicom Group Inc|69.81|82.51|57 (+3)|
 |[GNW](https://finance.yahoo.com/quote/GNW)|Genworth Financial Inc|7.96|9.71|57 (-2)|
-|[CWT](https://finance.yahoo.com/quote/CWT)|California Water Service Group|45.09|49.43|57 (+2)|
+|[CWT](https://finance.yahoo.com/quote/CWT)|California Water Service Group|45.09|49.43|56 (+1)|
 |[MTX](https://finance.yahoo.com/quote/MTX)|Minerals Technologies Inc.|57.46|75.32|56 (-4)|
 |[IFF](https://finance.yahoo.com/quote/IFF)|International Flavors & Fragrances Inc.|68.95|84.55|56 (-20)|
 |[FTV](https://finance.yahoo.com/quote/FTV)|Fortive Corporation|48.19|60.87|56 (-1)|
@@ -963,7 +964,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GTY](https://finance.yahoo.com/quote/GTY)|Getty Realty Corp.|26.68|33.25|56 |
 |[FMS](https://finance.yahoo.com/quote/FMS)|Fresenius Medical Care AG ADR|23.47|24.10|56 |
 |[MHO](https://finance.yahoo.com/quote/MHO)|M/I Homes Inc|129.74|146.83|56 (-8)|
-|[ABEV](https://finance.yahoo.com/quote/ABEV)|Ambev SA ADR|2.18|3.01|56 |
+|[ABEV](https://finance.yahoo.com/quote/ABEV)|Ambev SA ADR|2.18|3.01|55 (-1)|
 |[CHD](https://finance.yahoo.com/quote/CHD)|Church & Dwight Co Inc|89.96|103.36|55 |
 |[SRV](https://finance.yahoo.com/quote/SRV)|NXG Cushing Midstream Energy Closed End Fund|36.31|46.50|55 (+4)|
 |[AES](https://finance.yahoo.com/quote/AES)|The AES Corporation|12.13|14.70|55 (+7)|
@@ -985,7 +986,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[HIG](https://finance.yahoo.com/quote/HIG)|The Hartford Insurance Group  Inc.|125.38|144.51|55 (+3)|
 |[PPG](https://finance.yahoo.com/quote/PPG)|PPG Industries  Inc.|103.27|117.16|55 (-5)|
 |[ROK](https://finance.yahoo.com/quote/ROK)|Rockwell Automation Inc|341.17|441.80|55 (-5)|
-|[KRMN](https://finance.yahoo.com/quote/KRMN)|Karman Holdings Inc|50.39|55.14|55 (-2)|
+|[KRMN](https://finance.yahoo.com/quote/KRMN)|Karman Holdings Inc|50.39|55.14|54 (-3)|
 |[MSA](https://finance.yahoo.com/quote/MSA)|MSA Safety Incorporated|177.76|193.96|54 (-2)|
 |[AMX](https://finance.yahoo.com/quote/AMX)|America Movil SAB de CV ADR|17.97|23.92|54 (-1)|
 |[EGP](https://finance.yahoo.com/quote/EGP)|EastGroup Properties  Inc.|158.80|200.62|54 (-3)|
@@ -1007,7 +1008,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[D](https://finance.yahoo.com/quote/D)|Dominion Energy Inc|58.50|66.80|54 |
 |[HLT](https://finance.yahoo.com/quote/HLT)|Hilton Worldwide Holdings Inc|259.62|321.98|54 (-2)|
 |[XPER](https://finance.yahoo.com/quote/XPER)|Xperi Inc|5.73|6.86|54 (-22)|
-|[AIO](https://finance.yahoo.com/quote/AIO)|Virtus Artificial Intelligence and Technology Opportunities Fund|21.61|26.07|54 (-1)|
+|[AIO](https://finance.yahoo.com/quote/AIO)|Virtus Artificial Intelligence and Technology Opportunities Fund|21.61|26.07|53 (-2)|
 |[SPXX](https://finance.yahoo.com/quote/SPXX)|Nuveen S&P 500 Dynamic Overwrite Closed End Fund|16.38|18.89|53 (+1)|
 |[FHN](https://finance.yahoo.com/quote/FHN)|First Horizon Corp|21.09|25.49|53 (-5)|
 |[EEA](https://finance.yahoo.com/quote/EEA)|The European Equity Fund Inc|9.57|11.16|53 (-2)|
@@ -1030,7 +1031,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[KEX](https://finance.yahoo.com/quote/KEX)|Kirby Corp|102.16|132.93|53 (+1)|
 |[ETW](https://finance.yahoo.com/quote/ETW)|Eaton Vance Tax Managed Global Buy Write Opportunities Closed Fund|8.00|9.63|53 (-1)|
 |[IIIN](https://finance.yahoo.com/quote/IIIN)|Insteel Industries Inc|34.87|32.33|53 (-3)|
-|[ESS](https://finance.yahoo.com/quote/ESS)|Essex Property Trust  Inc.|247.49|285.12|53 (-2)|
+|[ESS](https://finance.yahoo.com/quote/ESS)|Essex Property Trust  Inc.|247.49|285.12|52 (-3)|
 |[EOG](https://finance.yahoo.com/quote/EOG)|EOG Resources  Inc.|113.82|136.20|52 (+6)|
 |[NMAX](https://finance.yahoo.com/quote/NMAX)|Newsmax Inc|12.44|8.56|52 (+9)|
 |[ORA](https://finance.yahoo.com/quote/ORA)|Ormat Technologies Inc|84.85|107.38|52 (+25)|
@@ -1052,7 +1053,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[MTD](https://finance.yahoo.com/quote/MTD)|Mettler-Toledo International Inc.|1243.94|1421.24|52 (-2)|
 |[COF](https://finance.yahoo.com/quote/COF)|Capital One Financial Corp|208.92|220.00|52 (-3)|
 |[AOMR](https://finance.yahoo.com/quote/AOMR)|Angel Oak Mortgage REIT  Inc.|7.50|8.88|52 (+9)|
-|[NJR](https://finance.yahoo.com/quote/NJR)|New Jersey Resources Corp|44.92|54.47|52 |
+|[NJR](https://finance.yahoo.com/quote/NJR)|New Jersey Resources Corp|44.92|54.47|51 (-1)|
 |[SBS](https://finance.yahoo.com/quote/SBS)|Companhia de Saneamento Basico do Estado de Sao Paulo - SABESP ADR|3.88|5.37|51 |
 |[ARCO](https://finance.yahoo.com/quote/ARCO)|Arcos Dorados Holdings Inc.|6.52|8.34|51 (-5)|
 |[BBDO](https://finance.yahoo.com/quote/BBDO)|Banco Bradesco ADS Representing 1 Ord Shs|2.43|3.15|51 (-6)|
@@ -1074,7 +1075,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NTST](https://finance.yahoo.com/quote/NTST)|NETSTREIT Corp.|17.76|21.03|51 |
 |[NMI](https://finance.yahoo.com/quote/NMI)|Nuveen Municipal Income Fund Inc|9.39|10.80|51 |
 |[ALLY](https://finance.yahoo.com/quote/ALLY)|Ally Financial Inc|36.19|44.06|51 (-3)|
-|[HLN](https://finance.yahoo.com/quote/HLN)|Haleon PLC ADR|9.11|10.03|51 (+5)|
+|[HLN](https://finance.yahoo.com/quote/HLN)|Haleon PLC ADR|9.11|10.03|50 (+4)|
 |[SF](https://finance.yahoo.com/quote/SF)|Stifel Financial Corp.|73.52|83.39|50 (-2)|
 |[RCL](https://finance.yahoo.com/quote/RCL)|Royal Caribbean Cruises Ltd.|306.13|320.55|50 (-13)|
 |[CX](https://finance.yahoo.com/quote/CX)|Cemex  S.A.B. de C.V. ADR|8.29|11.30|50 (-8)|
@@ -1096,7 +1097,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[USAC](https://finance.yahoo.com/quote/USAC)|USA Compression Partners Common Units|21.51|26.08|50 (+5)|
 |[POR](https://finance.yahoo.com/quote/POR)|Portland General Electric Co|40.56|48.54|50 (-1)|
 |[SCD](https://finance.yahoo.com/quote/SCD)|LMP Capital & Income Fund|13.74|15.71|50 (+2)|
-|[SMP](https://finance.yahoo.com/quote/SMP)|Standard Motor Products Inc|33.82|39.33|50 (-9)|
+|[SMP](https://finance.yahoo.com/quote/SMP)|Standard Motor Products Inc|33.82|39.33|49 (-10)|
 |[DHR](https://finance.yahoo.com/quote/DHR)|Danaher Corp|197.58|199.98|49 |
 |[APAM](https://finance.yahoo.com/quote/APAM)|Artisan Partners Asset Management Inc|42.55|43.05|49 (+1)|
 |[VZ](https://finance.yahoo.com/quote/VZ)|Verizon Communications Inc|39.94|46.99|49 (+4)|
@@ -1118,7 +1119,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GRBK](https://finance.yahoo.com/quote/GRBK)|Green Brick Partners  Inc.|65.72|71.44|49 (-6)|
 |[PCG](https://finance.yahoo.com/quote/PCG)|PG&E Corp|15.01|17.00|49 (-1)|
 |[CNR](https://finance.yahoo.com/quote/CNR)|Core Natural Resources  Inc.|77.79|89.98|49 (+17)|
-|[ZTO](https://finance.yahoo.com/quote/ZTO)|ZTO Express (Cayman) Inc ADR|19.41|24.07|49 (+8)|
+|[ZTO](https://finance.yahoo.com/quote/ZTO)|ZTO Express (Cayman) Inc ADR|19.41|24.07|48 (+7)|
 |[FE](https://finance.yahoo.com/quote/FE)|FirstEnergy Corp|41.82|47.37|48 (+1)|
 |[EXR](https://finance.yahoo.com/quote/EXR)|Extra Space Storage Inc (Maryland)|132.44|149.54|48 (-3)|
 |[CRGY](https://finance.yahoo.com/quote/CRGY)|Crescent Energy Company|8.95|11.33|48 (+2)|
@@ -1140,7 +1141,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PVH](https://finance.yahoo.com/quote/PVH)|PVH Corp.|74.26|86.55|48 (-5)|
 |[BBD](https://finance.yahoo.com/quote/BBD)|Banco Bradesco ADR Reptg 1 Pref Shs|2.70|3.41|48 (-4)|
 |[VEEV](https://finance.yahoo.com/quote/VEEV)|Veeva Systems Inc.|281.46|217.80|48 (+15)|
-|[MOD](https://finance.yahoo.com/quote/MOD)|Modine Manufacturing Company|140.51|192.52|48 (-1)|
+|[MOD](https://finance.yahoo.com/quote/MOD)|Modine Manufacturing Company|140.51|192.52|47 (-2)|
 |[EMD](https://finance.yahoo.com/quote/EMD)|Western Asset Emerging Markets Debt Fund|9.09|10.59|47 (+2)|
 |[AWP](https://finance.yahoo.com/quote/AWP)|abrdn Global Premier Properties Mutual Fund|10.31|11.89|47 (-3)|
 |[KBH](https://finance.yahoo.com/quote/KBH)|KB Home|58.00|56.95|47 (-11)|
@@ -1162,7 +1163,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[KMI](https://finance.yahoo.com/quote/KMI)|Kinder Morgan  Inc.|26.96|31.28|47 (+6)|
 |[WRB](https://finance.yahoo.com/quote/WRB)|W. R. Berkley Corporation|68.17|72.13|47 (+4)|
 |[J](https://finance.yahoo.com/quote/J)|Jacobs Solutions Inc|143.72|144.03|47 (+7)|
-|[GFI](https://finance.yahoo.com/quote/GFI)|Gold Fields Limited ADR|29.32|37.34|47 (-14)|
+|[GFI](https://finance.yahoo.com/quote/GFI)|Gold Fields Limited ADR|29.32|37.34|46 (-15)|
 |[OWLT](https://finance.yahoo.com/quote/OWLT)|Owlet Inc|6.65|5.44|46 (-8)|
 |[LNG](https://finance.yahoo.com/quote/LNG)|Cheniere Energy Inc|237.30|265.77|46 (+15)|
 |[OSK](https://finance.yahoo.com/quote/OSK)|Oshkosh Corp|137.38|153.44|46 |
@@ -1185,7 +1186,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[TKO](https://finance.yahoo.com/quote/TKO)|TKO Group Holdings Inc|160.95|187.29|46 (+7)|
 |[NRK](https://finance.yahoo.com/quote/NRK)|Nuveen New York AMT-Free Quality Municipal Inc Fd|8.76|10.33|46 (+1)|
 |[GVA](https://finance.yahoo.com/quote/GVA)|Granite Construction Inc|94.10|121.60|46 (-3)|
-|[ARR](https://finance.yahoo.com/quote/ARR)|ARMOUR Residential REIT  Inc.|14.15|16.55|46 |
+|[ARR](https://finance.yahoo.com/quote/ARR)|ARMOUR Residential REIT  Inc.|14.15|16.55|45 (-1)|
 |[NBXG](https://finance.yahoo.com/quote/NBXG)|Neuberger Next Gen Connectivity Fund Inc.|13.22|15.04|45 (-1)|
 |[VPV](https://finance.yahoo.com/quote/VPV)|Invesco Pennsylvania Value Municipal Income Trust|9.33|10.91|45 |
 |[FTW](https://finance.yahoo.com/quote/FTW)|Presidio Production Co|10.38|11.44|45 (+1)|
@@ -1207,7 +1208,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[KMPB](https://finance.yahoo.com/quote/KMPB)|Kemper 5 875 Fixed Rate Reset Junior Subordinated Debentures due 2062|22.47|24.65|45 (+2)|
 |[CPT](https://finance.yahoo.com/quote/CPT)|Camden Property Trust|103.46|110.74|45 (-2)|
 |[PGZ](https://finance.yahoo.com/quote/PGZ)|Principal Real Estate Income Fund|9.29|10.24|45 |
-|[UA](https://finance.yahoo.com/quote/UA)|Under Armour Inc Class C|6.33|6.27|45 (-8)|
+|[UA](https://finance.yahoo.com/quote/UA)|Under Armour Inc Class C|6.33|6.27|44 (-9)|
 |[DOV](https://finance.yahoo.com/quote/DOV)|Dover Corp|175.35|210.84|44 (+1)|
 |[RDN](https://finance.yahoo.com/quote/RDN)|Radian Group Inc.|32.29|36.26|44 (-16)|
 |[RPM](https://finance.yahoo.com/quote/RPM)|RPM International Inc|117.61|115.65|44 (-6)|
@@ -1229,7 +1230,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[PDX](https://finance.yahoo.com/quote/PDX)|PIMCO Dynamic Income Strategy Fund|19.68|21.60|44 (+5)|
 |[IDA](https://finance.yahoo.com/quote/IDA)|IDACORP Inc|122.18|140.91|44 |
 |[O](https://finance.yahoo.com/quote/O)|Realty Income Corporation|54.23|62.36|44 (+2)|
-|[ATR](https://finance.yahoo.com/quote/ATR)|AptarGroup  Inc.|138.13|135.78|44 |
+|[ATR](https://finance.yahoo.com/quote/ATR)|AptarGroup  Inc.|138.13|135.78|43 (-1)|
 |[DLR](https://finance.yahoo.com/quote/DLR)|Digital Realty Trust  Inc.|167.34|192.56|43 (-2)|
 |[RFMZ](https://finance.yahoo.com/quote/RFMZ)|RiverNorth Flexible Municipal Income Fund II Inc.|11.70|13.10|43 (+1)|
 |[YUMC](https://finance.yahoo.com/quote/YUMC)|Yum China Holdings Inc|43.11|48.19|43 (+13)|
@@ -1251,7 +1252,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[FLOC](https://finance.yahoo.com/quote/FLOC)|Flowco Holdings Inc.|17.46|20.95|43 (+3)|
 |[TDOC](https://finance.yahoo.com/quote/TDOC)|Teladoc Health Inc|6.96|6.68|43 (-7)|
 |[RCD](https://finance.yahoo.com/quote/RCD)|Ready Capital 9.00% Senior Notes due 2029|21.25|22.76|43 (+4)|
-|[KTF](https://finance.yahoo.com/quote/KTF)|DWS Municipal Income Trust|7.95|8.94|43 (+2)|
+|[KTF](https://finance.yahoo.com/quote/KTF)|DWS Municipal Income Trust|7.95|8.94|42 (+1)|
 |[UTF](https://finance.yahoo.com/quote/UTF)|Cohen & Steers Infrastructure Fund Inc|24.96|27.25|42 (+2)|
 |[HCA](https://finance.yahoo.com/quote/HCA)|HCA Healthcare  Inc.|361.36|408.89|42 (+1)|
 |[WY](https://finance.yahoo.com/quote/WY)|Weyerhaeuser Company|24.92|25.45|42 (-5)|
@@ -1273,7 +1274,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[AN](https://finance.yahoo.com/quote/AN)|AutoNation  Inc.|195.50|211.33|42 (-7)|
 |[PHK](https://finance.yahoo.com/quote/PHK)|PIMCO High Income Fund|4.37|4.71|42 (+5)|
 |[ENB](https://finance.yahoo.com/quote/ENB)|Enbridge Inc|44.90|51.70|42 (+3)|
-|[HTD](https://finance.yahoo.com/quote/HTD)|John Hancock Tax Advantaged Dividend Income Closed Fund|22.67|25.33|42 (+3)|
+|[HTD](https://finance.yahoo.com/quote/HTD)|John Hancock Tax Advantaged Dividend Income Closed Fund|22.67|25.33|41 (+2)|
 |[MLP](https://finance.yahoo.com/quote/MLP)|Maui Land & Pineapple Company Inc|16.58|16.90|41 (-5)|
 |[NZF](https://finance.yahoo.com/quote/NZF)|Nuveen Municipal Credit Income Fund|11.01|12.37|41 (+1)|
 |[RMMZ](https://finance.yahoo.com/quote/RMMZ)|RiverNorth Managed Duration Muni Income Fd II Inc.|13.19|14.71|41 |
@@ -1295,7 +1296,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GJT](https://finance.yahoo.com/quote/GJT)|STRATS SM Trust for Allstate Securities Certificates Series 2006-3|21.64|23.55|41 (+2)|
 |[MFA](https://finance.yahoo.com/quote/MFA)|MFA Financial  Inc.|7.88|9.05|41 |
 |[PMTV](https://finance.yahoo.com/quote/PMTV)|PennyMac Mortgage Investment Trust 9 00  Senior Notes due 2030|22.99|25.13|41 (+3)|
-|[MFAN](https://finance.yahoo.com/quote/MFAN)|MFA Financial 8 875 Senior Notes due 2029|22.89|25.00|41 (+3)|
+|[MFAN](https://finance.yahoo.com/quote/MFAN)|MFA Financial 8 875 Senior Notes due 2029|22.89|25.00|40 (+2)|
 |[FOF](https://finance.yahoo.com/quote/FOF)|Cohen & Steers Closed End Opportunity Closed Fund|11.98|13.57|40 (-1)|
 |[GATX](https://finance.yahoo.com/quote/GATX)|GATX Corporation|149.18|178.79|40 (-2)|
 |[IGR](https://finance.yahoo.com/quote/IGR)|CBRE Global Real Estate Income Fund|4.19|4.68|40 (-3)|
@@ -1317,7 +1318,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NEA](https://finance.yahoo.com/quote/NEA)|Nuveen AMT-Free Quality Municipal Income Fund|10.19|11.32|40 |
 |[RA](https://finance.yahoo.com/quote/RA)|Brookfield Real Assets Income Closed Fund|11.80|12.77|40 (+2)|
 |[PAGS](https://finance.yahoo.com/quote/PAGS)|PagSeguro Digital Ltd|7.86|9.36|40 (-6)|
-|[PMO](https://finance.yahoo.com/quote/PMO)|Franklin Municipal Opportunities Trust|9.36|10.29|40 (+3)|
+|[PMO](https://finance.yahoo.com/quote/PMO)|Franklin Municipal Opportunities Trust|9.36|10.29|39 (+2)|
 |[MFAO](https://finance.yahoo.com/quote/MFAO)|MFA Financial 9 00 Senior Notes due 2029|23.01|25.07|39 |
 |[ATHM](https://finance.yahoo.com/quote/ATHM)|Autohome Inc ADR|26.57|22.71|39 (-11)|
 |[FLR](https://finance.yahoo.com/quote/FLR)|Fluor Corp|41.25|48.75|39 (-11)|
@@ -1339,7 +1340,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[RWTN](https://finance.yahoo.com/quote/RWTN)|Redwood Trust 9 125 Senior Notes Due 2029|22.60|24.85|39 (+1)|
 |[USA](https://finance.yahoo.com/quote/USA)|Liberty All Star Equity Closed Fund|5.78|5.99|39 (+2)|
 |[CIMO](https://finance.yahoo.com/quote/CIMO)|Chimera Investment 9 250 Senior Notes due 2029|23.11|25.07|39 (+1)|
-|[CCZ](https://finance.yahoo.com/quote/CCZ)|Comcast Holdings ZONES 2 Exchangeable Subor Debentures Exp 15 Nov 2029|57.31|64.00|39 (-1)|
+|[CCZ](https://finance.yahoo.com/quote/CCZ)|Comcast Holdings ZONES 2 Exchangeable Subor Debentures Exp 15 Nov 2029|57.31|64.00|38 (-2)|
 |[MYN](https://finance.yahoo.com/quote/MYN)|BlackRock MuniYield New York Quality Fund，Inc.|8.80|9.76|38 |
 |[APD](https://finance.yahoo.com/quote/APD)|Air Products and Chemicals  Inc.|284.89|299.92|38 (+6)|
 |[BIPC](https://finance.yahoo.com/quote/BIPC)|Brookfield Infrastructure Corp|37.95|39.63|38 (-9)|
@@ -1362,7 +1363,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[UAA](https://finance.yahoo.com/quote/UAA)|Under Armour Inc Class A|6.71|6.40|38 (-11)|
 |[SBSW](https://finance.yahoo.com/quote/SBSW)|Sibanye Stillwater Limited ADR|8.71|9.89|38 (-13)|
 |[AEE](https://finance.yahoo.com/quote/AEE)|Ameren Corporation|99.18|108.27|38 (+4)|
-|[MFM](https://finance.yahoo.com/quote/MFM)|Aberdeen Municipal Income Fund|4.94|5.39|38 (+1)|
+|[MFM](https://finance.yahoo.com/quote/MFM)|Aberdeen Municipal Income Fund|4.94|5.39|37 |
 |[CCJ](https://finance.yahoo.com/quote/CCJ)|Cameco Corp|74.45|93.62|37 (-6)|
 |[GJP](https://finance.yahoo.com/quote/GJP)|STRATS SM Trust for Dominion Resources Securities Certificate Series 2005-6|23.29|24.72|37 (+2)|
 |[EICA](https://finance.yahoo.com/quote/EICA)|Eagle Point Income Company 5 00 Term Pref Shs Series A|23.31|25.00|37 (+2)|
@@ -1384,7 +1385,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NAZ](https://finance.yahoo.com/quote/NAZ)|Nuveen Arizona Quality Municipal Income Fund|11.04|12.22|37 (+1)|
 |[SYK](https://finance.yahoo.com/quote/SYK)|Stryker Corporation|377.02|337.43|37 (+4)|
 |[FMN](https://finance.yahoo.com/quote/FMN)|Federated Hermes Premier Municipal Income Closed End Fund|10.17|11.07|37 (-1)|
-|[WM](https://finance.yahoo.com/quote/WM)|Waste Management Inc|226.16|229.01|37 (+11)|
+|[WM](https://finance.yahoo.com/quote/WM)|Waste Management Inc|226.16|229.01|36 (+10)|
 |[ARI](https://finance.yahoo.com/quote/ARI)|Apollo Commercial Real Estate Finance Inc|5.94|6.69|36 (+3)|
 |[MSD](https://finance.yahoo.com/quote/MSD)|Morgan Stanley Emerging Markets Debt Closed Fund|6.81|7.31|36 |
 |[CHCT](https://finance.yahoo.com/quote/CHCT)|Community Healthcare Trust Inc|13.72|15.58|36 (+5)|
@@ -1406,7 +1407,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[RQI](https://finance.yahoo.com/quote/RQI)|Cohen & Steers Quality Income Realty Fund Inc|11.24|12.56|36 |
 |[NAN](https://finance.yahoo.com/quote/NAN)|Nuveen New York Quality Municipal Income Fund|10.35|11.20|36 (+1)|
 |[DSM](https://finance.yahoo.com/quote/DSM)|BNY Mellon Strategic Municipal Bond Fund Inc|5.30|5.88|36 |
-|[KTN](https://finance.yahoo.com/quote/KTN)|Structured Products 8.205% Credit-Enhanced Corporate-Backed Trust Securities|24.10|25.50|36 (+2)|
+|[KTN](https://finance.yahoo.com/quote/KTN)|Structured Products 8.205% Credit-Enhanced Corporate-Backed Trust Securities|24.10|25.50|35 (+1)|
 |[EVN](https://finance.yahoo.com/quote/EVN)|Eaton Vance Municipal Income Trust|9.99|10.56|35 |
 |[TXT](https://finance.yahoo.com/quote/TXT)|Textron Inc|78.15|87.89|35 (-3)|
 |[NIM](https://finance.yahoo.com/quote/NIM)|Nuveen Select Maturities Municipal Fund|8.81|9.33|35 (+1)|
@@ -1428,7 +1429,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[AWK](https://finance.yahoo.com/quote/AWK)|American Water Works Company  Inc.|137.87|134.82|35 (+8)|
 |[BMN](https://finance.yahoo.com/quote/BMN)|BlackRock 2037 Municipal Target Term Trust|23.62|25.24|35 (+3)|
 |[JGH](https://finance.yahoo.com/quote/JGH)|Nuveen Global High Income Fund|12.00|12.62|35 (+1)|
-|[VLTO](https://finance.yahoo.com/quote/VLTO)|Veralto Corp|105.99|98.02|35 (+7)|
+|[VLTO](https://finance.yahoo.com/quote/VLTO)|Veralto Corp|105.99|98.02|34 (+6)|
 |[CEPU](https://finance.yahoo.com/quote/CEPU)|Central Puerto S.A. ADR|12.32|13.82|34 (-17)|
 |[BHK](https://finance.yahoo.com/quote/BHK)|BlackRock Core Bond Closed Fund|8.76|9.14|34 (+2)|
 |[UL](https://finance.yahoo.com/quote/UL)|Unilever PLC ADR|65.43|63.66|34 (-5)|
@@ -1450,14 +1451,14 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[ATO](https://finance.yahoo.com/quote/ATO)|Atmos Energy Corporation|153.21|171.98|34 (+4)|
 |[LEG](https://finance.yahoo.com/quote/LEG)|Leggett & Platt  Incorporated|8.52|9.60|34 (-17)|
 |[DTF](https://finance.yahoo.com/quote/DTF)|DTF Tax-Free Income 2028 Term Fund Inc.|10.88|11.47|34 (-1)|
-|[FSS](https://finance.yahoo.com/quote/FSS)|Federal Signal Corp|124.98|127.83|34 (-7)|
+|[FSS](https://finance.yahoo.com/quote/FSS)|Federal Signal Corp|124.98|127.83|33 (-8)|
 |[ORC](https://finance.yahoo.com/quote/ORC)|Orchid Island Capital Inc|5.88|6.42|33 |
 |[OGE](https://finance.yahoo.com/quote/OGE)|OGE Energy Corp.|43.79|46.79|33 (+1)|
 |[JHI](https://finance.yahoo.com/quote/JHI)|John Hancock Investors Closed Fund|12.83|13.34|33 (+1)|
 |[ETJ](https://finance.yahoo.com/quote/ETJ)|Eaton Vance Risk Managed Diversified Equity Income Closed Fund|8.19|8.50|33 (+1)|
 |[NXP](https://finance.yahoo.com/quote/NXP)|Nuveen Select Tax-Free Income Portfolio|13.37|14.20|33 (-2)|
 |[EOI](https://finance.yahoo.com/quote/EOI)|Eaton Vance Enhanced Equity Income Closed Fund|19.27|20.02|33 (+1)|
-|[PGR](https://finance.yahoo.com/quote/PGR)|Progressive Corp|228.12|215.34|33 (+5)|
+|[PGR](https://finance.yahoo.com/quote/PGR)|Progressive Corp|228.12|215.34|33 (+4)|
 |[ADT](https://finance.yahoo.com/quote/ADT)|ADT Inc|8.15|7.65|33 |
 |[ETD](https://finance.yahoo.com/quote/ETD)|Ethan Allen Interiors Inc.|27.39|23.51|33 (-9)|
 |[CCM](https://finance.yahoo.com/quote/CCM)|Concord Medical Services Holdings Ltd ADR|5.05|4.96|33 (+10)|
@@ -1472,7 +1473,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[AIN](https://finance.yahoo.com/quote/AIN)|Albany International Corp|58.93|61.27|33 (-9)|
 |[NOW](https://finance.yahoo.com/quote/NOW)|ServiceNow Inc|181.02|117.35|33 (+10)|
 |[IT](https://finance.yahoo.com/quote/IT)|Gartner  Inc.|243.93|184.82|33 (+19)|
-|[FCPT](https://finance.yahoo.com/quote/FCPT)|Four Corners Property Trust Inc|23.94|25.06|33 (-2)|
+|[FCPT](https://finance.yahoo.com/quote/FCPT)|Four Corners Property Trust Inc|23.94|25.06|32 (-3)|
 |[HPS](https://finance.yahoo.com/quote/HPS)|John Hancock Preferred Income III Closed Fund|13.28|14.23|32 (-2)|
 |[NNI](https://finance.yahoo.com/quote/NNI)|Nelnet  Inc.|123.55|134.85|32 (-1)|
 |[AVB](https://finance.yahoo.com/quote/AVB)|AvalonBay Communities  Inc.|179.19|186.55|32 (-7)|
@@ -1494,7 +1495,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[WK](https://finance.yahoo.com/quote/WK)|Workiva Inc.|78.84|62.05|32 (+16)|
 |[FUL](https://finance.yahoo.com/quote/FUL)|H.B. Fuller Company|55.91|59.17|32 (-3)|
 |[FLC](https://finance.yahoo.com/quote/FLC)|Flaherty Crumrine Total Return Mutual Fund  Incorporated|15.89|16.72|32 (-1)|
-|[IBM](https://finance.yahoo.com/quote/IBM)|International Business Machines Corp|244.42|233.43|32 (+1)|
+|[IBM](https://finance.yahoo.com/quote/IBM)|International Business Machines Corp|244.42|233.43|31 |
 |[BBN](https://finance.yahoo.com/quote/BBN)|BlackRock Taxable Municipal Bond Trust|15.34|15.91|31 (+1)|
 |[IPI](https://finance.yahoo.com/quote/IPI)|Intrepid Potash Inc|33.38|34.92|31 (+11)|
 |[JACS](https://finance.yahoo.com/quote/JACS)|Jackson Acquisition Co II|10.35|10.71|31 |
@@ -1517,7 +1518,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[TM](https://finance.yahoo.com/quote/TM)|TOYOTA MOTOR CORPORATION ADR|181.50|187.49|31 (+2)|
 |[HD](https://finance.yahoo.com/quote/HD)|The Home Depot  Inc.|375.43|349.52|31 (-7)|
 |[WIW](https://finance.yahoo.com/quote/WIW)|Western Asset Inflation Linked Opportunities Income Closed End Fund|8.07|8.36|31 (+3)|
-|[CXM](https://finance.yahoo.com/quote/CXM)|Sprinklr  Inc.|8.90|6.61|31 (+3)|
+|[CXM](https://finance.yahoo.com/quote/CXM)|Sprinklr  Inc.|8.90|6.61|30 (+2)|
 |[DMA](https://finance.yahoo.com/quote/DMA)|Destra Multi-Alternative Fund|7.94|7.64|30 (+5)|
 |[CNP](https://finance.yahoo.com/quote/CNP)|CenterPoint Energy  Inc.|38.07|40.67|30 (+5)|
 |[GPGI](https://finance.yahoo.com/quote/GPGI)|GPGI Inc (Nevada)|14.13|14.98|30 (-10)|
@@ -1534,12 +1535,12 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[NPFD](https://finance.yahoo.com/quote/NPFD)|Nuveen Variable Rate Preferred Income Closed End Fund|17.51|18.43|30 (+3)|
 |[HE](https://finance.yahoo.com/quote/HE)|Hawaiian Electric Industries  Inc.|11.08|12.49|30 |
 |[DUK](https://finance.yahoo.com/quote/DUK)|Duke Energy Corp|119.81|123.90|30 (+5)|
-|[TR](https://finance.yahoo.com/quote/TR)|Tootsie Roll Industries Inc|37.15|39.75|30 |
+|[TR](https://finance.yahoo.com/quote/TR)|Tootsie Roll Industries Inc|37.15|39.75|30 (-1)|
 |[NDMO](https://finance.yahoo.com/quote/NDMO)|Nuveen Dynamic Municipal Opportunities Fund|9.42|9.93|30 (+2)|
 |[AMRC](https://finance.yahoo.com/quote/AMRC)|Ameresco Inc|24.88|25.55|30 (-58)|
 |[NMS](https://finance.yahoo.com/quote/NMS)|Nuveen Minnesota Quality Municipal Income Fund|10.62|11.48|30 (+1)|
 |[DTE](https://finance.yahoo.com/quote/DTE)|DTE Energy Company|135.06|139.97|30 (+4)|
-|[BKV](https://finance.yahoo.com/quote/BKV)|BKV Corporation|20.32|24.00|30 (+12)|
+|[BKV](https://finance.yahoo.com/quote/BKV)|BKV Corporation|20.32|24.00|29 (+11)|
 |[BTT](https://finance.yahoo.com/quote/BTT)|BlackRock Municipal 2030 Target Term Trust|21.70|22.52|29 |
 |[SE](https://finance.yahoo.com/quote/SE)|Sea Limited ADR|151.44|111.00|29 (-19)|
 |[OGG](https://finance.yahoo.com/quote/OGG)|Osisko Gold Group Inc|2.33|2.64|29 (-1)|
@@ -1561,7 +1562,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[RCI](https://finance.yahoo.com/quote/RCI)|Rogers Communications Inc|32.72|34.54|29 (+7)|
 |[FT](https://finance.yahoo.com/quote/FT)|Franklin Universal Closed Fund|7.43|7.82|29 (-2)|
 |[WLKP](https://finance.yahoo.com/quote/WLKP)|Westlake Chemical Partners Units|20.13|21.35|29 (-3)|
-|[TVC](https://finance.yahoo.com/quote/TVC)|Tennessee Valley Authority Power Bonds 1998 Series D due 01 June 2028|23.43|24.01|29 (+1)|
+|[TVC](https://finance.yahoo.com/quote/TVC)|Tennessee Valley Authority Power Bonds 1998 Series D due 01 June 2028|23.43|24.01|28 |
 |[EFR](https://finance.yahoo.com/quote/EFR)|Eaton Vance Senior Floating Rate Closed Fund|10.81|10.68|28 (+1)|
 |[PIM](https://finance.yahoo.com/quote/PIM)|Franklin Master Intermediate Income Trust|3.08|3.14|28 (+1)|
 |[EVTC](https://finance.yahoo.com/quote/EVTC)|Evertec Inc|34.40|30.94|28 (-1)|
@@ -1583,7 +1584,6 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[GBAB](https://finance.yahoo.com/quote/GBAB)|Guggenheim Taxable Muni Bd & Inv Grade Dbt Trust|13.75|13.93|28 (+1)|
 |[HGLB](https://finance.yahoo.com/quote/HGLB)|Highland Global Allocation Fund|7.34|7.50|28 (+3)|
 |[TRU](https://finance.yahoo.com/quote/TRU)|TransUnion|90.50|79.20|28 (-5)|
-|[IBP](https://finance.yahoo.com/quote/IBP)|Installed Building Products Inc|212.83|241.97|28 (-3)|
 |[ACVA](https://finance.yahoo.com/quote/ACVA)|ACV Auctions Inc.|14.15|7.45|27 (-4)|
 |[BYD](https://finance.yahoo.com/quote/BYD)|Boyd Gaming Corporation|82.51|84.12|27 (-2)|
 |[TTAM](https://finance.yahoo.com/quote/TTAM)|Titan America SA|14.84|15.72|27 (-14)|
@@ -1603,7 +1603,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[DBL](https://finance.yahoo.com/quote/DBL)|DoubleLine Opportunistic Credit Fund|14.08|14.15|27 (+2)|
 |[MMT](https://finance.yahoo.com/quote/MMT)|Aberdeen Multimarket Income Fund|4.30|4.38|27 |
 |[NOA](https://finance.yahoo.com/quote/NOA)|North American Construction Group Ltd|14.49|14.51|27 (+5)|
-|[JQC](https://finance.yahoo.com/quote/JQC)|Nuveen Credit Strategies Income Closed Fund|4.84|4.77|27 (+1)|
+|[JQC](https://finance.yahoo.com/quote/JQC)|Nuveen Credit Strategies Income Closed Fund|4.84|4.77|27 |
 |[ASIX](https://finance.yahoo.com/quote/ASIX)|AdvanSix Inc.|18.01|20.14|27 (+2)|
 |[UGI](https://finance.yahoo.com/quote/UGI)|UGI Corporation|34.87|34.28|27 (-5)|
 |[EVR](https://finance.yahoo.com/quote/EVR)|Evercore Inc.|295.58|310.33|26 (-7)|
@@ -1874,7 +1874,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[TDS](https://finance.yahoo.com/quote/TDS)|Telephone and Data Systems  Inc.|36.49|36.00|15 (+3)|
 |[VYX](https://finance.yahoo.com/quote/VYX)|NCR Voyix Corporation|13.22|8.38|14 (-22)|
 |[TKC](https://finance.yahoo.com/quote/TKC)|Turkcell Iletisim Hizmetleri AS ADR|5.70|5.47|14 |
-|[SUPV](https://finance.yahoo.com/quote/SUPV)|Grupo Supervielle S.A. ADR|10.99|8.72|14 (-15)|
+|[SUPV](https://finance.yahoo.com/quote/SUPV)|Grupo Supervielle S.A. ADR|10.99|8.72|14 (-16)|
 |[SAR](https://finance.yahoo.com/quote/SAR)|Saratoga Investment Corp|21.42|19.49|14 (+2)|
 |[DXC](https://finance.yahoo.com/quote/DXC)|DXC Technology Company|13.23|11.09|14 (+2)|
 |[INGR](https://finance.yahoo.com/quote/INGR)|Ingredion Inc|122.54|102.93|14 |
@@ -1898,7 +1898,7 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[DEI](https://finance.yahoo.com/quote/DEI)|Douglas Emmett  Inc.|14.15|11.50|13 (-5)|
 |[RELX](https://finance.yahoo.com/quote/RELX)|Relx PLC ADR|49.35|35.75|13 |
 |[XFLT](https://finance.yahoo.com/quote/XFLT)|XAI Floating Rate Alternative Income Trust Closed End Fund|23.53|18.60|13 |
-|[SDHC](https://finance.yahoo.com/quote/SDHC)|Smith Douglas Homes Corp|20.10|14.05|13 (-14)|
+|[SDHC](https://finance.yahoo.com/quote/SDHC)|Smith Douglas Homes Corp|20.10|14.05|13 (-15)|
 |[RWT](https://finance.yahoo.com/quote/RWT)|Redwood Trust  Inc.|4.97|4.56|13 |
 |[KT](https://finance.yahoo.com/quote/KT)|KT Corporation ADR|20.75|18.53|13 (+1)|
 |[NCDL](https://finance.yahoo.com/quote/NCDL)|Nuveen Churchill Direct Lending Corp|14.05|12.53|13 |
@@ -2020,20 +2020,20 @@ Based on [William O'Neil's Relative Strength Rating](https://www.williamoneil.co
 |[SES](https://finance.yahoo.com/quote/SES)|SES AI Corporation|1.05|0.51|8 (+5)|
 |[EPAM](https://finance.yahoo.com/quote/EPAM)|EPAM Systems  Inc.|149.33|93.07|8 (-5)|
 |[PHR](https://finance.yahoo.com/quote/PHR)|Phreesia Inc|27.10|11.42|8 (+1)|
-|[BAK](https://finance.yahoo.com/quote/BAK)|Braskem SA ADR|3.12|2.33|8 (+2)|
 |[LII](https://finance.yahoo.com/quote/LII)|Lennox International Inc|596.72|435.73|8 |
 |[BARK](https://finance.yahoo.com/quote/BARK)|Bark Inc|17.60|9.16|8 (+1)|
 |[SITE](https://finance.yahoo.com/quote/SITE)|SiteOne Landscape Supply Inc|138.66|98.52|8 |
 |[TUYA](https://finance.yahoo.com/quote/TUYA)|Tuya Inc. ADR|2.32|1.76|8 (+2)|
 |[KVYO](https://finance.yahoo.com/quote/KVYO)|Klaviyo  Inc.|30.70|16.73|8 (+3)|
 |[COTY](https://finance.yahoo.com/quote/COTY)|Coty Inc|4.77|2.72|8 (-1)|
-|[PNR](https://finance.yahoo.com/quote/PNR)|Pentair PLC|102.97|69.90|7 |
+|[PNR](https://finance.yahoo.com/quote/PNR)|Pentair PLC|102.97|69.90|8 (+1)|
 |[ESRT](https://finance.yahoo.com/quote/ESRT)|Empire State Realty Trust  Inc.|7.09|4.88|7 |
 |[GOOS](https://finance.yahoo.com/quote/GOOS)|Canada Goose Holdings Inc.|11.34|8.57|7 |
 |[HDB](https://finance.yahoo.com/quote/HDB)|HDFC Bank Limited ADR|37.48|23.77|7 |
 |[TGLS](https://finance.yahoo.com/quote/TGLS)|Tecnoglass Holdings Inc|77.69|44.47|7 (-4)|
 |[ACM](https://finance.yahoo.com/quote/ACM)|AECOM|117.44|74.93|7 (-1)|
-|[CALX](https://finance.yahoo.com/quote/CALX)|Calix  Inc.|56.50|37.48|7 |
+|[CALX](https://finance.yahoo.com/quote/CALX)|Calix  Inc.|56.50|37.48|7 (+1)|
+|[BAK](https://finance.yahoo.com/quote/BAK)|Braskem S.A. ADR|3.15|2.29|7 |
 |[MIR](https://finance.yahoo.com/quote/MIR)|Mirion Technologies  Inc.|21.50|15.02|7 (-1)|
 |[AHT](https://finance.yahoo.com/quote/AHT)|Ashford Hospitality Trust Inc|6.30|3.24|7 (+1)|
 |[AMTD](https://finance.yahoo.com/quote/AMTD)|AMTD IDEA Group ADR|1.00|0.75|7 |
