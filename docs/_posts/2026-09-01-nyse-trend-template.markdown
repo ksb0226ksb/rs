@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "NYSE Minervini Trend Template 2026-09-01"
-date: 2026-09-01 01:05:18 +0000
+date: 2026-09-01 23:53:34 +0000
 categories: minervini
 ---
 Stocks that meet Mark Minervini's Trend Template criteria.
@@ -44,7 +44,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[HNGE](https://finance.yahoo.com/quote/HNGE)|Hinge Health  Inc.|92.56|95|92.85, 31.17|83, 58, 55|
 |[SCCO](https://finance.yahoo.com/quote/SCCO)|Southern Copper Corp|208.87|95|219.70, 89.82|186, 184, 174|
 |[MCS](https://finance.yahoo.com/quote/MCS)|Marcus Corp|28.43|95|31.03, 12.83|26, 20, 19|
-|[EAT](https://finance.yahoo.com/quote/EAT)|Brinker International Inc|228.50|94|253.94, 102.29|204, 166, 161|
+|[EAT](https://finance.yahoo.com/quote/EAT)|Brinker International Inc|228.50|95|253.94, 102.29|204, 166, 161|
 |[THC](https://finance.yahoo.com/quote/THC)|Tenet Healthcare Corp|265.91|94|280.77, 161.37|231, 209, 206|
 |[MATX](https://finance.yahoo.com/quote/MATX)|Matson Inc|224.81|94|224.81, 87.23|209, 184, 168|
 |[CIB](https://finance.yahoo.com/quote/CIB)|Grupo Cibest SA ADR|96.12|94|103.26, 47.14|88, 76, 73|
@@ -75,7 +75,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[CLDT](https://finance.yahoo.com/quote/CLDT)|Chatham Lodging Trust|13.03|92|13.79, 6.03|13, 10, 9|
 |[TBBB](https://finance.yahoo.com/quote/TBBB)|BBB Foods Inc.|48.57|92|50.91, 24.12|43, 38, 37|
 |[CVE](https://finance.yahoo.com/quote/CVE)|Cenovus Energy Incorporation|32.15|92|32.93, 14.69|28, 26, 24|
-|[EQNR](https://finance.yahoo.com/quote/EQNR)|Equinor ASA ADR|42.80|91|42.86, 21.68|37, 35, 32|
+|[EQNR](https://finance.yahoo.com/quote/EQNR)|Equinor ASA ADR|42.80|92|42.86, 21.68|37, 35, 32|
 |[TBN](https://finance.yahoo.com/quote/TBN)|Tamboran Resources Corp|37.88|91|49.99, 20.00|34, 33, 31|
 |[UVE](https://finance.yahoo.com/quote/UVE)|Universal Insurance Holdings Inc|42.98|91|45.08, 23.39|41, 37, 35|
 |[DAR](https://finance.yahoo.com/quote/DAR)|Darling Ingredients Inc.|66.27|91|68.34, 29.91|60, 58, 52|
@@ -86,7 +86,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[MG](https://finance.yahoo.com/quote/MG)|Mistras Group Inc|18.76|91|19.51, 9.09|17, 16, 15|
 |[SHG](https://finance.yahoo.com/quote/SHG)|Shinhan Financial Group Co.  Ltd. ADR|79.17|91|79.17, 46.81|71, 67, 63|
 |[FCX](https://finance.yahoo.com/quote/FCX)|Freeport-McMoRan Inc|75.74|91|79.91, 34.96|65, 63, 60|
-|[TDW](https://finance.yahoo.com/quote/TDW)|Tidewater Inc.|93.12|90|96.49, 47.29|79, 78, 72|
+|[TDW](https://finance.yahoo.com/quote/TDW)|Tidewater Inc.|93.12|91|96.49, 47.29|79, 78, 72|
 |[VIRT](https://finance.yahoo.com/quote/VIRT)|Virtu Financial Inc|65.64|90|67.93, 31.82|60, 51, 46|
 |[AMN](https://finance.yahoo.com/quote/AMN)|AMN Healthcare Services  Inc.|34.28|90|36.60, 15.10|33, 26, 23|
 |[LTH](https://finance.yahoo.com/quote/LTH)|Life Time Group Holdings  Inc.|42.02|90|45.73, 24.59|42, 33, 32|
@@ -100,7 +100,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[PR](https://finance.yahoo.com/quote/PR)|Permian Resources Corporation|23.29|89|23.87, 11.76|20, 19, 18|
 |[CON](https://finance.yahoo.com/quote/CON)|Concentra Group Holdings Parent Inc|33.74|89|35.47, 18.52|32, 26, 24|
 |[DAC](https://finance.yahoo.com/quote/DAC)|Danaos Corporation|151.48|89|152.58, 82.21|135, 122, 115|
-|[AMG](https://finance.yahoo.com/quote/AMG)|Affiliated Managers Group  Inc.|368.19|88|383.41, 216.82|360, 321, 312|
+|[AMG](https://finance.yahoo.com/quote/AMG)|Affiliated Managers Group  Inc.|368.19|89|383.41, 216.82|360, 321, 312|
 |[EC](https://finance.yahoo.com/quote/EC)|Ecopetrol SA ADR|16.67|88|17.89, 8.20|16, 14, 13|
 |[CBNA](https://finance.yahoo.com/quote/CBNA)|Chain Bridge Bancorp Inc|45.84|88|48.50, 27.00|43, 38, 37|
 |[KB](https://finance.yahoo.com/quote/KB)|KB Financial Group Inc. ADR|124.79|88|124.79, 77.50|116, 108, 103|
@@ -114,7 +114,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[TX](https://finance.yahoo.com/quote/TX)|Ternium SA ADR|54.82|87|55.83, 31.01|48, 44, 42|
 |[ATKR](https://finance.yahoo.com/quote/ATKR)|Atkore Inc.|93.69|87|93.69, 54.86|81, 73, 71|
 |[EXPD](https://finance.yahoo.com/quote/EXPD)|Expeditors International of Washington Inc|189.65|87|190.97, 111.96|176, 159, 157|
-|[JXN](https://finance.yahoo.com/quote/JXN)|Jackson Financial Inc.|133.43|86|135.32, 88.37|122, 113, 110|
+|[JXN](https://finance.yahoo.com/quote/JXN)|Jackson Financial Inc.|133.43|87|135.32, 88.37|122, 113, 110|
 |[GNK](https://finance.yahoo.com/quote/GNK)|Genco Shipping & Trading Limited|26.23|86|27.32, 14.42|24, 23, 21|
 |[PEB](https://finance.yahoo.com/quote/PEB)|Pebblebrook Hotel Trust|18.12|86|19.75, 9.97|18, 15, 14|
 |[BHP](https://finance.yahoo.com/quote/BHP)|BHP Group Ltd ADR|93.92|86|98.69, 51.13|86, 80, 75|
@@ -145,7 +145,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[TPC](https://finance.yahoo.com/quote/TPC)|Tutor Perini Corporation|88.52|84|99.01, 55.80|85, 81, 77|
 |[DGX](https://finance.yahoo.com/quote/DGX)|Quest Diagnostics Inc|240.30|84|245.00, 171.25|224, 205, 198|
 |[WELL](https://finance.yahoo.com/quote/WELL)|Welltower Inc.|236.24|84|251.12, 161.20|234, 214, 208|
-|[BNY](https://finance.yahoo.com/quote/BNY)|Bank of New York Mellon Corp|161.28|83|164.27, 99.35|155, 136, 131|
+|[BNY](https://finance.yahoo.com/quote/BNY)|Bank of New York Mellon Corp|161.28|84|164.27, 99.35|155, 136, 131|
 |[ASH](https://finance.yahoo.com/quote/ASH)|Ashland Inc.|73.33|83|76.45, 46.46|69, 61, 60|
 |[BZH](https://finance.yahoo.com/quote/BZH)|Beazer Homes USA  Inc.|33.18|83|34.07, 18.03|31, 26, 25|
 |[LXP](https://finance.yahoo.com/quote/LXP)|LXP Industrial Trust|60.71|83|61.15, 40.48|58, 52, 50|
@@ -171,7 +171,7 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[PRLB](https://finance.yahoo.com/quote/PRLB)|Proto Labs  Inc.|80.06|81|92.32, 46.81|80, 69, 65|
 |[COP](https://finance.yahoo.com/quote/COP)|ConocoPhillips|132.49|81|134.89, 83.04|117, 116, 110|
 |[LNG](https://finance.yahoo.com/quote/LNG)|Cheniere Energy  Inc.|291.69|81|295.58, 187.49|260, 250, 237|
-|[PBI](https://finance.yahoo.com/quote/PBI)|Pitney Bowes Inc.|17.13|80|18.40, 8.84|17, 14, 13|
+|[PBI](https://finance.yahoo.com/quote/PBI)|Pitney Bowes Inc.|17.13|81|18.40, 8.84|17, 14, 13|
 |[WAB](https://finance.yahoo.com/quote/WAB)|Westinghouse Air Brake Technologies Corp|285.93|80|305.47, 184.79|282, 264, 252|
 |[LH](https://finance.yahoo.com/quote/LH)|Labcorp Holdings Inc.|332.66|80|338.61, 244.17|300, 277, 272|
 |[PEO](https://finance.yahoo.com/quote/PEO)|Adams Natural Resources Fund，Inc.|28.78|80|28.78, 19.19|26, 25, 24|
@@ -232,10 +232,11 @@ Only showing stocks that pass all 8 criteria. Filtered stocks are not shown.
 |[ALX](https://finance.yahoo.com/quote/ALX)|Alexander's Inc|271.66|71|281.45, 194.31|269, 247, 237|
 |[EMO](https://finance.yahoo.com/quote/EMO)|ClearBridge Energy Midstream Opportunity Closed End Fund|54.78|71|55.24, 38.88|51, 49, 47|
 |[OFG](https://finance.yahoo.com/quote/OFG)|OFG Bancorp|52.05|71|53.95, 36.56|51, 45, 44|
-|[RAMP](https://finance.yahoo.com/quote/RAMP)|Liveramp Holdings Inc|37.72|70|38.01, 22.42|37, 32, 31|
+|[RAMP](https://finance.yahoo.com/quote/RAMP)|Liveramp Holdings Inc|37.72|71|38.01, 22.42|37, 32, 31|
 |[FHI](https://finance.yahoo.com/quote/FHI)|Federated Hermes Inc|63.65|70|65.39, 46.07|60, 56, 55|
 |[OMC](https://finance.yahoo.com/quote/OMC)|Omnicom Group Inc|87.53|70|88.94, 65.90|81, 77, 76|
 |[KOF](https://finance.yahoo.com/quote/KOF)|Coca-Cola Femsa SAB de CV ADR|111.16|70|116.90, 79.01|107, 104, 101|
+|[CVEO](https://finance.yahoo.com/quote/CVEO)|Civeo Corp|33.43|70|35.56, 19.89|33, 31, 29|
 
 ## Minervini Trend Template Criteria
 
